@@ -1,3 +1,4 @@
+// Force rebuild - v2
 import { NextResponse } from 'next/server';
 import { readFileSync } from 'fs';
 import { join } from 'path';
