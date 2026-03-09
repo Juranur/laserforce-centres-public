@@ -1,15 +1,73 @@
-// Force rebuild - v2
 import { NextResponse } from 'next/server';
-import { readFileSync } from 'fs';
-import { join } from 'path';
+
+const data = {
+  "lastUpdated": "2026-03-09T22:33:27.858Z",
+  "totalCentres": 338,
+  "centresWithData": 297,
+  "centres": [
+    {"id": "2", "regionSite": "1-1", "name": "Laserforce Brisbane, QLD, AU", "gamesTotal": 205773},
+    {"id": "58", "regionSite": "4-6", "name": "Revolution Laser Tag & Arcade, MI, USA", "gamesTotal": 116517},
+    {"id": "349", "regionSite": "20-7", "name": "Ricany Lasergame, Ricany, CZ", "gamesTotal": 114664},
+    {"id": "53", "regionSite": "3-3", "name": "Laserforce Auckland", "gamesTotal": 100839},
+    {"id": "70", "regionSite": "4-19", "name": "Loveland Laser Tag Fun Center", "gamesTotal": 89713},
+    {"id": "23", "regionSite": "1-26", "name": "LaserforcePK, Port Kennedy, WA, AU", "gamesTotal": 85254},
+    {"id": "372", "regionSite": "20-9", "name": "Aurora Lasergames, Kladno, CZ", "gamesTotal": 81863},
+    {"id": "243", "regionSite": "21-76", "name": "Laserzone Essen Ost GmbH", "gamesTotal": 79002},
+    {"id": "212", "regionSite": "21-54", "name": "Laserzone Kiel, Kiel, DE", "gamesTotal": 78131},
+    {"id": "43", "regionSite": "1-49", "name": "Lazer Blaze Malaga, WA, AU", "gamesTotal": 75210},
+    {"id": "7", "regionSite": "1-4", "name": "Sidetracked, Oakleigh", "gamesTotal": 71148},
+    {"id": "87", "regionSite": "4-43", "name": "Invasion Laser Tag, San Marcos, CA, US", "gamesTotal": 67626},
+    {"id": "230", "regionSite": "21-70", "name": "Lasertag Deutschland 1, Darmstadt, Germany", "gamesTotal": 62709},
+    {"id": "44", "regionSite": "1-50", "name": "Lazer Blaze Willetton, WA, AU", "gamesTotal": 60363},
+    {"id": "219", "regionSite": "21-60", "name": "Laserzone Bielefeld, Bielefeld, DE", "gamesTotal": 59928},
+    {"id": "279", "regionSite": "21-63", "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE", "gamesTotal": 57631},
+    {"id": "186", "regionSite": "21-37", "name": "Call of Fun, Friedrichshafen, Germany", "gamesTotal": 52733},
+    {"id": "139", "regionSite": "21-7", "name": "Laserzone Frankfurt, Frankfurt, Germany", "gamesTotal": 48270},
+    {"id": "335", "regionSite": "20-6", "name": "STAR DOMS, Domazlice, CZ", "gamesTotal": 45920},
+    {"id": "246", "regionSite": "21-79", "name": "Laserzone Garching, Garching, DE", "gamesTotal": 44335},
+    {"id": "164", "regionSite": "21-25", "name": "Laserzone, Wuerselen, DE", "gamesTotal": 44248},
+    {"id": "128", "regionSite": "20-1", "name": "Laser Game Plzen, CZ", "gamesTotal": 42474},
+    {"id": "56", "regionSite": "4-2", "name": "Laser Mania, St George, UT, USA", "gamesTotal": 41617},
+    {"id": "292", "regionSite": "20-3", "name": "Mercuria Branik 1, Prague, CZ", "gamesTotal": 38178},
+    {"id": "358", "regionSite": "20-8", "name": "Fantasy Lasergame, Karlovy Vary, CZ", "gamesTotal": 37244},
+    {"id": "143", "regionSite": "21-11", "name": "Laserzone Dusseldorf, Dusseldorf, Germany", "gamesTotal": 37049},
+    {"id": "153", "regionSite": "1-58", "name": "Revolution Laser Arena, Wollongong, NSW, AU", "gamesTotal": 37003},
+    {"id": "337", "regionSite": "21-101", "name": "Laserzone Monchengladbach, Monchengladbach, DE", "gamesTotal": 34728},
+    {"id": "192", "regionSite": "21-41", "name": "Fun Sport Area GmbH, Troisdorf, DE", "gamesTotal": 34477},
+    {"id": "168", "regionSite": "21-29", "name": "Laserzone Essen2, Essen, DE", "gamesTotal": 34073},
+    {"id": "227", "regionSite": "7-8", "name": "LaserZone, Huddersfield, UK", "gamesTotal": 33434},
+    {"id": "352", "regionSite": "21-109", "name": "Laserland Bautzen, Bautzen, DE", "gamesTotal": 32061},
+    {"id": "296", "regionSite": "7-10", "name": "LaserZone, Bradford, UK", "gamesTotal": 32031},
+    {"id": "152", "regionSite": "21-16", "name": "Laserabyss, Altenkirchen, DE", "gamesTotal": 31017},
+    {"id": "177", "regionSite": "21-33", "name": "Laser Circus, Regensburg, DE", "gamesTotal": 29868},
+    {"id": "174", "regionSite": "21-30", "name": "Legendary Lasertag, Giessen, DE", "gamesTotal": 29737},
+    {"id": "215", "regionSite": "21-55", "name": "Laser Tag Delmenhorst, DE", "gamesTotal": 28183},
+    {"id": "159", "regionSite": "21-22", "name": "3D Lasersports 2.0, Frechen, Gemany", "gamesTotal": 27861},
+    {"id": "165", "regionSite": "21-26", "name": "Laserforce Gruenstadt", "gamesTotal": 25451},
+    {"id": "209", "regionSite": "21-51", "name": "First Lasertag, Kornwestheim, DE", "gamesTotal": 25443},
+    {"id": "8", "regionSite": "1-5", "name": "Laserforce Ballarat", "gamesTotal": 24666},
+    {"id": "339", "regionSite": "21-103", "name": "Laserzone Duisburg, Duisburg, DE", "gamesTotal": 23854},
+    {"id": "361", "regionSite": "21-111", "name": "Paraplex Games GmbH, Zell Am Main, DE", "gamesTotal": 21929},
+    {"id": "15", "regionSite": "1-18", "name": "Funzone, Rockhampton", "gamesTotal": 20808},
+    {"id": "142", "regionSite": "21-10", "name": "Black Fox Lasertag, Rosenheim, Germany", "gamesTotal": 18856},
+    {"id": "330", "regionSite": "21-98", "name": "Laserzone Mainz, Mainz, DE", "gamesTotal": 18756},
+    {"id": "12", "regionSite": "1-15", "name": "Laserpunk Laserforce", "gamesTotal": 18566},
+    {"id": "210", "regionSite": "21-52", "name": "District 44 GmbH, Grundau-Lieblos, DE", "gamesTotal": 17773},
+    {"id": "175", "regionSite": "21-31", "name": "Laser Tag Arena, Osnabrueck, Germany", "gamesTotal": 17276},
+    {"id": "178", "regionSite": "21-34", "name": "Lasertag Fun Center, Hannover, DE", "gamesTotal": 16276},
+    {"id": "393", "regionSite": "20-13", "name": "Ricany Lasergame 2, Ricany, CZ", "gamesTotal": 15769},
+    {"id": "59", "regionSite": "4-7", "name": "Laser Zone, Sugarland", "gamesTotal": 15585},
+    {"id": "269", "regionSite": "19-3", "name": "Actionworld AG, Obfelden, CHE", "gamesTotal": 15469},
+    {"id": "188", "regionSite": "21-39", "name": "Laser Universe, Schwentinental, DE", "gamesTotal": 15466},
+    {"id": "140", "regionSite": "21-8", "name": "PowerLaser, Stuttgart, Germany", "gamesTotal": 15204},
+    {"id": "263", "regionSite": "21-86", "name": "Lasertag Bonn, Bonn, DE", "gamesTotal": 14823},
+    {"id": "111", "regionSite": "9-4", "name": "Syktyvkar, Russia", "gamesTotal": 14534},
+    {"id": "194", "regionSite": "21-43", "name": "Lola Lasertag GmbH, Hameln, DE", "gamesTotal": 13991}
+  ]
+};
 
 export async function GET() {
-  try {
-    const filePath = join(process.cwd(), 'data', 'centres.json');
-    const fileContents = readFileSync(filePath, 'utf8');
-    const data = JSON.parse(fileContents);
-    return NextResponse.json(data);
-  } catch (error) {
-    return NextResponse.json({ error: 'Failed to load data' }, { status: 500 });
-  }
+  return NextResponse.json(data, {
+    headers: { 'Cache-Control': 'no-store, no-cache, must-revalidate' }
+  });
 }
