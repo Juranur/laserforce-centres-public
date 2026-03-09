@@ -1,6 +1,14 @@
 import { NextResponse } from 'next/server';
-import centresData from '@/../../data/centres.json';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 export async function GET() {
-  return NextResponse.json(centresData);
+  try {
+    const filePath = join(process.cwd(), 'data', 'centres.json');
+    const fileContents = readFileSync(filePath, 'utf8');
+    const data = JSON.parse(fileContents);
+    return NextResponse.json(data);
+  } catch (error) {
+    return NextResponse.json({ error: 'Failed to load data' }, { status: 500 });
+  }
 }
