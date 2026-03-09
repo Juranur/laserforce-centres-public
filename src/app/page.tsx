@@ -1,17 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from '@/components/ui/table'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
-import { Input } from '@/components/ui/input'
-import { Skeleton } from '@/components/ui/skeleton'
+import { useEffect, useState } from 'react'
 
 interface Centre {
   id: string
@@ -20,109 +9,100 @@ interface Centre {
   gamesTotal: number
 }
 
+interface CentresData {
+  lastUpdated: string
+  totalCentres: number
+  centresWithData: number
+  centres: Centre[]
+}
+
 export default function Home() {
-  const [centres, setCentres] = useState<Centre[]>([])
+  const [data, setData] = useState<CentresData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
-  const [searchTerm, setSearchTerm] = useState('')
 
   useEffect(() => {
-    async function fetchCentres() {
-      try {
-        const response = await fetch('/api/centres')
-
-        if (!response.ok) {
-          throw new Error('Failed to fetch data')
-        }
-
-        const data = await response.json()
-        setCentres(data.centres)
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'An error occurred')
-      } finally {
+    fetch('/api/centres')
+      .then(res => res.json())
+      .then(data => {
+        setData(data)
         setLoading(false)
-      }
-    }
-
-    fetchCentres()
+      })
+      .catch(err => {
+        setError('Failed to load data')
+        setLoading(false)
+      })
   }, [])
 
-  const filteredCentres = centres.filter(centre =>
-    centre.name.toLowerCase().includes(searchTerm.toLowerCase())
-  )
-
-  const formatNumber = (num: number) => {
-    return num.toLocaleString()
+  if (loading) {
+    return (
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        minHeight: '100vh',
+        fontFamily: 'system-ui, sans-serif'
+      }}>
+        <p>Loading centre data...</p>
+      </div>
+    )
   }
 
-  return (
-    <div className="min-h-screen bg-background p-8">
-      <div className="max-w-5xl mx-auto">
-        <Card>
-          <CardHeader>
-            <CardTitle>All Centres</CardTitle>
-            <CardDescription>
-              List of all Laserforce centres worldwide ({centres.length} total)
-            </CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div className="mb-4">
-              <Input
-                type="text"
-                placeholder="Search centres..."
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                className="max-w-sm"
-              />
-            </div>
+  if (error) {
+    return (
+      <div style={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        minHeight: '100vh',
+        fontFamily: 'system-ui, sans-serif',
+        color: 'red'
+      }}>
+        <p>{error}</p>
+      </div>
+    )
+  }
 
-            {loading ? (
-              <div className="space-y-4">
-                {[...Array(10)].map((_, i) => (
-                  <div key={i} className="flex items-center space-x-4">
-                    <Skeleton className="h-8 w-16" />
-                    <Skeleton className="h-8 flex-1" />
-                    <Skeleton className="h-8 w-24" />
-                  </div>
-                ))}
-              </div>
-            ) : error ? (
-              <div className="text-center py-8 text-destructive">
-                <p>{error}</p>
-              </div>
-            ) : (
-              <div className="border rounded-lg">
-                <Table>
-                  <TableHeader>
-                    <TableRow>
-                      <TableHead className="w-20">ID</TableHead>
-                      <TableHead>Centre Name</TableHead>
-                      <TableHead className="w-32 text-right">Games Total</TableHead>
-                    </TableRow>
-                  </TableHeader>
-                  <TableBody>
-                    {filteredCentres.map((centre) => (
-                      <TableRow key={centre.id}>
-                        <TableCell className="font-medium">{centre.id}</TableCell>
-                        <TableCell>{centre.name}</TableCell>
-                        <TableCell className="text-right font-medium">
-                          {formatNumber(centre.gamesTotal)}
-                        </TableCell>
-                      </TableRow>
-                    ))}
-                    {filteredCentres.length === 0 && (
-                      <TableRow>
-                        <TableCell colSpan={3} className="text-center py-8 text-muted-foreground">
-                          No centres found
-                        </TableCell>
-                      </TableRow>
-                    )}
-                  </TableBody>
-                </Table>
-              </div>
-            )}
-          </CardContent>
-        </Card>
+  const sortedCentres = [...(data?.centres || [])].sort((a, b) => b.gamesTotal - a.gamesTotal)
+
+  return (
+    <div style={{
+      padding: '2rem',
+      fontFamily: 'system-ui, sans-serif',
+      maxWidth: '1200px',
+      margin: '0 auto'
+    }}>
+      <h1 style={{ marginBottom: '0.5rem' }}>Laserforce Centres Rankings</h1>
+      <p style={{ color: '#666', marginBottom: '1.5rem' }}>
+        Total Centres: {data?.totalCentres} | Centres with Data: {data?.centresWithData} | 
+        Last Updated: {data?.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : 'N/A'}
+      </p>
+      
+      <div style={{ overflowX: 'auto' }}>
+        <table style={{
+          width: '100%',
+          borderCollapse: 'collapse',
+          fontSize: '14px'
+        }}>
+          <thead>
+            <tr style={{ backgroundColor: '#f4f4f4' }}>
+              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd' }}>Rank</th>
+              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd' }}>Centre Name</th>
+              <th style={{ padding: '12px', textAlign: 'right', borderBottom: '2px solid #ddd' }}>Games Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            {sortedCentres.map((centre, index) => (
+              <tr key={centre.id} style={{ backgroundColor: index % 2 === 0 ? '#fff' : '#f9f9f9' }}>
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{index + 1}</td>
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td>
+                <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
+                  {centre.gamesTotal.toLocaleString()}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     </div>
   )
