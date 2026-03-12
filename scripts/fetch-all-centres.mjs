@@ -1,6 +1,8 @@
 /**
  * Fetch script for Laserforce centres
- * Runs in GitHub Actions to update data every 24 hours
+ * Pure JavaScript - runs in GitHub Actions to update data every 24 hours
+ * 
+ * Run manually: node scripts/fetch-all-centres.mjs
  */
 
 import * as fs from 'fs';
@@ -41,10 +43,6 @@ async function fetchCentreList() {
     body: formData.toString(),
   });
 
-  if (!response.ok) {
-    throw new Error(`Failed to fetch centres: ${response.status}`);
-  }
-
   const data = await response.json();
   log(`Found ${data.centres.length} centres`);
   return data.centres;
@@ -76,7 +74,6 @@ async function fetchGamesTotal(centreId) {
       (sum, player) => sum + (player['3'] || 0),
       0
     );
-
     return gamesTotal;
   } catch {
     return 0;
@@ -107,7 +104,6 @@ async function fetchWithRetry(centreIds, delay, progressLabel) {
 
 async function main() {
   log('=== Starting Laserforce Data Fetch ===');
-  log(`Configuration: MAX_RETRIES=${MAX_RETRIES}, INITIAL_DELAY=${INITIAL_DELAY}ms`);
   
   const centreList = await fetchCentreList();
   const centreIds = centreList.map(c => c.centreId);
@@ -125,20 +121,19 @@ async function main() {
   
   let zerosCount = Array.from(results.values()).filter(v => v === 0).length;
   let successCount = results.size - zerosCount;
-  log(`Initial fetch complete: ${successCount}/${results.size} centres with data (${zerosCount} zeros)`);
+  log(`Initial fetch complete: ${successCount}/${results.size} centres with data`);
   
   // Retry loop
   for (let retryRound = 1; retryRound <= MAX_RETRIES; retryRound++) {
     centresToFetch = centreIds.filter(id => (results.get(id) || 0) === 0);
     
     if (centresToFetch.length === 0) {
-      log('\n🎉 All centres have data! No more retries needed.');
+      log('\n🎉 All centres have data!');
       break;
     }
     
     log(`\n=== Retry Round ${retryRound}/${MAX_RETRIES} ===`);
-    log(`Found ${centresToFetch.length} centres with zero data`);
-    log(`Waiting ${RETRY_PAUSE / 1000} seconds before retry...`);
+    log(`Waiting ${RETRY_PAUSE / 1000} seconds...`);
     await sleep(RETRY_PAUSE);
     
     const retryResults = await fetchWithRetry(centresToFetch, RETRY_DELAY, `Retry ${retryRound}`);
@@ -153,7 +148,7 @@ async function main() {
     
     zerosCount = Array.from(results.values()).filter(v => v === 0).length;
     successCount = results.size - zerosCount;
-    log(`Retry ${retryRound} complete: Improved ${improved}, now ${successCount}/${results.size} with data`);
+    log(`Retry ${retryRound} complete: now ${successCount}/${results.size} with data`);
   }
   
   // Build final output
@@ -185,7 +180,6 @@ async function main() {
   log(`Total centres: ${output.totalCentres}`);
   log(`Centres with data: ${output.centresWithData}`);
   log(`Success rate: ${((output.centresWithData / output.totalCentres) * 100).toFixed(1)}%`);
-  log(`\nData saved to: ${outputPath}`);
 }
 
 main().catch(err => {
