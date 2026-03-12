@@ -8,29 +8,42 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      - name: Run fetch script
-        run: node scripts/fetch-all-centres.mjs
+      - name: Run fetch script with timeout
+        id: fetch
+        run: |
+          timeout 50m node scripts/fetch-all-centres.mjs || echo "Fetch timed out or had errors"
+        continue-on-error: true
+
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
       - name: Check for changes
         id: check-changes
         run: |
-          if git diff --exit-code data/centres.json; then
+          git add data/centres.json
+          if git diff --staged --exit-code; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -39,12 +52,9 @@ jobs:
       - name: Commit and push changes
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data/centres.json
           git commit -m "Update centre data - $(date '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
 
       - name: No changes detected
         if: steps.check-changes.outputs.has_changes != 'true'
-        run: echo "No changes to commit"
+        run: echo "No changes to commit - data is already up to date"
