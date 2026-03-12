@@ -41,12 +41,19 @@ export default function Home() {
 
   const handleSort = (field: SortField) => {
     if (sortField === field) {
-      // Toggle direction if same field
       setSortDirection(sortDirection === 'asc' ? 'desc' : 'asc')
     } else {
-      // New field, set to desc by default (or asc for name)
       setSortField(field)
       setSortDirection(field === 'name' || field === 'regionSite' ? 'asc' : 'desc')
+    }
+  }
+
+  // Parse regionSite (e.g., "21-76" -> { region: 21, site: 76 })
+  const parseRegionSite = (regionSite: string) => {
+    const parts = regionSite.split('-')
+    return {
+      region: parseInt(parts[0]) || 0,
+      site: parseInt(parts[1]) || 0
     }
   }
 
@@ -60,9 +67,17 @@ export default function Home() {
         case 'id':
           comparison = parseInt(a.id) - parseInt(b.id)
           break
-        case 'regionSite':
-          comparison = a.regionSite.localeCompare(b.regionSite)
+        case 'regionSite': {
+          const aParsed = parseRegionSite(a.regionSite)
+          const bParsed = parseRegionSite(b.regionSite)
+          // Sort by region first numerically, then by site numerically
+          if (aParsed.region !== bParsed.region) {
+            comparison = aParsed.region - bParsed.region
+          } else {
+            comparison = aParsed.site - bParsed.site
+          }
           break
+        }
         case 'name':
           comparison = a.name.localeCompare(b.name)
           break
@@ -216,15 +231,4 @@ export default function Home() {
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{index + 1}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.id}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.regionSite}</td>
-                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td>
-                <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
-                  {centre.gamesTotal.toLocaleString()}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    </div>
-  )
-}
+                <td style
