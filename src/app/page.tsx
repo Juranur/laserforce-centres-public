@@ -231,4 +231,15 @@ export default function Home() {
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{index + 1}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.id}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.regionSite}</td>
-                <td style
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td>
+                <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
+                  {centre.gamesTotal.toLocaleString()}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )
+}
