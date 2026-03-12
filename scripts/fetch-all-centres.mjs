@@ -1,8 +1,5 @@
 /**
- * Fetch script for Laserforce centres
- * Pure JavaScript - runs in GitHub Actions to update data every 24 hours
- * 
- * Run manually: node scripts/fetch-all-centres.mjs
+ * Fetch script for Laserforce centres - Optimized for GitHub Actions
  */
 
 import * as fs from 'fs';
@@ -12,11 +9,10 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Configuration
-const INITIAL_DELAY = 4000;
-const RETRY_DELAY = 6000;
-const RETRY_PAUSE = 90000;
-const MAX_RETRIES = 5;
+const INITIAL_DELAY = 3000;
+const RETRY_DELAY = 4000;
+const RETRY_PAUSE = 60000;
+const MAX_RETRIES = 3;
 
 const CENTRES_API = 'https://v2.iplaylaserforce.com/globalScoringDropdownInfo.php';
 const SCORING_API = 'https://v2.iplaylaserforce.com/globalScoring.php';
@@ -26,13 +22,11 @@ function sleep(ms) {
 }
 
 function log(message) {
-  const timestamp = new Date().toISOString();
-  console.log(`[${timestamp}] ${message}`);
+  console.log(`[${new Date().toISOString()}] ${message}`);
 }
 
 async function fetchCentreList() {
   log('Fetching centre list...');
-  
   const formData = new URLSearchParams();
   formData.append('regionId', '9999');
   formData.append('siteId', '9999');
@@ -68,121 +62,112 @@ async function fetchGamesTotal(centreId) {
     });
 
     if (!response.ok) return 0;
-
     const data = await response.json();
-    const gamesTotal = (data.top100 || []).reduce(
-      (sum, player) => sum + (player['3'] || 0),
-      0
-    );
-    return gamesTotal;
+    return (data.top100 || []).reduce((sum, p) => sum + (p['3'] || 0), 0);
   } catch {
     return 0;
   }
 }
 
-async function fetchWithRetry(centreIds, delay, progressLabel) {
-  const results = new Map();
-  let completed = 0;
-
-  for (const centreId of centreIds) {
-    const gamesTotal = await fetchGamesTotal(centreId);
-    results.set(centreId, gamesTotal);
-    
-    completed++;
-    if (completed % 10 === 0 || completed === centreIds.length) {
-      const zeros = Array.from(results.values()).filter(v => v === 0).length;
-      log(`${progressLabel}: ${completed}/${centreIds.length} (${zeros} zeros so far)`);
-    }
-
-    if (completed < centreIds.length) {
-      await sleep(delay);
-    }
-  }
-
-  return results;
-}
-
 async function main() {
+  const startTime = Date.now();
   log('=== Starting Laserforce Data Fetch ===');
   
   const centreList = await fetchCentreList();
   const centreIds = centreList.map(c => c.centreId);
-  
   const results = new Map();
-  let centresToFetch = [...centreIds];
+
+  const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   
-  // Initial fetch
-  log('\n=== Initial Fetch ===');
-  const initialResults = await fetchWithRetry(centresToFetch, INITIAL_DELAY, 'Initial');
-  
-  for (const [id, total] of initialResults) {
-    results.set(id, total);
-  }
-  
-  let zerosCount = Array.from(results.values()).filter(v => v === 0).length;
-  let successCount = results.size - zerosCount;
-  log(`Initial fetch complete: ${successCount}/${results.size} centres with data`);
-  
-  // Retry loop
-  for (let retryRound = 1; retryRound <= MAX_RETRIES; retryRound++) {
-    centresToFetch = centreIds.filter(id => (results.get(id) || 0) === 0);
-    
-    if (centresToFetch.length === 0) {
-      log('\n🎉 All centres have data!');
-      break;
-    }
-    
-    log(`\n=== Retry Round ${retryRound}/${MAX_RETRIES} ===`);
-    log(`Waiting ${RETRY_PAUSE / 1000} seconds...`);
-    await sleep(RETRY_PAUSE);
-    
-    const retryResults = await fetchWithRetry(centresToFetch, RETRY_DELAY, `Retry ${retryRound}`);
-    
-    let improved = 0;
-    for (const [id, total] of retryResults) {
-      if (total > 0 && (results.get(id) || 0) === 0) {
-        results.set(id, total);
-        improved++;
+  // Load existing data for resume
+  if (fs.existsSync(outputPath)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
+      if (existing.centres) {
+        for (const c of existing.centres) {
+          results.set(c.id, c.gamesTotal);
+        }
+        log(`Loaded ${results.size} existing results`);
       }
+    } catch {}
+  }
+
+  // Fetch centres with zero or no data
+  let toFetch = centreIds.filter(id => !results.has(id) || results.get(id) === 0);
+  log(`Centres to fetch: ${toFetch.length}`);
+
+  let completed = 0;
+  for (const centreId of toFetch) {
+    const total = await fetchGamesTotal(centreId);
+    results.set(centreId, total);
+    completed++;
+
+    if (completed % 20 === 0 || completed === toFetch.length) {
+      log(`Progress: ${completed}/${toFetch.length}`);
+      
+      // Save progress every 20 centres
+      const centres = centreList.map(c => ({
+        id: c.centreId,
+        regionSite: c.regionSite,
+        name: c.centre,
+        gamesTotal: results.get(c.centreId) || 0,
+      }));
+      
+      const output = {
+        lastUpdated: new Date().toISOString(),
+        totalCentres: centres.length,
+        centresWithData: centres.filter(c => c.gamesTotal > 0).length,
+        centres,
+      };
+      
+      const dataDir = path.join(__dirname, '..', 'data');
+      if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+      fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
     }
+
+    if (completed < toFetch.length) {
+      await sleep(INITIAL_DELAY);
+    }
+  }
+
+  // Retry zeros
+  for (let round = 1; round <= MAX_RETRIES; round++) {
+    toFetch = centreIds.filter(id => results.get(id) === 0);
+    if (toFetch.length === 0) break;
+
+    log(`Retry round ${round}: ${toFetch.length} zeros`);
+    await sleep(RETRY_PAUSE);
+
+    for (const centreId of toFetch) {
+      const total = await fetchGamesTotal(centreId);
+      if (total > 0) results.set(centreId, total);
+      await sleep(RETRY_DELAY);
+    }
+
+    // Save after retry
+    const centres = centreList.map(c => ({
+      id: c.centreId,
+      regionSite: c.regionSite,
+      name: c.centre,
+      gamesTotal: results.get(c.centreId) || 0,
+    }));
     
-    zerosCount = Array.from(results.values()).filter(v => v === 0).length;
-    successCount = results.size - zerosCount;
-    log(`Retry ${retryRound} complete: now ${successCount}/${results.size} with data`);
+    const output = {
+      lastUpdated: new Date().toISOString(),
+      totalCentres: centres.length,
+      centresWithData: centres.filter(c => c.gamesTotal > 0).length,
+      centres,
+    };
+    fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
   }
-  
-  // Build final output
-  const centres = centreList.map(c => ({
-    id: c.centreId,
-    regionSite: c.regionSite,
-    name: c.centre,
-    gamesTotal: results.get(c.centreId) || 0,
-  }));
-  
-  const output = {
-    lastUpdated: new Date().toISOString(),
-    totalCentres: centres.length,
-    centresWithData: centres.filter(c => c.gamesTotal > 0).length,
-    centres,
-  };
-  
-  // Save to file
-  const dataDir = path.join(__dirname, '..', 'data');
-  const outputPath = path.join(dataDir, 'centres.json');
-  
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-  
-  fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
-  
-  log('\n=== Final Summary ===');
-  log(`Total centres: ${output.totalCentres}`);
-  log(`Centres with data: ${output.centresWithData}`);
-  log(`Success rate: ${((output.centresWithData / output.totalCentres) * 100).toFixed(1)}%`);
+
+  const elapsed = Math.round((Date.now() - startTime) / 60000);
+  const centresWithData = Array.from(results.values()).filter(v => v > 0).length;
+  log(`\n=== Done in ${elapsed} minutes ===`);
+  log(`Total: ${centreIds.length}, With data: ${centresWithData}`);
 }
 
 main().catch(err => {
-  console.error('Script failed:', err);
+  console.error('Failed:', err.message);
   process.exit(1);
 });
