@@ -7,6 +7,7 @@ interface Centre {
   regionSite: string
   name: string
   gamesTotal: number
+  lastActivity: string
 }
 
 interface CentresData {
@@ -16,7 +17,7 @@ interface CentresData {
   centres: Centre[]
 }
 
-type SortField = 'rank' | 'id' | 'regionSite' | 'name' | 'gamesTotal'
+type SortField = 'rank' | 'id' | 'regionSite' | 'name' | 'gamesTotal' | 'lastActivity'
 type SortDirection = 'asc' | 'desc'
 
 export default function Home() {
@@ -44,11 +45,10 @@ export default function Home() {
       setSortDirection(sortDirection === 'asc' ? 'desc' : 'asc')
     } else {
       setSortField(field)
-      setSortDirection(field === 'name' || field === 'regionSite' ? 'asc' : 'desc')
+      setSortDirection(field === 'name' || field === 'regionSite' || field === 'lastActivity' ? 'asc' : 'desc')
     }
   }
 
-  // Parse regionSite (e.g., "21-76" -> { region: 21, site: 76 })
   const parseRegionSite = (regionSite: string) => {
     const parts = regionSite.split('-')
     return {
@@ -57,12 +57,19 @@ export default function Home() {
     }
   }
 
+  const parseLastActivity = (lastActivity: string) => {
+    if (lastActivity === 'before 2026' || !lastActivity) {
+      return new Date('2000-01-01')
+    }
+    return new Date(lastActivity)
+  }
+
   const getSortedCentres = () => {
     if (!data?.centres) return []
-    
+
     const sorted = [...data.centres].sort((a, b) => {
       let comparison = 0
-      
+
       switch (sortField) {
         case 'id':
           comparison = parseInt(a.id) - parseInt(b.id)
@@ -70,7 +77,6 @@ export default function Home() {
         case 'regionSite': {
           const aParsed = parseRegionSite(a.regionSite)
           const bParsed = parseRegionSite(b.regionSite)
-          // Sort by region first numerically, then by site numerically
           if (aParsed.region !== bParsed.region) {
             comparison = aParsed.region - bParsed.region
           } else {
@@ -84,15 +90,21 @@ export default function Home() {
         case 'gamesTotal':
           comparison = a.gamesTotal - b.gamesTotal
           break
+        case 'lastActivity': {
+          const aDate = parseLastActivity(a.lastActivity)
+          const bDate = parseLastActivity(b.lastActivity)
+          comparison = aDate.getTime() - bDate.getTime()
+          break
+        }
         case 'rank':
         default:
           comparison = b.gamesTotal - a.gamesTotal
           break
       }
-      
+
       return sortDirection === 'asc' ? comparison : -comparison
     })
-    
+
     return sorted
   }
 
@@ -138,15 +150,15 @@ export default function Home() {
     <div style={{
       padding: '2rem',
       fontFamily: 'system-ui, sans-serif',
-      maxWidth: '1400px',
+      maxWidth: '1500px',
       margin: '0 auto'
     }}>
       <h1 style={{ marginBottom: '0.5rem' }}>Laserforce Centres Rankings</h1>
       <p style={{ color: '#666', marginBottom: '1.5rem' }}>
-        Total Centres: {data?.totalCentres} | Centres with Data: {data?.centresWithData} | 
+        Total Centres: {data?.totalCentres} | Centres with Data: {data?.centresWithData} |
         Last Updated: {data?.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : 'N/A'}
       </p>
-      
+
       <p style={{ color: '#888', marginBottom: '1rem', fontSize: '14px' }}>
         💡 Click column headers to sort
       </p>
@@ -159,69 +171,23 @@ export default function Home() {
         }}>
           <thead>
             <tr style={{ backgroundColor: '#f4f4f4' }}>
-              <th 
-                onClick={() => handleSort('rank')}
-                style={{ 
-                  padding: '12px', 
-                  textAlign: 'left', 
-                  borderBottom: '2px solid #ddd', 
-                  width: '60px',
-                  cursor: 'pointer',
-                  userSelect: 'none'
-                }}
-              >
+              <th onClick={() => handleSort('rank')} style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '60px', cursor: 'pointer', userSelect: 'none' }}>
                 Rank<SortIcon field="rank" />
               </th>
-              <th 
-                onClick={() => handleSort('id')}
-                style={{ 
-                  padding: '12px', 
-                  textAlign: 'left', 
-                  borderBottom: '2px solid #ddd', 
-                  width: '80px',
-                  cursor: 'pointer',
-                  userSelect: 'none'
-                }}
-              >
+              <th onClick={() => handleSort('id')} style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '80px', cursor: 'pointer', userSelect: 'none' }}>
                 ID<SortIcon field="id" />
               </th>
-              <th 
-                onClick={() => handleSort('regionSite')}
-                style={{ 
-                  padding: '12px', 
-                  textAlign: 'left', 
-                  borderBottom: '2px solid #ddd', 
-                  width: '100px',
-                  cursor: 'pointer',
-                  userSelect: 'none'
-                }}
-              >
+              <th onClick={() => handleSort('regionSite')} style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '100px', cursor: 'pointer', userSelect: 'none' }}>
                 Region-Site<SortIcon field="regionSite" />
               </th>
-              <th 
-                onClick={() => handleSort('name')}
-                style={{ 
-                  padding: '12px', 
-                  textAlign: 'left', 
-                  borderBottom: '2px solid #ddd',
-                  cursor: 'pointer',
-                  userSelect: 'none'
-                }}
-              >
+              <th onClick={() => handleSort('name')} style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', cursor: 'pointer', userSelect: 'none' }}>
                 Centre Name<SortIcon field="name" />
               </th>
-              <th 
-                onClick={() => handleSort('gamesTotal')}
-                style={{ 
-                  padding: '12px', 
-                  textAlign: 'right', 
-                  borderBottom: '2px solid #ddd', 
-                  width: '120px',
-                  cursor: 'pointer',
-                  userSelect: 'none'
-                }}
-              >
+              <th onClick={() => handleSort('gamesTotal')} style={{ padding: '12px', textAlign: 'right', borderBottom: '2px solid #ddd', width: '120px', cursor: 'pointer', userSelect: 'none' }}>
                 Games Total<SortIcon field="gamesTotal" />
+              </th>
+              <th onClick={() => handleSort('lastActivity')} style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '130px', cursor: 'pointer', userSelect: 'none' }}>
+                Latest Activity<SortIcon field="lastActivity" />
               </th>
             </tr>
           </thead>
@@ -234,6 +200,14 @@ export default function Home() {
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td>
                 <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
                   {centre.gamesTotal.toLocaleString()}
+                </td>
+                <td style={{
+                  padding: '10px',
+                  borderBottom: '1px solid #eee',
+                  color: centre.lastActivity === 'before 2026' ? '#999' : '#333',
+                  fontStyle: centre.lastActivity === 'before 2026' ? 'italic' : 'normal'
+                }}>
+                  {centre.lastActivity || 'before 2026'}
                 </td>
               </tr>
             ))}
