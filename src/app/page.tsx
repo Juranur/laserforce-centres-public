@@ -63,13 +63,14 @@ export default function Home() {
     )
   }
 
+  // Sort by gamesTotal descending
   const sortedCentres = [...(data?.centres || [])].sort((a, b) => b.gamesTotal - a.gamesTotal)
 
   return (
     <div style={{
       padding: '2rem',
       fontFamily: 'system-ui, sans-serif',
-      maxWidth: '1200px',
+      maxWidth: '1400px',
       margin: '0 auto'
     }}>
       <h1 style={{ marginBottom: '0.5rem' }}>Laserforce Centres Rankings</h1>
@@ -86,15 +87,19 @@ export default function Home() {
         }}>
           <thead>
             <tr style={{ backgroundColor: '#f4f4f4' }}>
-              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd' }}>Rank</th>
+              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '60px' }}>Rank</th>
+              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '80px' }}>ID</th>
+              <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd', width: '100px' }}>Region-Site</th>
               <th style={{ padding: '12px', textAlign: 'left', borderBottom: '2px solid #ddd' }}>Centre Name</th>
-              <th style={{ padding: '12px', textAlign: 'right', borderBottom: '2px solid #ddd' }}>Games Total</th>
+              <th style={{ padding: '12px', textAlign: 'right', borderBottom: '2px solid #ddd', width: '120px' }}>Games Total</th>
             </tr>
           </thead>
           <tbody>
             {sortedCentres.map((centre, index) => (
               <tr key={centre.id} style={{ backgroundColor: index % 2 === 0 ? '#fff' : '#f9f9f9' }}>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{index + 1}</td>
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.id}</td>
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.regionSite}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td>
                 <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
                   {centre.gamesTotal.toLocaleString()}
