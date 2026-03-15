@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T05:15:20.078Z",
+  "lastUpdated": "2026-03-15T05:57:10.948Z",
   "totalCentres": 338,
   "centresWithData": 338,
   "centres": [
@@ -7,8 +7,8 @@
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 27955,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 27996,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "25",
@@ -21,15 +21,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1651,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 1666,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15472,
-      "lastActivity": "2026-03-12"
+      "gamesTotal": 15478,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "392",
@@ -91,8 +91,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 118,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 120,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "213",
@@ -133,8 +133,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3260,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 3264,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "184",
@@ -154,8 +154,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4500,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 4504,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "372",
@@ -182,8 +182,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5840,
-      "lastActivity": "before 2026"
+      "gamesTotal": 5854,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "98",
@@ -196,8 +196,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1131,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1132,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "360",
@@ -343,8 +343,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52794,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 52796,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "254",
@@ -392,8 +392,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17773,
-      "lastActivity": "before 2026"
+      "gamesTotal": 17778,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "487",
@@ -420,8 +420,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7322,
-      "lastActivity": "before 2026"
+      "gamesTotal": 7336,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "282",
@@ -448,8 +448,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 108,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 130,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "312",
@@ -588,8 +588,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8095,
-      "lastActivity": "before 2026"
+      "gamesTotal": 8127,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "309",
@@ -763,8 +763,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 288,
-      "lastActivity": "before 2026"
+      "gamesTotal": 290,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "465",
@@ -840,8 +840,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 493,
-      "lastActivity": "before 2026"
+      "gamesTotal": 495,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "431",
@@ -1330,8 +1330,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 2756,
-      "lastActivity": "before 2026"
+      "gamesTotal": 2770,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "191",
@@ -1456,8 +1456,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44250,
-      "lastActivity": "before 2026"
+      "gamesTotal": 44269,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "485",
@@ -1498,8 +1498,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29781,
-      "lastActivity": "before 2026"
+      "gamesTotal": 29803,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "194",
@@ -1827,8 +1827,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7132,
-      "lastActivity": "before 2026"
+      "gamesTotal": 7160,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "166",
@@ -1869,8 +1869,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1032,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1034,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "224",
@@ -1946,8 +1946,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 15903,
-      "lastActivity": "before 2026"
+      "gamesTotal": 16115,
+      "lastActivity": "2026-03-15"
     },
     {
       "id": "349",
@@ -2366,8 +2366,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 408,
-      "lastActivity": "before 2026"
+      "gamesTotal": 412,
+      "lastActivity": "2026-03-15"
     }
   ]
 }
