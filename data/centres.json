@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T05:57:10.948Z",
+  "lastUpdated": "2026-03-16T06:18:08.752Z",
   "totalCentres": 338,
   "centresWithData": 338,
   "centres": [
@@ -7,8 +7,8 @@
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 27996,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 28000,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "25",
@@ -21,15 +21,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1666,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 1670,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15478,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 15506,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "392",
@@ -91,8 +91,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 120,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 121,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "213",
@@ -133,8 +133,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3264,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 3322,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "184",
@@ -154,8 +154,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4504,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 4508,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "372",
@@ -329,8 +329,8 @@
       "id": "428",
       "regionSite": "1-90",
       "name": "C1 Speed Electric Indoor Karting & Lasertag, Albion Park Rail, NSW, Australia",
-      "gamesTotal": 9,
-      "lastActivity": "before 2026"
+      "gamesTotal": 19,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "35",
@@ -343,8 +343,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52796,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 52842,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "254",
@@ -448,8 +448,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 130,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 133,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "312",
@@ -595,8 +595,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2535,
-      "lastActivity": "before 2026"
+      "gamesTotal": 2555,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "383",
@@ -777,8 +777,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 583,
-      "lastActivity": "before 2026"
+      "gamesTotal": 645,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "206",
@@ -903,8 +903,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29871,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 29887,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "154",
@@ -980,8 +980,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17276,
-      "lastActivity": "before 2026"
+      "gamesTotal": 17279,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "161",
@@ -1155,8 +1155,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5590,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 5607,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "308",
@@ -1232,8 +1232,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5118,
-      "lastActivity": "before 2026"
+      "gamesTotal": 5121,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "252",
@@ -1281,8 +1281,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2484,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 2500,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "178",
@@ -1358,8 +1358,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37049,
-      "lastActivity": "before 2026"
+      "gamesTotal": 37098,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "243",
@@ -1407,8 +1407,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4164,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 4185,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "212",
@@ -1484,8 +1484,8 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60363,
-      "lastActivity": "before 2026"
+      "gamesTotal": 60378,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "97",
@@ -1736,8 +1736,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25308,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 25387,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "99",
@@ -1911,8 +1911,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11951,
-      "lastActivity": "before 2026"
+      "gamesTotal": 11967,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "384",
@@ -2044,8 +2044,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 596,
-      "lastActivity": "before 2026"
+      "gamesTotal": 608,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "195",
@@ -2170,8 +2170,8 @@
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 14534,
-      "lastActivity": "before 2026"
+      "gamesTotal": 14616,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "374",
