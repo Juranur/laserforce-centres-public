@@ -1,6 +1,6 @@
 /**
  * Fetch script for Laserforce centres
- * Uses longer delays to avoid rate limiting
+ * Very conservative settings to handle aggressive rate limiting
  */
 
 import * as fs from 'fs';
@@ -10,15 +10,16 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Conservative delays to avoid rate limiting
-const BASE_DELAY = 2500;        // 2.5 seconds between requests
-const RATE_LIMIT_PAUSE = 20000; // 20 second pause when rate limited
-const BATCH_SIZE = 30;          // Save every 30 centres
+// Very conservative delays
+const BASE_DELAY = 4000;         // 4 seconds between requests
+const RATE_LIMIT_PAUSE = 60000;  // 60 second pause when rate limited
+const CONSECUTIVE_LIMIT = 2;     // Pause after 2 consecutive rate limits
+const BATCH_SIZE = 20;           // Save every 20 centres
 
 const CENTRES_API = 'https://v2.iplaylaserforce.com/globalScoringDropdownInfo.php';
 const SCORING_API = 'https://v2.iplaylaserforce.com/globalScoring.php';
 
-const MAX_RUNTIME_MS = 50 * 60 * 1000; // 50 minutes max
+const MAX_RUNTIME_MS = 50 * 60 * 1000;
 const START_TIME = Date.now();
 
 function getTodayDate() {
@@ -79,8 +80,7 @@ async function fetchGamesTotal(centreId) {
 
     const text = await response.text();
 
-    // Check if response is HTML (rate limiting)
-    if (text.startsWith('<!DOCTYPE') || text.startsWith('<html')) {
+    if (text.startsWith('<!DOCTYPE') || text.startsWith('<html') || text.includes('<head>')) {
       return { total: 0, rateLimited: true };
     }
 
@@ -121,11 +121,11 @@ function saveData(outputPath, centreList, results) {
 async function main() {
   log('=== Laserforce Data Fetch Started ===');
   log(`Date: ${getTodayDate()}`);
+  log('Mode: Conservative (4s delay, 60s pause on rate limit)');
 
   const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   const today = getTodayDate();
 
-  // Load existing data
   const results = new Map();
   if (fs.existsSync(outputPath)) {
     try {
@@ -146,7 +146,6 @@ async function main() {
 
   const centreList = await fetchCentreList();
 
-  // Fetch all centres
   let completed = 0;
   let changesDetected = 0;
   let rateLimitHits = 0;
@@ -160,22 +159,20 @@ async function main() {
     if (rateLimited) {
       rateLimitHits++;
       consecutiveRateLimits++;
-      log(`⚠️ Rate limited on centre ${centre.centreId} (hit #${rateLimitHits})`);
 
-      if (consecutiveRateLimits >= 3) {
-        log(`Pausing ${RATE_LIMIT_PAUSE/1000}s due to repeated rate limiting...`);
+      if (consecutiveRateLimits >= CONSECUTIVE_LIMIT) {
+        log(`⚠️ Rate limited ${consecutiveRateLimits}x in a row, pausing 60s... (total hits: ${rateLimitHits})`);
         await sleep(RATE_LIMIT_PAUSE);
         consecutiveRateLimits = 0;
       }
 
-      // Keep existing data
       continue;
     }
 
     consecutiveRateLimits = 0;
+
     const existing = results.get(centre.centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
 
-    // Update if we got valid data
     if (newTotal > 0) {
       if (newTotal !== existing.gamesTotal) {
         const diff = newTotal - existing.gamesTotal;
@@ -186,7 +183,6 @@ async function main() {
         changesDetected++;
         log(`✓ ${centre.centreId}: ${existing.gamesTotal} → ${newTotal} (${diff > 0 ? '+' : ''}${diff})`);
       } else {
-        // No change, preserve lastActivity
         results.set(centre.centreId, {
           gamesTotal: newTotal,
           lastActivity: existing.lastActivity,
@@ -196,7 +192,6 @@ async function main() {
 
     completed++;
 
-    // Progress save
     if (completed % BATCH_SIZE === 0) {
       log(`Progress: ${completed}/${centreList.length} | Changes: ${changesDetected} | Rate limits: ${rateLimitHits}`);
       saveData(outputPath, centreList, results);
@@ -207,15 +202,15 @@ async function main() {
     }
   }
 
-  // Final save
   const output = saveData(outputPath, centreList, results);
   const elapsed = Math.round((Date.now() - START_TIME) / 60000);
 
   log(`\n=== Complete in ${elapsed} minutes ===`);
-  log(`Centres fetched: ${completed}/${centreList.length}`);
+  log(`Centres checked this run: ${completed}/${centreList.length}`);
   log(`Changes detected: ${changesDetected}`);
   log(`Rate limit hits: ${rateLimitHits}`);
   log(`Centres with data: ${output.centresWithData}`);
+  log(`Centres with today's date: ${output.centres.filter(c => c.lastActivity === today).length}`);
 }
 
 main().catch(err => {
