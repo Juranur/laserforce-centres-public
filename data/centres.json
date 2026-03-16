@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T17:39:52.876Z",
+  "lastUpdated": "2026-03-16T18:23:34.077Z",
   "totalCentres": 338,
   "centresWithData": 338,
   "centres": [
@@ -161,7 +161,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82031,
+      "gamesTotal": 82051,
       "lastActivity": "2026-03-16"
     },
     {
@@ -420,8 +420,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7336,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 7340,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "282",
@@ -462,8 +462,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 37317,
-      "lastActivity": "before 2026"
+      "gamesTotal": 37555,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "321",
@@ -567,8 +567,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 602,
-      "lastActivity": "before 2026"
+      "gamesTotal": 629,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "437",
@@ -924,8 +924,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42530,
-      "lastActivity": "before 2026"
+      "gamesTotal": 42650,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "160",
@@ -952,8 +952,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 51,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 78,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "56",
@@ -1071,8 +1071,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 205773,
-      "lastActivity": "before 2026"
+      "gamesTotal": 205885,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "165",
@@ -1162,8 +1162,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55091,
-      "lastActivity": "before 2026"
+      "gamesTotal": 55362,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "134",
@@ -1253,8 +1253,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14823,
-      "lastActivity": "before 2026"
+      "gamesTotal": 14824,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "230",
@@ -1337,8 +1337,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19360,
-      "lastActivity": "before 2026"
+      "gamesTotal": 19412,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "219",
@@ -1365,15 +1365,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79150,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 79174,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42137,
-      "lastActivity": "before 2026"
+      "gamesTotal": 42189,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "168",
@@ -1400,8 +1400,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44447,
-      "lastActivity": "before 2026"
+      "gamesTotal": 44701,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "448",
@@ -1428,8 +1428,8 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18756,
-      "lastActivity": "before 2026"
+      "gamesTotal": 18766,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "337",
@@ -1456,8 +1456,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44269,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 44272,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "485",
@@ -1631,15 +1631,15 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38233,
-      "lastActivity": "before 2026"
+      "gamesTotal": 38316,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4656,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4663,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "457",
@@ -1869,15 +1869,15 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1034,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 1035,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "224",
       "regionSite": "21-64",
       "name": "Power Laser, Biberach, Germany",
-      "gamesTotal": 1617,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1621,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "480",
@@ -1932,8 +1932,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116517,
-      "lastActivity": "before 2026"
+      "gamesTotal": 116518,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "272",
@@ -1960,8 +1960,8 @@
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 502,
-      "lastActivity": "before 2026"
+      "gamesTotal": 505,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "346",
@@ -2254,8 +2254,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 22,
-      "lastActivity": "before 2026"
+      "gamesTotal": 28,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "419",
