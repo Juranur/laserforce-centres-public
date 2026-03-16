@@ -1,6 +1,6 @@
 /**
  * Fetch script for Laserforce centres
- * Fetches ALL centres every run to detect activity changes
+ * Uses longer delays to avoid rate limiting
  */
 
 import * as fs from 'fs';
@@ -10,17 +10,15 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Configuration
-const BASE_DELAY = 1500;        // 1.5 seconds between requests
-const RETRY_DELAY = 3000;       // 3 seconds for retries
-const BATCH_SIZE = 50;          // Progress save interval
-const MAX_RETRY_ROUNDS = 2;     // Only 2 retry rounds
+// Conservative delays to avoid rate limiting
+const BASE_DELAY = 2500;        // 2.5 seconds between requests
+const RATE_LIMIT_PAUSE = 20000; // 20 second pause when rate limited
+const BATCH_SIZE = 30;          // Save every 30 centres
 
 const CENTRES_API = 'https://v2.iplaylaserforce.com/globalScoringDropdownInfo.php';
 const SCORING_API = 'https://v2.iplaylaserforce.com/globalScoring.php';
 
-// Hard timeout: exit after 45 minutes max
-const MAX_RUNTIME_MS = 45 * 60 * 1000;
+const MAX_RUNTIME_MS = 50 * 60 * 1000; // 50 minutes max
 const START_TIME = Date.now();
 
 function getTodayDate() {
@@ -36,9 +34,8 @@ function log(message) {
 }
 
 function shouldStop() {
-  const elapsed = Date.now() - START_TIME;
-  if (elapsed > MAX_RUNTIME_MS) {
-    log('⚠️ Max runtime reached, wrapping up...');
+  if (Date.now() - START_TIME > MAX_RUNTIME_MS) {
+    log('⏱️ Max runtime reached');
     return true;
   }
   return false;
@@ -69,7 +66,7 @@ async function fetchGamesTotal(centreId) {
   formData.append('memberRegion', '0');
   formData.append('memberSite', '0');
   formData.append('memberId', '0');
-  formData.append('selectedCentreId', centreId);
+  formData.append('selectedCentreId', String(centreId));
   formData.append('selectedGroupId', '0');
   formData.append('selectedQueryType', '0');
 
@@ -80,11 +77,18 @@ async function fetchGamesTotal(centreId) {
       body: formData.toString(),
     });
 
-    if (!response.ok) return 0;
-    const data = await response.json();
-    return (data.top100 || []).reduce((sum, p) => sum + (p['3'] || 0), 0);
-  } catch {
-    return 0;
+    const text = await response.text();
+
+    // Check if response is HTML (rate limiting)
+    if (text.startsWith('<!DOCTYPE') || text.startsWith('<html')) {
+      return { total: 0, rateLimited: true };
+    }
+
+    const data = JSON.parse(text);
+    const total = (data.top100 || []).reduce((sum, p) => sum + (p['3'] || 0), 0);
+    return { total, rateLimited: false };
+  } catch (err) {
+    return { total: 0, rateLimited: false, error: err.message };
   }
 }
 
@@ -115,8 +119,8 @@ function saveData(outputPath, centreList, results) {
 }
 
 async function main() {
-  log('=== Starting Laserforce Data Fetch ===');
-  log('Mode: Fetch ALL centres to detect activity changes');
+  log('=== Laserforce Data Fetch Started ===');
+  log(`Date: ${getTodayDate()}`);
 
   const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   const today = getTodayDate();
@@ -133,103 +137,73 @@ async function main() {
             lastActivity: c.lastActivity || 'before 2026',
           });
         }
-        log(`Loaded ${results.size} existing results from file`);
+        log(`Loaded ${results.size} existing records`);
       }
     } catch (err) {
-      log(`Warning: Could not load existing file: ${err.message}`);
+      log(`Warning: Could not load existing data: ${err.message}`);
     }
   }
 
   const centreList = await fetchCentreList();
-  const centreIds = centreList.map(c => c.centreId);
 
-  // CRITICAL: Fetch ALL centres to detect changes
-  // Do NOT skip any centres, even if they have existing data
-  const toFetch = centreIds;
-  log(`Will fetch ALL ${toFetch.length} centres to detect activity`);
-
-  // Fetch pass
+  // Fetch all centres
   let completed = 0;
-  let consecutiveZeros = 0;
   let changesDetected = 0;
-  let apiZeros = 0;
+  let rateLimitHits = 0;
+  let consecutiveRateLimits = 0;
 
-  for (const centreId of toFetch) {
+  for (const centre of centreList) {
     if (shouldStop()) break;
 
-    const newTotal = await fetchGamesTotal(centreId);
-    const existing = results.get(centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
+    const { total: newTotal, rateLimited } = await fetchGamesTotal(centre.centreId);
 
-    // Track API zeros (possible rate limiting)
-    if (newTotal === 0) {
-      apiZeros++;
-    }
+    if (rateLimited) {
+      rateLimitHits++;
+      consecutiveRateLimits++;
+      log(`⚠️ Rate limited on centre ${centre.centreId} (hit #${rateLimitHits})`);
 
-    // Check if games total changed (activity detected)
-    // Only update if we got valid data (newTotal > 0) AND it's different from before
-    if (newTotal > 0 && newTotal !== existing.gamesTotal) {
-      const change = newTotal - existing.gamesTotal;
-      results.set(centreId, {
-        gamesTotal: newTotal,
-        lastActivity: today,
-      });
-      changesDetected++;
-      log(`✓ Activity: ${centreId} changed by ${change > 0 ? '+' : ''}${change} (${existing.gamesTotal} → ${newTotal})`);
-    } else if (newTotal > 0) {
-      // No change, keep existing lastActivity
-      results.set(centreId, {
-        gamesTotal: newTotal,
-        lastActivity: existing.lastActivity,
-      });
-    }
-    // If newTotal === 0, keep existing data (don't overwrite with zero)
-
-    completed++;
-
-    // Handle consecutive zeros (rate limiting detection)
-    if (newTotal === 0) {
-      consecutiveZeros++;
-      if (consecutiveZeros >= 10) {
-        log('⚠️ Rate limiting suspected (10 consecutive zeros), pausing 15s...');
-        await sleep(15000);
-        consecutiveZeros = 0;
+      if (consecutiveRateLimits >= 3) {
+        log(`Pausing ${RATE_LIMIT_PAUSE/1000}s due to repeated rate limiting...`);
+        await sleep(RATE_LIMIT_PAUSE);
+        consecutiveRateLimits = 0;
       }
-    } else {
-      consecutiveZeros = 0;
+
+      // Keep existing data
+      continue;
     }
 
-    // Progress update and save
-    if (completed % BATCH_SIZE === 0) {
-      log(`Progress: ${completed}/${toFetch.length} | Changes: ${changesDetected} | API Zeros: ${apiZeros}`);
-      saveData(outputPath, centreList, results);
-    }
+    consecutiveRateLimits = 0;
+    const existing = results.get(centre.centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
 
-    if (completed < toFetch.length && !shouldStop()) {
-      await sleep(BASE_DELAY);
-    }
-  }
-
-  log(`\nInitial pass complete: ${completed} fetched, ${changesDetected} changes, ${apiZeros} API zeros`);
-
-  // Retry centres that returned zero (if time permits)
-  const zeroCentres = centreIds.filter(id => (results.get(id)?.gamesTotal || 0) === 0);
-
-  if (zeroCentres.length > 0 && zeroCentres.length < 50) {
-    log(`\nRetrying ${zeroCentres.length} centres that returned zero...`);
-    await sleep(5000);
-
-    for (const centreId of zeroCentres) {
-      if (shouldStop()) break;
-
-      const newTotal = await fetchGamesTotal(centreId);
-      if (newTotal > 0) {
-        results.set(centreId, {
+    // Update if we got valid data
+    if (newTotal > 0) {
+      if (newTotal !== existing.gamesTotal) {
+        const diff = newTotal - existing.gamesTotal;
+        results.set(centre.centreId, {
           gamesTotal: newTotal,
           lastActivity: today,
         });
-        log(`✓ Retry success: ${centreId} = ${newTotal}`);
+        changesDetected++;
+        log(`✓ ${centre.centreId}: ${existing.gamesTotal} → ${newTotal} (${diff > 0 ? '+' : ''}${diff})`);
+      } else {
+        // No change, preserve lastActivity
+        results.set(centre.centreId, {
+          gamesTotal: newTotal,
+          lastActivity: existing.lastActivity,
+        });
       }
-      await sleep(RETRY_DELAY);
+    }
+
+    completed++;
+
+    // Progress save
+    if (completed % BATCH_SIZE === 0) {
+      log(`Progress: ${completed}/${centreList.length} | Changes: ${changesDetected} | Rate limits: ${rateLimitHits}`);
+      saveData(outputPath, centreList, results);
+    }
+
+    if (!shouldStop()) {
+      await sleep(BASE_DELAY);
     }
   }
 
@@ -238,13 +212,13 @@ async function main() {
   const elapsed = Math.round((Date.now() - START_TIME) / 60000);
 
   log(`\n=== Complete in ${elapsed} minutes ===`);
-  log(`Total centres: ${output.totalCentres}`);
+  log(`Centres fetched: ${completed}/${centreList.length}`);
+  log(`Changes detected: ${changesDetected}`);
+  log(`Rate limit hits: ${rateLimitHits}`);
   log(`Centres with data: ${output.centresWithData}`);
-  log(`Changes detected this run: ${changesDetected}`);
-  log(`API zeros (may indicate rate limiting): ${apiZeros}`);
 }
 
 main().catch(err => {
-  console.error('Failed:', err.message);
+  console.error('Script failed:', err.message);
   process.exit(1);
 });
