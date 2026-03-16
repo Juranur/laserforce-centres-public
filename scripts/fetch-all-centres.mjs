@@ -1,7 +1,6 @@
 /**
  * Fetch script for Laserforce centres
- * Optimized for GitHub Actions with fast completion
- * Tracks activity dates when games totals change
+ * Fetches ALL centres every run to detect activity changes
  */
 
 import * as fs from 'fs';
@@ -11,7 +10,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Fast configuration - prioritize completion over 100% data
+// Configuration
 const BASE_DELAY = 1500;        // 1.5 seconds between requests
 const RETRY_DELAY = 3000;       // 3 seconds for retries
 const BATCH_SIZE = 50;          // Progress save interval
@@ -24,7 +23,6 @@ const SCORING_API = 'https://v2.iplaylaserforce.com/globalScoring.php';
 const MAX_RUNTIME_MS = 45 * 60 * 1000;
 const START_TIME = Date.now();
 
-// Get today's date in YYYY-MM-DD format
 function getTodayDate() {
   return new Date().toISOString().split('T')[0];
 }
@@ -117,12 +115,13 @@ function saveData(outputPath, centreList, results) {
 }
 
 async function main() {
-  log('=== Starting Laserforce Data Fetch (Fast Mode) ===');
+  log('=== Starting Laserforce Data Fetch ===');
+  log('Mode: Fetch ALL centres to detect activity changes');
 
   const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   const today = getTodayDate();
 
-  // Load existing data - now stores { gamesTotal, lastActivity }
+  // Load existing data
   const results = new Map();
   if (fs.existsSync(outputPath)) {
     try {
@@ -134,22 +133,26 @@ async function main() {
             lastActivity: c.lastActivity || 'before 2026',
           });
         }
-        log(`Loaded ${results.size} existing results`);
+        log(`Loaded ${results.size} existing results from file`);
       }
-    } catch {}
+    } catch (err) {
+      log(`Warning: Could not load existing file: ${err.message}`);
+    }
   }
 
   const centreList = await fetchCentreList();
   const centreIds = centreList.map(c => c.centreId);
 
-  // Fetch all centres (to detect changes)
-  let toFetch = centreIds;
-  log(`Centres to fetch: ${toFetch.length}`);
+  // CRITICAL: Fetch ALL centres to detect changes
+  // Do NOT skip any centres, even if they have existing data
+  const toFetch = centreIds;
+  log(`Will fetch ALL ${toFetch.length} centres to detect activity`);
 
-  // Initial fetch pass
+  // Fetch pass
   let completed = 0;
   let consecutiveZeros = 0;
   let changesDetected = 0;
+  let apiZeros = 0;
 
   for (const centreId of toFetch) {
     if (shouldStop()) break;
@@ -157,43 +160,47 @@ async function main() {
     const newTotal = await fetchGamesTotal(centreId);
     const existing = results.get(centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
 
+    // Track API zeros (possible rate limiting)
+    if (newTotal === 0) {
+      apiZeros++;
+    }
+
     // Check if games total changed (activity detected)
+    // Only update if we got valid data (newTotal > 0) AND it's different from before
     if (newTotal > 0 && newTotal !== existing.gamesTotal) {
+      const change = newTotal - existing.gamesTotal;
       results.set(centreId, {
         gamesTotal: newTotal,
         lastActivity: today,
       });
       changesDetected++;
-      log(`Activity detected: ${centreId} changed from ${existing.gamesTotal} to ${newTotal}`);
+      log(`✓ Activity: ${centreId} changed by ${change > 0 ? '+' : ''}${change} (${existing.gamesTotal} → ${newTotal})`);
     } else if (newTotal > 0) {
+      // No change, keep existing lastActivity
       results.set(centreId, {
         gamesTotal: newTotal,
         lastActivity: existing.lastActivity,
       });
-    } else {
-      results.set(centreId, {
-        gamesTotal: existing.gamesTotal,
-        lastActivity: existing.lastActivity,
-      });
     }
+    // If newTotal === 0, keep existing data (don't overwrite with zero)
 
     completed++;
 
+    // Handle consecutive zeros (rate limiting detection)
     if (newTotal === 0) {
       consecutiveZeros++;
+      if (consecutiveZeros >= 10) {
+        log('⚠️ Rate limiting suspected (10 consecutive zeros), pausing 15s...');
+        await sleep(15000);
+        consecutiveZeros = 0;
+      }
     } else {
       consecutiveZeros = 0;
     }
 
-    if (consecutiveZeros >= 10) {
-      log('Many consecutive zeros, pausing 10s...');
-      await sleep(10000);
-      consecutiveZeros = 0;
-    }
-
+    // Progress update and save
     if (completed % BATCH_SIZE === 0) {
-      const zeros = Array.from(results.values()).filter(v => v.gamesTotal === 0).length;
-      log(`Progress: ${completed}/${toFetch.length} (${zeros} zeros, ${changesDetected} changes)`);
+      log(`Progress: ${completed}/${toFetch.length} | Changes: ${changesDetected} | API Zeros: ${apiZeros}`);
       saveData(outputPath, centreList, results);
     }
 
@@ -202,53 +209,39 @@ async function main() {
     }
   }
 
-  log(`Initial pass complete: ${completed} fetched, ${changesDetected} changes detected`);
+  log(`\nInitial pass complete: ${completed} fetched, ${changesDetected} changes, ${apiZeros} API zeros`);
 
-  // Quick retry for zeros
-  for (let round = 1; round <= MAX_RETRY_ROUNDS; round++) {
-    if (shouldStop()) break;
+  // Retry centres that returned zero (if time permits)
+  const zeroCentres = centreIds.filter(id => (results.get(id)?.gamesTotal || 0) === 0);
 
-    const zeros = centreIds.filter(id => (results.get(id)?.gamesTotal || 0) === 0);
-    if (zeros.length === 0) {
-      log('All centres have data!');
-      break;
-    }
-
-    log(`Retry round ${round}: ${zeros.length} zeros to retry`);
+  if (zeroCentres.length > 0 && zeroCentres.length < 50) {
+    log(`\nRetrying ${zeroCentres.length} centres that returned zero...`);
     await sleep(5000);
 
-    let retryCount = 0;
-    for (const centreId of zeros) {
+    for (const centreId of zeroCentres) {
       if (shouldStop()) break;
 
       const newTotal = await fetchGamesTotal(centreId);
       if (newTotal > 0) {
-        const existing = results.get(centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
         results.set(centreId, {
           gamesTotal: newTotal,
-          lastActivity: existing.lastActivity === 'before 2026' ? today : existing.lastActivity,
+          lastActivity: today,
         });
-        log(`Retry success: ${centreId} = ${newTotal}`);
+        log(`✓ Retry success: ${centreId} = ${newTotal}`);
       }
-      retryCount++;
-
-      if (retryCount % BATCH_SIZE === 0) {
-        saveData(outputPath, centreList, results);
-      }
-
-      if (!shouldStop()) await sleep(RETRY_DELAY);
+      await sleep(RETRY_DELAY);
     }
-
-    saveData(outputPath, centreList, results);
   }
 
   // Final save
   const output = saveData(outputPath, centreList, results);
   const elapsed = Math.round((Date.now() - START_TIME) / 60000);
 
-  log(`\n=== Done in ${elapsed} minutes ===`);
-  log(`Total: ${output.totalCentres}, With data: ${output.centresWithData}`);
+  log(`\n=== Complete in ${elapsed} minutes ===`);
+  log(`Total centres: ${output.totalCentres}`);
+  log(`Centres with data: ${output.centresWithData}`);
   log(`Changes detected this run: ${changesDetected}`);
+  log(`API zeros (may indicate rate limiting): ${apiZeros}`);
 }
 
 main().catch(err => {
