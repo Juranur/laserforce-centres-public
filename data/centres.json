@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T18:23:34.077Z",
+  "lastUpdated": "2026-03-16T20:27:55.821Z",
   "totalCentres": 338,
   "centresWithData": 338,
   "centres": [
@@ -161,7 +161,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82051,
+      "gamesTotal": 82081,
       "lastActivity": "2026-03-16"
     },
     {
@@ -567,7 +567,7 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 629,
+      "gamesTotal": 642,
       "lastActivity": "2026-03-16"
     },
     {
@@ -609,8 +609,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34477,
-      "lastActivity": "before 2026"
+      "gamesTotal": 34534,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "96",
@@ -756,8 +756,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 418,
-      "lastActivity": "before 2026"
+      "gamesTotal": 429,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "421",
@@ -966,8 +966,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4259,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4267,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "133",
@@ -994,8 +994,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28183,
-      "lastActivity": "before 2026"
+      "gamesTotal": 28214,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "329",
@@ -1022,8 +1022,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31017,
-      "lastActivity": "before 2026"
+      "gamesTotal": 31044,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "189",
@@ -1113,8 +1113,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4086,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4087,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "23",
@@ -1267,8 +1267,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11784,
-      "lastActivity": "2026-03-12"
+      "gamesTotal": 11804,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "245",
@@ -1302,8 +1302,8 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9412,
-      "lastActivity": "before 2026"
+      "gamesTotal": 9421,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "179",
@@ -1414,15 +1414,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78376,
+      "gamesTotal": 78379,
       "lastActivity": "2026-03-16"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7259,
-      "lastActivity": "before 2026"
+      "gamesTotal": 7322,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "330",
@@ -1449,8 +1449,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33434,
-      "lastActivity": "before 2026"
+      "gamesTotal": 33428,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "164",
@@ -1477,8 +1477,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75240,
-      "lastActivity": "before 2026"
+      "gamesTotal": 75262,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "44",
@@ -1505,8 +1505,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 13991,
-      "lastActivity": "before 2026"
+      "gamesTotal": 13992,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "137",
@@ -1631,7 +1631,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38316,
+      "gamesTotal": 38347,
       "lastActivity": "2026-03-16"
     },
     {
@@ -1659,8 +1659,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12442,
-      "lastActivity": "before 2026"
+      "gamesTotal": 12493,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "386",
@@ -1848,8 +1848,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 456,
-      "lastActivity": "before 2026"
+      "gamesTotal": 464,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "399",
@@ -2177,8 +2177,8 @@
       "id": "374",
       "regionSite": "2-29",
       "name": "The Alley YMM, Fort McMurray, AB, CA",
-      "gamesTotal": 51,
-      "lastActivity": "before 2026"
+      "gamesTotal": 52,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "40",
@@ -2205,8 +2205,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1543,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1566,
+      "lastActivity": "2026-03-16"
     },
     {
       "id": "74",
