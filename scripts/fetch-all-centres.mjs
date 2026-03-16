@@ -1,6 +1,6 @@
 /**
  * Fetch script for Laserforce centres
- * Very conservative settings to handle aggressive rate limiting
+ * Rotates through centres so all get checked over multiple runs
  */
 
 import * as fs from 'fs';
@@ -92,7 +92,7 @@ async function fetchGamesTotal(centreId) {
   }
 }
 
-function saveData(outputPath, centreList, results) {
+function saveData(outputPath, centreList, results, lastCheckedIndex) {
   const centres = centreList.map(c => {
     const data = results.get(c.centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
     return {
@@ -108,6 +108,7 @@ function saveData(outputPath, centreList, results) {
     lastUpdated: new Date().toISOString(),
     totalCentres: centres.length,
     centresWithData: centres.filter(c => c.gamesTotal > 0).length,
+    lastCheckedIndex: lastCheckedIndex,
     centres,
   };
 
@@ -121,12 +122,14 @@ function saveData(outputPath, centreList, results) {
 async function main() {
   log('=== Laserforce Data Fetch Started ===');
   log(`Date: ${getTodayDate()}`);
-  log('Mode: Conservative (4s delay, 60s pause on rate limit)');
+  log('Mode: Rotating through centres (4s delay, 60s pause on rate limit)');
 
   const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   const today = getTodayDate();
 
   const results = new Map();
+  let startIndex = 0;
+
   if (fs.existsSync(outputPath)) {
     try {
       const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
@@ -139,20 +142,36 @@ async function main() {
         }
         log(`Loaded ${results.size} existing records`);
       }
+      if (typeof existing.lastCheckedIndex === 'number') {
+        startIndex = (existing.lastCheckedIndex + 1) % existing.totalCentres;
+        log(`Resuming from index ${startIndex} (last checked: ${existing.lastCheckedIndex})`);
+      }
     } catch (err) {
       log(`Warning: Could not load existing data: ${err.message}`);
     }
   }
 
   const centreList = await fetchCentreList();
+  const total = centreList.length;
+
+  const reorderedList = [
+    ...centreList.slice(startIndex),
+    ...centreList.slice(0, startIndex)
+  ];
+
+  log(`Rotation: Starting from index ${startIndex}, will check ${reorderedList.length} centres`);
 
   let completed = 0;
   let changesDetected = 0;
   let rateLimitHits = 0;
   let consecutiveRateLimits = 0;
+  let lastCheckedIdx = startIndex;
 
-  for (const centre of centreList) {
+  for (let i = 0; i < reorderedList.length; i++) {
     if (shouldStop()) break;
+
+    const centre = reorderedList[i];
+    const actualIndex = (startIndex + i) % total;
 
     const { total: newTotal, rateLimited } = await fetchGamesTotal(centre.centreId);
 
@@ -170,6 +189,7 @@ async function main() {
     }
 
     consecutiveRateLimits = 0;
+    lastCheckedIdx = actualIndex;
 
     const existing = results.get(centre.centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
 
@@ -193,8 +213,8 @@ async function main() {
     completed++;
 
     if (completed % BATCH_SIZE === 0) {
-      log(`Progress: ${completed}/${centreList.length} | Changes: ${changesDetected} | Rate limits: ${rateLimitHits}`);
-      saveData(outputPath, centreList, results);
+      log(`Progress: ${completed}/${reorderedList.length} | Changes: ${changesDetected} | Rate limits: ${rateLimitHits}`);
+      saveData(outputPath, centreList, results, lastCheckedIdx);
     }
 
     if (!shouldStop()) {
@@ -202,11 +222,13 @@ async function main() {
     }
   }
 
-  const output = saveData(outputPath, centreList, results);
+  const output = saveData(outputPath, centreList, results, lastCheckedIdx);
   const elapsed = Math.round((Date.now() - START_TIME) / 60000);
 
   log(`\n=== Complete in ${elapsed} minutes ===`);
-  log(`Centres checked this run: ${completed}/${centreList.length}`);
+  log(`Centres checked this run: ${completed}/${total}`);
+  log(`Last checked index: ${lastCheckedIdx}`);
+  log(`Next run will start from index: ${(lastCheckedIdx + 1) % total}`);
   log(`Changes detected: ${changesDetected}`);
   log(`Rate limit hits: ${rateLimitHits}`);
   log(`Centres with data: ${output.centresWithData}`);
