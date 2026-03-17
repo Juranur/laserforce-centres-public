@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-17T08:58:57.526Z",
+  "lastUpdated": "2026-03-17T16:35:14.253Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 212,
+  "lastCheckedIndex": 152,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 37555,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 37581,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "321",
@@ -547,8 +547,8 @@
       "id": "317",
       "regionSite": "21-94",
       "name": "Full-One Lasertag, Winterberg, DE",
-      "gamesTotal": 9316,
-      "lastActivity": "before 2026"
+      "gamesTotal": 9391,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "379",
@@ -568,8 +568,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 642,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 643,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "437",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8127,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 8154,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "309",
@@ -764,8 +764,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 290,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 296,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "465",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67626,
-      "lastActivity": "before 2026"
+      "gamesTotal": 67736,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "28",
@@ -1632,28 +1632,28 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38347,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 38361,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4663,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 4669,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3198,
+      "gamesTotal": 3230,
       "lastActivity": "2026-03-17"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 16592,
+      "gamesTotal": 16610,
       "lastActivity": "2026-03-17"
     },
     {
@@ -1674,15 +1674,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 734,
-      "lastActivity": "before 2026"
+      "gamesTotal": 747,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3423,
-      "lastActivity": "before 2026"
+      "gamesTotal": 3436,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "434",
@@ -1800,8 +1800,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 21929,
-      "lastActivity": "before 2026"
+      "gamesTotal": 22032,
+      "lastActivity": "2026-03-17"
     },
     {
       "id": "306",
