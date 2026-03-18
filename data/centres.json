@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-18T06:31:05.034Z",
+  "lastUpdated": "2026-03-18T08:56:09.758Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 42,
+  "lastCheckedIndex": 321,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 37581,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 37618,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "321",
@@ -568,8 +568,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 656,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 661,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "437",
@@ -1457,8 +1457,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44391,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 44392,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "485",
@@ -2255,8 +2255,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 28,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 29,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "419",
