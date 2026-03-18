@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-18T08:56:09.758Z",
+  "lastUpdated": "2026-03-18T16:47:48.967Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 321,
+  "lastCheckedIndex": 272,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82081,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 82100,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "353",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 37618,
+      "gamesTotal": 37657,
       "lastActivity": "2026-03-18"
     },
     {
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 495,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 496,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "431",
@@ -995,8 +995,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28214,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 28216,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "329",
@@ -1282,8 +1282,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2500,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 2502,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "178",
@@ -1422,8 +1422,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7322,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 7325,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "330",
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 523,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 525,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "100",
