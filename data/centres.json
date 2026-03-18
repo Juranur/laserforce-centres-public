@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-17T20:53:16.864Z",
+  "lastUpdated": "2026-03-18T06:31:05.034Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 105,
+  "lastCheckedIndex": 42,
   "centres": [
     {
       "id": "159",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 645,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 648,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "206",
@@ -960,8 +960,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41678,
-      "lastActivity": "before 2026"
+      "gamesTotal": 41714,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "278",
@@ -1002,8 +1002,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9220,
-      "lastActivity": "2026-03-14"
+      "gamesTotal": 9230,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "188",
@@ -1345,8 +1345,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60008,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 60013,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "339",
@@ -1401,8 +1401,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44752,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 44753,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "448",
@@ -1527,8 +1527,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 89864,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 89895,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "39",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16186,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 16198,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115214,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 115325,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "441",
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2281,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 2312,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "111",
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1185,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 1188,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "299",
@@ -2248,8 +2248,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 603,
-      "lastActivity": "before 2026"
+      "gamesTotal": 604,
+      "lastActivity": "2026-03-18"
     },
     {
       "id": "490",
