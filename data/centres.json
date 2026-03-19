@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-19T08:52:13.639Z",
+  "lastUpdated": "2026-03-19T15:34:12.068Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 99,
+  "lastCheckedIndex": 48,
   "centres": [
     {
       "id": "159",
@@ -792,8 +792,8 @@
       "id": "323",
       "regionSite": "4-137",
       "name": "Idle Hours South, PA, USA",
-      "gamesTotal": 586,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 588,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "87",
@@ -953,8 +953,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 78,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 79,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "56",
@@ -1072,8 +1072,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 205885,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 205898,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "165",
@@ -1394,8 +1394,8 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12363,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 12364,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "246",
