@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-19T06:07:23.883Z",
+  "lastUpdated": "2026-03-19T08:52:13.639Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 157,
+  "lastCheckedIndex": 99,
   "centres": [
     {
       "id": "159",
@@ -1261,8 +1261,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 62887,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 62899,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "231",
@@ -1282,8 +1282,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2502,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 2510,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "178",
@@ -1317,8 +1317,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58092,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 58122,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "373",
@@ -1331,8 +1331,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 2770,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 2783,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "191",
@@ -1366,8 +1366,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79174,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 79228,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "167",
@@ -1401,8 +1401,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44771,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 44773,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "448",
@@ -1415,8 +1415,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78380,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 78515,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "436",
@@ -1499,8 +1499,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29834,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 29866,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "194",
@@ -1527,8 +1527,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 89895,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 89913,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "39",
@@ -2255,8 +2255,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 29,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 36,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "419",
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 525,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 526,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "100",
