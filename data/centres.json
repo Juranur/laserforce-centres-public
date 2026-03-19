@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-18T20:47:12.923Z",
+  "lastUpdated": "2026-03-19T06:07:23.883Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 218,
+  "lastCheckedIndex": 157,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52842,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 52908,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "254",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 648,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 649,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "206",
@@ -1674,8 +1674,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 747,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 760,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "426",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37015,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 37019,
+      "lastActivity": "2026-03-19"
     },
     {
       "id": "58",
