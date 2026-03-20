@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-19T20:47:53.689Z",
+  "lastUpdated": "2026-03-20T05:59:56.224Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 331,
+  "lastCheckedIndex": 269,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28012,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 28188,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "25",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3322,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 3324,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "184",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82160,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 82275,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52908,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 52911,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "254",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 649,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 650,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "206",
@@ -1401,8 +1401,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44773,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 44805,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "448",
@@ -1457,8 +1457,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44405,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 44411,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "485",
@@ -1527,8 +1527,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 89913,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 89922,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "39",
@@ -1870,8 +1870,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1035,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 1036,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "224",
@@ -2091,6 +2091,13 @@
       "lastActivity": "2026-03-12"
     },
     {
+      "id": "371",
+      "regionSite": "1-86",
+      "name": "Strike Bowling Wollongong, NSW, Australia",
+      "gamesTotal": 17,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Carousel, Cannington, WA, AU",
@@ -2151,13 +2158,6 @@
       "regionSite": "1-32",
       "name": "Strike Laser Skirmish, Wintergarden, QLD, AU",
       "gamesTotal": 429,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "371",
-      "regionSite": "1-86",
-      "name": "Strike Wollongong, Wollongong, NSW, AU",
-      "gamesTotal": 17,
       "lastActivity": "before 2026"
     },
     {
