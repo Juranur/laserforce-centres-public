@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-20T08:50:18.677Z",
+  "lastUpdated": "2026-03-20T15:23:56.926Z",
   "totalCentres": 338,
   "centresWithData": 338,
-  "lastCheckedIndex": 218,
+  "lastCheckedIndex": 172,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15525,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 15528,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "392",
@@ -337,7 +337,7 @@
       "id": "35",
       "regionSite": "1-38",
       "name": "Cairns Kart Hire, Laser Tag & Escape Rooms, Cairns, QLD, AU",
-      "gamesTotal": 6003,
+      "gamesTotal": 6004,
       "lastActivity": "2026-03-20"
     },
     {
@@ -953,8 +953,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 81,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 83,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "56",
@@ -995,8 +995,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28216,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 28217,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "329",
@@ -1198,7 +1198,7 @@
       "id": "12",
       "regionSite": "1-15",
       "name": "Laserpunk Laserforce",
-      "gamesTotal": 18569,
+      "gamesTotal": 18571,
       "lastActivity": "2026-03-20"
     },
     {
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37019,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 37020,
+      "lastActivity": "2026-03-20"
     },
     {
       "id": "58",
@@ -1947,7 +1947,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16288,
+      "gamesTotal": 16302,
       "lastActivity": "2026-03-20"
     },
     {
