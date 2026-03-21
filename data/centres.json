@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-21T05:46:09.852Z",
+  "lastUpdated": "2026-03-21T08:38:19.980Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 45,
+  "lastCheckedIndex": 323,
   "centres": [
     {
       "id": "159",
@@ -351,8 +351,8 @@
       "id": "254",
       "regionSite": "21-84",
       "name": "Caribbean Sports GmbH, Oberderdingen, DE",
-      "gamesTotal": 742,
-      "lastActivity": "before 2026"
+      "gamesTotal": 743,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "396",
@@ -596,8 +596,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2555,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 2564,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "383",
@@ -750,8 +750,8 @@
       "id": "313",
       "regionSite": "3-7",
       "name": "Game Over, Albany, NZ",
-      "gamesTotal": 659,
-      "lastActivity": "before 2026"
+      "gamesTotal": 660,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "475",
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 652,
+      "gamesTotal": 653,
       "lastActivity": "2026-03-21"
     },
     {
@@ -799,7 +799,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67738,
+      "gamesTotal": 67740,
       "lastActivity": "2026-03-21"
     },
     {
@@ -1429,8 +1429,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7396,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 7402,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "330",
@@ -1961,8 +1961,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115397,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 115399,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "441",
@@ -2052,8 +2052,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 608,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 609,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "195",
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46078,
-      "lastActivity": "2026-03-12"
+      "gamesTotal": 46157,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "371",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2344,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 2350,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "111",
@@ -2192,8 +2192,8 @@
       "id": "40",
       "regionSite": "1-46",
       "name": "The Big Banana, Coffs Harbour, NSW, AU",
-      "gamesTotal": 5351,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 5356,
+      "lastActivity": "2026-03-21"
     },
     {
       "id": "406",
