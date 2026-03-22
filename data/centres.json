@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-22T08:43:07.154Z",
+  "lastUpdated": "2026-03-22T14:47:16.350Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 95,
+  "lastCheckedIndex": 43,
   "centres": [
     {
       "id": "159",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3324,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 3326,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "184",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1138,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 1141,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "360",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2473,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 2526,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "116",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 653,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 657,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "206",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67740,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 67782,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "28",
@@ -904,7 +904,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29897,
+      "gamesTotal": 29898,
       "lastActivity": "2026-03-22"
     },
     {
@@ -967,8 +967,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4270,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 4272,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "133",
@@ -981,8 +981,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17281,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 17292,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "161",
@@ -995,8 +995,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28315,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 28320,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "329",
@@ -1023,8 +1023,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31045,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 31046,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "189",
@@ -1079,8 +1079,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25457,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 25459,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "148",
@@ -1149,8 +1149,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32471,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 32475,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "446",
@@ -1177,8 +1177,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11831,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 11832,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "211",
@@ -1191,8 +1191,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9420,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 9424,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "12",
@@ -1254,8 +1254,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14836,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 14838,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "230",
@@ -1282,8 +1282,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2522,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 2523,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "178",
@@ -1338,7 +1338,7 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 2926,
+      "gamesTotal": 3228,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1359,7 +1359,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23899,
+      "gamesTotal": 23905,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1373,14 +1373,14 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79314,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 79337,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42224,
+      "gamesTotal": 42229,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1408,7 +1408,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44930,
+      "gamesTotal": 44943,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1422,7 +1422,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78616,
+      "gamesTotal": 78634,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1443,8 +1443,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35005,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 35007,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "296",
@@ -1457,15 +1457,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33463,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 33474,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44414,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 44415,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "485",
@@ -1506,8 +1506,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29880,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 29890,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "194",
@@ -1653,7 +1653,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3261,
+      "gamesTotal": 3277,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1744,7 +1744,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25395,
+      "gamesTotal": 25396,
       "lastActivity": "2026-03-22"
     },
     {
@@ -1835,8 +1835,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7161,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 7163,
+      "lastActivity": "2026-03-22"
     },
     {
       "id": "166",
@@ -2171,7 +2171,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2354,
+      "gamesTotal": 2377,
       "lastActivity": "2026-03-22"
     },
     {
