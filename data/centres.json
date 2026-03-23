@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-23T06:40:04.073Z",
+  "lastUpdated": "2026-03-23T10:13:13.081Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 262,
+  "lastCheckedIndex": 201,
   "centres": [
     {
       "id": "159",
@@ -140,14 +140,14 @@
     {
       "id": "184",
       "regionSite": "1-61",
-      "name": "Archie Brothers, Alexandria, NSW, AU",
+      "name": "Archie Brothers Alexandria, NSW, Australia",
       "gamesTotal": 1418,
       "lastActivity": "before 2026"
     },
     {
       "id": "367",
       "regionSite": "1-85",
-      "name": "Archie Brothers, Docklands, VIC, AU",
+      "name": "Archie Brothers Docklands, VIC, Australia",
       "gamesTotal": 317,
       "lastActivity": "before 2026"
     },
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67782,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 67868,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "28",
@@ -866,10 +866,24 @@
       "lastActivity": "before 2026"
     },
     {
+      "id": "233",
+      "regionSite": "1-65",
+      "name": "Kingpin Crown, Southbank, VIC, Australia",
+      "gamesTotal": 2989,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "303",
       "regionSite": "1-75",
       "name": "Kingpin Macarthur, Campbelltown, NSW, AU",
       "gamesTotal": 1150,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "37",
+      "regionSite": "1-40",
+      "name": "Kingpin North Strathfield, NSW, Australia",
+      "gamesTotal": 1648,
       "lastActivity": "before 2026"
     },
     {
@@ -1072,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 205901,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 205955,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "165",
@@ -1268,8 +1282,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11850,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 11867,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "245",
@@ -1401,8 +1415,8 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12387,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 12391,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "246",
@@ -1542,48 +1556,6 @@
       "regionSite": "1-43",
       "name": "M9 Laser Skirmish Blacktown, NSW, AU",
       "gamesTotal": 78,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "24",
-      "regionSite": "1-27",
-      "name": "M9 Laser Skirmish Cross Roads, SA, AU",
-      "gamesTotal": 21,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "233",
-      "regionSite": "1-65",
-      "name": "M9 Laser Skirmish Crown Casino, VIC, AU",
-      "gamesTotal": 2989,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "37",
-      "regionSite": "1-40",
-      "name": "M9 Laser Skirmish North Strathfield, NSW, AU",
-      "gamesTotal": 1648,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "34",
-      "regionSite": "1-37",
-      "name": "M9 Laser Skirmish Penrith, NSW, AU",
-      "gamesTotal": 135,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "18",
-      "regionSite": "1-21",
-      "name": "M9 Laser Skirmish Rooty Hill, NSW, AU",
-      "gamesTotal": 5,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "21",
-      "regionSite": "1-24",
-      "name": "M9 Laser Skirmish Watergardens, VIC, AU",
-      "gamesTotal": 233,
       "lastActivity": "before 2026"
     },
     {
@@ -1905,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 114,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 124,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "265",
@@ -1954,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16791,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 16801,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115431,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 115446,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "441",
@@ -2098,10 +2070,66 @@
       "lastActivity": "2026-03-21"
     },
     {
+      "id": "29",
+      "regionSite": "1-32",
+      "name": "Strike Bowling Brisbane City, QLD, Australia",
+      "gamesTotal": 429,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
       "gamesTotal": 294,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "22",
+      "regionSite": "1-25",
+      "name": "Strike Bowling Charlestown, NSW, Australia",
+      "gamesTotal": 32,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "20",
+      "regionSite": "1-23",
+      "name": "Strike Bowling Chatswood, NSW, Australia",
+      "gamesTotal": 294,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "27",
+      "regionSite": "1-30",
+      "name": "Strike Bowling Entertainment Quarter, Moore Park, NSW, Australia",
+      "gamesTotal": 21,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "31",
+      "regionSite": "1-34",
+      "name": "Strike Bowling Frankston, VIC, Australia",
+      "gamesTotal": 3253,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "357",
+      "regionSite": "1-84",
+      "name": "Strike Bowling Karrinyup, WA, Australia",
+      "gamesTotal": 148,
+      "lastActivity": "2026-03-22"
+    },
+    {
+      "id": "45",
+      "regionSite": "1-51",
+      "name": "Strike Bowling Macquarie, NSW, Australia",
+      "gamesTotal": 977,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "30",
+      "regionSite": "1-33",
+      "name": "Strike Bowling Melbourne Central, VIC, Australia",
+      "gamesTotal": 4093,
       "lastActivity": "before 2026"
     },
     {
@@ -2112,67 +2140,11 @@
       "lastActivity": "before 2026"
     },
     {
-      "id": "357",
-      "regionSite": "1-84",
-      "name": "Strike Karrinyup, Karrinyup, WA, AU",
-      "gamesTotal": 148,
-      "lastActivity": "2026-03-22"
-    },
-    {
-      "id": "31",
-      "regionSite": "1-34",
-      "name": "Strike Laser Skirmish Bayside, Vic, AU",
-      "gamesTotal": 3253,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "22",
-      "regionSite": "1-25",
-      "name": "Strike Laser Skirmish Charlestown, NSW, AU",
-      "gamesTotal": 32,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "20",
-      "regionSite": "1-23",
-      "name": "Strike Laser Skirmish Chatswood, NSW, AU",
-      "gamesTotal": 294,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "27",
-      "regionSite": "1-30",
-      "name": "Strike Laser Skirmish EQ, Moore Park, NSW, AU",
-      "gamesTotal": 21,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "45",
-      "regionSite": "1-51",
-      "name": "Strike Laser Skirmish Macquarie, NSW, AU",
-      "gamesTotal": 977,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "30",
-      "regionSite": "1-33",
-      "name": "Strike Laser Skirmish, Melbourne Central, Vic, AU",
-      "gamesTotal": 4093,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "29",
-      "regionSite": "1-32",
-      "name": "Strike Laser Skirmish, Wintergarden, QLD, AU",
-      "gamesTotal": 429,
-      "lastActivity": "before 2026"
-    },
-    {
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2377,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 2388,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "111",
@@ -2199,8 +2171,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1256,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 1287,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "299",
@@ -2220,8 +2192,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81946,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 81947,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "413",
@@ -2376,6 +2348,34 @@
       "name": "Wyncity Morwell, Morwell, VIC",
       "gamesTotal": 416,
       "lastActivity": "2026-03-21"
+    },
+    {
+      "id": "24",
+      "regionSite": "1-27",
+      "name": "Zone Bowling Cross Road, Westbourne Park, SA, Australia",
+      "gamesTotal": 21,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "34",
+      "regionSite": "1-37",
+      "name": "Zone Bowling Penrith, NSW, Australia",
+      "gamesTotal": 135,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "21",
+      "regionSite": "1-24",
+      "name": "Zone Bowling Watergardens, VIC, Australia",
+      "gamesTotal": 233,
+      "lastActivity": "before 2026"
+    },
+    {
+      "id": "18",
+      "regionSite": "1-21",
+      "name": "Zone Bowling West HQ, Rooty Hill, NSW, Australia",
+      "gamesTotal": 5,
+      "lastActivity": "before 2026"
     }
   ]
 }
