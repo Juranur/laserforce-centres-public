@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-22T20:06:02.620Z",
+  "lastUpdated": "2026-03-23T06:40:04.073Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 320,
+  "lastCheckedIndex": 262,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28196,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 28198,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15531,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 15553,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "392",
@@ -64,8 +64,8 @@
       "id": "486",
       "regionSite": "7-25",
       "name": "AirHop Adventure & Trampoline Park, Guildford, United Kingdom",
-      "gamesTotal": 26,
-      "lastActivity": "before 2026"
+      "gamesTotal": 29,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "138",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12498,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 12515,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "340",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3326,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 3349,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "184",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52922,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 52972,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "254",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25494,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 25495,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "234",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34581,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 34582,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "96",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2781,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 2782,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 657,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 661,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "206",
@@ -918,8 +918,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1640,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 1642,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "128",
@@ -939,8 +939,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6578,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 6604,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "218",
@@ -981,8 +981,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17292,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 17294,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "161",
@@ -995,8 +995,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28373,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 28387,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "329",
@@ -1149,8 +1149,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32475,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 32479,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "446",
@@ -1191,8 +1191,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9424,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 9428,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "12",
@@ -1352,8 +1352,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60013,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 60040,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "339",
@@ -1373,8 +1373,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79384,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 79398,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "167",
@@ -1394,8 +1394,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48349,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 48356,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "141",
@@ -1429,8 +1429,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7423,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 7460,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "330",
@@ -1478,8 +1478,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9209,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 9226,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "43",
@@ -1506,8 +1506,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29917,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 29924,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "194",
@@ -1520,8 +1520,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4245,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4246,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "173",
@@ -2098,17 +2098,17 @@
       "lastActivity": "2026-03-21"
     },
     {
+      "id": "344",
+      "regionSite": "1-77",
+      "name": "Strike Bowling Carousel, Cannington, WA, Australia",
+      "gamesTotal": 294,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "371",
       "regionSite": "1-86",
       "name": "Strike Bowling Wollongong, NSW, Australia",
       "gamesTotal": 17,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "344",
-      "regionSite": "1-77",
-      "name": "Strike Carousel, Cannington, WA, AU",
-      "gamesTotal": 294,
       "lastActivity": "before 2026"
     },
     {
@@ -2262,8 +2262,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 41,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 44,
+      "lastActivity": "2026-03-23"
     },
     {
       "id": "419",
