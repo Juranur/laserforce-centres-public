@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-24T16:38:13.218Z",
+  "lastUpdated": "2026-03-24T20:52:01.061Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 238,
+  "lastCheckedIndex": 186,
   "centres": [
     {
       "id": "159",
@@ -1205,7 +1205,7 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9430,
+      "gamesTotal": 9461,
       "lastActivity": "2026-03-24"
     },
     {
@@ -1716,8 +1716,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25493,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 25528,
+      "lastActivity": "2026-03-24"
     },
     {
       "id": "99",
@@ -1926,14 +1926,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16802,
+      "gamesTotal": 16830,
       "lastActivity": "2026-03-24"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115465,
+      "gamesTotal": 115523,
       "lastActivity": "2026-03-24"
     },
     {
@@ -2066,8 +2066,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46157,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 46158,
+      "lastActivity": "2026-03-24"
     },
     {
       "id": "29",
@@ -2325,8 +2325,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 529,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 533,
+      "lastActivity": "2026-03-24"
     },
     {
       "id": "100",
