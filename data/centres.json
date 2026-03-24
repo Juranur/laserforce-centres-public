@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-24T06:06:46.965Z",
+  "lastUpdated": "2026-03-24T08:59:12.665Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 11,
+  "lastCheckedIndex": 299,
   "centres": [
     {
       "id": "159",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 100924,
-      "lastActivity": "before 2026"
+      "gamesTotal": 100976,
+      "lastActivity": "2026-03-24"
     },
     {
       "id": "8",
