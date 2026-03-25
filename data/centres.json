@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-25T16:45:21.637Z",
+  "lastUpdated": "2026-03-25T20:49:43.987Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 4,
+  "lastCheckedIndex": 293,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82485,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 82512,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "353",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1141,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 1142,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "360",
@@ -309,8 +309,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2713,
-      "lastActivity": "before 2026"
+      "gamesTotal": 2717,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "81",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52972,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 52988,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "254",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38022,
+      "gamesTotal": 38048,
       "lastActivity": "2026-03-25"
     },
     {
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25495,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 25496,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "234",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 12971,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 12979,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "368",
@@ -1016,8 +1016,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9262,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 9264,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "188",
@@ -1247,8 +1247,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5126,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 5130,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "252",
@@ -1282,8 +1282,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11867,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 11868,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "245",
@@ -1387,15 +1387,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79398,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 79468,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42237,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 42246,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "168",
@@ -1429,14 +1429,14 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4227,
+      "gamesTotal": 4230,
       "lastActivity": "2026-03-25"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78677,
+      "gamesTotal": 78819,
       "lastActivity": "2026-03-25"
     },
     {
@@ -1478,7 +1478,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44516,
+      "gamesTotal": 44520,
       "lastActivity": "2026-03-25"
     },
     {
@@ -1520,7 +1520,7 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29925,
+      "gamesTotal": 29965,
       "lastActivity": "2026-03-25"
     },
     {
