@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-25T06:08:34.903Z",
+  "lastUpdated": "2026-03-25T08:57:40.145Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 124,
+  "lastCheckedIndex": 62,
   "centres": [
     {
       "id": "159",
@@ -932,15 +932,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1642,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 1643,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42654,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 42755,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "160",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41714,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 41743,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "278",
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55407,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 55411,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "134",
@@ -1905,8 +1905,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37020,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 37027,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "58",
