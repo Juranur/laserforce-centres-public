@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-24T20:52:01.061Z",
+  "lastUpdated": "2026-03-25T06:08:34.903Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 186,
+  "lastCheckedIndex": 124,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 157,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 159,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "312",
@@ -568,8 +568,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 673,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 679,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "437",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 661,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 662,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "206",
@@ -1422,8 +1422,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 44965,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 45060,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "448",
@@ -1436,8 +1436,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78659,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 78673,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "436",
@@ -1478,8 +1478,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44511,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 44516,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "485",
@@ -1499,8 +1499,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75327,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 75366,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "44",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 89982,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 90034,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "39",
@@ -1597,8 +1597,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 726,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 755,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "9",
@@ -1611,8 +1611,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38555,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 38580,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "293",
@@ -1625,15 +1625,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3337,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 3349,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 16679,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 16750,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "385",
@@ -1653,15 +1653,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 788,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 916,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3437,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 3438,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "434",
@@ -1877,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 124,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 129,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "265",
@@ -1926,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16830,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 16864,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115523,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 115529,
+      "lastActivity": "2026-03-25"
     },
     {
       "id": "441",
