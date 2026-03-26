@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-26T06:43:07.304Z",
+  "lastUpdated": "2026-03-26T09:28:17.543Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 229,
+  "lastCheckedIndex": 164,
   "centres": [
     {
       "id": "159",
@@ -1905,8 +1905,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37027,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 37029,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "58",
@@ -1926,8 +1926,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16864,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 16875,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "349",
