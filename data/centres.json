@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-25T20:49:43.987Z",
+  "lastUpdated": "2026-03-26T06:43:07.304Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 293,
+  "lastCheckedIndex": 229,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15553,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 15587,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "392",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 52988,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 53016,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "254",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 434,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 435,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "421",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 12979,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 12980,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "368",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28395,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 28398,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "329",
@@ -1275,8 +1275,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63030,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 63078,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "231",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90034,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 90129,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "39",
@@ -1597,8 +1597,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 755,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 788,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "9",
@@ -2066,8 +2066,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46188,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 46216,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "29",
@@ -2234,8 +2234,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 44,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 51,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "419",
@@ -2325,8 +2325,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 533,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 554,
+      "lastActivity": "2026-03-26"
     },
     {
       "id": "100",
