@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-27T16:02:13.222Z",
+  "lastUpdated": "2026-03-27T20:44:00.419Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 205,
+  "lastCheckedIndex": 140,
   "centres": [
     {
       "id": "159",
@@ -22,7 +22,7 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1678,
+      "gamesTotal": 1682,
       "lastActivity": "2026-03-27"
     },
     {
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53016,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 53019,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "254",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17779,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 17781,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "487",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7352,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 7369,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "282",
@@ -596,8 +596,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2569,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 2571,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "383",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1206,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 1212,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "468",
@@ -813,8 +813,8 @@
       "id": "458",
       "regionSite": "7-23",
       "name": "Jump In by Air Hop Elstree, Borehamwood, United Kingdom",
-      "gamesTotal": 118,
-      "lastActivity": "before 2026"
+      "gamesTotal": 139,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "86",
@@ -1457,7 +1457,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35024,
+      "gamesTotal": 35038,
       "lastActivity": "2026-03-27"
     },
     {
@@ -1471,8 +1471,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33478,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 33479,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "164",
@@ -1492,15 +1492,15 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9229,
+      "gamesTotal": 9266,
       "lastActivity": "2026-03-27"
     },
     {
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75366,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 75388,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "44",
@@ -1520,15 +1520,15 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 29965,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 29966,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 13993,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 13994,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "137",
@@ -1716,8 +1716,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25528,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 25534,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "99",
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22200,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 22218,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "306",
@@ -1807,8 +1807,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7165,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 7167,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "166",
@@ -1828,8 +1828,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 470,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 472,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "399",
@@ -1891,7 +1891,7 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11979,
+      "gamesTotal": 11980,
       "lastActivity": "2026-03-27"
     },
     {
@@ -2066,8 +2066,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46317,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 46450,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "29",
