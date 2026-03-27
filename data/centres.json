@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-27T06:43:29.633Z",
+  "lastUpdated": "2026-03-27T09:00:24.341Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 327,
+  "lastCheckedIndex": 268,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28198,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 28295,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "25",
@@ -78,8 +78,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1237,
-      "lastActivity": "2026-03-13"
+      "gamesTotal": 1239,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "101",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85324,
-      "lastActivity": "2026-03-18"
+      "gamesTotal": 85327,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "113",
@@ -1303,8 +1303,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16375,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 16387,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "493",
