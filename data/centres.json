@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-27T09:00:24.341Z",
+  "lastUpdated": "2026-03-27T16:02:13.222Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 268,
+  "lastCheckedIndex": 205,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1676,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 1678,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "269",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 435,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 437,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "421",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 497,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 498,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "431",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28419,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 28425,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "329",
@@ -1135,7 +1135,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85327,
+      "gamesTotal": 85330,
       "lastActivity": "2026-03-27"
     },
     {
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5632,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 5635,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "308",
@@ -1422,8 +1422,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45060,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 45085,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "448",
@@ -1891,8 +1891,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11975,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 11979,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "384",
@@ -1926,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16875,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 16913,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115546,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 115578,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "441",
@@ -2171,8 +2171,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1287,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 1288,
+      "lastActivity": "2026-03-27"
     },
     {
       "id": "299",
