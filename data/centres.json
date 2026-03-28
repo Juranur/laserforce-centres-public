@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-28T06:07:11.871Z",
+  "lastUpdated": "2026-03-28T08:49:15.753Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 86,
+  "lastCheckedIndex": 26,
   "centres": [
     {
       "id": "159",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 664,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 669,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "206",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67868,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 67870,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "28",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29902,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 29910,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "154",
@@ -953,8 +953,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6608,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 6611,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "218",
@@ -1877,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 129,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 132,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "265",
@@ -2003,8 +2003,8 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3353,
-      "lastActivity": "before 2026"
+      "gamesTotal": 3354,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "7",
@@ -2171,8 +2171,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1288,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 1292,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "299",
@@ -2346,8 +2346,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 416,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 440,
+      "lastActivity": "2026-03-28"
     },
     {
       "id": "24",
