@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-28T20:37:10.826Z",
+  "lastUpdated": "2026-03-29T06:46:16.769Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 253,
+  "lastCheckedIndex": 191,
   "centres": [
     {
       "id": "159",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3349,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 3353,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "184",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17781,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 17782,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "487",
@@ -526,8 +526,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 42,
-      "lastActivity": "before 2026"
+      "gamesTotal": 43,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "452",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34651,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 34658,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "96",
@@ -652,8 +652,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 716,
-      "lastActivity": "2026-03-20"
+      "gamesTotal": 717,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "105",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2782,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 2783,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "46",
@@ -771,15 +771,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1212,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 1218,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 669,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 670,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "206",
@@ -932,8 +932,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1643,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 1644,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "128",
@@ -1191,8 +1191,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11834,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 11835,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "211",
@@ -1282,8 +1282,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11918,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 11920,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "245",
@@ -1807,8 +1807,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7188,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 7189,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "166",
@@ -1877,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 132,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 135,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "265",
@@ -1912,8 +1912,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116531,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 116546,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "272",
@@ -1926,8 +1926,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 16913,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 17014,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "349",
@@ -2143,8 +2143,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2389,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 2390,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "111",
@@ -2171,8 +2171,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1294,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 1295,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "299",
@@ -2185,15 +2185,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1597,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 1635,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81951,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 81968,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "413",
@@ -2234,8 +2234,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 53,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 55,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "419",
