@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-29T14:55:00.338Z",
+  "lastUpdated": "2026-03-29T20:39:21.905Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 66,
+  "lastCheckedIndex": 6,
   "centres": [
     {
       "id": "159",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25516,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 25562,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "234",
@@ -533,8 +533,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 492,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 495,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "242",
@@ -568,8 +568,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 679,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 685,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "437",
@@ -610,7 +610,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34658,
+      "gamesTotal": 34667,
       "lastActivity": "2026-03-29"
     },
     {
@@ -652,7 +652,7 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 717,
+      "gamesTotal": 722,
       "lastActivity": "2026-03-29"
     },
     {
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 437,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 443,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "421",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 499,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 500,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "431",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13006,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 13027,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "368",
@@ -918,7 +918,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29917,
+      "gamesTotal": 29926,
       "lastActivity": "2026-03-29"
     },
     {
@@ -939,8 +939,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42767,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 42771,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "160",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 132,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 152,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "56",
@@ -1205,8 +1205,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9467,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 9468,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "12",
@@ -1247,7 +1247,7 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5143,
+      "gamesTotal": 5145,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1275,14 +1275,14 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63193,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 63266,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11920,
+      "gamesTotal": 11946,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1296,7 +1296,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2539,
+      "gamesTotal": 2550,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1331,15 +1331,15 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7601,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 7604,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58140,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 58147,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "373",
@@ -1366,14 +1366,14 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60046,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 60068,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23939,
+      "gamesTotal": 23949,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1457,7 +1457,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35043,
+      "gamesTotal": 35153,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1548,7 +1548,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90169,
+      "gamesTotal": 90171,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1660,7 +1660,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3442,
+      "gamesTotal": 3447,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1716,7 +1716,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25646,
+      "gamesTotal": 25681,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22240,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 22334,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "306",
@@ -1828,8 +1828,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 472,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 478,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "399",
@@ -1870,14 +1870,14 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 15333,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 15439,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 135,
+      "gamesTotal": 146,
       "lastActivity": "2026-03-29"
     },
     {
@@ -1933,8 +1933,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115578,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 115662,
+      "lastActivity": "2026-03-29"
     },
     {
       "id": "441",
@@ -2003,7 +2003,7 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3356,
+      "gamesTotal": 3357,
       "lastActivity": "2026-03-29"
     },
     {
@@ -2171,7 +2171,7 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1295,
+      "gamesTotal": 1298,
       "lastActivity": "2026-03-29"
     },
     {
