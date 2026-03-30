@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T07:16:45.973Z",
+  "lastUpdated": "2026-03-30T16:47:10.797Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 281,
+  "lastCheckedIndex": 216,
   "centres": [
     {
       "id": "159",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1682,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 1708,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15602,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 15620,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "392",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82560,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 82691,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "353",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38177,
+      "gamesTotal": 38204,
       "lastActivity": "2026-03-30"
     },
     {
@@ -596,8 +596,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2571,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 2572,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "383",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 443,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 449,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "421",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 500,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 501,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "431",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 152,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 158,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "56",
@@ -1009,7 +1009,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28555,
+      "gamesTotal": 28557,
       "lastActivity": "2026-03-30"
     },
     {
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206006,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 206111,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "165",
@@ -1247,8 +1247,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5145,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 5148,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "252",
@@ -1268,8 +1268,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14850,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 14854,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "230",
@@ -1380,8 +1380,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37211,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 37218,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "243",
@@ -1422,7 +1422,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45374,
+      "gamesTotal": 45382,
       "lastActivity": "2026-03-30"
     },
     {
@@ -1436,8 +1436,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78896,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 78942,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "436",
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33487,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 33490,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44550,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 44560,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "485",
@@ -2066,8 +2066,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46468,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 46526,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "29",
@@ -2143,8 +2143,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2390,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 2401,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "111",
@@ -2171,8 +2171,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1298,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 1299,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "299",
@@ -2192,8 +2192,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81968,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 81970,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "413",
@@ -2234,8 +2234,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 55,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 56,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "419",
