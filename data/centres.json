@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T16:47:10.797Z",
+  "lastUpdated": "2026-03-30T20:55:57.850Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 216,
+  "lastCheckedIndex": 170,
   "centres": [
     {
       "id": "159",
@@ -57,8 +57,8 @@
       "id": "355",
       "regionSite": "21-110",
       "name": "Adventure World, Oberhausen, DE",
-      "gamesTotal": 3955,
-      "lastActivity": "before 2026"
+      "gamesTotal": 3958,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "486",
@@ -92,8 +92,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 127,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 128,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "213",
@@ -491,7 +491,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25588,
+      "gamesTotal": 25589,
       "lastActivity": "2026-03-30"
     },
     {
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34667,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 34692,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "96",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13027,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 13028,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "368",
@@ -1527,8 +1527,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 13999,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 14001,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "137",
@@ -1611,15 +1611,15 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38587,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 38707,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4671,
-      "lastActivity": "2026-03-17"
+      "gamesTotal": 4706,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "457",
@@ -1639,15 +1639,15 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12539,
+      "gamesTotal": 12586,
       "lastActivity": "2026-03-30"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2865,
-      "lastActivity": "before 2026"
+      "gamesTotal": 2867,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "469",
@@ -1863,8 +1863,8 @@
       "id": "480",
       "regionSite": "1-91",
       "name": "Powerkarts Canberra, Griffith, ACT, AU",
-      "gamesTotal": 67,
-      "lastActivity": "before 2026"
+      "gamesTotal": 69,
+      "lastActivity": "2026-03-30"
     },
     {
       "id": "140",
@@ -1926,14 +1926,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17407,
+      "gamesTotal": 17410,
       "lastActivity": "2026-03-30"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115668,
+      "gamesTotal": 115688,
       "lastActivity": "2026-03-30"
     },
     {
