@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T16:44:06.966Z",
+  "lastUpdated": "2026-03-31T20:55:20.567Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 324,
+  "lastCheckedIndex": 259,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1708,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 1714,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "269",
@@ -155,8 +155,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4530,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 4537,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "372",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 685,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 703,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "437",
@@ -582,7 +582,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8199,
+      "gamesTotal": 8201,
       "lastActivity": "2026-03-31"
     },
     {
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8679,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 8693,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "404",
@@ -771,7 +771,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1228,
+      "gamesTotal": 1237,
       "lastActivity": "2026-03-31"
     },
     {
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29926,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 29930,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "154",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 158,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 161,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "56",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28557,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 28568,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "329",
@@ -1051,8 +1051,8 @@
       "id": "438",
       "regionSite": "24-6",
       "name": "Laserdance #1, Vienna, Austria",
-      "gamesTotal": 11,
-      "lastActivity": "2026-03-19"
+      "gamesTotal": 13,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "439",
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5914,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 5919,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "308",
@@ -1191,8 +1191,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11835,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 11843,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "211",
@@ -1268,7 +1268,7 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14874,
+      "gamesTotal": 14882,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1296,14 +1296,14 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2557,
+      "gamesTotal": 2559,
       "lastActivity": "2026-03-31"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16451,
+      "gamesTotal": 16455,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1317,7 +1317,7 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5077,
+      "gamesTotal": 5082,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1359,7 +1359,7 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19442,
+      "gamesTotal": 19446,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1387,14 +1387,14 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79622,
+      "gamesTotal": 79626,
       "lastActivity": "2026-03-31"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42296,
+      "gamesTotal": 42316,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1422,21 +1422,21 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45385,
+      "gamesTotal": 45386,
       "lastActivity": "2026-03-31"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4266,
+      "gamesTotal": 4270,
       "lastActivity": "2026-03-31"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78997,
+      "gamesTotal": 79008,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1471,7 +1471,7 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33516,
+      "gamesTotal": 33517,
       "lastActivity": "2026-03-31"
     },
     {
@@ -1632,8 +1632,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 16758,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 16826,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "385",
@@ -1716,8 +1716,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25681,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 25727,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "99",
