@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T06:48:16.229Z",
+  "lastUpdated": "2026-03-31T10:38:01.870Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 111,
+  "lastCheckedIndex": 47,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82691,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 82755,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "353",
@@ -841,8 +841,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 380,
-      "lastActivity": "before 2026"
+      "gamesTotal": 381,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "90",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 78942,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 78948,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "436",
@@ -1450,8 +1450,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35153,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 35156,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "296",
