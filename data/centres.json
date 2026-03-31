@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T20:55:57.850Z",
+  "lastUpdated": "2026-03-31T06:48:16.229Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 170,
+  "lastCheckedIndex": 111,
   "centres": [
     {
       "id": "159",
@@ -516,13 +516,6 @@
       "lastActivity": "before 2026"
     },
     {
-      "id": "261",
-      "regionSite": "4-106",
-      "name": "Freeway Lanes, Solon, OH, USA",
-      "gamesTotal": 98,
-      "lastActivity": "before 2026"
-    },
-    {
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
@@ -778,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 672,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 673,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "206",
@@ -1268,15 +1261,15 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14854,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 14870,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63266,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 63346,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "231",
@@ -1296,15 +1289,15 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2550,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 2557,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16387,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 16448,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "493",
@@ -1338,8 +1331,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58147,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 58274,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "373",
@@ -1422,15 +1415,15 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45382,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 45385,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4256,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 4266,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "212",
@@ -1443,8 +1436,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7490,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 7588,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "330",
@@ -1471,15 +1464,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33490,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 33516,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44560,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 44599,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "485",
@@ -1951,6 +1944,13 @@
       "lastActivity": "before 2026"
     },
     {
+      "id": "261",
+      "regionSite": "4-106",
+      "name": "RollHouse Columbus, OH, United States",
+      "gamesTotal": 98,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "423",
       "regionSite": "21-121",
       "name": "Sax Racing GmbH, Schkeuditz, DE",
@@ -2192,8 +2192,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81970,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 81979,
+      "lastActivity": "2026-03-31"
     },
     {
       "id": "413",
