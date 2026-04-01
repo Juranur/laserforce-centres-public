@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T20:55:20.567Z",
-  "totalCentres": 340,
-  "centresWithData": 340,
-  "lastCheckedIndex": 259,
+  "lastUpdated": "2026-04-01T07:04:53.997Z",
+  "totalCentres": 339,
+  "centresWithData": 339,
+  "lastCheckedIndex": 203,
   "centres": [
     {
       "id": "159",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25592,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 25596,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "234",
@@ -526,8 +526,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 498,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 499,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "242",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 703,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 706,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "437",
@@ -1195,13 +1195,6 @@
       "lastActivity": "2026-03-31"
     },
     {
-      "id": "211",
-      "regionSite": "21-53",
-      "name": "Laserplex LaserTag Arena Dusseldorf, DE",
-      "gamesTotal": 9479,
-      "lastActivity": "before 2026"
-    },
-    {
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
@@ -1373,8 +1366,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23949,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 23954,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "143",
@@ -1891,8 +1884,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11983,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 11988,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "384",
@@ -1905,8 +1898,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37029,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 37037,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "58",
@@ -1926,15 +1919,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17417,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 17479,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115688,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 115782,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "441",
@@ -2332,8 +2325,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 561,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 563,
+      "lastActivity": "2026-04-01"
     },
     {
       "id": "100",
