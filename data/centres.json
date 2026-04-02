@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-01T20:58:21.534Z",
+  "lastUpdated": "2026-04-02T06:42:13.039Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 89,
+  "lastCheckedIndex": 25,
   "centres": [
     {
       "id": "159",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8696,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 8777,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "404",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 449,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 453,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "421",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 673,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 674,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "206",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41743,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 41796,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "278",
@@ -1037,8 +1037,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31056,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 31058,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "189",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90222,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 90329,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "39",
@@ -1709,8 +1709,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25727,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 25733,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "99",
@@ -1870,8 +1870,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 158,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 162,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "265",
@@ -1884,8 +1884,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11988,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 11994,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "384",
@@ -1919,15 +1919,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17479,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 17487,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115782,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 115783,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "441",
