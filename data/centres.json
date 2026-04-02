@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-02T06:42:13.039Z",
+  "lastUpdated": "2026-04-02T10:33:49.266Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 25,
+  "lastCheckedIndex": 300,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53068,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 53114,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "254",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 162,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 164,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "312",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38264,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 38288,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "321",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 706,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 707,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "437",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34692,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 34697,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "478",
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206111,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 206120,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "165",
@@ -1296,8 +1296,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16455,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 16459,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "493",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79033,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 79045,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "436",
@@ -1800,8 +1800,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7208,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 7212,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "166",
@@ -1898,8 +1898,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37037,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 37040,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "58",
@@ -1919,14 +1919,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17487,
+      "gamesTotal": 17521,
       "lastActivity": "2026-04-02"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115783,
+      "gamesTotal": 115802,
       "lastActivity": "2026-04-02"
     },
     {
