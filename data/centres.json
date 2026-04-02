@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-02T10:33:49.266Z",
+  "lastUpdated": "2026-04-02T16:29:09.062Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 300,
+  "lastCheckedIndex": 238,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1714,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 1726,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "269",
@@ -302,8 +302,8 @@
       "id": "205",
       "regionSite": "21-46",
       "name": "Bowling Room Trier Betriebs GmbH, DE",
-      "gamesTotal": 6863,
-      "lastActivity": "before 2026"
+      "gamesTotal": 6865,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "258",
@@ -757,7 +757,7 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 453,
+      "gamesTotal": 458,
       "lastActivity": "2026-04-02"
     },
     {
@@ -1016,8 +1016,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9281,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 9287,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "188",
@@ -1275,8 +1275,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11967,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 11974,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "245",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2581,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 2609,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "178",
@@ -1359,8 +1359,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60090,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 60095,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "339",
@@ -1373,8 +1373,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37218,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 37224,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "243",
@@ -1415,8 +1415,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45386,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 45392,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "448",
@@ -1450,8 +1450,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35225,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 35267,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "296",
@@ -1464,8 +1464,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33509,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 33513,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "164",
@@ -1618,8 +1618,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3433,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 3434,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "381",
@@ -1653,8 +1653,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3447,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 3462,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "434",
@@ -2143,8 +2143,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2403,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 2420,
+      "lastActivity": "2026-04-02"
     },
     {
       "id": "111",
