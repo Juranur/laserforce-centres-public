@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-03T15:21:28.379Z",
+  "lastUpdated": "2026-04-03T20:45:58.885Z",
   "totalCentres": 340,
   "centresWithData": 339,
-  "lastCheckedIndex": 23,
+  "lastCheckedIndex": 296,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53114,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 53120,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "254",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38345,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 38404,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "321",
@@ -652,8 +652,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 722,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 723,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "105",
@@ -771,14 +771,14 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1243,
+      "gamesTotal": 1250,
       "lastActivity": "2026-04-03"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 681,
+      "gamesTotal": 682,
       "lastActivity": "2026-04-03"
     },
     {
@@ -890,7 +890,7 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13029,
+      "gamesTotal": 13030,
       "lastActivity": "2026-04-03"
     },
     {
@@ -995,8 +995,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17294,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 17331,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "161",
@@ -1016,7 +1016,7 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9289,
+      "gamesTotal": 9293,
       "lastActivity": "2026-04-03"
     },
     {
@@ -1079,8 +1079,8 @@
       "id": "420",
       "regionSite": "7-21",
       "name": "Laserforce Barrow, Barrow-in-Furness, UK",
-      "gamesTotal": 71,
-      "lastActivity": "2026-03-23"
+      "gamesTotal": 76,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "2",
@@ -1121,8 +1121,8 @@
       "id": "416",
       "regionSite": "7-19",
       "name": "Laserforce Preston, Preston, UK",
-      "gamesTotal": 115,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 116,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "216",
@@ -1163,8 +1163,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32480,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 32492,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "446",
@@ -1191,8 +1191,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11848,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 11854,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "298",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2609,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 2646,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "178",
@@ -1317,15 +1317,15 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9437,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 9478,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7604,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 7608,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "279",
@@ -1366,8 +1366,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23962,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 23966,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "143",
@@ -1401,7 +1401,7 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48403,
+      "gamesTotal": 48414,
       "lastActivity": "2026-04-03"
     },
     {
@@ -1415,7 +1415,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45485,
+      "gamesTotal": 45511,
       "lastActivity": "2026-04-03"
     },
     {
@@ -1450,7 +1450,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35269,
+      "gamesTotal": 35271,
       "lastActivity": "2026-04-03"
     },
     {
@@ -1527,8 +1527,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4247,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 4253,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "173",
@@ -1646,8 +1646,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 940,
-      "lastActivity": "2026-03-26"
+      "gamesTotal": 1074,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "426",
@@ -1772,7 +1772,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22370,
+      "gamesTotal": 22389,
       "lastActivity": "2026-04-03"
     },
     {
@@ -1954,8 +1954,8 @@
       "id": "423",
       "regionSite": "21-121",
       "name": "Sax Racing GmbH, Schkeuditz, DE",
-      "gamesTotal": 98,
-      "lastActivity": "before 2026"
+      "gamesTotal": 103,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "464",
