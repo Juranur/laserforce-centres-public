@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-03T06:43:09.366Z",
+  "lastUpdated": "2026-04-03T09:27:40.456Z",
   "totalCentres": 339,
   "centresWithData": 339,
-  "lastCheckedIndex": 124,
+  "lastCheckedIndex": 74,
   "centres": [
     {
       "id": "159",
@@ -302,8 +302,8 @@
       "id": "205",
       "regionSite": "21-46",
       "name": "Bowling Room Trier Betriebs GmbH, DE",
-      "gamesTotal": 6865,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 6875,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "258",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13028,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 13029,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "368",
@@ -1016,8 +1016,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9287,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 9288,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "188",
@@ -1359,8 +1359,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60095,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 60096,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "339",
@@ -1401,8 +1401,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48371,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 48380,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "141",
@@ -1772,8 +1772,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22365,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 22368,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "306",
@@ -1919,8 +1919,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17571,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 17602,
+      "lastActivity": "2026-04-03"
     },
     {
       "id": "349",
