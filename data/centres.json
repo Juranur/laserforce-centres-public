@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-04T06:06:39.635Z",
+  "lastUpdated": "2026-04-04T08:52:22.787Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 231,
+  "lastCheckedIndex": 177,
   "centres": [
     {
       "id": "159",
@@ -29,7 +29,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15649,
+      "gamesTotal": 15650,
       "lastActivity": "2026-04-04"
     },
     {
@@ -148,8 +148,8 @@
       "id": "367",
       "regionSite": "1-85",
       "name": "Archie Brothers Docklands, VIC, Australia",
-      "gamesTotal": 317,
-      "lastActivity": "before 2026"
+      "gamesTotal": 318,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "238",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2526,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 2530,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "116",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 460,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 467,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "421",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67970,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 67980,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "28",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29934,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 29946,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "154",
@@ -1170,15 +1170,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5926,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 5927,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55475,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 55476,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "134",
@@ -1646,8 +1646,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 1074,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 1288,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "426",
@@ -1709,8 +1709,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25739,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 25744,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "99",
@@ -1800,8 +1800,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7238,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 7239,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "166",
@@ -1842,8 +1842,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1038,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 1039,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "224",
@@ -1884,8 +1884,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11996,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 11997,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "384",
@@ -1919,15 +1919,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17602,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 17670,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115821,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 115956,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "441",
