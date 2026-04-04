@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-04T08:52:22.787Z",
+  "lastUpdated": "2026-04-04T14:54:35.814Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 177,
+  "lastCheckedIndex": 114,
   "centres": [
     {
       "id": "159",
@@ -22,14 +22,14 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1744,
+      "gamesTotal": 1761,
       "lastActivity": "2026-04-04"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15650,
+      "gamesTotal": 15658,
       "lastActivity": "2026-04-04"
     },
     {
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3461,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 3462,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "184",
@@ -155,8 +155,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4547,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 4558,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "372",
@@ -176,8 +176,8 @@
       "id": "187",
       "regionSite": "21-38",
       "name": "Baltic Adventures, Greifswald, DE",
-      "gamesTotal": 901,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 909,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "289",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53120,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 53127,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "254",
@@ -589,8 +589,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2572,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 2574,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "383",
@@ -680,8 +680,8 @@
       "id": "473",
       "regionSite": "7-24",
       "name": "Funstation Merry Hill, Brierley Hill, United Kingdom",
-      "gamesTotal": 13,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 18,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "110",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1250,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 1257,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "468",
@@ -1275,8 +1275,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11979,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 11980,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "245",
@@ -1296,15 +1296,15 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16463,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 16464,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 58,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 77,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "380",
@@ -1324,8 +1324,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7608,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 7612,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "279",
@@ -1338,8 +1338,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3089,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 3092,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "455",
@@ -1380,8 +1380,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 79689,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 79697,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "167",
@@ -1415,7 +1415,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45549,
+      "gamesTotal": 45557,
       "lastActivity": "2026-04-04"
     },
     {
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79115,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 79160,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "436",
@@ -1471,8 +1471,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44625,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 44773,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "485",
@@ -1646,7 +1646,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 1288,
+      "gamesTotal": 1962,
       "lastActivity": "2026-04-04"
     },
     {
@@ -1709,7 +1709,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25744,
+      "gamesTotal": 25747,
       "lastActivity": "2026-04-04"
     },
     {
@@ -1772,8 +1772,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22389,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 22420,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "306",
@@ -1821,8 +1821,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 478,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 480,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "399",
