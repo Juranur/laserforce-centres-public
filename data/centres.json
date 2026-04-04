@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T20:45:58.885Z",
+  "lastUpdated": "2026-04-04T06:06:39.635Z",
   "totalCentres": 340,
-  "centresWithData": 339,
-  "lastCheckedIndex": 296,
+  "centresWithData": 340,
+  "lastCheckedIndex": 231,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28487,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 28489,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "25",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1742,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 1744,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15646,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 15649,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "392",
@@ -92,8 +92,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 129,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 130,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "213",
@@ -652,8 +652,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 723,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 724,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "105",
@@ -764,8 +764,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 297,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 300,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "465",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2646,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 2657,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "178",
@@ -1366,8 +1366,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23966,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 23967,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "143",
@@ -1415,8 +1415,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45511,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 45549,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "448",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90329,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 90338,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "39",
@@ -2192,8 +2192,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81979,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 81998,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "413",
@@ -2234,8 +2234,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 57,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 59,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "419",
@@ -2262,8 +2262,8 @@
       "id": "489",
       "regionSite": "45-1",
       "name": "Turbo Multicentar, Belgrade, Serbia",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "112",
@@ -2332,8 +2332,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 564,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 567,
+      "lastActivity": "2026-04-04"
     },
     {
       "id": "100",
