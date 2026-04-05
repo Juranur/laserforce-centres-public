@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-05T14:56:43.187Z",
+  "lastUpdated": "2026-04-05T20:41:22.517Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 217,
+  "lastCheckedIndex": 153,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12671,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 12680,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "340",
@@ -134,7 +134,7 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3469,
+      "gamesTotal": 3537,
       "lastActivity": "2026-04-05"
     },
     {
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53134,
+      "gamesTotal": 53197,
       "lastActivity": "2026-04-05"
     },
     {
@@ -393,7 +393,7 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17804,
+      "gamesTotal": 17822,
       "lastActivity": "2026-04-05"
     },
     {
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38420,
+      "gamesTotal": 38429,
       "lastActivity": "2026-04-05"
     },
     {
@@ -526,7 +526,7 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 502,
+      "gamesTotal": 503,
       "lastActivity": "2026-04-05"
     },
     {
@@ -589,8 +589,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2574,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 2575,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "383",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8777,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 8783,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "404",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28667,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 28669,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "329",
@@ -1583,8 +1583,8 @@
       "id": "271",
       "regionSite": "21-68",
       "name": "maXtag, Norden, Germany",
-      "gamesTotal": 3270,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 3274,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "476",
@@ -1646,7 +1646,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2430,
+      "gamesTotal": 2916,
       "lastActivity": "2026-04-05"
     },
     {
@@ -1709,8 +1709,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25747,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 25819,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "99",
@@ -1772,7 +1772,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22430,
+      "gamesTotal": 22510,
       "lastActivity": "2026-04-05"
     },
     {
@@ -1800,8 +1800,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7248,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 7252,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "166",
@@ -1863,8 +1863,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 15439,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 15533,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "491",
@@ -1884,8 +1884,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 11998,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 12000,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "384",
@@ -1919,15 +1919,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17671,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 17724,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 115956,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 116041,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "441",
