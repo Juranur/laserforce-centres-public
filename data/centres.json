@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-04T20:36:10.310Z",
+  "lastUpdated": "2026-04-05T06:46:52.637Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 51,
+  "lastCheckedIndex": 330,
   "centres": [
     {
       "id": "159",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17796,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 17804,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "487",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 164,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 169,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "312",
@@ -463,15 +463,15 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38404,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 38416,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "321",
       "regionSite": "4-136",
       "name": "Fast Lane Entertainment, AR, USA",
-      "gamesTotal": 3256,
-      "lastActivity": "before 2026"
+      "gamesTotal": 3257,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "479",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25632,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 25639,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "234",
@@ -526,8 +526,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 500,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 502,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "242",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8211,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 8218,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "309",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2530,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 2534,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "116",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2785,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 2789,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "46",
@@ -771,15 +771,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1257,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 1259,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 682,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 685,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "206",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67980,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 67999,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "28",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13030,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 13041,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "368",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85480,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 85482,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "113",
@@ -1352,8 +1352,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19446,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 19451,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "219",
@@ -1387,8 +1387,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42346,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 42394,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "168",
@@ -1401,8 +1401,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48417,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 48421,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "141",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79160,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 79175,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "436",
@@ -1471,8 +1471,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44773,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 44862,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "485",
@@ -1506,15 +1506,15 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6700,
-      "lastActivity": "before 2026"
+      "gamesTotal": 6703,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30027,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 30028,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "194",
@@ -1604,8 +1604,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38753,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 38779,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "293",
@@ -1646,8 +1646,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 1962,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 2430,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "426",
@@ -1688,8 +1688,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8952,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 8955,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "255",
@@ -1772,8 +1772,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22420,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 22430,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "306",
@@ -1905,8 +1905,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116548,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 116561,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "272",
@@ -2143,8 +2143,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2430,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 2433,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "111",
@@ -2185,15 +2185,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1635,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 1648,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 81998,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 82034,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "413",
@@ -2234,8 +2234,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 59,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 60,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "419",
