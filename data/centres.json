@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-05T06:46:52.637Z",
+  "lastUpdated": "2026-04-05T08:56:01.345Z",
   "totalCentres": 340,
   "centresWithData": 340,
-  "lastCheckedIndex": 330,
+  "lastCheckedIndex": 282,
   "centres": [
     {
       "id": "159",
@@ -92,8 +92,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 130,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 132,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "213",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3462,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 3468,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "184",
@@ -176,8 +176,8 @@
       "id": "187",
       "regionSite": "21-38",
       "name": "Baltic Adventures, Greifswald, DE",
-      "gamesTotal": 909,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 913,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "289",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53127,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 53134,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "254",
@@ -799,7 +799,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 67999,
+      "gamesTotal": 68009,
       "lastActivity": "2026-04-05"
     },
     {
@@ -1163,8 +1163,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32501,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 32504,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "446",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90338,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 90340,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "39",
@@ -1870,8 +1870,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 162,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 163,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "265",
@@ -2332,8 +2332,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 567,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 569,
+      "lastActivity": "2026-04-05"
     },
     {
       "id": "100",
