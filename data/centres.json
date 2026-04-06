@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-06T15:29:31.795Z",
+  "lastUpdated": "2026-04-06T20:54:14.902Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 28,
+  "lastCheckedIndex": 306,
   "centres": [
     {
       "id": "159",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34697,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 34733,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "478",
@@ -645,7 +645,7 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8795,
+      "gamesTotal": 8796,
       "lastActivity": "2026-04-06"
     },
     {
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1259,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 1261,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "468",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28669,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 28670,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "329",
@@ -1261,21 +1261,21 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14882,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 14898,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63506,
+      "gamesTotal": 63610,
       "lastActivity": "2026-04-06"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 11992,
+      "gamesTotal": 12006,
       "lastActivity": "2026-04-06"
     },
     {
@@ -1359,14 +1359,14 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60171,
+      "gamesTotal": 60174,
       "lastActivity": "2026-04-06"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 23985,
+      "gamesTotal": 23992,
       "lastActivity": "2026-04-06"
     },
     {
@@ -1401,8 +1401,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48421,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 48428,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "141",
@@ -1429,7 +1429,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79341,
+      "gamesTotal": 79382,
       "lastActivity": "2026-04-06"
     },
     {
@@ -1471,7 +1471,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44864,
+      "gamesTotal": 44880,
       "lastActivity": "2026-04-06"
     },
     {
@@ -1611,15 +1611,15 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38779,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 38830,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4706,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 4710,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "457",
@@ -1807,8 +1807,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7252,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 7268,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "166",
@@ -1898,8 +1898,8 @@
       "id": "384",
       "regionSite": "7-16",
       "name": "Quasar Norwich, Norwich, UK",
-      "gamesTotal": 148,
-      "lastActivity": "2026-03-25"
+      "gamesTotal": 149,
+      "lastActivity": "2026-04-06"
     },
     {
       "id": "153",
