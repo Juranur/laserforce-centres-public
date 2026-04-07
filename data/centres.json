@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-07T06:55:24.806Z",
+  "lastUpdated": "2026-04-07T17:07:22.328Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 238,
+  "lastCheckedIndex": 172,
   "centres": [
     {
       "id": "159",
@@ -519,8 +519,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 43,
-      "lastActivity": "2026-03-29"
+      "gamesTotal": 52,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "452",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34733,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 34749,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "478",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29957,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 29961,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42774,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 42821,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "160",
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5935,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 5949,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "308",
@@ -1191,15 +1191,15 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11854,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 11858,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9472,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 9487,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "12",
@@ -1807,8 +1807,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7268,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 7281,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "166",
@@ -1877,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 163,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 164,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "265",
@@ -1905,8 +1905,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37040,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 37044,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "58",
@@ -1926,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17757,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 17761,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116076,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 116079,
+      "lastActivity": "2026-04-07"
     },
     {
       "id": "441",
