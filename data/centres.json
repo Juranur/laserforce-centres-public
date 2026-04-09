@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-09T14:52:02.580Z",
+  "lastUpdated": "2026-04-09T20:09:29.121Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 77,
+  "lastCheckedIndex": 14,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28492,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 28585,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "25",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1792,
+      "gamesTotal": 1794,
       "lastActivity": "2026-04-09"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15694,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 15719,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "392",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8242,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 8248,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "309",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34757,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 34798,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "478",
@@ -652,15 +652,15 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 724,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 725,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6035,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 6037,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "359",
@@ -764,8 +764,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 300,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 301,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "465",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 176,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 177,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "56",
@@ -1107,8 +1107,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 875,
-      "lastActivity": "2026-03-28"
+      "gamesTotal": 877,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "389",
@@ -1268,15 +1268,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63656,
+      "gamesTotal": 63699,
       "lastActivity": "2026-04-09"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12006,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 12008,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "245",
@@ -1289,7 +1289,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2720,
+      "gamesTotal": 2724,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1310,7 +1310,7 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5135,
+      "gamesTotal": 5142,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1324,8 +1324,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7655,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 7665,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "279",
@@ -1359,7 +1359,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60224,
+      "gamesTotal": 60228,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1415,7 +1415,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45732,
+      "gamesTotal": 45751,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1436,7 +1436,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7668,
+      "gamesTotal": 7678,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1450,7 +1450,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35371,
+      "gamesTotal": 35411,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1625,7 +1625,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3513,
+      "gamesTotal": 3514,
       "lastActivity": "2026-04-09"
     },
     {
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22513,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 22549,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "306",
@@ -1940,8 +1940,8 @@
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 505,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 506,
+      "lastActivity": "2026-04-09"
     },
     {
       "id": "346",
@@ -2073,7 +2073,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46899,
+      "gamesTotal": 46999,
       "lastActivity": "2026-04-09"
     },
     {
