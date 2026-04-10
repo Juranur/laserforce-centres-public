@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-09T20:09:29.121Z",
+  "lastUpdated": "2026-04-10T04:19:30.745Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 14,
+  "lastCheckedIndex": 289,
   "centres": [
     {
       "id": "159",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3555,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 3566,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "184",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 82974,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 83082,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "353",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38494,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 38516,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "321",
@@ -1170,15 +1170,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5963,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 5967,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55487,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 55489,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "134",
@@ -1345,8 +1345,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3402,
-      "lastActivity": "2026-04-01"
+      "gamesTotal": 3419,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "191",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79566,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 79576,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "436",
@@ -1471,22 +1471,22 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44888,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 44898,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 3,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9453,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 9455,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "43",
@@ -1807,8 +1807,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7295,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 7296,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "166",
@@ -1849,8 +1849,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1039,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 1041,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "224",
@@ -1891,8 +1891,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12000,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 12002,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "384",
@@ -1926,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17858,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 17882,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116166,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 116219,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "441",
