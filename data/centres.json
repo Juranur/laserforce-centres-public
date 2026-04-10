@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-10T04:19:30.745Z",
+  "lastUpdated": "2026-04-10T08:42:51.471Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 289,
+  "lastCheckedIndex": 225,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28585,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 28615,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "25",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85656,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 85659,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "113",
@@ -1212,8 +1212,8 @@
       "id": "382",
       "regionSite": "1-78",
       "name": "Laserquest Geelong, Geelong VIC, AU",
-      "gamesTotal": 525,
-      "lastActivity": "before 2026"
+      "gamesTotal": 526,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "443",
@@ -1415,8 +1415,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45751,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 45760,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "448",
@@ -2241,8 +2241,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 71,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 78,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "419",
