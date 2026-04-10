@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-10T08:42:51.471Z",
+  "lastUpdated": "2026-04-10T14:18:05.486Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 225,
+  "lastCheckedIndex": 167,
   "centres": [
     {
       "id": "159",
@@ -155,8 +155,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4560,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 4562,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "372",
@@ -281,8 +281,8 @@
       "id": "239",
       "regionSite": "33-1",
       "name": "Bowl n Fun, Kolding, Denmark",
-      "gamesTotal": 81,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 83,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "250",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13093,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 13095,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "368",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28671,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 28672,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "329",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 100976,
-      "lastActivity": "2026-03-24"
+      "gamesTotal": 100978,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "8",
@@ -1170,7 +1170,7 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 5967,
+      "gamesTotal": 5969,
       "lastActivity": "2026-04-10"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9468,
-      "lastActivity": "before 2026"
+      "gamesTotal": 9471,
+      "lastActivity": "2026-04-10"
     },
     {
       "id": "302",
@@ -1807,7 +1807,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7296,
+      "gamesTotal": 7297,
       "lastActivity": "2026-04-10"
     },
     {
@@ -1891,7 +1891,7 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12002,
+      "gamesTotal": 12007,
       "lastActivity": "2026-04-10"
     },
     {
@@ -1926,7 +1926,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 17882,
+      "gamesTotal": 17902,
       "lastActivity": "2026-04-10"
     },
     {
