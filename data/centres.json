@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-11T08:01:52.380Z",
+  "lastUpdated": "2026-04-11T14:05:46.988Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 314,
+  "lastCheckedIndex": 253,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28615,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 28624,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "25",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3566,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 3568,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "184",
@@ -162,7 +162,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83285,
+      "gamesTotal": 83307,
       "lastActivity": "2026-04-11"
     },
     {
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5854,
-      "lastActivity": "2026-03-15"
+      "gamesTotal": 5861,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "98",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53297,
+      "gamesTotal": 53301,
       "lastActivity": "2026-04-11"
     },
     {
@@ -421,7 +421,7 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7468,
+      "gamesTotal": 7474,
       "lastActivity": "2026-04-11"
     },
     {
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38541,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 38555,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "321",
@@ -757,7 +757,7 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 470,
+      "gamesTotal": 471,
       "lastActivity": "2026-04-11"
     },
     {
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1263,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 1269,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "468",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 508,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 509,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "431",
@@ -1191,15 +1191,15 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11862,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 11864,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9506,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 9514,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "12",
@@ -1261,8 +1261,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14902,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 14903,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "230",
@@ -1352,8 +1352,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19501,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 19510,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "219",
@@ -1366,8 +1366,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24015,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 24018,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "143",
@@ -1415,7 +1415,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45864,
+      "gamesTotal": 45876,
       "lastActivity": "2026-04-11"
     },
     {
@@ -1436,8 +1436,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7686,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 7695,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "330",
@@ -1520,8 +1520,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 14002,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 14007,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "137",
@@ -1716,8 +1716,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25858,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 25862,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "99",
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22599,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 22621,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "306",
@@ -2234,14 +2234,14 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 606,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 607,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 86,
+      "gamesTotal": 89,
       "lastActivity": "2026-04-11"
     },
     {
@@ -2360,8 +2360,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 522,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 526,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "24",
