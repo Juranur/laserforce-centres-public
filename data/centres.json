@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-11T03:43:12.965Z",
+  "lastUpdated": "2026-04-11T08:01:52.380Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 35,
+  "lastCheckedIndex": 314,
   "centres": [
     {
       "id": "159",
@@ -260,8 +260,8 @@
       "id": "281",
       "regionSite": "33-4",
       "name": "Bowl n Fun Odense ApS, Odense, Denmark",
-      "gamesTotal": 167,
-      "lastActivity": "before 2026"
+      "gamesTotal": 169,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "318",
@@ -274,8 +274,8 @@
       "id": "307",
       "regionSite": "33-7",
       "name": "Bowl n Fun Svendborg ApS, Svendborg, DK",
-      "gamesTotal": 71,
-      "lastActivity": "before 2026"
+      "gamesTotal": 73,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "239",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53296,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 53297,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "254",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17822,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 17825,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "487",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7456,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 7468,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "282",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34798,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 34801,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "478",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6037,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 6038,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "359",
@@ -1205,8 +1205,8 @@
       "id": "12",
       "regionSite": "1-15",
       "name": "Laserpunk Laserforce",
-      "gamesTotal": 18572,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 18581,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "382",
@@ -1541,7 +1541,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90499,
+      "gamesTotal": 90505,
       "lastActivity": "2026-04-11"
     },
     {
@@ -2150,8 +2150,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2440,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 2443,
+      "lastActivity": "2026-04-11"
     },
     {
       "id": "111",
