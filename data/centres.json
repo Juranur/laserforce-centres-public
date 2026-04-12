@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-12T04:23:29.149Z",
+  "lastUpdated": "2026-04-12T08:15:39.350Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 140,
+  "lastCheckedIndex": 77,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1794,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 1798,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "269",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 169,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 173,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "312",
@@ -1163,22 +1163,22 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32518,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 32555,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6074,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 6075,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55491,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 55495,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "134",
@@ -1261,8 +1261,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14903,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 14913,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "230",
@@ -1352,8 +1352,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19510,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 19526,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "219",
@@ -1415,7 +1415,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45897,
+      "gamesTotal": 45898,
       "lastActivity": "2026-04-12"
     },
     {
@@ -2150,8 +2150,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2443,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 2447,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "111",
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82077,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 82148,
+      "lastActivity": "2026-04-12"
     },
     {
       "id": "413",
