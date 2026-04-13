@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-13T04:29:39.290Z",
+  "lastUpdated": "2026-04-13T09:06:54.449Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 233,
+  "lastCheckedIndex": 167,
   "centres": [
     {
       "id": "159",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68133,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 68205,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "28",
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206136,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 206160,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "165",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85742,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 85762,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "113",
@@ -1660,8 +1660,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3466,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 3476,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "434",
@@ -1786,8 +1786,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9495,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 9498,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "302",
@@ -1870,15 +1870,15 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 15533,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 15633,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 165,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 166,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "265",
@@ -1926,15 +1926,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18044,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 18101,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116307,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 116331,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "441",
