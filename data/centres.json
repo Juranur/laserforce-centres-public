@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-13T14:50:04.422Z",
+  "lastUpdated": "2026-04-13T20:14:54.383Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 103,
+  "lastCheckedIndex": 40,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83307,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 83494,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "353",
@@ -204,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 2971,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 2972,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "262",
@@ -932,15 +932,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1646,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 1648,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42931,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 42937,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "160",
@@ -981,8 +981,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4294,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 4297,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "133",
@@ -1086,7 +1086,7 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206160,
+      "gamesTotal": 206226,
       "lastActivity": "2026-04-13"
     },
     {
@@ -1135,7 +1135,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85762,
+      "gamesTotal": 85828,
       "lastActivity": "2026-04-13"
     },
     {
@@ -1296,8 +1296,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16464,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 16527,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "493",
@@ -1331,8 +1331,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58505,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 58626,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "373",
@@ -1464,15 +1464,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33565,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 33583,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44909,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 44985,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "485",
@@ -1639,8 +1639,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12586,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 12699,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "386",
@@ -1926,14 +1926,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18101,
+      "gamesTotal": 18109,
       "lastActivity": "2026-04-13"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116331,
+      "gamesTotal": 116352,
       "lastActivity": "2026-04-13"
     },
     {
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82148,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 82152,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "413",
