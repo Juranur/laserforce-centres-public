@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-12T19:51:45.275Z",
+  "lastUpdated": "2026-04-13T04:29:39.290Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 292,
+  "lastCheckedIndex": 233,
   "centres": [
     {
       "id": "159",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1799,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 1800,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15719,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 15753,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "392",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12687,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 12702,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "340",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3608,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 3629,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "184",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25694,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 25718,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "234",
@@ -652,8 +652,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 731,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 735,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "105",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2789,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 2790,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "46",
@@ -953,8 +953,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6615,
-      "lastActivity": "2026-04-02"
+      "gamesTotal": 6617,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "218",
@@ -995,8 +995,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17345,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 17346,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "161",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28859,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 28865,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "329",
@@ -1324,8 +1324,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7669,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 7685,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "279",
@@ -1366,15 +1366,15 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24047,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 24062,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37236,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 37260,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "243",
@@ -1408,15 +1408,15 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12447,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 12461,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 45991,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 46060,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "448",
@@ -1450,8 +1450,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35459,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 35589,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "296",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90512,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 90517,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "39",
@@ -2192,8 +2192,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1648,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 1660,
+      "lastActivity": "2026-04-13"
     },
     {
       "id": "74",
