@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T08:49:15.880Z",
+  "lastUpdated": "2026-04-14T14:53:10.866Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 249,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1171,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 1173,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "360",
@@ -981,8 +981,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4297,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 4302,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "133",
@@ -1905,8 +1905,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37049,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 37050,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "58",
