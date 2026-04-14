@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-13T20:14:54.383Z",
+  "lastUpdated": "2026-04-14T04:19:41.180Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 40,
+  "lastCheckedIndex": 315,
   "centres": [
     {
       "id": "159",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7475,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 7502,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "282",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 173,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 176,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "312",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 718,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 719,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "437",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34806,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 34859,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "478",
@@ -1331,8 +1331,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58626,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 58659,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "373",
@@ -1359,8 +1359,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60261,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 60275,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "339",
@@ -1611,8 +1611,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38872,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 38949,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "293",
@@ -1646,8 +1646,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2867,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 2899,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "469",
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82152,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 82229,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "413",
