@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-14T04:19:41.180Z",
+  "lastUpdated": "2026-04-14T08:49:15.880Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 315,
+  "lastCheckedIndex": 249,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28710,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 28741,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "25",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 100978,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 100988,
+      "lastActivity": "2026-04-14"
     },
     {
       "id": "8",
