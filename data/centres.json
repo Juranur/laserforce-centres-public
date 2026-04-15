@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T04:18:11.248Z",
+  "lastUpdated": "2026-04-15T08:49:59.784Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 75,
+  "lastCheckedIndex": 51,
   "centres": [
     {
       "id": "159",
@@ -78,8 +78,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1239,
-      "lastActivity": "2026-03-27"
+      "gamesTotal": 1240,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "101",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 719,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 725,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "437",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6043,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 6046,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "359",
@@ -764,8 +764,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 306,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 309,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "465",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41832,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 41872,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "278",
@@ -1485,8 +1485,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9513,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 9519,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "43",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90517,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 90563,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "39",
@@ -1835,8 +1835,8 @@
       "id": "399",
       "regionSite": "32-3",
       "name": "Playsquare Central Eastville, Thailand",
-      "gamesTotal": 1183,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 1185,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "332",
@@ -1926,8 +1926,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18109,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 18170,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "349",
@@ -2339,8 +2339,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 571,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 573,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "100",
