@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T08:49:59.784Z",
+  "lastUpdated": "2026-04-15T14:46:21.832Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 51,
+  "lastCheckedIndex": 326,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38642,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 38726,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "321",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 191,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 192,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "56",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85828,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 85909,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "113",
@@ -2073,8 +2073,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 46999,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 47006,
+      "lastActivity": "2026-04-15"
     },
     {
       "id": "29",
