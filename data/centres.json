@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T20:29:23.880Z",
+  "lastUpdated": "2026-04-16T04:25:14.962Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 260,
+  "lastCheckedIndex": 206,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53395,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 53403,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "254",
@@ -1107,8 +1107,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 937,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 995,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "389",
@@ -1877,8 +1877,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 166,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 169,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "265",
@@ -1905,8 +1905,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37050,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 37055,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "58",
@@ -1926,8 +1926,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18170,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 18179,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "349",
@@ -2073,8 +2073,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47006,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 47080,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "29",
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82330,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 82472,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "413",
