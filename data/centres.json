@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-16T08:49:36.479Z",
+  "lastUpdated": "2026-04-16T14:54:47.908Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 152,
+  "lastCheckedIndex": 89,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83568,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 83583,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "353",
@@ -197,15 +197,15 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1195,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 1212,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 2974,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 2975,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "262",
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206226,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 206247,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "165",
@@ -1380,8 +1380,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80048,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 80096,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "167",
@@ -1415,8 +1415,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46061,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 46172,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "448",
@@ -1961,8 +1961,8 @@
       "id": "423",
       "regionSite": "21-121",
       "name": "Sax Racing GmbH, Schkeuditz, DE",
-      "gamesTotal": 103,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 105,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "464",
@@ -2073,7 +2073,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47080,
+      "gamesTotal": 47088,
       "lastActivity": "2026-04-16"
     },
     {
