@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-16T14:54:47.908Z",
+  "lastUpdated": "2026-04-16T20:16:34.926Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 89,
+  "lastCheckedIndex": 23,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15756,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 15760,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "392",
@@ -155,14 +155,14 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4579,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 4581,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83583,
+      "gamesTotal": 83674,
       "lastActivity": "2026-04-16"
     },
     {
@@ -848,8 +848,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 381,
-      "lastActivity": "2026-03-31"
+      "gamesTotal": 382,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "90",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29987,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 29989,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "154",
@@ -1198,8 +1198,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9553,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 9554,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "12",
@@ -1275,8 +1275,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12023,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 12051,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "245",
@@ -1625,8 +1625,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3637,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 3643,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "381",
@@ -1653,8 +1653,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2918,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 2921,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "426",
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22776,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 22788,
+      "lastActivity": "2026-04-16"
     },
     {
       "id": "306",
@@ -2073,7 +2073,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47088,
+      "gamesTotal": 47194,
       "lastActivity": "2026-04-16"
     },
     {
