@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-17T08:50:41.345Z",
+  "lastUpdated": "2026-04-17T14:38:16.492Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 230,
+  "lastCheckedIndex": 167,
   "centres": [
     {
       "id": "159",
@@ -169,7 +169,7 @@
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1864,
+      "gamesTotal": 1865,
       "lastActivity": "2026-04-17"
     },
     {
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28869,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 28871,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "329",
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6085,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 6086,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "308",
@@ -1786,8 +1786,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9510,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 9517,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "302",
@@ -1926,22 +1926,22 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18179,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 18222,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116467,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 116520,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 513,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 533,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "346",
