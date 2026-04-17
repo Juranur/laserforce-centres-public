@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-16T20:16:34.926Z",
+  "lastUpdated": "2026-04-17T04:21:26.115Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 23,
+  "lastCheckedIndex": 298,
   "centres": [
     {
       "id": "159",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1212,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 1213,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "360",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 182,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 198,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "312",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8924,
-      "lastActivity": "2026-04-09"
+      "gamesTotal": 8927,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "404",
@@ -1485,8 +1485,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9547,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 9548,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "43",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90638,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 90639,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "39",
@@ -1912,8 +1912,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116561,
-      "lastActivity": "2026-04-05"
+      "gamesTotal": 116562,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "272",
