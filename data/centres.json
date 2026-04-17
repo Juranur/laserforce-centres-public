@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-17T04:21:26.115Z",
+  "lastUpdated": "2026-04-17T08:50:41.345Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 298,
+  "lastCheckedIndex": 230,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28741,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 28838,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "25",
@@ -169,8 +169,8 @@
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1862,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1864,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "187",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 699,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 700,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "206",
@@ -1268,8 +1268,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63858,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 63895,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "231",
@@ -1345,8 +1345,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3447,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 3473,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "191",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79772,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 79817,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "436",
@@ -1471,8 +1471,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 44993,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 45008,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "485",
@@ -1597,8 +1597,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 859,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 913,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "9",
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82485,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 82559,
+      "lastActivity": "2026-04-17"
     },
     {
       "id": "413",
