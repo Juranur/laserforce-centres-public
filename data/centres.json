@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-18T14:07:54.885Z",
+  "lastUpdated": "2026-04-18T19:52:44.927Z",
   "totalCentres": 342,
-  "centresWithData": 341,
-  "lastCheckedIndex": 246,
+  "centresWithData": 342,
+  "lastCheckedIndex": 179,
   "centres": [
     {
       "id": "159",
@@ -22,14 +22,14 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1802,
+      "gamesTotal": 1804,
       "lastActivity": "2026-04-18"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15764,
+      "gamesTotal": 15766,
       "lastActivity": "2026-04-18"
     },
     {
@@ -155,7 +155,7 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4583,
+      "gamesTotal": 4585,
       "lastActivity": "2026-04-18"
     },
     {
@@ -449,7 +449,7 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 199,
+      "gamesTotal": 203,
       "lastActivity": "2026-04-18"
     },
     {
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38830,
+      "gamesTotal": 38861,
       "lastActivity": "2026-04-18"
     },
     {
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25722,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 25724,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "234",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8279,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 8286,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "309",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2557,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 2566,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "116",
@@ -911,8 +911,8 @@
       "id": "496",
       "regionSite": "41-2",
       "name": "Laser Aréna Bratislava #2, Slovakia",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "425",
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30001,
+      "gamesTotal": 30008,
       "lastActivity": "2026-04-18"
     },
     {
@@ -960,8 +960,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6617,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 6623,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "218",
@@ -1044,7 +1044,7 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31068,
+      "gamesTotal": 31070,
       "lastActivity": "2026-04-18"
     },
     {
@@ -1114,8 +1114,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 995,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 997,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "389",
@@ -1177,7 +1177,7 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6093,
+      "gamesTotal": 6098,
       "lastActivity": "2026-04-18"
     },
     {
@@ -1786,14 +1786,14 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22817,
+      "gamesTotal": 22836,
       "lastActivity": "2026-04-18"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9538,
+      "gamesTotal": 9556,
       "lastActivity": "2026-04-18"
     },
     {
@@ -1814,8 +1814,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7328,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 7340,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "166",
@@ -1898,8 +1898,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12026,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 12031,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "384",
@@ -1940,15 +1940,15 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 116520,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 117332,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 533,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 540,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "346",
@@ -2080,7 +2080,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47400,
+      "gamesTotal": 47416,
       "lastActivity": "2026-04-18"
     },
     {
@@ -2206,7 +2206,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82561,
+      "gamesTotal": 82564,
       "lastActivity": "2026-04-18"
     },
     {
