@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-17T20:02:55.392Z",
+  "lastUpdated": "2026-04-18T04:09:11.917Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 101,
+  "lastCheckedIndex": 35,
   "centres": [
     {
       "id": "159",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 700,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 703,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "206",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 29989,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 29998,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "154",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 194,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 196,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "56",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28871,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 28952,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "329",
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6086,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 6088,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "308",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2748,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 2750,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "178",
@@ -1359,15 +1359,15 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60279,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 60282,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24068,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 24076,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "143",
@@ -1380,8 +1380,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80176,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 80198,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "167",
@@ -1408,22 +1408,22 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12461,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 12464,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46186,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 46198,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4289,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 4292,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "212",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90640,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 90644,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "39",
@@ -1779,8 +1779,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22813,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 22817,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "306",
@@ -2031,8 +2031,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 610,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 613,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "195",
@@ -2073,8 +2073,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47362,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 47400,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "29",
@@ -2199,8 +2199,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82559,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 82561,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "413",
@@ -2241,8 +2241,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 89,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 91,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "419",
