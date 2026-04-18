@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-18T04:09:11.917Z",
+  "lastUpdated": "2026-04-18T08:11:15.523Z",
   "totalCentres": 341,
   "centresWithData": 341,
-  "lastCheckedIndex": 35,
+  "lastCheckedIndex": 310,
   "centres": [
     {
       "id": "159",
@@ -302,8 +302,8 @@
       "id": "205",
       "regionSite": "21-46",
       "name": "Bowling Room Trier Betriebs GmbH, DE",
-      "gamesTotal": 6875,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 6876,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "258",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17827,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 17831,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "487",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 198,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 199,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "312",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 725,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 727,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "437",
@@ -1541,7 +1541,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90644,
+      "gamesTotal": 90648,
       "lastActivity": "2026-04-18"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9517,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 9538,
+      "lastActivity": "2026-04-18"
     },
     {
       "id": "302",
