@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-18T19:52:44.927Z",
+  "lastUpdated": "2026-04-19T04:27:35.782Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 179,
+  "lastCheckedIndex": 114,
   "centres": [
     {
       "id": "159",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17831,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 17840,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "487",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 203,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 215,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "312",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34871,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 34874,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "478",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 475,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 478,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "421",
@@ -1275,15 +1275,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 63990,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 64129,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12061,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 12113,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "245",
@@ -1331,8 +1331,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7685,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 7697,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "279",
@@ -1387,15 +1387,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80204,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 80232,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42534,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 42558,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "168",
@@ -1408,8 +1408,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48495,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 48503,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "141",
@@ -1422,29 +1422,29 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46229,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 46279,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4292,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 4299,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79817,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 79829,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7781,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 7783,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "330",
@@ -1457,8 +1457,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35589,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 35591,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "296",
@@ -1478,8 +1478,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45009,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 45122,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "485",
@@ -1534,8 +1534,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4253,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 4254,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "173",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90648,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 90651,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "39",
@@ -1604,8 +1604,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 913,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 914,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "9",
@@ -1660,15 +1660,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2925,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 2946,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3488,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 3518,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "434",
@@ -1723,8 +1723,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25914,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 25915,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "99",
@@ -1786,8 +1786,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22836,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 22845,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "306",
@@ -1884,8 +1884,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 169,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 173,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "265",
@@ -1919,8 +1919,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116562,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 116563,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "272",
@@ -1947,8 +1947,8 @@
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 540,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 543,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "346",
@@ -2080,8 +2080,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47416,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 47470,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "29",
@@ -2206,8 +2206,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82564,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 82577,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "413",
@@ -2248,8 +2248,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 91,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 97,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "419",
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 573,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 574,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "100",
