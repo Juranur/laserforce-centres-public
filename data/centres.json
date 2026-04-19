@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-19T14:08:50.061Z",
+  "lastUpdated": "2026-04-19T19:52:52.994Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 329,
+  "lastCheckedIndex": 269,
   "centres": [
     {
       "id": "159",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1804,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 1808,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15766,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 15784,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "392",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12704,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 12710,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "340",
@@ -155,15 +155,15 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4585,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 4587,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83674,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 83677,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53403,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 53445,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "254",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25724,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 25749,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "234",
@@ -526,7 +526,7 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 511,
+      "gamesTotal": 521,
       "lastActivity": "2026-04-19"
     },
     {
@@ -582,7 +582,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8291,
+      "gamesTotal": 8292,
       "lastActivity": "2026-04-19"
     },
     {
@@ -785,8 +785,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5050,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 5055,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "323",
@@ -988,8 +988,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4302,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 4310,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "133",
@@ -1002,7 +1002,7 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17348,
+      "gamesTotal": 17352,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1170,8 +1170,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 32935,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 32940,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "446",
@@ -1275,14 +1275,14 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64129,
+      "gamesTotal": 64209,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12113,
+      "gamesTotal": 12115,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1331,14 +1331,14 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7697,
+      "gamesTotal": 7699,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58664,
+      "gamesTotal": 58697,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1373,28 +1373,28 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24076,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 24084,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37260,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 37325,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80248,
+      "gamesTotal": 80314,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42558,
+      "gamesTotal": 42568,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1415,28 +1415,28 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12464,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 12476,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46283,
+      "gamesTotal": 46289,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4304,
+      "gamesTotal": 4305,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79829,
+      "gamesTotal": 79908,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1520,8 +1520,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30140,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 30158,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "194",
@@ -1604,7 +1604,7 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 914,
+      "gamesTotal": 920,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1632,14 +1632,14 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3655,
+      "gamesTotal": 3656,
       "lastActivity": "2026-04-19"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 16974,
+      "gamesTotal": 16975,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1660,7 +1660,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2957,
+      "gamesTotal": 2960,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1723,7 +1723,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 25916,
+      "gamesTotal": 25986,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1786,7 +1786,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 22995,
+      "gamesTotal": 23000,
       "lastActivity": "2026-04-19"
     },
     {
@@ -1877,8 +1877,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 15633,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 15731,
+      "lastActivity": "2026-04-19"
     },
     {
       "id": "491",
