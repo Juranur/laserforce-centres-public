@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T04:30:05.238Z",
+  "lastUpdated": "2026-04-20T09:12:09.270Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 209,
+  "lastCheckedIndex": 144,
   "centres": [
     {
       "id": "159",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 204,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 215,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "56",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90667,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 90670,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "39",
@@ -1660,8 +1660,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2960,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 2970,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "426",
@@ -1814,8 +1814,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7340,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 7349,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "166",
@@ -1912,8 +1912,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37055,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 37058,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "58",
