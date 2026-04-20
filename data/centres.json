@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-19T19:52:52.994Z",
+  "lastUpdated": "2026-04-20T04:30:05.238Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 269,
+  "lastCheckedIndex": 209,
   "centres": [
     {
       "id": "159",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25749,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 25768,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "234",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 705,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 706,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "206",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 28952,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 29045,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "329",
@@ -1100,8 +1100,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25500,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 25509,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "148",
@@ -1142,8 +1142,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 85909,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 86026,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "113",
@@ -1177,15 +1177,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6098,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 6100,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55709,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 55715,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "134",
@@ -1296,8 +1296,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2751,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 2752,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "178",
@@ -1366,8 +1366,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60282,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 60335,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "339",
@@ -1933,22 +1933,22 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18226,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 18270,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117332,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 117372,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 543,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 546,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "346",
@@ -2080,8 +2080,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47681,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 47781,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "29",
@@ -2185,8 +2185,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1309,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 1311,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "299",
@@ -2199,8 +2199,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1660,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 1664,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "74",
