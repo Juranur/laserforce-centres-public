@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T09:12:09.270Z",
+  "lastUpdated": "2026-04-20T14:52:03.187Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 144,
+  "lastCheckedIndex": 81,
   "centres": [
     {
       "id": "159",
@@ -526,8 +526,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 521,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 523,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "242",
@@ -1093,8 +1093,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206247,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 206344,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "165",
@@ -1142,7 +1142,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86026,
+      "gamesTotal": 86115,
       "lastActivity": "2026-04-20"
     },
     {
@@ -1436,15 +1436,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79908,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 79924,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7783,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 7824,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "330",
@@ -1618,8 +1618,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38993,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 38995,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "293",
