@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T14:52:03.187Z",
+  "lastUpdated": "2026-04-20T20:07:56.892Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 81,
+  "lastCheckedIndex": 17,
   "centres": [
     {
       "id": "159",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34874,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 34919,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "478",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 479,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 482,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "421",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1297,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 1300,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "468",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30015,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 30016,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "154",
@@ -1268,8 +1268,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14913,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 14928,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "230",
@@ -1303,15 +1303,15 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16528,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 16623,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 77,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 79,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "380",
@@ -1338,8 +1338,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58697,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 58850,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "373",
@@ -1443,7 +1443,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7824,
+      "gamesTotal": 7826,
       "lastActivity": "2026-04-20"
     },
     {
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33615,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 33621,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45122,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 45193,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "485",
@@ -1646,15 +1646,15 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12705,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 12743,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2899,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 2907,
+      "lastActivity": "2026-04-20"
     },
     {
       "id": "469",
@@ -1933,14 +1933,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18270,
+      "gamesTotal": 18288,
       "lastActivity": "2026-04-20"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117372,
+      "gamesTotal": 117380,
       "lastActivity": "2026-04-20"
     },
     {
