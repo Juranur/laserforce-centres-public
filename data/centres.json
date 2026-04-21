@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-20T20:07:56.892Z",
+  "lastUpdated": "2026-04-21T04:22:07.198Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 17,
+  "lastCheckedIndex": 292,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83677,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 83894,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53445,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 53507,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "254",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7555,
-      "lastActivity": "2026-04-14"
+      "gamesTotal": 7591,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "282",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 215,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 229,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "312",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38903,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 38931,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "321",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25768,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 25769,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "234",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 728,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 743,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "437",
@@ -1338,8 +1338,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58850,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 58880,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "373",
@@ -1422,8 +1422,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46289,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 46290,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "448",
@@ -1443,8 +1443,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7826,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 7829,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "330",
@@ -1618,8 +1618,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 38995,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 39120,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "293",
