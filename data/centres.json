@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-21T08:55:07.086Z",
+  "lastUpdated": "2026-04-21T14:51:33.241Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 225,
+  "lastCheckedIndex": 158,
   "centres": [
     {
       "id": "159",
@@ -519,8 +519,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 52,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 53,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "452",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 523,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 525,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "431",
@@ -1072,7 +1072,7 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101032,
+      "gamesTotal": 101060,
       "lastActivity": "2026-04-21"
     },
     {
@@ -1618,7 +1618,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39120,
+      "gamesTotal": 39123,
       "lastActivity": "2026-04-21"
     },
     {
@@ -1632,8 +1632,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3656,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 3657,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "381",
