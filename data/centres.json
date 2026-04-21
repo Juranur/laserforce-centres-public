@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-21T04:22:07.198Z",
+  "lastUpdated": "2026-04-21T08:55:07.086Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 292,
+  "lastCheckedIndex": 225,
   "centres": [
     {
       "id": "159",
@@ -71,8 +71,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 313,
-      "lastActivity": "before 2026"
+      "gamesTotal": 316,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "334",
@@ -1072,8 +1072,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101008,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 101032,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "8",
@@ -1478,8 +1478,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45193,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 45218,
+      "lastActivity": "2026-04-21"
     },
     {
       "id": "485",
