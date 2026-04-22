@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-22T04:20:23.433Z",
+  "lastUpdated": "2026-04-22T08:50:44.649Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 30,
+  "lastCheckedIndex": 306,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 229,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 242,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "312",
@@ -519,8 +519,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 53,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 54,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "452",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 743,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 782,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "437",
@@ -596,8 +596,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 38,
-      "lastActivity": "2026-04-07"
+      "gamesTotal": 39,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "192",
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 707,
+      "gamesTotal": 709,
       "lastActivity": "2026-04-22"
     },
     {
@@ -1940,8 +1940,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117441,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 117447,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "441",
