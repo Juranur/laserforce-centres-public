@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-22T08:50:44.649Z",
+  "lastUpdated": "2026-04-22T14:51:38.582Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 306,
+  "lastCheckedIndex": 239,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83894,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 83895,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "353",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 38956,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 38970,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "321",
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 575,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 578,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "100",
