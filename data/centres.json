@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-21T20:12:49.821Z",
+  "lastUpdated": "2026-04-22T04:20:23.433Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 90,
+  "lastCheckedIndex": 30,
   "centres": [
     {
       "id": "159",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6046,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 6048,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "359",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 706,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 707,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "206",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30016,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 30020,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "154",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41872,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 41905,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "278",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29045,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 29047,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "329",
@@ -1422,8 +1422,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46290,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 46291,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "448",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90670,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 90717,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "39",
@@ -1933,8 +1933,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18335,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 18351,
+      "lastActivity": "2026-04-22"
     },
     {
       "id": "349",
