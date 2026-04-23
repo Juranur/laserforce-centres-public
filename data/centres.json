@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-23T04:23:03.749Z",
+  "lastUpdated": "2026-04-23T08:57:18.825Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 111,
+  "lastCheckedIndex": 44,
   "centres": [
     {
       "id": "159",
@@ -1198,8 +1198,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9554,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 9575,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "12",
