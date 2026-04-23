@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-23T08:57:18.825Z",
+  "lastUpdated": "2026-04-23T14:53:31.533Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 44,
+  "lastCheckedIndex": 319,
   "centres": [
     {
       "id": "159",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29047,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 29048,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "329",
@@ -1345,8 +1345,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3473,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 3479,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "191",
