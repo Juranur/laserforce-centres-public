@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-22T20:15:29.358Z",
+  "lastUpdated": "2026-04-23T04:23:03.749Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 175,
+  "lastCheckedIndex": 111,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12711,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 12712,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "340",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 83895,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 83983,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "353",
@@ -185,13 +185,6 @@
       "name": "Baltic Lasertag, Neubrandenburg, DE",
       "gamesTotal": 5861,
       "lastActivity": "2026-04-11"
-    },
-    {
-      "id": "98",
-      "regionSite": "4-58",
-      "name": "BAM, Holland, MI, USA",
-      "gamesTotal": 1738,
-      "lastActivity": "before 2026"
     },
     {
       "id": "394",
@@ -449,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 242,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 254,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "312",
@@ -491,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25769,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 25773,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "234",
@@ -659,8 +652,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6048,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 6049,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "359",
@@ -1275,8 +1268,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64209,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 64256,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "231",
@@ -1338,8 +1331,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 58880,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 59043,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "373",
@@ -1387,15 +1380,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80314,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 80389,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42568,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 42575,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "168",
@@ -1436,15 +1429,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 79924,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 80096,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7829,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 7830,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "330",
@@ -1520,8 +1513,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30158,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 30202,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "194",
@@ -1548,8 +1541,15 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90717,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 90783,
+      "lastActivity": "2026-04-23"
+    },
+    {
+      "id": "98",
+      "regionSite": "4-58",
+      "name": "Lucky Strike Holland, MI, United States",
+      "gamesTotal": 1738,
+      "lastActivity": "before 2026"
     },
     {
       "id": "39",
@@ -1660,8 +1660,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2970,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 2977,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "426",
@@ -1912,8 +1912,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37058,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 37062,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "58",
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 578,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 579,
+      "lastActivity": "2026-04-23"
     },
     {
       "id": "100",
