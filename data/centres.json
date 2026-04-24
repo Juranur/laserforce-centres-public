@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-24T04:25:21.625Z",
+  "lastUpdated": "2026-04-24T09:05:58.225Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 185,
+  "lastCheckedIndex": 118,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15822,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 15825,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "392",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 254,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 256,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "312",
@@ -792,7 +792,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68221,
+      "gamesTotal": 68269,
       "lastActivity": "2026-04-24"
     },
     {
@@ -901,17 +901,17 @@
       "lastActivity": "before 2026"
     },
     {
+      "id": "425",
+      "regionSite": "41-1",
+      "name": "Laser Aréna Bratislava #1, Slovakia",
+      "gamesTotal": 14,
+      "lastActivity": "2026-04-18"
+    },
+    {
       "id": "496",
       "regionSite": "41-2",
       "name": "Laser Aréna Bratislava #2, Slovakia",
       "gamesTotal": 1,
-      "lastActivity": "2026-04-18"
-    },
-    {
-      "id": "425",
-      "regionSite": "41-1",
-      "name": "Laser Aréna Bratislava, Bratislava, SK",
-      "gamesTotal": 14,
       "lastActivity": "2026-04-18"
     },
     {
@@ -1345,8 +1345,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3479,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 3503,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "191",
@@ -1471,8 +1471,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45220,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 45230,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "485",
@@ -1485,8 +1485,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9548,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 9550,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "43",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90783,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 90784,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "98",
@@ -1723,8 +1723,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26003,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 26004,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "99",
@@ -2275,7 +2275,7 @@
     {
       "id": "489",
       "regionSite": "45-1",
-      "name": "Turbo Multicentar, Belgrade, Serbia",
+      "name": "Turbomax, Belgrade, Serbia",
       "gamesTotal": 1,
       "lastActivity": "2026-04-04"
     },
@@ -2346,8 +2346,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 579,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 580,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "100",
