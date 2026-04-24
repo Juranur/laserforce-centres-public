@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-23T20:13:45.456Z",
+  "lastUpdated": "2026-04-24T04:25:21.625Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 250,
+  "lastCheckedIndex": 185,
   "centres": [
     {
       "id": "159",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 782,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 785,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "437",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68210,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 68221,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "28",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86181,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 86183,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "113",
@@ -1268,8 +1268,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64256,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 64295,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "231",
@@ -1835,8 +1835,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 480,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 481,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "399",
@@ -1933,22 +1933,22 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18355,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 18375,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117449,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 117508,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 546,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 572,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "346",
@@ -2080,8 +2080,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47818,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 47930,
+      "lastActivity": "2026-04-24"
     },
     {
       "id": "29",
