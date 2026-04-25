@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-24T19:55:04.947Z",
+  "lastUpdated": "2026-04-25T04:09:59.762Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 329,
+  "lastCheckedIndex": 264,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 28855,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 28857,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "25",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12714,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 12715,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "340",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3643,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 3645,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "184",
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53545,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 53548,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "254",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 256,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 262,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "312",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25773,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 25776,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "234",
@@ -645,8 +645,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 735,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 736,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "105",
@@ -813,8 +813,8 @@
       "id": "86",
       "regionSite": "4-41",
       "name": "Jungle Rapids, Wilmington, NC, US",
-      "gamesTotal": 1314,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1315,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "10",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30020,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 30028,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "154",
@@ -960,8 +960,8 @@
       "id": "218",
       "regionSite": "21-59",
       "name": "Laser Heroes GmbH, Bremerhaven, DE",
-      "gamesTotal": 8786,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 8788,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "484",
@@ -1275,8 +1275,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12127,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 12141,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "245",
@@ -1317,8 +1317,8 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9478,
-      "lastActivity": "2026-04-03"
+      "gamesTotal": 9485,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "179",
@@ -1366,8 +1366,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24096,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 24098,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "143",
@@ -1380,8 +1380,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80490,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 80510,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "167",
@@ -1415,8 +1415,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46297,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 46311,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "448",
@@ -1478,8 +1478,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 4,
-      "lastActivity": "2026-04-10"
+      "gamesTotal": 6,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "398",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90784,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 90795,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "98",
@@ -1646,8 +1646,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12747,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 12749,
+      "lastActivity": "2026-04-25"
     },
     {
       "id": "386",
