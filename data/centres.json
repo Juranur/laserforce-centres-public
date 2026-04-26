@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-25T19:54:32.434Z",
+  "lastUpdated": "2026-04-26T04:31:52.369Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 66,
+  "lastCheckedIndex": 2,
   "centres": [
     {
       "id": "159",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25776,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 25778,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "234",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 785,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 787,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "437",
@@ -575,8 +575,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8294,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 8297,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "309",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34923,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 34938,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "478",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 715,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 716,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "206",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68273,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 68275,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "28",
@@ -841,8 +841,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 382,
-      "lastActivity": "2026-04-16"
+      "gamesTotal": 384,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "90",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30028,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 30039,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "154",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2760,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 2770,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "178",
@@ -1359,8 +1359,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60338,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 60342,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "339",
@@ -1401,8 +1401,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48507,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 48518,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "141",
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80102,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 80116,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "436",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90809,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 90814,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "98",
@@ -1702,8 +1702,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8957,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 8958,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "255",
@@ -1786,8 +1786,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23011,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 23033,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "306",
@@ -1884,8 +1884,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 173,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 175,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "265",
@@ -1919,8 +1919,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116564,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 116571,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "272",
@@ -1947,8 +1947,8 @@
       "id": "441",
       "regionSite": "7-22",
       "name": "Riverside Activity Zone, Andover, Hampshire, United Kingdom",
-      "gamesTotal": 572,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 581,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "346",
@@ -2199,15 +2199,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1664,
-      "lastActivity": "2026-04-20"
+      "gamesTotal": 1671,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82581,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 82616,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "413",
@@ -2248,8 +2248,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 97,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 112,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "419",
@@ -2367,8 +2367,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 530,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 531,
+      "lastActivity": "2026-04-26"
     },
     {
       "id": "24",
