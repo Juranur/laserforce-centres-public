@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-27T09:27:23.044Z",
+  "lastUpdated": "2026-04-27T15:04:30.391Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 36,
+  "lastCheckedIndex": 311,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 277,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 288,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "312",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25808,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 25837,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "234",
@@ -652,8 +652,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6049,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 6050,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "359",
@@ -1086,7 +1086,7 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206379,
+      "gamesTotal": 206461,
       "lastActivity": "2026-04-27"
     },
     {
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86253,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 86322,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "113",
@@ -1289,7 +1289,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2774,
+      "gamesTotal": 2788,
       "lastActivity": "2026-04-27"
     },
     {
@@ -1429,8 +1429,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80121,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 80123,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "436",
@@ -1618,8 +1618,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39167,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 39177,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "293",
@@ -1660,8 +1660,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2977,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 2988,
+      "lastActivity": "2026-04-27"
     },
     {
       "id": "426",
@@ -1933,7 +1933,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18445,
+      "gamesTotal": 18446,
       "lastActivity": "2026-04-27"
     },
     {
