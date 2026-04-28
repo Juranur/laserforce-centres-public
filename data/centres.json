@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-27T20:33:35.748Z",
+  "lastUpdated": "2026-04-28T04:43:26.017Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 259,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34940,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 34979,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "478",
@@ -1940,8 +1940,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117623,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 117652,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "441",
