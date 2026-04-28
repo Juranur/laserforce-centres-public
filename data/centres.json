@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-28T15:22:16.277Z",
+  "lastUpdated": "2026-04-28T20:40:58.198Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 77,
+  "lastCheckedIndex": 9,
   "centres": [
     {
       "id": "159",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 790,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 792,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "437",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30046,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 30048,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 42952,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 43001,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "160",
@@ -1198,7 +1198,7 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9584,
+      "gamesTotal": 9619,
       "lastActivity": "2026-04-28"
     },
     {
@@ -1289,7 +1289,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2810,
+      "gamesTotal": 2812,
       "lastActivity": "2026-04-28"
     },
     {
@@ -1324,8 +1324,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7725,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 7733,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "279",
@@ -1618,7 +1618,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39247,
+      "gamesTotal": 39274,
       "lastActivity": "2026-04-28"
     },
     {
@@ -1814,8 +1814,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7378,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 7381,
+      "lastActivity": "2026-04-28"
     },
     {
       "id": "166",
@@ -1940,7 +1940,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117652,
+      "gamesTotal": 117784,
       "lastActivity": "2026-04-28"
     },
     {
