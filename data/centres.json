@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-29T09:19:38.941Z",
+  "lastUpdated": "2026-04-29T15:11:06.112Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 221,
+  "lastCheckedIndex": 156,
   "centres": [
     {
       "id": "159",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 233,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 235,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "56",
@@ -1632,7 +1632,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3813,
+      "gamesTotal": 3817,
       "lastActivity": "2026-04-29"
     },
     {
@@ -2080,8 +2080,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 47930,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 47934,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "29",
