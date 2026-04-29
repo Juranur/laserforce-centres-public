@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-28T20:40:58.198Z",
+  "lastUpdated": "2026-04-29T04:39:32.331Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 9,
+  "lastCheckedIndex": 288,
   "centres": [
     {
       "id": "159",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 792,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 795,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "437",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 717,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 718,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "206",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41905,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 41919,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "278",
@@ -1387,8 +1387,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42598,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 42603,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "168",
@@ -1422,8 +1422,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4325,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 4326,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "212",
@@ -1471,8 +1471,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45306,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 45307,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "485",
@@ -1632,15 +1632,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3765,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 3813,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17060,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 17138,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "385",
@@ -1933,8 +1933,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18447,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 18511,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "349",
