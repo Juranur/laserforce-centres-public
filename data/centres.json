@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-29T04:39:32.331Z",
+  "lastUpdated": "2026-04-29T09:19:38.941Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 288,
+  "lastCheckedIndex": 221,
   "centres": [
     {
       "id": "159",
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 525,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 527,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "431",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90860,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 90922,
+      "lastActivity": "2026-04-29"
     },
     {
       "id": "98",
