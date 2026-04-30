@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-30T09:22:38.441Z",
+  "lastUpdated": "2026-04-30T15:04:42.246Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 300,
+  "lastCheckedIndex": 236,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15825,
-      "lastActivity": "2026-04-24"
+      "gamesTotal": 15862,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "392",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 85101,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 85106,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "353",
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5861,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 5862,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "394",
@@ -820,8 +820,8 @@
       "id": "10",
       "regionSite": "1-9",
       "name": "Kartmania, Gepps Cross",
-      "gamesTotal": 1445,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1452,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "322",
@@ -1128,8 +1128,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4088,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 4089,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "23",
@@ -1289,7 +1289,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2819,
+      "gamesTotal": 2833,
       "lastActivity": "2026-04-30"
     },
     {
