@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-29T20:35:47.215Z",
+  "lastUpdated": "2026-04-30T04:40:56.642Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 94,
+  "lastCheckedIndex": 25,
   "centres": [
     {
       "id": "159",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30048,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 30052,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "154",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 235,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 237,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "56",
@@ -1541,8 +1541,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 90922,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 91014,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "98",
@@ -1912,8 +1912,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37062,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 37067,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "58",
@@ -1940,8 +1940,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117784,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 117785,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "441",
@@ -2248,8 +2248,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 112,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 113,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "419",
