@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-30T04:40:56.642Z",
+  "lastUpdated": "2026-04-30T09:22:38.441Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 25,
+  "lastCheckedIndex": 300,
   "centres": [
     {
       "id": "159",
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53656,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 53686,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "254",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 288,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 300,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "312",
@@ -638,8 +638,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8983,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 8985,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "404",
@@ -1289,8 +1289,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2818,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 2819,
+      "lastActivity": "2026-04-30"
     },
     {
       "id": "178",
