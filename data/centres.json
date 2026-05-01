@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-01T04:52:26.455Z",
+  "lastUpdated": "2026-05-01T09:12:34.726Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 104,
+  "lastCheckedIndex": 37,
   "centres": [
     {
       "id": "159",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 237,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 249,
+      "lastActivity": "2026-05-01"
     },
     {
       "id": "56",
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 55854,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 56063,
+      "lastActivity": "2026-05-01"
     },
     {
       "id": "134",
@@ -1359,8 +1359,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60355,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 60361,
+      "lastActivity": "2026-05-01"
     },
     {
       "id": "339",
@@ -1401,8 +1401,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48551,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 48560,
+      "lastActivity": "2026-05-01"
     },
     {
       "id": "141",
@@ -1933,14 +1933,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18651,
+      "gamesTotal": 18682,
       "lastActivity": "2026-05-01"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117804,
+      "gamesTotal": 117811,
       "lastActivity": "2026-05-01"
     },
     {
@@ -2157,8 +2157,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2483,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 2500,
+      "lastActivity": "2026-05-01"
     },
     {
       "id": "111",
