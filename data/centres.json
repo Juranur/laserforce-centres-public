@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-01T20:11:28.910Z",
+  "lastUpdated": "2026-05-02T04:25:26.807Z",
   "totalCentres": 342,
   "centresWithData": 342,
-  "lastCheckedIndex": 247,
+  "lastCheckedIndex": 181,
   "centres": [
     {
       "id": "159",
@@ -386,8 +386,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17840,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 17853,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "487",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 797,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 803,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "437",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34979,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 34984,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "478",
@@ -638,8 +638,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8986,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 8987,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "404",
@@ -764,8 +764,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1332,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 1338,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "468",
@@ -841,8 +841,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 384,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 385,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "90",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30052,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 30063,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "154",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29150,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 29286,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "329",
@@ -1128,8 +1128,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4091,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 4092,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "23",
@@ -1170,15 +1170,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6110,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 6115,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56063,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 56221,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "134",
@@ -1261,8 +1261,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14964,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 14966,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "230",
@@ -1786,8 +1786,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23231,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 23234,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "306",
@@ -1870,8 +1870,8 @@
       "id": "480",
       "regionSite": "1-91",
       "name": "Powerkarts Canberra, Griffith, ACT, AU",
-      "gamesTotal": 69,
-      "lastActivity": "2026-03-30"
+      "gamesTotal": 71,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "140",
@@ -1884,8 +1884,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 176,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 177,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "265",
@@ -1898,8 +1898,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12040,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 12041,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "384",
@@ -1919,8 +1919,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116571,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 116574,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "272",
@@ -2157,8 +2157,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2500,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 2516,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "111",
@@ -2185,8 +2185,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1323,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 1326,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "299",
@@ -2206,8 +2206,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82616,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 82619,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "413",
