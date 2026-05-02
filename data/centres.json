@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-02T08:44:47.777Z",
-  "totalCentres": 342,
-  "centresWithData": 342,
-  "lastCheckedIndex": 114,
+  "lastUpdated": "2026-05-02T14:28:06.377Z",
+  "totalCentres": 343,
+  "centresWithData": 343,
+  "lastCheckedIndex": 46,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1809,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 1810,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "269",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12744,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 12745,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "340",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 85206,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 85210,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "353",
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5862,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 5868,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "394",
@@ -918,7 +918,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30063,
+      "gamesTotal": 30064,
       "lastActivity": "2026-05-02"
     },
     {
@@ -953,8 +953,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6631,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 6634,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "218",
@@ -1128,7 +1128,7 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4092,
+      "gamesTotal": 4093,
       "lastActivity": "2026-05-02"
     },
     {
@@ -1240,8 +1240,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5163,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 5166,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "252",
@@ -1258,6 +1258,13 @@
       "lastActivity": "before 2026"
     },
     {
+      "id": "483",
+      "regionSite": "21-139",
+      "name": "Lasertag Bonn City, Bonn, Germany",
+      "gamesTotal": 30,
+      "lastActivity": "2026-05-02"
+    },
+    {
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
@@ -1268,8 +1275,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64486,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 64487,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "231",
@@ -1324,8 +1331,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7733,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 7738,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "279",
@@ -1450,8 +1457,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35804,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 35814,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "296",
@@ -1527,8 +1534,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4254,
-      "lastActivity": "2026-04-19"
+      "gamesTotal": 4256,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "173",
@@ -1632,8 +1639,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3819,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 3824,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "381",
@@ -1786,15 +1793,15 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23234,
+      "gamesTotal": 23264,
       "lastActivity": "2026-05-02"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9559,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 9560,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "302",
@@ -2157,7 +2164,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2516,
+      "gamesTotal": 2517,
       "lastActivity": "2026-05-02"
     },
     {
@@ -2206,7 +2213,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82619,
+      "gamesTotal": 82620,
       "lastActivity": "2026-05-02"
     },
     {
@@ -2248,8 +2255,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 116,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 118,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "419",
@@ -2367,8 +2374,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 531,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 534,
+      "lastActivity": "2026-05-02"
     },
     {
       "id": "24",
