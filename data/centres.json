@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-03T04:47:08.950Z",
+  "lastUpdated": "2026-05-03T08:59:20.850Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 257,
+  "lastCheckedIndex": 188,
   "centres": [
     {
       "id": "159",
@@ -442,7 +442,7 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 317,
+      "gamesTotal": 321,
       "lastActivity": "2026-05-03"
     },
     {
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 718,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 720,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "206",
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56233,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 56250,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "134",
@@ -1891,8 +1891,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 177,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 181,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "265",
@@ -1905,8 +1905,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12041,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 12044,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "384",
@@ -1926,8 +1926,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116574,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 116580,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "272",
@@ -2087,8 +2087,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 48061,
-      "lastActivity": "2026-04-30"
+      "gamesTotal": 48282,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "29",
@@ -2136,8 +2136,8 @@
       "id": "357",
       "regionSite": "1-84",
       "name": "Strike Bowling Karrinyup, WA, Australia",
-      "gamesTotal": 148,
-      "lastActivity": "2026-03-22"
+      "gamesTotal": 149,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "45",
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2517,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 2518,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "111",
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1326,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 1330,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "299",
@@ -2206,15 +2206,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1671,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 1675,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82620,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 82640,
+      "lastActivity": "2026-05-03"
     },
     {
       "id": "413",
