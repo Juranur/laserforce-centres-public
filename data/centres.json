@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-04T09:29:38.220Z",
+  "lastUpdated": "2026-05-04T15:11:22.890Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 325,
+  "lastCheckedIndex": 257,
   "centres": [
     {
       "id": "159",
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53781,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 53793,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "254",
@@ -484,7 +484,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25885,
+      "gamesTotal": 25886,
       "lastActivity": "2026-05-04"
     },
     {
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206471,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 206483,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "165",
@@ -1625,8 +1625,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39313,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 39335,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "293",
