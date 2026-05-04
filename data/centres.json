@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-04T04:45:12.475Z",
+  "lastUpdated": "2026-05-04T09:29:38.220Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 52,
+  "lastCheckedIndex": 325,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 321,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 324,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "312",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25846,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 25885,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "234",
@@ -652,8 +652,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6051,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 6052,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "359",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 720,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 722,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "206",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68367,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 68431,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "28",
@@ -1436,8 +1436,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80223,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 80268,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "436",
@@ -1485,8 +1485,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 17,
-      "lastActivity": "2026-04-29"
+      "gamesTotal": 18,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "398",
@@ -1940,15 +1940,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18719,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 18737,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117906,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 117944,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "441",
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1330,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 1331,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "299",
