@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-03T19:44:58.095Z",
+  "lastUpdated": "2026-05-04T04:45:12.475Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 120,
+  "lastCheckedIndex": 52,
   "centres": [
     {
       "id": "159",
@@ -932,8 +932,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1648,
-      "lastActivity": "2026-04-13"
+      "gamesTotal": 1650,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "128",
@@ -1366,8 +1366,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60423,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 60429,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "339",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91043,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 91077,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "98",
@@ -1891,8 +1891,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 181,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 182,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "265",
@@ -2213,8 +2213,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82642,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 82643,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "413",
@@ -2255,8 +2255,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 118,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 119,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "419",
