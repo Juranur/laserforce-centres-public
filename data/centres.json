@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-04T15:11:22.890Z",
+  "lastUpdated": "2026-05-04T20:40:41.153Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 257,
+  "lastCheckedIndex": 196,
   "centres": [
     {
       "id": "159",
@@ -484,7 +484,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25886,
+      "gamesTotal": 25887,
       "lastActivity": "2026-05-04"
     },
     {
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 34984,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 35010,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "478",
@@ -771,7 +771,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 722,
+      "gamesTotal": 725,
       "lastActivity": "2026-05-04"
     },
     {
@@ -1268,8 +1268,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14966,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 14975,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "230",
@@ -1338,8 +1338,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 59201,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 59370,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "373",
@@ -1821,8 +1821,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7397,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 7407,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "166",
@@ -1842,8 +1842,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 485,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 486,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "399",
@@ -1947,7 +1947,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117944,
+      "gamesTotal": 117974,
       "lastActivity": "2026-05-04"
     },
     {
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2518,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 2666,
+      "lastActivity": "2026-05-04"
     },
     {
       "id": "111",
