@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-05T15:04:48.101Z",
+  "lastUpdated": "2026-05-05T20:35:57.205Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 11,
+  "lastCheckedIndex": 287,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 85210,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 85414,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "353",
@@ -435,8 +435,8 @@
       "id": "268",
       "regionSite": "17-2",
       "name": "Experymentarium Arena Laser Games, Lodz, Poland",
-      "gamesTotal": 897,
-      "lastActivity": "before 2026"
+      "gamesTotal": 898,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "488",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 810,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 812,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "437",
@@ -575,8 +575,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8311,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 8314,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "309",
@@ -1198,8 +1198,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9632,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 9668,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "12",
@@ -1331,8 +1331,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7738,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 7749,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "279",
@@ -1373,8 +1373,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24183,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 24190,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "143",
@@ -1422,7 +1422,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46376,
+      "gamesTotal": 46412,
       "lastActivity": "2026-05-05"
     },
     {
@@ -1625,7 +1625,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39374,
+      "gamesTotal": 39416,
       "lastActivity": "2026-05-05"
     },
     {
@@ -1667,8 +1667,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 2997,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 3005,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "426",
@@ -1947,8 +1947,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 117974,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 118154,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "441",
