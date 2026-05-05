@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-05T04:26:31.772Z",
+  "lastUpdated": "2026-05-05T09:11:49.201Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 134,
+  "lastCheckedIndex": 71,
   "centres": [
     {
       "id": "159",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101092,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 101115,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "8",
@@ -1303,8 +1303,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16744,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 16822,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "493",
