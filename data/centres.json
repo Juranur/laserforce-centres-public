@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-05T09:11:49.201Z",
+  "lastUpdated": "2026-05-05T15:04:48.101Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 71,
+  "lastCheckedIndex": 11,
   "centres": [
     {
       "id": "159",
@@ -666,8 +666,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7202,
-      "lastActivity": "before 2026"
+      "gamesTotal": 7214,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "473",
@@ -1065,7 +1065,7 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101115,
+      "gamesTotal": 101165,
       "lastActivity": "2026-05-05"
     },
     {
@@ -1499,8 +1499,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75724,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 75763,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "44",
