@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-04T20:40:41.153Z",
+  "lastUpdated": "2026-05-05T04:26:31.772Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 196,
+  "lastCheckedIndex": 134,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 324,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 333,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "312",
@@ -1422,8 +1422,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46371,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 46376,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "448",
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33700,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 33749,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45428,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 45500,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "485",
@@ -1625,8 +1625,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39335,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 39374,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "293",
@@ -1653,15 +1653,15 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 12892,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 12967,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2911,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 2923,
+      "lastActivity": "2026-05-05"
     },
     {
       "id": "469",
