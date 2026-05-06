@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-06T09:27:32.224Z",
+  "lastUpdated": "2026-05-06T15:26:33.786Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 152,
+  "lastCheckedIndex": 86,
   "centres": [
     {
       "id": "159",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86506,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 86576,
+      "lastActivity": "2026-05-06"
     },
     {
       "id": "113",
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56346,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 56347,
+      "lastActivity": "2026-05-06"
     },
     {
       "id": "134",
