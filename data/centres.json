@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-07T15:25:04.024Z",
+  "lastUpdated": "2026-05-07T20:39:28.493Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 187,
+  "lastCheckedIndex": 119,
   "centres": [
     {
       "id": "159",
@@ -162,7 +162,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 85499,
+      "gamesTotal": 85593,
       "lastActivity": "2026-05-07"
     },
     {
@@ -456,7 +456,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39532,
+      "gamesTotal": 39546,
       "lastActivity": "2026-05-07"
     },
     {
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 528,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 529,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "431",
@@ -1352,8 +1352,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3532,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 3561,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "191",
@@ -1373,8 +1373,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24190,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 24192,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "143",
@@ -1408,8 +1408,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48634,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 48639,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "141",
@@ -1436,8 +1436,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80284,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 80358,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "436",
@@ -1478,8 +1478,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45500,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 45515,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "485",
@@ -1639,8 +1639,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3905,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 3907,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "381",
@@ -1730,8 +1730,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26154,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 26212,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "99",
@@ -1940,8 +1940,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18813,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 18820,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "349",
@@ -2087,7 +2087,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 48833,
+      "gamesTotal": 48928,
       "lastActivity": "2026-05-07"
     },
     {
