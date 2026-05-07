@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-07T09:34:43.524Z",
+  "lastUpdated": "2026-05-07T15:25:04.024Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 254,
+  "lastCheckedIndex": 187,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 85489,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 85499,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "353",
@@ -456,7 +456,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39477,
+      "gamesTotal": 39532,
       "lastActivity": "2026-05-07"
     },
     {
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 816,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 818,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "437",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 261,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 262,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "56",
@@ -2087,7 +2087,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 48814,
+      "gamesTotal": 48833,
       "lastActivity": "2026-05-07"
     },
     {
