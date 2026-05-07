@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-07T04:39:47.464Z",
+  "lastUpdated": "2026-05-07T09:34:43.524Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 310,
+  "lastCheckedIndex": 254,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 15891,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 15929,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "392",
@@ -1506,8 +1506,8 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60431,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 60432,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "97",
@@ -1548,7 +1548,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91174,
+      "gamesTotal": 91190,
       "lastActivity": "2026-05-07"
     },
     {
@@ -2353,8 +2353,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 598,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 599,
+      "lastActivity": "2026-05-07"
     },
     {
       "id": "100",
