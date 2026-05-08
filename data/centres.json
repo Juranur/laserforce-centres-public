@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-08T04:30:45.996Z",
+  "lastUpdated": "2026-05-08T08:41:22.563Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 53,
+  "lastCheckedIndex": 335,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 338,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 346,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "312",
@@ -729,8 +729,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2795,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 2796,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "46",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 727,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 729,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "206",
@@ -1947,7 +1947,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118231,
+      "gamesTotal": 118235,
       "lastActivity": "2026-05-08"
     },
     {
@@ -2255,8 +2255,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 121,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 122,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "419",
