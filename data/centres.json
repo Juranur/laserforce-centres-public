@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-07T20:39:28.493Z",
+  "lastUpdated": "2026-05-08T04:30:45.996Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 119,
+  "lastCheckedIndex": 53,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29069,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 29242,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "25",
@@ -939,8 +939,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43001,
-      "lastActivity": "2026-04-28"
+      "gamesTotal": 43013,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "160",
@@ -953,8 +953,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6643,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 6645,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "218",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 262,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 265,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "56",
@@ -1191,8 +1191,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11865,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 11869,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "298",
@@ -1275,15 +1275,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64624,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 64652,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12220,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 12237,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "245",
@@ -1310,8 +1310,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 111,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 114,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "380",
@@ -1492,8 +1492,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9555,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 9557,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "43",
@@ -1730,8 +1730,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26212,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 26220,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "99",
@@ -1940,15 +1940,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18820,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 18824,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118154,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 118231,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "441",
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1341,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 1342,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "299",
@@ -2353,8 +2353,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 599,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 601,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "100",
