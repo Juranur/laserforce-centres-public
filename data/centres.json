@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T14:56:36.289Z",
+  "lastUpdated": "2026-05-08T20:29:50.831Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 267,
+  "lastCheckedIndex": 207,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29242,
+      "gamesTotal": 29244,
       "lastActivity": "2026-05-08"
     },
     {
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 53841,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 53844,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "254",
@@ -386,8 +386,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17860,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 17866,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "487",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39546,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 39564,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "321",
@@ -519,8 +519,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 526,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 528,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "242",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 818,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 834,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "437",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35010,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 35011,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "478",
@@ -995,8 +995,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17353,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 17382,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "161",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29395,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 29541,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "329",
@@ -1163,7 +1163,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33141,
+      "gamesTotal": 33144,
       "lastActivity": "2026-05-08"
     },
     {
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56461,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 56472,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "134",
@@ -1240,8 +1240,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5166,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 5169,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "252",
@@ -1275,7 +1275,7 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64655,
+      "gamesTotal": 64752,
       "lastActivity": "2026-05-08"
     },
     {
@@ -1324,15 +1324,15 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9528,
-      "lastActivity": "2026-05-01"
+      "gamesTotal": 9534,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7749,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 7759,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "279",
@@ -1352,8 +1352,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3561,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 3569,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "191",
@@ -1408,8 +1408,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48639,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 48642,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "141",
@@ -1436,15 +1436,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80358,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 80368,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7986,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 7993,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "330",
@@ -1905,8 +1905,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12044,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 12047,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "384",
@@ -1940,14 +1940,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18824,
+      "gamesTotal": 18896,
       "lastActivity": "2026-05-08"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118235,
+      "gamesTotal": 118263,
       "lastActivity": "2026-05-08"
     },
     {
@@ -2087,8 +2087,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 48928,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 49113,
+      "lastActivity": "2026-05-08"
     },
     {
       "id": "29",
