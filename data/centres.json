@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-09T08:55:00.182Z",
+  "lastUpdated": "2026-05-09T14:31:54.665Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 71,
+  "lastCheckedIndex": 3,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29244,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 29249,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "25",
@@ -575,15 +575,15 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8314,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 8325,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2584,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 2585,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "383",
@@ -750,8 +750,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 485,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 486,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "421",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 729,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 731,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "206",
@@ -792,7 +792,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68433,
+      "gamesTotal": 68436,
       "lastActivity": "2026-05-09"
     },
     {
@@ -918,7 +918,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30081,
+      "gamesTotal": 30082,
       "lastActivity": "2026-05-09"
     },
     {
@@ -967,7 +967,7 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 279,
+      "gamesTotal": 283,
       "lastActivity": "2026-05-09"
     },
     {
@@ -1177,8 +1177,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56472,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 56474,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "134",
@@ -1275,8 +1275,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64752,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 64759,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "231",
@@ -1450,15 +1450,15 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18793,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 18797,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35814,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 35817,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "296",
@@ -1667,7 +1667,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3020,
+      "gamesTotal": 3023,
       "lastActivity": "2026-05-09"
     },
     {
@@ -1793,7 +1793,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23450,
+      "gamesTotal": 23458,
       "lastActivity": "2026-05-09"
     },
     {
@@ -1821,8 +1821,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7407,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 7420,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118263,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 118265,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "441",
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2666,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 2667,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "111",
@@ -2213,8 +2213,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82643,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 82654,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "413",
@@ -2374,8 +2374,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 534,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 613,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "24",
