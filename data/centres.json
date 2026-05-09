@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-08T20:29:50.831Z",
+  "lastUpdated": "2026-05-09T04:31:48.774Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 207,
+  "lastCheckedIndex": 138,
   "centres": [
     {
       "id": "159",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 834,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 841,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "437",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68431,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 68433,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "28",
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 529,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 530,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "431",
@@ -883,8 +883,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13219,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 13238,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "368",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30075,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 30081,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "154",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 265,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 279,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "56",
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33749,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 33750,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45515,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 45516,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "485",
@@ -1506,8 +1506,8 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60432,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 60484,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "97",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91190,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 91203,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "98",
@@ -1611,8 +1611,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 925,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 957,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "9",
@@ -1660,15 +1660,15 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2923,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 2925,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3007,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 3020,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "426",
@@ -1793,8 +1793,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23445,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 23450,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "306",
@@ -1905,8 +1905,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12047,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 12049,
+      "lastActivity": "2026-05-09"
     },
     {
       "id": "384",
