@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-10T04:49:40.587Z",
+  "lastUpdated": "2026-05-10T09:08:40.139Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 214,
+  "lastCheckedIndex": 147,
   "centres": [
     {
       "id": "159",
@@ -792,7 +792,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68438,
+      "gamesTotal": 68440,
       "lastActivity": "2026-05-10"
     },
     {
@@ -883,8 +883,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13239,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 13241,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "368",
@@ -1534,22 +1534,22 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4258,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 4259,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "173",
       "regionSite": "4-80",
       "name": "Lost Worlds Entertainment, City of Industry, CA",
-      "gamesTotal": 2062,
-      "lastActivity": "2026-04-12"
+      "gamesTotal": 2064,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91223,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 91251,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "98",
@@ -1667,8 +1667,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3023,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 3024,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "426",
@@ -1793,8 +1793,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23458,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 23470,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "306",
@@ -1842,15 +1842,15 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 486,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 487,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "399",
       "regionSite": "32-3",
       "name": "Playsquare Central Eastville, Thailand",
-      "gamesTotal": 1185,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 1187,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "332",
@@ -1891,8 +1891,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 183,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 188,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "265",
@@ -1926,8 +1926,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116580,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 116588,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "272",
@@ -2101,8 +2101,8 @@
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
-      "gamesTotal": 294,
-      "lastActivity": "before 2026"
+      "gamesTotal": 296,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "22",
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2667,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 2669,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "111",
