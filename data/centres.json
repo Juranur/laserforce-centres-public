@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-10T09:08:40.139Z",
+  "lastUpdated": "2026-05-10T14:35:19.914Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 147,
+  "lastCheckedIndex": 82,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39638,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 39650,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "321",
@@ -484,7 +484,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25895,
+      "gamesTotal": 25896,
       "lastActivity": "2026-05-10"
     },
     {
@@ -575,7 +575,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8326,
+      "gamesTotal": 8328,
       "lastActivity": "2026-05-10"
     },
     {
@@ -1275,15 +1275,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64765,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 64766,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12238,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 12239,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "245",
@@ -1296,8 +1296,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2863,
-      "lastActivity": "2026-05-03"
+      "gamesTotal": 2864,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "178",
@@ -1359,7 +1359,7 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19635,
+      "gamesTotal": 19641,
       "lastActivity": "2026-05-10"
     },
     {
@@ -1387,15 +1387,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 80821,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 80826,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42761,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 42769,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "168",
@@ -1443,8 +1443,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 7999,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 8018,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "330",
@@ -1478,8 +1478,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45549,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 45577,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "485",
@@ -1520,15 +1520,15 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30399,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 30406,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 14007,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 14008,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "137",
@@ -1730,8 +1730,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26227,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 26228,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "99",
@@ -1821,8 +1821,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7420,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 7426,
+      "lastActivity": "2026-05-10"
     },
     {
       "id": "166",
