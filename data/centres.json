@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-12T04:44:37.660Z",
+  "lastUpdated": "2026-05-12T09:40:11.355Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 27,
+  "lastCheckedIndex": 312,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 367,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 369,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "312",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35015,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 35044,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "478",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101165,
-      "lastActivity": "2026-05-05"
+      "gamesTotal": 101185,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "8",
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33766,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 33784,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45671,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 45681,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "485",
