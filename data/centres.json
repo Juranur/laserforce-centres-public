@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-11T20:48:14.451Z",
+  "lastUpdated": "2026-05-12T04:44:37.660Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 95,
+  "lastCheckedIndex": 27,
   "centres": [
     {
       "id": "159",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91293,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 91297,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "98",
@@ -1947,8 +1947,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118344,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 118366,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "441",
