@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-12T15:31:11.286Z",
+  "lastUpdated": "2026-05-12T20:53:37.385Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 246,
+  "lastCheckedIndex": 181,
   "centres": [
     {
       "id": "159",
@@ -190,8 +190,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1245,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 1246,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "360",
@@ -414,8 +414,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7721,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 7724,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "282",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 850,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 857,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "437",
@@ -764,7 +764,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1340,
+      "gamesTotal": 1342,
       "lastActivity": "2026-05-12"
     },
     {
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 532,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 535,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "431",
@@ -1940,14 +1940,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 18970,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 19017,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118366,
+      "gamesTotal": 118484,
       "lastActivity": "2026-05-12"
     },
     {
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1342,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 1348,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "299",
