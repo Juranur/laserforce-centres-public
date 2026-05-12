@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-12T09:40:11.355Z",
+  "lastUpdated": "2026-05-12T15:31:11.286Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 312,
+  "lastCheckedIndex": 246,
   "centres": [
     {
       "id": "159",
@@ -764,8 +764,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1338,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 1340,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "468",
@@ -1016,8 +1016,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9331,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 9333,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "188",
@@ -1065,7 +1065,7 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101185,
+      "gamesTotal": 101189,
       "lastActivity": "2026-05-12"
     },
     {
@@ -1296,8 +1296,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2864,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 2866,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "178",
@@ -1345,8 +1345,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3109,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 3110,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "455",
@@ -1436,8 +1436,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80388,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 80389,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "436",
@@ -1639,15 +1639,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3907,
-      "lastActivity": "2026-05-07"
+      "gamesTotal": 3975,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17213,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 17244,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "385",
@@ -2353,8 +2353,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 604,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 608,
+      "lastActivity": "2026-05-12"
     },
     {
       "id": "100",
