@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-13T04:51:55.744Z",
+  "lastUpdated": "2026-05-13T09:43:23.395Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 115,
+  "lastCheckedIndex": 51,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29250,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 29252,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "25",
@@ -1170,8 +1170,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6120,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 6122,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "308",
@@ -1198,8 +1198,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9676,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 9708,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "12",
