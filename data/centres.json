@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-13T09:43:23.395Z",
+  "lastUpdated": "2026-05-13T15:42:01.732Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 51,
+  "lastCheckedIndex": 326,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39660,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 39690,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "321",
@@ -638,8 +638,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 8988,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 8991,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "404",
@@ -1016,8 +1016,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9333,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 9334,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "188",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86651,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 86711,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "113",
@@ -1310,8 +1310,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 145,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 146,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "380",
@@ -1660,7 +1660,7 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2926,
+      "gamesTotal": 2927,
       "lastActivity": "2026-05-13"
     },
     {
@@ -1940,8 +1940,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19017,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 19053,
+      "lastActivity": "2026-05-13"
     },
     {
       "id": "349",
