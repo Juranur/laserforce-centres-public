@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-14T15:20:55.192Z",
+  "lastUpdated": "2026-05-14T20:46:12.931Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 59,
+  "lastCheckedIndex": 337,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39721,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 39722,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "321",
@@ -484,7 +484,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25913,
+      "gamesTotal": 25919,
       "lastActivity": "2026-05-14"
     },
     {
@@ -519,8 +519,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 528,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 529,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "242",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 866,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 867,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "437",
@@ -575,15 +575,15 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8341,
+      "gamesTotal": 8348,
       "lastActivity": "2026-05-14"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2585,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 2587,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "383",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35044,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 35050,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "478",
@@ -750,8 +750,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 487,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 488,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "421",
@@ -764,22 +764,22 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1342,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 1385,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 733,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 734,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5058,
-      "lastActivity": "2026-04-23"
+      "gamesTotal": 5060,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "323",
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 535,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 540,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "431",
@@ -883,8 +883,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13241,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 13265,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "368",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30086,
-      "lastActivity": "2026-05-09"
+      "gamesTotal": 30087,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "154",
@@ -1037,8 +1037,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31089,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 31090,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "189",
@@ -1268,21 +1268,21 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 14997,
+      "gamesTotal": 15000,
       "lastActivity": "2026-05-14"
     },
     {
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64827,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 64862,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12248,
+      "gamesTotal": 12260,
       "lastActivity": "2026-05-14"
     },
     {
@@ -1394,7 +1394,7 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42797,
+      "gamesTotal": 42847,
       "lastActivity": "2026-05-14"
     },
     {
@@ -1436,29 +1436,29 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80579,
+      "gamesTotal": 80596,
       "lastActivity": "2026-05-14"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8040,
+      "gamesTotal": 8052,
       "lastActivity": "2026-05-14"
     },
     {
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18815,
+      "gamesTotal": 18817,
       "lastActivity": "2026-05-14"
     },
     {
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 35956,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 36006,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "296",
@@ -1478,7 +1478,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45684,
+      "gamesTotal": 45688,
       "lastActivity": "2026-05-14"
     },
     {
@@ -1730,7 +1730,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26302,
+      "gamesTotal": 26303,
       "lastActivity": "2026-05-14"
     },
     {
@@ -1793,8 +1793,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23605,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 23620,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "306",
@@ -1947,7 +1947,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118486,
+      "gamesTotal": 118548,
       "lastActivity": "2026-05-14"
     },
     {
@@ -2192,8 +2192,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1348,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 1349,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "299",
