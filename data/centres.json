@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-14T04:51:22.581Z",
+  "lastUpdated": "2026-05-14T09:37:17.964Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 191,
+  "lastCheckedIndex": 128,
   "centres": [
     {
       "id": "159",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25905,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 25913,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "234",
@@ -1359,22 +1359,22 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19647,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 19655,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60477,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 60483,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24223,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 24225,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "143",
@@ -1408,8 +1408,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48665,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 48683,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "141",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91299,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 91409,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "98",
@@ -1919,7 +1919,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37082,
+      "gamesTotal": 37083,
       "lastActivity": "2026-05-14"
     },
     {
@@ -2115,8 +2115,8 @@
       "id": "20",
       "regionSite": "1-23",
       "name": "Strike Bowling Chatswood, NSW, Australia",
-      "gamesTotal": 294,
-      "lastActivity": "before 2026"
+      "gamesTotal": 296,
+      "lastActivity": "2026-05-14"
     },
     {
       "id": "27",
