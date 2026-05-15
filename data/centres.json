@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-15T04:56:52.036Z",
+  "lastUpdated": "2026-05-15T10:09:48.782Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 270,
+  "lastCheckedIndex": 207,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39722,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 39744,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "321",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 734,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 735,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "206",
@@ -1352,8 +1352,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3581,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 3594,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "191",
@@ -1940,8 +1940,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19057,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 19077,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "349",
@@ -2087,8 +2087,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49217,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 49298,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "29",
@@ -2164,8 +2164,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2670,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 2672,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "111",
@@ -2353,8 +2353,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 608,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 609,
+      "lastActivity": "2026-05-15"
     },
     {
       "id": "100",
