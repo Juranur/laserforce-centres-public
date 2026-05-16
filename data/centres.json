@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-16T14:38:41.117Z",
+  "lastUpdated": "2026-05-16T20:06:41.667Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 224,
+  "lastCheckedIndex": 158,
   "centres": [
     {
       "id": "159",
@@ -162,7 +162,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 86443,
+      "gamesTotal": 86565,
       "lastActivity": "2026-05-16"
     },
     {
@@ -302,7 +302,7 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2724,
+      "gamesTotal": 2731,
       "lastActivity": "2026-05-16"
     },
     {
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54049,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 54059,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "254",
@@ -386,8 +386,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17870,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 17875,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "487",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39833,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 39914,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8360,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 8369,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "309",
@@ -757,14 +757,14 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 309,
-      "lastActivity": "2026-04-15"
+      "gamesTotal": 310,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1399,
+      "gamesTotal": 1403,
       "lastActivity": "2026-05-16"
     },
     {
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 540,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 541,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "431",
@@ -918,7 +918,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30092,
+      "gamesTotal": 30111,
       "lastActivity": "2026-05-16"
     },
     {
@@ -995,8 +995,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17385,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 17386,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "161",
@@ -1009,7 +1009,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29647,
+      "gamesTotal": 29652,
       "lastActivity": "2026-05-16"
     },
     {
@@ -1625,8 +1625,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39584,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 39586,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "293",
@@ -1639,15 +1639,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 3994,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 3999,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17277,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 17284,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "385",
@@ -1660,8 +1660,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2928,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 2931,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "469",
@@ -1674,8 +1674,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3611,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 3648,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "434",
@@ -1730,8 +1730,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26303,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 26306,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "99",
@@ -1793,8 +1793,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23640,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 23644,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "306",
@@ -1821,7 +1821,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7440,
+      "gamesTotal": 7451,
       "lastActivity": "2026-05-16"
     },
     {
@@ -1842,8 +1842,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 487,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 489,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "399",
@@ -1891,8 +1891,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 191,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 193,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "265",
@@ -1912,8 +1912,8 @@
       "id": "384",
       "regionSite": "7-16",
       "name": "Quasar Norwich, Norwich, UK",
-      "gamesTotal": 149,
-      "lastActivity": "2026-04-06"
+      "gamesTotal": 152,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "153",
@@ -1947,8 +1947,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118548,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 118550,
+      "lastActivity": "2026-05-16"
     },
     {
       "id": "441",
