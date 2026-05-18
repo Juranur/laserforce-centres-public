@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-18T16:40:29.230Z",
+  "lastUpdated": "2026-05-18T20:45:49.353Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 33,
+  "lastCheckedIndex": 308,
   "centres": [
     {
       "id": "159",
@@ -414,8 +414,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7725,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 7762,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "282",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35070,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 35108,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "478",
@@ -1009,7 +1009,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29717,
+      "gamesTotal": 29719,
       "lastActivity": "2026-05-18"
     },
     {
@@ -1198,8 +1198,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9708,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 9720,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "12",
@@ -1303,8 +1303,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16890,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 16963,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "493",
@@ -1436,7 +1436,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 80731,
+      "gamesTotal": 80733,
       "lastActivity": "2026-05-18"
     },
     {
@@ -1471,15 +1471,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33794,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 33826,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45693,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 45791,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "485",
@@ -1947,7 +1947,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118608,
+      "gamesTotal": 118639,
       "lastActivity": "2026-05-18"
     },
     {
