@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-17T20:10:04.538Z",
+  "lastUpdated": "2026-05-18T05:09:11.962Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 234,
+  "lastCheckedIndex": 166,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 383,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 385,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "312",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25923,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 25942,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "234",
@@ -729,8 +729,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2796,
-      "lastActivity": "2026-05-08"
+      "gamesTotal": 2797,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5060,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 5061,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "323",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68535,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 68625,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "28",
@@ -1674,8 +1674,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3654,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 3758,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "434",
@@ -1730,8 +1730,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26309,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 26384,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "99",
@@ -1793,15 +1793,15 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23644,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 23720,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9596,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 9600,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "302",
@@ -1884,15 +1884,15 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 16093,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 16196,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 195,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 196,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "265",
@@ -1940,15 +1940,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19105,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 19167,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118550,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 118608,
+      "lastActivity": "2026-05-18"
     },
     {
       "id": "441",
