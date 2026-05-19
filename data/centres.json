@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-19T16:31:22.084Z",
+  "lastUpdated": "2026-05-19T20:50:36.294Z",
   "totalCentres": 344,
-  "centresWithData": 343,
-  "lastCheckedIndex": 107,
+  "centresWithData": 344,
+  "lastCheckedIndex": 38,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026"
+      "gamesTotal": 10,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "180",
@@ -1205,8 +1205,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9720,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 9741,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "12",
@@ -1275,8 +1275,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15000,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 15006,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "230",
@@ -1324,7 +1324,7 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5181,
+      "gamesTotal": 5196,
       "lastActivity": "2026-05-19"
     },
     {
@@ -1632,7 +1632,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39683,
+      "gamesTotal": 39701,
       "lastActivity": "2026-05-19"
     },
     {
@@ -1653,7 +1653,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17349,
+      "gamesTotal": 17369,
       "lastActivity": "2026-05-19"
     },
     {
@@ -1667,8 +1667,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 2931,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 3002,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "469",
@@ -1737,8 +1737,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26384,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 26424,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "99",
@@ -1947,14 +1947,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19173,
+      "gamesTotal": 19199,
       "lastActivity": "2026-05-19"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118643,
+      "gamesTotal": 118772,
       "lastActivity": "2026-05-19"
     },
     {
@@ -2073,7 +2073,7 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1405,
+      "gamesTotal": 1408,
       "lastActivity": "2026-05-19"
     },
     {
