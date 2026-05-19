@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-18T20:45:49.353Z",
+  "lastUpdated": "2026-05-19T05:04:45.990Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 308,
+  "lastCheckedIndex": 240,
   "centres": [
     {
       "id": "159",
@@ -134,8 +134,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3692,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 3694,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "184",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 86821,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 87049,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "353",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41965,
-      "lastActivity": "2026-05-06"
+      "gamesTotal": 41967,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "278",
@@ -1303,8 +1303,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 16963,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 16989,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "493",
@@ -1338,8 +1338,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 59566,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 59692,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "373",
@@ -1471,8 +1471,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33826,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 33844,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "164",
@@ -1548,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91515,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 91516,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "98",
@@ -1625,8 +1625,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39586,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 39663,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "293",
@@ -2220,8 +2220,8 @@
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
-      "gamesTotal": 298,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 299,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "77",
