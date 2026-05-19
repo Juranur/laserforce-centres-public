@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-19T05:04:45.990Z",
+  "lastUpdated": "2026-05-19T10:49:47.552Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 240,
+  "lastCheckedIndex": 172,
   "centres": [
     {
       "id": "159",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101189,
-      "lastActivity": "2026-05-12"
+      "gamesTotal": 101265,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "8",
@@ -2374,8 +2374,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 619,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 640,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "24",
