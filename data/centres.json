@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-19T10:49:47.552Z",
-  "totalCentres": 343,
+  "lastUpdated": "2026-05-19T16:31:22.084Z",
+  "totalCentres": 344,
   "centresWithData": 343,
-  "lastCheckedIndex": 172,
+  "lastCheckedIndex": 107,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29656,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 29660,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "25",
@@ -101,6 +101,13 @@
       "name": "Alley Cats, Arlington, Texas, USA",
       "gamesTotal": 2968,
       "lastActivity": "2026-05-03"
+    },
+    {
+      "id": "498",
+      "regionSite": "20-18",
+      "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
+      "gamesTotal": 0,
+      "lastActivity": "before 2026"
     },
     {
       "id": "180",
@@ -750,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 492,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 493,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "421",
@@ -1317,8 +1324,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5159,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 5181,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "248",
@@ -1429,8 +1436,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4340,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 4345,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "212",
@@ -1499,8 +1506,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75804,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 75846,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "44",
@@ -1625,7 +1632,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39663,
+      "gamesTotal": 39683,
       "lastActivity": "2026-05-19"
     },
     {
@@ -1639,15 +1646,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4001,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 4069,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17287,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 17349,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "385",
@@ -1940,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19168,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 19173,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118639,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 118643,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "441",
@@ -2066,8 +2073,8 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1402,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 1405,
+      "lastActivity": "2026-05-19"
     },
     {
       "id": "151",
