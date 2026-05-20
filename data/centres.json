@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-19T20:50:36.294Z",
+  "lastUpdated": "2026-05-20T05:05:20.692Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 38,
+  "lastCheckedIndex": 317,
   "centres": [
     {
       "id": "159",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 886,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 929,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "437",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 737,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 738,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "206",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41967,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 41997,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "278",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91516,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 91593,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "98",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37097,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 37105,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "58",
