@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-20T10:38:58.146Z",
+  "lastUpdated": "2026-05-20T16:33:11.294Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 250,
+  "lastCheckedIndex": 193,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 39979,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 40041,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "321",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35108,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 35109,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "478",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29719,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 29721,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "329",
@@ -1142,8 +1142,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86910,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 86968,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "113",
@@ -1205,8 +1205,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9741,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 9743,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "12",
@@ -1359,8 +1359,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3601,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 3659,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "191",
@@ -1898,8 +1898,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 196,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 197,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "265",
@@ -1947,8 +1947,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19199,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 19215,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "349",
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49298,
-      "lastActivity": "2026-05-15"
+      "gamesTotal": 49322,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "29",
