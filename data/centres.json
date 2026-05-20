@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-20T16:33:11.294Z",
+  "lastUpdated": "2026-05-20T21:17:08.338Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 193,
+  "lastCheckedIndex": 124,
   "centres": [
     {
       "id": "159",
@@ -22,15 +22,15 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1818,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 1820,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16005,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 16021,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "392",
@@ -603,7 +603,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35109,
+      "gamesTotal": 35112,
       "lastActivity": "2026-05-20"
     },
     {
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9059,
-      "lastActivity": "2026-05-13"
+      "gamesTotal": 9127,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "404",
@@ -1373,8 +1373,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60511,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 60532,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "339",
@@ -1394,8 +1394,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81074,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 81133,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "167",
@@ -1464,8 +1464,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36032,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 36046,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "296",
@@ -1485,8 +1485,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45791,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 45793,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "485",
@@ -1527,8 +1527,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30530,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 30586,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "194",
@@ -1646,15 +1646,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4069,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 4072,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17369,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 17373,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "385",
@@ -1667,8 +1667,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3002,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 3004,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "469",
@@ -1681,8 +1681,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3758,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 3759,
+      "lastActivity": "2026-05-20"
     },
     {
       "id": "434",
@@ -2094,7 +2094,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49322,
+      "gamesTotal": 49347,
       "lastActivity": "2026-05-20"
     },
     {
