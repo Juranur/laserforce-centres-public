@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-20T21:17:08.338Z",
+  "lastUpdated": "2026-05-21T05:13:52.967Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 124,
+  "lastCheckedIndex": 55,
   "centres": [
     {
       "id": "159",
@@ -92,8 +92,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 143,
-      "lastActivity": "2026-05-11"
+      "gamesTotal": 144,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "213",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 87049,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 87291,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54195,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 54251,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "254",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30120,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 30123,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "154",
@@ -939,15 +939,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1659,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 1663,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43082,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 43087,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "160",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 309,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 312,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "56",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29721,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 29723,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "329",
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56646,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 56724,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "134",
@@ -1282,15 +1282,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 64978,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 65017,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12274,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 12281,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "245",
@@ -1303,8 +1303,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2946,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 2952,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "178",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19215,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 19217,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118772,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 118775,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "441",
@@ -2199,8 +2199,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1350,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 1355,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "299",
