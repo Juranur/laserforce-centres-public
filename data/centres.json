@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-21T16:34:31.843Z",
+  "lastUpdated": "2026-05-21T20:52:41.297Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 266,
+  "lastCheckedIndex": 198,
   "centres": [
     {
       "id": "159",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 738,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 739,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "206",
@@ -1184,7 +1184,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56729,
+      "gamesTotal": 56745,
       "lastActivity": "2026-05-21"
     },
     {
@@ -1282,7 +1282,7 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65017,
+      "gamesTotal": 65056,
       "lastActivity": "2026-05-21"
     },
     {
@@ -1303,7 +1303,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2952,
+      "gamesTotal": 2960,
       "lastActivity": "2026-05-21"
     },
     {
@@ -1324,7 +1324,7 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5204,
+      "gamesTotal": 5208,
       "lastActivity": "2026-05-21"
     },
     {
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37105,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 37110,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "58",
@@ -1947,14 +1947,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19217,
+      "gamesTotal": 19242,
       "lastActivity": "2026-05-21"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118775,
+      "gamesTotal": 118828,
       "lastActivity": "2026-05-21"
     },
     {
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49347,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 49407,
+      "lastActivity": "2026-05-21"
     },
     {
       "id": "29",
