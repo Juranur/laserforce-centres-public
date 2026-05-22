@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-22T15:44:29.494Z",
+  "lastUpdated": "2026-05-22T20:48:34.620Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 341,
+  "lastCheckedIndex": 271,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12942,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 12944,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "340",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40177,
+      "gamesTotal": 40200,
       "lastActivity": "2026-05-22"
     },
     {
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30125,
+      "gamesTotal": 30126,
       "lastActivity": "2026-05-22"
     },
     {
@@ -1002,8 +1002,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17390,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 17392,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "161",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 29723,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 29786,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "329",
@@ -1044,7 +1044,7 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31091,
+      "gamesTotal": 31096,
       "lastActivity": "2026-05-22"
     },
     {
@@ -1142,7 +1142,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86974,
+      "gamesTotal": 86975,
       "lastActivity": "2026-05-22"
     },
     {
@@ -1170,7 +1170,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33166,
+      "gamesTotal": 33167,
       "lastActivity": "2026-05-22"
     },
     {
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 56745,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 56906,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "134",
@@ -1303,8 +1303,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2960,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 2970,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "178",
@@ -1394,8 +1394,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81133,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 81267,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "167",
@@ -1429,8 +1429,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46493,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 46495,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "448",
@@ -1450,7 +1450,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8122,
+      "gamesTotal": 8134,
       "lastActivity": "2026-05-22"
     },
     {
@@ -1527,8 +1527,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30586,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 30588,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "194",
@@ -1737,7 +1737,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26427,
+      "gamesTotal": 26429,
       "lastActivity": "2026-05-22"
     },
     {
