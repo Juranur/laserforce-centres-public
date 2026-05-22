@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-22T05:07:57.221Z",
+  "lastUpdated": "2026-05-22T10:32:01.771Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 135,
+  "lastCheckedIndex": 66,
   "centres": [
     {
       "id": "159",
@@ -176,8 +176,8 @@
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1865,
-      "lastActivity": "2026-04-17"
+      "gamesTotal": 1868,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "187",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40089,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 40177,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "321",
@@ -967,8 +967,8 @@
       "id": "218",
       "regionSite": "21-59",
       "name": "Laser Heroes GmbH, Bremerhaven, DE",
-      "gamesTotal": 8788,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 8790,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "484",
@@ -1142,8 +1142,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 86968,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 86974,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "113",
@@ -1170,8 +1170,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33165,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 33166,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "446",
@@ -1289,8 +1289,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12281,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 12289,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "245",
@@ -1338,8 +1338,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7800,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 7815,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "279",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19243,
+      "gamesTotal": 19246,
       "lastActivity": "2026-05-22"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118828,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 118830,
+      "lastActivity": "2026-05-22"
     },
     {
       "id": "441",
