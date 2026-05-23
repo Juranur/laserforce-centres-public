@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-22T20:48:34.620Z",
+  "lastUpdated": "2026-05-23T04:47:06.197Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 202,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 393,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 394,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "312",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8369,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 8373,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "309",
@@ -1282,15 +1282,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65058,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 65127,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12290,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 12294,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "245",
@@ -1912,8 +1912,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12055,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 12062,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "384",
@@ -1947,8 +1947,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 19246,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 19449,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "349",
@@ -2073,8 +2073,8 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1408,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 1409,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "151",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2680,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 2682,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "111",
@@ -2213,15 +2213,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1679,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 1680,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82712,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 82716,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "413",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 611,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 612,
+      "lastActivity": "2026-05-23"
     },
     {
       "id": "100",
