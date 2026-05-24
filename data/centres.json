@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-23T20:12:16.341Z",
+  "lastUpdated": "2026-05-24T05:06:39.867Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 339,
+  "lastCheckedIndex": 273,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 29802,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 29917,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "25",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12944,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 12945,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "340",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3694,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 3696,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "184",
@@ -190,8 +190,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5876,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 5880,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "394",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 394,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 400,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "312",
@@ -540,8 +540,8 @@
       "id": "317",
       "regionSite": "21-94",
       "name": "Full-One Lasertag, Winterberg, DE",
-      "gamesTotal": 9393,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 9395,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "379",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6052,
-      "lastActivity": "2026-05-04"
+      "gamesTotal": 6053,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "359",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 745,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 748,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "206",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68625,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 68629,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "28",
@@ -1177,8 +1177,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6144,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 6145,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "308",
@@ -1303,8 +1303,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2980,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 2984,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "178",
@@ -1380,8 +1380,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24278,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 24286,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "143",
@@ -1429,8 +1429,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46497,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 46519,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "448",
@@ -1674,8 +1674,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3034,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 3039,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "426",
@@ -1716,8 +1716,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8958,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 8960,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "255",
@@ -1800,8 +1800,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23729,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 23737,
+      "lastActivity": "2026-05-24"
     },
     {
       "id": "306",
