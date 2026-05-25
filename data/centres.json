@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-24T20:15:50.678Z",
+  "lastUpdated": "2026-05-25T05:29:34.069Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 74,
+  "lastCheckedIndex": 4,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16021,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 16048,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "392",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2798,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 2799,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "46",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 493,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 496,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "421",
@@ -771,22 +771,22 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1407,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 1412,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 754,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 758,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5061,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 5062,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "323",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68632,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 68712,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "28",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30137,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 30170,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1664,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 1666,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "128",
@@ -960,8 +960,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6656,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 6669,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "218",
@@ -1303,8 +1303,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 2992,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 2995,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "178",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91640,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 91646,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "98",
@@ -1891,8 +1891,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 16196,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 16354,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "491",
@@ -2213,8 +2213,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1680,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 1681,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "74",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 612,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 615,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "100",
