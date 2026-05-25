@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-25T16:13:07.988Z",
+  "lastUpdated": "2026-05-25T20:41:12.377Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 219,
+  "lastCheckedIndex": 153,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 400,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 402,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "312",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 929,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 932,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "437",
@@ -603,7 +603,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35119,
+      "gamesTotal": 35160,
       "lastActivity": "2026-05-25"
     },
     {
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 758,
+      "gamesTotal": 759,
       "lastActivity": "2026-05-25"
     },
     {
@@ -1555,7 +1555,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91646,
+      "gamesTotal": 91647,
       "lastActivity": "2026-05-25"
     },
     {
@@ -1632,8 +1632,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39701,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 39829,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "293",
@@ -1660,8 +1660,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13074,
-      "lastActivity": "2026-05-18"
+      "gamesTotal": 13129,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "386",
@@ -1681,8 +1681,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3760,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 3766,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "434",
@@ -1737,7 +1737,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26642,
+      "gamesTotal": 26745,
       "lastActivity": "2026-05-25"
     },
     {
@@ -1828,7 +1828,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7483,
+      "gamesTotal": 7490,
       "lastActivity": "2026-05-25"
     },
     {
@@ -1849,8 +1849,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 489,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 491,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "399",
@@ -1870,8 +1870,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1044,
-      "lastActivity": "2026-04-26"
+      "gamesTotal": 1045,
+      "lastActivity": "2026-05-25"
     },
     {
       "id": "224",
@@ -1947,7 +1947,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20023,
+      "gamesTotal": 20049,
       "lastActivity": "2026-05-25"
     },
     {
@@ -2073,7 +2073,7 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1410,
+      "gamesTotal": 1412,
       "lastActivity": "2026-05-25"
     },
     {
