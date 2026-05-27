@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-26T21:11:45.544Z",
+  "lastUpdated": "2026-05-27T05:17:04.637Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 294,
+  "lastCheckedIndex": 228,
   "centres": [
     {
       "id": "159",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30180,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 30184,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "154",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 41997,
-      "lastActivity": "2026-05-20"
+      "gamesTotal": 42038,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "278",
@@ -1506,8 +1506,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 75892,
-      "lastActivity": "2026-05-22"
+      "gamesTotal": 75935,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "44",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91647,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 91712,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "98",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2697,
-      "lastActivity": "2026-05-23"
+      "gamesTotal": 2699,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "111",
@@ -2297,8 +2297,8 @@
       "id": "112",
       "regionSite": "9-5",
       "name": "Tyumen Russia",
-      "gamesTotal": 6,
-      "lastActivity": "before 2026"
+      "gamesTotal": 8,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "200",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 617,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 618,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "100",
