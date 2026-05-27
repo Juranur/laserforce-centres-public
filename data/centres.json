@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-27T16:52:37.511Z",
+  "lastUpdated": "2026-05-27T21:16:11.460Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 91,
+  "lastCheckedIndex": 24,
   "centres": [
     {
       "id": "159",
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30184,
+      "gamesTotal": 30189,
       "lastActivity": "2026-05-27"
     },
     {
@@ -1114,8 +1114,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1010,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 1030,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "389",
@@ -1282,8 +1282,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65261,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 65309,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "231",
@@ -1338,14 +1338,14 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7817,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 7825,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 59882,
+      "gamesTotal": 59894,
       "lastActivity": "2026-05-27"
     },
     {
@@ -1373,15 +1373,15 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60576,
+      "gamesTotal": 60578,
       "lastActivity": "2026-05-27"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24286,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 24287,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "143",
@@ -1947,7 +1947,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20127,
+      "gamesTotal": 20129,
       "lastActivity": "2026-05-27"
     },
     {
@@ -2199,8 +2199,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1369,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 1371,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "299",
