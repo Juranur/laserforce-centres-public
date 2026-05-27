@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-27T05:17:04.637Z",
+  "lastUpdated": "2026-05-27T10:59:20.551Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 228,
+  "lastCheckedIndex": 159,
   "centres": [
     {
       "id": "159",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2601,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 2614,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "116",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 759,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 761,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "206",
@@ -1828,8 +1828,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7508,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 7509,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "166",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37182,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 37190,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "58",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20117,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 20127,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 118909,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 119033,
+      "lastActivity": "2026-05-27"
     },
     {
       "id": "441",
@@ -2171,7 +2171,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2699,
+      "gamesTotal": 2723,
       "lastActivity": "2026-05-27"
     },
     {
