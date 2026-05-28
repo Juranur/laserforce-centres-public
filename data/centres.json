@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-27T21:16:11.460Z",
-  "totalCentres": 344,
-  "centresWithData": 344,
-  "lastCheckedIndex": 24,
+  "lastUpdated": "2026-05-28T05:06:51.075Z",
+  "totalCentres": 343,
+  "centresWithData": 343,
+  "lastCheckedIndex": 303,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54349,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 54395,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "254",
@@ -359,13 +359,6 @@
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
       "gamesTotal": 520,
-      "lastActivity": "before 2026"
-    },
-    {
-      "id": "314",
-      "regionSite": "4-128",
-      "name": "Celebrity Lanes, Centennial, CO, USA",
-      "gamesTotal": 627,
       "lastActivity": "before 2026"
     },
     {
@@ -393,8 +386,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17875,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 17884,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "487",
@@ -449,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 412,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 414,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "312",
@@ -526,8 +519,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 537,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 538,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "242",
@@ -561,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 939,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 981,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "437",
@@ -603,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35161,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 35164,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "478",
@@ -645,8 +638,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9130,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 9133,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "404",
@@ -778,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 761,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 763,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "206",
@@ -1555,8 +1548,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91712,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 91803,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "98",
@@ -1926,8 +1919,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37190,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 37203,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "58",
@@ -2094,8 +2087,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49407,
-      "lastActivity": "2026-05-21"
+      "gamesTotal": 49464,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "29",
