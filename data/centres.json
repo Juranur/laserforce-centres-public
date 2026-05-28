@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-28T05:06:51.075Z",
+  "lastUpdated": "2026-05-28T11:08:03.610Z",
   "totalCentres": 343,
   "centresWithData": 343,
-  "lastCheckedIndex": 303,
+  "lastCheckedIndex": 238,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16054,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 16085,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "392",
@@ -106,15 +106,15 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 10,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 29,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12945,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 12949,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "340",
@@ -1086,8 +1086,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206754,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 206757,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "165",
@@ -1387,8 +1387,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81372,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 81417,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "167",
