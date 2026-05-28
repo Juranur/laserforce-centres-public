@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-28T11:08:03.610Z",
-  "totalCentres": 343,
-  "centresWithData": 343,
-  "lastCheckedIndex": 238,
+  "lastUpdated": "2026-05-28T17:07:50.470Z",
+  "totalCentres": 344,
+  "centresWithData": 344,
+  "lastCheckedIndex": 173,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 87914,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 88091,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "353",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40288,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 40344,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "321",
@@ -572,11 +572,18 @@
       "lastActivity": "2026-03-17"
     },
     {
+      "id": "494",
+      "regionSite": "21-144",
+      "name": "Fun Fabrik Dortmund, Germany",
+      "gamesTotal": 12,
+      "lastActivity": "2026-05-28"
+    },
+    {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8375,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 8379,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "309",
@@ -771,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 763,
+      "gamesTotal": 764,
       "lastActivity": "2026-05-28"
     },
     {
@@ -1107,8 +1114,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1030,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 1044,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "389",
@@ -1163,8 +1170,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33172,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 33173,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "446",
@@ -1674,8 +1681,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3766,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 3768,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "434",
@@ -1793,8 +1800,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 23841,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 23853,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "306",
@@ -1940,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20129,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 20145,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119033,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 119050,
+      "lastActivity": "2026-05-28"
     },
     {
       "id": "441",
@@ -2087,7 +2094,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49464,
+      "gamesTotal": 49506,
       "lastActivity": "2026-05-28"
     },
     {
