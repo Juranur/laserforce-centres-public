@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-29T05:10:13.028Z",
+  "lastUpdated": "2026-05-29T10:57:28.602Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 38,
+  "lastCheckedIndex": 316,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40381,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 40426,
+      "lastActivity": "2026-05-29"
     },
     {
       "id": "321",
@@ -1478,8 +1478,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33855,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 33857,
+      "lastActivity": "2026-05-29"
     },
     {
       "id": "164",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91803,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 91805,
+      "lastActivity": "2026-05-29"
     },
     {
       "id": "98",
