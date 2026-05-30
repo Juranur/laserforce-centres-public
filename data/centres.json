@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-30T04:55:23.350Z",
+  "lastUpdated": "2026-05-30T09:25:59.308Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 111,
+  "lastCheckedIndex": 42,
   "centres": [
     {
       "id": "159",
@@ -1114,8 +1114,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1044,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 1046,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "389",
@@ -1401,8 +1401,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 42980,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 42982,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "168",
@@ -1443,7 +1443,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81094,
+      "gamesTotal": 81096,
       "lastActivity": "2026-05-30"
     },
     {
@@ -1555,7 +1555,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91813,
+      "gamesTotal": 91817,
       "lastActivity": "2026-05-30"
     },
     {
@@ -1807,8 +1807,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9610,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 9608,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "302",
@@ -1828,8 +1828,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7520,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 7526,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20317,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 20444,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "349",
@@ -2199,8 +2199,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1371,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 1373,
+      "lastActivity": "2026-05-30"
     },
     {
       "id": "299",
