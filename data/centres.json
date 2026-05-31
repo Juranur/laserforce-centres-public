@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-30T20:26:50.703Z",
+  "lastUpdated": "2026-05-31T05:29:53.057Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 254,
+  "lastCheckedIndex": 186,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 414,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 416,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "312",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6053,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 6054,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "359",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30189,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 30200,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "154",
@@ -960,8 +960,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6670,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 6672,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "218",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 316,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 322,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "56",
@@ -1100,8 +1100,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25539,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 25542,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "148",
@@ -1177,15 +1177,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6157,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 6163,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57557,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 57565,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "134",
@@ -1849,8 +1849,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 491,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 493,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "399",
@@ -1870,8 +1870,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1047,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 1049,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "224",
@@ -1898,8 +1898,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 199,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 203,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "265",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37211,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 37218,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "58",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20444,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 20852,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119089,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 119106,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "441",
@@ -1982,8 +1982,8 @@
       "id": "423",
       "regionSite": "21-121",
       "name": "Sax Racing GmbH, Schkeuditz, DE",
-      "gamesTotal": 106,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 107,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "464",
@@ -2031,8 +2031,8 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3363,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 3365,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "7",
@@ -2171,15 +2171,15 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2723,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 2740,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 14770,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 14851,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "374",
@@ -2199,8 +2199,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1373,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 1374,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "299",
@@ -2213,15 +2213,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1681,
-      "lastActivity": "2026-05-25"
+      "gamesTotal": 1686,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82740,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 82742,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "413",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 618,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 619,
+      "lastActivity": "2026-05-31"
     },
     {
       "id": "100",
