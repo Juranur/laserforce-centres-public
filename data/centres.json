@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-01T22:30:36.987Z",
+  "lastUpdated": "2026-06-02T05:38:33.242Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 59,
+  "lastCheckedIndex": 334,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 416,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 418,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "312",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35174,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 35213,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "478",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2805,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 2811,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 768,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 770,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "206",
@@ -1632,8 +1632,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 39956,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 39970,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "293",
@@ -1674,8 +1674,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3039,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 3044,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "426",
