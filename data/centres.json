@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-02T05:38:33.242Z",
+  "lastUpdated": "2026-06-02T11:38:23.503Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 334,
+  "lastCheckedIndex": 267,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30119,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 30136,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "25",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40683,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 40731,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "321",
@@ -1429,8 +1429,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46683,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 46706,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "448",
@@ -1478,8 +1478,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33907,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 33909,
+      "lastActivity": "2026-06-02"
     },
     {
       "id": "164",
