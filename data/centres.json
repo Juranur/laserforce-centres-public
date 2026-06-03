@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-03T17:54:30.961Z",
+  "lastUpdated": "2026-06-03T22:13:13.266Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 275,
+  "lastCheckedIndex": 208,
   "centres": [
     {
       "id": "159",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54406,
+      "gamesTotal": 54446,
       "lastActivity": "2026-06-03"
     },
     {
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1047,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 1048,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "437",
@@ -841,8 +841,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 541,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 547,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "431",
@@ -1177,8 +1177,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6163,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 6165,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "308",
@@ -1282,8 +1282,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65756,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 65791,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "231",
@@ -1338,7 +1338,7 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7841,
+      "gamesTotal": 7844,
       "lastActivity": "2026-06-03"
     },
     {
@@ -1373,15 +1373,15 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60642,
+      "gamesTotal": 60643,
       "lastActivity": "2026-06-03"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24312,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 24316,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "143",
@@ -1429,7 +1429,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46721,
+      "gamesTotal": 46722,
       "lastActivity": "2026-06-03"
     },
     {
@@ -1947,7 +1947,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21031,
+      "gamesTotal": 21032,
       "lastActivity": "2026-06-03"
     },
     {
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49530,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 49551,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "29",
