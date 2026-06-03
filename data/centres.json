@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-03T12:06:35.532Z",
+  "lastUpdated": "2026-06-03T17:54:30.961Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 337,
+  "lastCheckedIndex": 275,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16090,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 16093,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "392",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 12965,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 13001,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "340",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 88302,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 88467,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "353",
@@ -456,7 +456,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40818,
+      "gamesTotal": 40881,
       "lastActivity": "2026-06-03"
     },
     {
@@ -484,7 +484,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 25980,
+      "gamesTotal": 25990,
       "lastActivity": "2026-06-03"
     },
     {
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8398,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 8400,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "309",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9133,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 9183,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "404",
@@ -946,8 +946,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43193,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 43194,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "160",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 326,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 328,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "56",
@@ -1142,7 +1142,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 87379,
+      "gamesTotal": 87414,
       "lastActivity": "2026-06-03"
     },
     {
@@ -1289,8 +1289,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12362,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 12364,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "245",
@@ -1345,8 +1345,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60034,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 60038,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "373",
@@ -1373,8 +1373,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60640,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 60642,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "339",
@@ -1422,14 +1422,14 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12510,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 12514,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46712,
+      "gamesTotal": 46721,
       "lastActivity": "2026-06-03"
     },
     {
@@ -1681,8 +1681,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3804,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 3805,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "434",
@@ -1912,8 +1912,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12070,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 12071,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "384",
