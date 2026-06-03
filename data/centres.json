@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-02T22:07:53.720Z",
+  "lastUpdated": "2026-06-03T05:48:40.429Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 131,
+  "lastCheckedIndex": 62,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54405,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 54406,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "254",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 418,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 420,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "312",
@@ -1072,8 +1072,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101298,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 101319,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "8",
@@ -1324,8 +1324,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5216,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 5231,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "248",
@@ -1338,8 +1338,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7831,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 7841,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "279",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37296,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 37305,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "58",
@@ -1947,8 +1947,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 20935,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 21030,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "349",
@@ -2220,8 +2220,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82742,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 82743,
+      "lastActivity": "2026-06-03"
     },
     {
       "id": "413",
