@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-04T05:41:44.378Z",
+  "lastUpdated": "2026-06-04T10:57:19.320Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 142,
+  "lastCheckedIndex": 75,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 420,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 421,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "312",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 40881,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 40908,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "321",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30070,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 30090,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "329",
@@ -1072,8 +1072,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101319,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 101320,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "8",
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57577,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 57580,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "134",
@@ -1394,15 +1394,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81568,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 81636,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43086,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 43102,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "168",
@@ -1415,8 +1415,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48843,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 48844,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "141",
@@ -1443,8 +1443,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81139,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 81149,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "436",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21032,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 21036,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119308,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 119310,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "441",
