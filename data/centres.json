@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-03T22:13:13.266Z",
+  "lastUpdated": "2026-06-04T05:41:44.378Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 208,
+  "lastCheckedIndex": 142,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13001,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 13024,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "340",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2811,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 2814,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 772,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 776,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "206",
@@ -946,8 +946,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43194,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 43195,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "160",
@@ -1527,8 +1527,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30719,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 30762,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "194",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91868,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 91952,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "98",
@@ -1674,8 +1674,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3056,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 3064,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "426",
@@ -1737,8 +1737,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 26874,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 26877,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "99",
@@ -1800,8 +1800,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 24018,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 24134,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "306",
@@ -1849,8 +1849,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 493,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 496,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "399",
@@ -1912,8 +1912,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12071,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 12072,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "384",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37305,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 37312,
+      "lastActivity": "2026-06-04"
     },
     {
       "id": "58",
