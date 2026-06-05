@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-04T21:03:43.769Z",
+  "lastUpdated": "2026-06-05T05:16:05.107Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 283,
+  "lastCheckedIndex": 216,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30136,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 30185,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "25",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 776,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 778,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "206",
@@ -1205,8 +1205,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9760,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 9775,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "12",
@@ -1289,8 +1289,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12364,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 12393,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "245",
@@ -1373,8 +1373,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60643,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 60662,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "339",
@@ -1415,8 +1415,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48844,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 48845,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "141",
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49551,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 49635,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "29",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 622,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 624,
+      "lastActivity": "2026-06-05"
     },
     {
       "id": "100",
