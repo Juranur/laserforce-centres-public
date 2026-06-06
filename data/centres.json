@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-06T04:58:56.697Z",
+  "lastUpdated": "2026-06-06T09:33:11.947Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 302,
+  "lastCheckedIndex": 233,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1822,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 1823,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "269",
@@ -106,8 +106,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 33,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 48,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "180",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2614,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 2616,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "116",
@@ -1373,15 +1373,15 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60670,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 60674,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24327,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 24329,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "143",
@@ -1450,7 +1450,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8272,
+      "gamesTotal": 8273,
       "lastActivity": "2026-06-06"
     },
     {
@@ -1464,8 +1464,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36172,
-      "lastActivity": "2026-05-26"
+      "gamesTotal": 36173,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "296",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2787,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 2797,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "111",
@@ -2220,8 +2220,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82743,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 82744,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "413",
@@ -2381,8 +2381,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 656,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 660,
+      "lastActivity": "2026-06-06"
     },
     {
       "id": "24",
