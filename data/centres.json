@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-06T20:31:06.900Z",
+  "lastUpdated": "2026-06-07T05:34:22.853Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 100,
+  "lastCheckedIndex": 33,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 48,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 84,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "180",
@@ -190,8 +190,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5880,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 5884,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "394",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2814,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 2816,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "46",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1448,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 1453,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "468",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30222,
-      "lastActivity": "2026-06-02"
+      "gamesTotal": 30231,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1668,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 1669,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "128",
@@ -960,8 +960,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6672,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 6675,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "218",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 341,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 344,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "56",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30306,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 30341,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "329",
@@ -1170,15 +1170,15 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33180,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 33189,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6177,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 6180,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "308",
@@ -1429,8 +1429,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46829,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 46835,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "448",
@@ -1443,8 +1443,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81181,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 81185,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "436",
@@ -1898,8 +1898,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 206,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 209,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "265",
@@ -1933,8 +1933,8 @@
       "id": "58",
       "regionSite": "4-6",
       "name": "Revolution Laser Tag & Arcade, MI, USA",
-      "gamesTotal": 116643,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 116738,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "272",
@@ -2199,8 +2199,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1374,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 1375,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "299",
@@ -2318,8 +2318,8 @@
       "id": "363",
       "regionSite": "4-166",
       "name": "Urban Air Trampoline and Adventure Park, Oxford, MI, USA",
-      "gamesTotal": 59,
-      "lastActivity": "before 2026"
+      "gamesTotal": 60,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "390",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 624,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 627,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "100",
