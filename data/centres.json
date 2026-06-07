@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-07T05:34:22.853Z",
+  "lastUpdated": "2026-06-07T10:18:10.721Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 33,
+  "lastCheckedIndex": 308,
   "centres": [
     {
       "id": "159",
@@ -414,8 +414,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 7976,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 8176,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "282",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 422,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 424,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "312",
@@ -554,8 +554,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1055,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 1078,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "437",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35232,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 35233,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "478",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2631,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 2640,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "116",
@@ -1016,7 +1016,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30341,
+      "gamesTotal": 30349,
       "lastActivity": "2026-06-07"
     },
     {
@@ -1093,8 +1093,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 206845,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 206860,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "165",
@@ -1303,8 +1303,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3055,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 3062,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "178",
@@ -1401,8 +1401,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43154,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 43156,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "168",
@@ -1807,8 +1807,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9637,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 9646,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "302",
@@ -1828,8 +1828,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7579,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 7581,
+      "lastActivity": "2026-06-07"
     },
     {
       "id": "166",
