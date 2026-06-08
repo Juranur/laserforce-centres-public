@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-08T12:00:55.367Z",
+  "lastUpdated": "2026-06-08T16:59:34.109Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 35,
+  "lastCheckedIndex": 310,
   "centres": [
     {
       "id": "159",
@@ -414,8 +414,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8445,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 8595,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "282",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 41006,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 41099,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "321",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8415,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 8421,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "309",
@@ -1380,7 +1380,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24362,
+      "gamesTotal": 24363,
       "lastActivity": "2026-06-08"
     },
     {
@@ -1632,8 +1632,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40052,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 40099,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "293",
@@ -1660,15 +1660,15 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13184,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 13243,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3010,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 3013,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "469",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21424,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 21449,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119625,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 119651,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "441",
