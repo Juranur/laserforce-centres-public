@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-08T16:59:34.109Z",
+  "lastUpdated": "2026-06-08T21:17:42.448Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 310,
+  "lastCheckedIndex": 246,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 84,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 172,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "180",
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 88596,
+      "gamesTotal": 88784,
       "lastActivity": "2026-06-08"
     },
     {
@@ -414,7 +414,7 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8595,
+      "gamesTotal": 8607,
       "lastActivity": "2026-06-08"
     },
     {
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35244,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 35302,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "478",
@@ -1016,7 +1016,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30505,
+      "gamesTotal": 30524,
       "lastActivity": "2026-06-08"
     },
     {
@@ -1142,7 +1142,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 87564,
+      "gamesTotal": 87641,
       "lastActivity": "2026-06-08"
     },
     {
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57646,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 57647,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "134",
@@ -1275,8 +1275,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15054,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 15060,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "230",
@@ -1310,8 +1310,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17037,
-      "lastActivity": "2026-06-01"
+      "gamesTotal": 17135,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "493",
@@ -1345,8 +1345,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60038,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 60152,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "373",
@@ -1478,14 +1478,14 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33917,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 33956,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 45999,
+      "gamesTotal": 46137,
       "lastActivity": "2026-06-08"
     },
     {
@@ -1660,22 +1660,22 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13243,
+      "gamesTotal": 13309,
       "lastActivity": "2026-06-08"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3013,
+      "gamesTotal": 3019,
       "lastActivity": "2026-06-08"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3064,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 3067,
+      "lastActivity": "2026-06-08"
     },
     {
       "id": "426",
