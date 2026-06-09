@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-09T10:47:33.636Z",
+  "lastUpdated": "2026-06-09T16:10:50.234Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 106,
+  "lastCheckedIndex": 38,
   "centres": [
     {
       "id": "159",
@@ -1065,8 +1065,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101320,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 101381,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "8",
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57647,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 57649,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "134",
@@ -1324,8 +1324,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5235,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 5239,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "248",
@@ -1352,8 +1352,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3120,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 3128,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "455",
@@ -1436,15 +1436,15 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4364,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 4370,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81298,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 81299,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "436",
@@ -1457,8 +1457,8 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18817,
-      "lastActivity": "2026-05-14"
+      "gamesTotal": 18820,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "337",
@@ -1646,15 +1646,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4293,
+      "gamesTotal": 4346,
       "lastActivity": "2026-06-09"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17531,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 17578,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "385",
@@ -1947,14 +1947,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21449,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 21457,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119668,
+      "gamesTotal": 119670,
       "lastActivity": "2026-06-09"
     },
     {
