@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-08T21:17:42.448Z",
+  "lastUpdated": "2026-06-09T05:01:55.930Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 246,
+  "lastCheckedIndex": 177,
   "centres": [
     {
       "id": "159",
@@ -101,13 +101,6 @@
       "name": "Alley Cats, Arlington, Texas, USA",
       "gamesTotal": 2968,
       "lastActivity": "2026-05-03"
-    },
-    {
-      "id": "498",
-      "regionSite": "20-18",
-      "name": "Alpha Laser Game, Střešovice, Prague, Czech Republic",
-      "gamesTotal": 172,
-      "lastActivity": "2026-06-08"
     },
     {
       "id": "180",
@@ -442,8 +435,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 424,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 425,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "312",
@@ -1151,6 +1144,13 @@
       "name": "Laserfortet, Stockholm",
       "gamesTotal": 9253,
       "lastActivity": "before 2026"
+    },
+    {
+      "id": "498",
+      "regionSite": "20-18",
+      "name": "Lasergame Beroun, Czech Republic",
+      "gamesTotal": 186,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "324",
@@ -1870,8 +1870,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1049,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 1051,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "224",
@@ -1954,8 +1954,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119651,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 119668,
+      "lastActivity": "2026-06-09"
     },
     {
       "id": "441",
