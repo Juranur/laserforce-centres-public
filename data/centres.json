@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-09T21:05:33.756Z",
+  "lastUpdated": "2026-06-10T05:13:12.237Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 313,
+  "lastCheckedIndex": 244,
   "centres": [
     {
       "id": "159",
@@ -435,8 +435,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 425,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 432,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "312",
@@ -1205,8 +1205,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9775,
-      "lastActivity": "2026-06-05"
+      "gamesTotal": 9810,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "12",
@@ -1324,8 +1324,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5239,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 5251,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "248",
@@ -1457,8 +1457,8 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18820,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 18825,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "337",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 91963,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 92032,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "98",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 628,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 629,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "100",
