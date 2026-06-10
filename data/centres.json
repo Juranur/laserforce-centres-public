@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-10T16:45:50.523Z",
+  "lastUpdated": "2026-06-10T21:30:57.066Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 114,
+  "lastCheckedIndex": 45,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16111,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 16146,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "392",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13036,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 13049,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "340",
@@ -155,8 +155,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4650,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 4658,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "372",
@@ -834,8 +834,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 547,
-      "lastActivity": "2026-06-03"
+      "gamesTotal": 551,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "431",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30235,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 30240,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "154",
@@ -932,8 +932,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1669,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 1673,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "128",
@@ -974,8 +974,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42038,
-      "lastActivity": "2026-05-27"
+      "gamesTotal": 42076,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "278",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30524,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 30552,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "329",
@@ -1135,8 +1135,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 87641,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 87723,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "113",
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57649,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 57779,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "134",
@@ -1282,8 +1282,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65919,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 65960,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "231",
@@ -1632,7 +1632,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40168,
+      "gamesTotal": 40172,
       "lastActivity": "2026-06-10"
     },
     {
@@ -1926,7 +1926,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37454,
+      "gamesTotal": 37459,
       "lastActivity": "2026-06-10"
     },
     {
@@ -1954,7 +1954,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119791,
+      "gamesTotal": 119795,
       "lastActivity": "2026-06-10"
     },
     {
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49638,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 49701,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "29",
