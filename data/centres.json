@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-10T05:13:12.237Z",
+  "lastUpdated": "2026-06-10T11:06:06.042Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 244,
+  "lastCheckedIndex": 183,
   "centres": [
     {
       "id": "159",
@@ -1177,8 +1177,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6180,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 6182,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "308",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37399,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 37454,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "58",
@@ -1947,15 +1947,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21502,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 21520,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119670,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 119791,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "441",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2806,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 2807,
+      "lastActivity": "2026-06-10"
     },
     {
       "id": "111",
