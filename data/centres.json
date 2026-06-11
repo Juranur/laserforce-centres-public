@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-11T05:36:01.393Z",
+  "lastUpdated": "2026-06-11T11:39:51.602Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 320,
+  "lastCheckedIndex": 251,
   "centres": [
     {
       "id": "159",
@@ -449,7 +449,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 41389,
+      "gamesTotal": 41476,
       "lastActivity": "2026-06-11"
     },
     {
@@ -1177,8 +1177,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6182,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 6185,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "308",
