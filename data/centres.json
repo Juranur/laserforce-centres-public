@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-11T11:39:51.602Z",
+  "lastUpdated": "2026-06-11T17:05:08.725Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 251,
+  "lastCheckedIndex": 184,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30205,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 30223,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "25",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 88855,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 88980,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "353",
@@ -337,7 +337,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54517,
+      "gamesTotal": 54524,
       "lastActivity": "2026-06-11"
     },
     {
@@ -666,8 +666,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7218,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 7220,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "473",
@@ -967,8 +967,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 344,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 345,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "56",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30552,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 30558,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "329",
@@ -1170,22 +1170,22 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33531,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 33539,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6185,
+      "gamesTotal": 6186,
       "lastActivity": "2026-06-11"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57779,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 57861,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "134",
@@ -1926,8 +1926,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37459,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 37470,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "58",
@@ -1954,8 +1954,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119795,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 119832,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "441",
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49701,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 49770,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "29",
@@ -2108,8 +2108,8 @@
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
-      "gamesTotal": 296,
-      "lastActivity": "2026-05-10"
+      "gamesTotal": 298,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "22",
@@ -2171,8 +2171,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2807,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 2837,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "111",
