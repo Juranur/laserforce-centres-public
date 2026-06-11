@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-10T21:30:57.066Z",
+  "lastUpdated": "2026-06-11T05:36:01.393Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 45,
+  "lastCheckedIndex": 320,
   "centres": [
     {
       "id": "159",
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54494,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 54517,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "254",
@@ -435,8 +435,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 432,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 435,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "312",
@@ -449,8 +449,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 41301,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 41389,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8425,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 8436,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "309",
@@ -1401,8 +1401,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43165,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 43167,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "168",
@@ -1443,8 +1443,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81299,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 81435,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "436",
@@ -1485,15 +1485,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46137,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 46139,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 23,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 25,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "398",
@@ -1527,8 +1527,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30811,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 30859,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "194",
@@ -1555,8 +1555,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92032,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 92125,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "98",
@@ -1898,8 +1898,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 213,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 217,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "265",
@@ -1947,8 +1947,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21520,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 21524,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "349",
