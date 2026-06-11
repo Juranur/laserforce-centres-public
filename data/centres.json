@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-06-11T17:05:08.725Z",
+  "lastUpdated": "2026-06-11T21:21:16.561Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 184,
+  "lastCheckedIndex": 115,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30223,
+      "gamesTotal": 30371,
       "lastActivity": "2026-06-11"
     },
     {
@@ -162,7 +162,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 88980,
+      "gamesTotal": 88984,
       "lastActivity": "2026-06-11"
     },
     {
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 781,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 783,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "206",
@@ -1324,8 +1324,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5251,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 5271,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "248",
@@ -1366,8 +1366,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19813,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 19814,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "219",
@@ -1436,14 +1436,14 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4370,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 4376,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81435,
+      "gamesTotal": 81598,
       "lastActivity": "2026-06-11"
     },
     {
@@ -1485,7 +1485,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46139,
+      "gamesTotal": 46140,
       "lastActivity": "2026-06-11"
     },
     {
@@ -1527,7 +1527,7 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 30859,
+      "gamesTotal": 30865,
       "lastActivity": "2026-06-11"
     },
     {
@@ -1548,14 +1548,14 @@
       "id": "173",
       "regionSite": "4-80",
       "name": "Lost Worlds Entertainment, City of Industry, CA",
-      "gamesTotal": 2066,
-      "lastActivity": "2026-05-17"
+      "gamesTotal": 2201,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92125,
+      "gamesTotal": 92127,
       "lastActivity": "2026-06-11"
     },
     {
@@ -1618,8 +1618,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 995,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 999,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "9",
@@ -1632,8 +1632,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40172,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 40176,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "293",
@@ -1646,8 +1646,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4375,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 4383,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "381",
@@ -1674,8 +1674,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3067,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 3071,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "426",
@@ -1800,8 +1800,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 24866,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 24868,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "306",
@@ -1947,14 +1947,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21524,
+      "gamesTotal": 21535,
       "lastActivity": "2026-06-11"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119832,
+      "gamesTotal": 119836,
       "lastActivity": "2026-06-11"
     },
     {
@@ -2213,8 +2213,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1686,
-      "lastActivity": "2026-05-31"
+      "gamesTotal": 1687,
+      "lastActivity": "2026-06-11"
     },
     {
       "id": "74",
