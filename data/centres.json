@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-12T11:15:44.121Z",
+  "lastUpdated": "2026-06-12T16:22:13.091Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 324,
+  "lastCheckedIndex": 255,
   "centres": [
     {
       "id": "159",
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5884,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 5896,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "394",
@@ -449,7 +449,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 41655,
+      "gamesTotal": 41746,
       "lastActivity": "2026-06-12"
     },
     {
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35302,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 35306,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "478",
@@ -946,8 +946,8 @@
       "id": "160",
       "regionSite": "21-23",
       "name": "Laser Heroes #1, Bremen, DE",
-      "gamesTotal": 8687,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 8688,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "229",
@@ -1149,7 +1149,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 346,
+      "gamesTotal": 348,
       "lastActivity": "2026-06-12"
     },
     {
@@ -1184,7 +1184,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57896,
+      "gamesTotal": 57897,
       "lastActivity": "2026-06-12"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81748,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 81755,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "167",
@@ -1443,8 +1443,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81598,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 81605,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "436",
@@ -1653,8 +1653,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17596,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 17598,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "385",
@@ -1737,8 +1737,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27057,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 27058,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "99",
@@ -2381,7 +2381,7 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 662,
+      "gamesTotal": 676,
       "lastActivity": "2026-06-12"
     },
     {
