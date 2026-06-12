@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-11T21:21:16.561Z",
+  "lastUpdated": "2026-06-12T05:38:35.887Z",
   "totalCentres": 344,
   "centresWithData": 344,
-  "lastCheckedIndex": 115,
+  "lastCheckedIndex": 49,
   "centres": [
     {
       "id": "159",
@@ -106,8 +106,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13049,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 13050,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "340",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30240,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 30242,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "154",
@@ -1009,8 +1009,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 30558,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 30564,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "329",
@@ -1149,8 +1149,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 186,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 346,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "324",
@@ -1184,8 +1184,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57861,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 57896,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "134",
@@ -1282,15 +1282,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 65960,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 66006,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12395,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 12404,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "245",
@@ -1646,8 +1646,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4383,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 4384,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "381",
@@ -2094,8 +2094,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49770,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 49792,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "29",
@@ -2213,8 +2213,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1687,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 1688,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "74",
@@ -2262,8 +2262,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 132,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 139,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "419",
@@ -2360,8 +2360,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 629,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 630,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "100",
@@ -2381,8 +2381,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 661,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 662,
+      "lastActivity": "2026-06-12"
     },
     {
       "id": "24",
