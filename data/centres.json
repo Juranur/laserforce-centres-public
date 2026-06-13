@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-12T21:10:53.805Z",
+  "lastUpdated": "2026-06-13T05:17:34.514Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 188,
+  "lastCheckedIndex": 118,
   "centres": [
     {
       "id": "159",
@@ -435,8 +435,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 439,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 460,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "312",
@@ -771,8 +771,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 785,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 786,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "206",
@@ -1387,8 +1387,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24364,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 24378,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "143",
@@ -1401,8 +1401,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81755,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 81849,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "167",
@@ -1450,8 +1450,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81605,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 81619,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "436",
@@ -1471,8 +1471,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36281,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 36294,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "296",
@@ -1485,15 +1485,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 33961,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 33971,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46140,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 46142,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "485",
@@ -1513,8 +1513,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76104,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 76127,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "44",
@@ -1562,8 +1562,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92127,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 92130,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "98",
@@ -1639,8 +1639,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40176,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 40178,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "293",
@@ -1653,8 +1653,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4384,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 4385,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "381",
@@ -1681,8 +1681,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3071,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 3079,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "426",
@@ -1723,8 +1723,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8960,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 8963,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "255",
@@ -1933,8 +1933,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37470,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 37480,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "58",
@@ -2227,8 +2227,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 82761,
-      "lastActivity": "2026-06-07"
+      "gamesTotal": 82772,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "413",
@@ -2367,8 +2367,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 630,
-      "lastActivity": "2026-06-12"
+      "gamesTotal": 633,
+      "lastActivity": "2026-06-13"
     },
     {
       "id": "100",
