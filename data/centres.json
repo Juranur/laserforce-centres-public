@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T05:44:50.730Z",
+  "lastUpdated": "2026-06-14T10:38:30.740Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 183,
+  "lastCheckedIndex": 114,
   "centres": [
     {
       "id": "159",
@@ -449,7 +449,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 41837,
+      "gamesTotal": 41851,
       "lastActivity": "2026-06-14"
     },
     {
@@ -694,8 +694,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2644,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 2647,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "116",
@@ -1366,8 +1366,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 3732,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 3975,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "191",
@@ -1387,8 +1387,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24398,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 24404,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "143",
@@ -1436,8 +1436,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46851,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 46860,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "448",
@@ -1457,8 +1457,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8318,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 8326,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "330",
@@ -1471,8 +1471,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36314,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 36327,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "296",
@@ -1492,15 +1492,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46144,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 46152,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 25,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 29,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "398",
@@ -1562,8 +1562,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92130,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 92144,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "98",
@@ -1744,8 +1744,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27062,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 27065,
+      "lastActivity": "2026-06-14"
     },
     {
       "id": "99",
@@ -1814,7 +1814,7 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9696,
+      "gamesTotal": 9701,
       "lastActivity": "2026-06-14"
     },
     {
@@ -2178,7 +2178,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2873,
+      "gamesTotal": 2883,
       "lastActivity": "2026-06-14"
     },
     {
