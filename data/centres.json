@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-16T06:05:55.557Z",
+  "lastUpdated": "2026-06-16T12:15:44.403Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 62,
+  "lastCheckedIndex": 341,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 42157,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 42319,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "321",
@@ -1016,7 +1016,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31092,
+      "gamesTotal": 31093,
       "lastActivity": "2026-06-16"
     },
     {
@@ -1513,8 +1513,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76127,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 76134,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "44",
@@ -1933,8 +1933,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37492,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 37570,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "58",
@@ -2178,8 +2178,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2902,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 2906,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "111",
