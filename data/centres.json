@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-16T18:00:25.429Z",
+  "lastUpdated": "2026-06-16T22:02:54.901Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 203,
   "centres": [
     {
       "id": "159",
@@ -435,7 +435,7 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 471,
+      "gamesTotal": 473,
       "lastActivity": "2026-06-16"
     },
     {
@@ -1016,7 +1016,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31117,
+      "gamesTotal": 31136,
       "lastActivity": "2026-06-16"
     },
     {
@@ -1954,15 +1954,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21651,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 21669,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 119972,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 120090,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "441",
@@ -2178,7 +2178,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2906,
+      "gamesTotal": 2908,
       "lastActivity": "2026-06-16"
     },
     {
