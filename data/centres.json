@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-15T22:03:37.403Z",
+  "lastUpdated": "2026-06-16T06:05:55.557Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 129,
+  "lastCheckedIndex": 62,
   "centres": [
     {
       "id": "159",
@@ -435,8 +435,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 467,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 471,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "312",
@@ -932,15 +932,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1680,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 1686,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43195,
-      "lastActivity": "2026-06-04"
+      "gamesTotal": 43197,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "160",
@@ -967,22 +967,22 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 349,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 350,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42164,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 42249,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 15,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 21,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "278",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31062,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 31092,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "329",
@@ -1156,8 +1156,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 358,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 359,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "324",
@@ -1282,8 +1282,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15064,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 15066,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "230",
@@ -1317,8 +1317,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17135,
-      "lastActivity": "2026-06-08"
+      "gamesTotal": 17170,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "493",
@@ -1352,8 +1352,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60163,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 60332,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "373",
@@ -1485,8 +1485,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34007,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 34011,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "164",
@@ -1562,8 +1562,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92167,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 92182,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "98",
@@ -1695,8 +1695,8 @@
       "id": "434",
       "regionSite": "4-197",
       "name": "Monster Mini Golf Chantilly, VA, United States",
-      "gamesTotal": 66,
-      "lastActivity": "before 2026"
+      "gamesTotal": 67,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "442",
@@ -2367,8 +2367,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 633,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 634,
+      "lastActivity": "2026-06-16"
     },
     {
       "id": "100",
