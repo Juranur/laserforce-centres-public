@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-17T21:14:36.227Z",
+  "lastUpdated": "2026-06-18T05:36:59.681Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 269,
+  "lastCheckedIndex": 199,
   "centres": [
     {
       "id": "159",
@@ -596,8 +596,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35381,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 35385,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "478",
@@ -638,8 +638,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9281,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 9311,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "404",
@@ -1401,8 +1401,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 81923,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 81989,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "167",
@@ -1905,8 +1905,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 219,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 221,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "265",
@@ -1933,8 +1933,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37582,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 37587,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "58",
@@ -2101,8 +2101,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49797,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 49836,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "29",
@@ -2178,8 +2178,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2926,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 2927,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "111",
@@ -2206,8 +2206,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1382,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 1383,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "299",
