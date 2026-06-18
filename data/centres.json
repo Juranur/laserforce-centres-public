@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T05:36:59.681Z",
+  "lastUpdated": "2026-06-18T11:30:47.264Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 199,
+  "lastCheckedIndex": 131,
   "centres": [
     {
       "id": "159",
@@ -1562,8 +1562,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92253,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 92325,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "98",
@@ -1744,8 +1744,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27092,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 27093,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "99",
@@ -2178,7 +2178,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 2927,
+      "gamesTotal": 2928,
       "lastActivity": "2026-06-18"
     },
     {
