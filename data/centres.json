@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T16:32:22.998Z",
-  "totalCentres": 345,
+  "lastUpdated": "2026-06-18T21:24:37.471Z",
+  "totalCentres": 346,
   "centresWithData": 345,
-  "lastCheckedIndex": 61,
+  "lastCheckedIndex": 339,
   "centres": [
     {
       "id": "159",
@@ -355,6 +355,13 @@
       "lastActivity": "before 2026"
     },
     {
+      "id": "500",
+      "regionSite": "4-212",
+      "name": "Cinemark Dreamscape, Greenville, TX, United States",
+      "gamesTotal": 0,
+      "lastActivity": "before 2026"
+    },
+    {
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
@@ -449,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 42534,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 42721,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "321",
@@ -1191,8 +1198,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 57922,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 58007,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "134",
@@ -1289,15 +1296,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66121,
+      "gamesTotal": 66155,
       "lastActivity": "2026-06-18"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12414,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 12427,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "245",
@@ -1450,7 +1457,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81647,
+      "gamesTotal": 81714,
       "lastActivity": "2026-06-18"
     },
     {
@@ -1492,8 +1499,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46286,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 46292,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "485",
@@ -2283,8 +2290,8 @@
       "id": "63",
       "regionSite": "4-11",
       "name": "Toads of Fun",
-      "gamesTotal": 6413,
-      "lastActivity": "before 2026"
+      "gamesTotal": 6420,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "201",
