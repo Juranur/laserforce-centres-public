@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-18T11:30:47.264Z",
+  "lastUpdated": "2026-06-18T16:32:22.998Z",
   "totalCentres": 345,
   "centresWithData": 345,
-  "lastCheckedIndex": 131,
+  "lastCheckedIndex": 61,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30374,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 30382,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "25",
@@ -379,8 +379,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17895,
-      "lastActivity": "2026-06-10"
+      "gamesTotal": 17896,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "487",
@@ -932,8 +932,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1686,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 1696,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "128",
@@ -974,15 +974,15 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42327,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 42328,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 21,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 33,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "278",
@@ -1016,8 +1016,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31158,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 31331,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "329",
@@ -1289,8 +1289,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66116,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 66121,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "231",
@@ -1394,8 +1394,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37707,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 37712,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "243",
@@ -1436,8 +1436,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46875,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 46876,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "448",
@@ -1450,8 +1450,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81627,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 81647,
+      "lastActivity": "2026-06-18"
     },
     {
       "id": "436",
@@ -2101,7 +2101,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 49836,
+      "gamesTotal": 49930,
       "lastActivity": "2026-06-18"
     },
     {
