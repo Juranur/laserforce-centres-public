@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-18T21:24:37.471Z",
+  "lastUpdated": "2026-06-19T05:57:04.815Z",
   "totalCentres": 346,
-  "centresWithData": 345,
-  "lastCheckedIndex": 339,
+  "centresWithData": 346,
+  "lastCheckedIndex": 270,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30382,
-      "lastActivity": "2026-06-18"
+      "gamesTotal": 30542,
+      "lastActivity": "2026-06-19"
     },
     {
       "id": "25",
@@ -358,8 +358,8 @@
       "id": "500",
       "regionSite": "4-212",
       "name": "Cinemark Dreamscape, Greenville, TX, United States",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026"
+      "gamesTotal": 6,
+      "lastActivity": "2026-06-19"
     },
     {
       "id": "249",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 796,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 797,
+      "lastActivity": "2026-06-19"
     },
     {
       "id": "206",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31331,
-      "lastActivity": "2026-06-18"
+      "gamesTotal": 31413,
+      "lastActivity": "2026-06-19"
     },
     {
       "id": "329",
