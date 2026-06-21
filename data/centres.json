@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T15:16:17.579Z",
+  "lastUpdated": "2026-06-21T20:44:01.020Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 264,
+  "lastCheckedIndex": 196,
   "centres": [
     {
       "id": "159",
@@ -155,7 +155,7 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4680,
+      "gamesTotal": 4681,
       "lastActivity": "2026-06-21"
     },
     {
@@ -337,7 +337,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54657,
+      "gamesTotal": 54747,
       "lastActivity": "2026-06-21"
     },
     {
@@ -456,7 +456,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43011,
+      "gamesTotal": 43070,
       "lastActivity": "2026-06-21"
     },
     {
@@ -589,8 +589,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2607,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 2611,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "383",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 531,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 546,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "421",
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30276,
+      "gamesTotal": 30304,
       "lastActivity": "2026-06-21"
     },
     {
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 399,
+      "gamesTotal": 400,
       "lastActivity": "2026-06-21"
     },
     {
@@ -1296,7 +1296,7 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66164,
+      "gamesTotal": 66214,
       "lastActivity": "2026-06-21"
     },
     {
@@ -1331,7 +1331,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 404,
+      "gamesTotal": 415,
       "lastActivity": "2026-06-21"
     },
     {
@@ -1373,7 +1373,7 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4225,
+      "gamesTotal": 4229,
       "lastActivity": "2026-06-21"
     },
     {
@@ -1863,8 +1863,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 501,
-      "lastActivity": "2026-06-19"
+      "gamesTotal": 503,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "399",
@@ -1905,8 +1905,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 16714,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 16803,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "491",
@@ -1961,15 +1961,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21698,
+      "gamesTotal": 21760,
       "lastActivity": "2026-06-21"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 120483,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 120493,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "441",
@@ -2185,7 +2185,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3010,
+      "gamesTotal": 3110,
       "lastActivity": "2026-06-21"
     },
     {
@@ -2227,7 +2227,7 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1706,
+      "gamesTotal": 1708,
       "lastActivity": "2026-06-21"
     },
     {
