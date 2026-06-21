@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T05:53:07.241Z",
+  "lastUpdated": "2026-06-21T10:49:31.141Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 55,
+  "lastCheckedIndex": 333,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 475,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 481,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "312",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 42909,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 42979,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 12,
-      "lastActivity": "2026-05-28"
+      "gamesTotal": 20,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "348",
@@ -596,8 +596,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 122,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 123,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "192",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2648,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 2659,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "116",
@@ -792,15 +792,15 @@
       "id": "323",
       "regionSite": "4-137",
       "name": "Idle Hours South, PA, USA",
-      "gamesTotal": 590,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 592,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68810,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 68813,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "28",
@@ -1030,8 +1030,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9408,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 9412,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "188",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 384,
-      "lastActivity": "2026-06-19"
+      "gamesTotal": 395,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "324",
@@ -1443,15 +1443,15 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46897,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 46902,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4409,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 4411,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "212",
@@ -1499,8 +1499,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46320,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 46321,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "485",
@@ -1534,8 +1534,8 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6709,
-      "lastActivity": "2026-04-27"
+      "gamesTotal": 6717,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "174",
@@ -1569,8 +1569,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92325,
-      "lastActivity": "2026-06-18"
+      "gamesTotal": 92333,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "98",
@@ -1695,8 +1695,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3826,
-      "lastActivity": "2026-06-19"
+      "gamesTotal": 3857,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "434",
@@ -1821,8 +1821,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9715,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 9723,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "302",
@@ -1912,8 +1912,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 227,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 228,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "265",
@@ -1961,8 +1961,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21692,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 21698,
+      "lastActivity": "2026-06-21"
     },
     {
       "id": "349",
