@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T06:02:51.853Z",
+  "lastUpdated": "2026-06-22T13:09:44.204Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 125,
+  "lastCheckedIndex": 54,
   "centres": [
     {
       "id": "159",
@@ -155,8 +155,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4681,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 4686,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "372",
@@ -386,8 +386,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17896,
-      "lastActivity": "2026-06-18"
+      "gamesTotal": 17897,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "487",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 357,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 363,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "56",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31574,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 31621,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "329",
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207006,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 207093,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "165",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 87975,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 88047,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "113",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33542,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 33912,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "446",
