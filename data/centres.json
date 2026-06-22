@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T13:09:44.204Z",
+  "lastUpdated": "2026-06-22T21:48:44.414Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 54,
+  "lastCheckedIndex": 332,
   "centres": [
     {
       "id": "159",
@@ -414,8 +414,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8660,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 8742,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "282",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43070,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 43270,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 28,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 29,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "348",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35400,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 35455,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "478",
@@ -1198,8 +1198,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58010,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 58013,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "134",
@@ -1219,8 +1219,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9844,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 9846,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "12",
@@ -1324,8 +1324,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17170,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 17246,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "493",
@@ -1492,15 +1492,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34012,
-      "lastActivity": "2026-06-19"
+      "gamesTotal": 34039,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46321,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 46447,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "485",
@@ -1667,15 +1667,15 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17655,
-      "lastActivity": "2026-06-17"
+      "gamesTotal": 17658,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13362,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 13407,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "386",
@@ -2185,8 +2185,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3110,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 3128,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "111",
@@ -2227,8 +2227,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1708,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 1716,
+      "lastActivity": "2026-06-22"
     },
     {
       "id": "74",
