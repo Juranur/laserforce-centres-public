@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T21:48:44.414Z",
+  "lastUpdated": "2026-06-23T04:59:59.718Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 332,
+  "lastCheckedIndex": 261,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 481,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 485,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "312",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 865,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 867,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "206",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31621,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 31640,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "329",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88047,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 88071,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "113",
@@ -1317,8 +1317,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3077,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 3089,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "178",
@@ -1492,8 +1492,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34039,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 34046,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "164",
@@ -1646,8 +1646,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40291,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 40315,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "293",
@@ -2374,8 +2374,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 637,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 639,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "100",
