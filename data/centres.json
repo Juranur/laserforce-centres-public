@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-23T16:06:12.795Z",
+  "lastUpdated": "2026-06-23T21:05:02.062Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 122,
+  "lastCheckedIndex": 53,
   "centres": [
     {
       "id": "159",
@@ -946,8 +946,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43197,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 43232,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "160",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 363,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 365,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "56",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 400,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 403,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "324",
@@ -1219,8 +1219,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9846,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 9872,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "12",
@@ -1331,8 +1331,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 415,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 419,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "380",
@@ -1443,8 +1443,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46904,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 46908,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "448",
@@ -1569,8 +1569,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92333,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 92334,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "98",
@@ -1646,7 +1646,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40316,
+      "gamesTotal": 40349,
       "lastActivity": "2026-06-23"
     },
     {
@@ -1660,14 +1660,14 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4429,
+      "gamesTotal": 4436,
       "lastActivity": "2026-06-23"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17708,
+      "gamesTotal": 17742,
       "lastActivity": "2026-06-23"
     },
     {
@@ -1912,8 +1912,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 228,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 229,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "265",
@@ -1961,8 +1961,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21778,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 21836,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "349",
@@ -2213,8 +2213,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1387,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 1393,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "299",
@@ -2374,7 +2374,7 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 639,
+      "gamesTotal": 648,
       "lastActivity": "2026-06-23"
     },
     {
