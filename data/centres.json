@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-23T04:59:59.718Z",
+  "lastUpdated": "2026-06-23T10:47:24.460Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 261,
+  "lastCheckedIndex": 194,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43270,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 43431,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "321",
@@ -1940,8 +1940,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37598,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 37657,
+      "lastActivity": "2026-06-23"
     },
     {
       "id": "58",
