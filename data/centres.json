@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-24T05:02:29.148Z",
+  "lastUpdated": "2026-06-24T10:34:44.145Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 327,
+  "lastCheckedIndex": 256,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89342,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 89343,
+      "lastActivity": "2026-06-24"
     },
     {
       "id": "353",
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5900,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 5903,
+      "lastActivity": "2026-06-24"
     },
     {
       "id": "394",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43480,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 43567,
+      "lastActivity": "2026-06-24"
     },
     {
       "id": "321",
@@ -1667,8 +1667,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17742,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 17744,
+      "lastActivity": "2026-06-24"
     },
     {
       "id": "385",
@@ -2374,8 +2374,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 648,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 654,
+      "lastActivity": "2026-06-24"
     },
     {
       "id": "100",
