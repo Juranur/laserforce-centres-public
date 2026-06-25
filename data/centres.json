@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-25T05:02:23.219Z",
+  "lastUpdated": "2026-06-25T10:26:08.164Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 48,
+  "lastCheckedIndex": 330,
   "centres": [
     {
       "id": "159",
@@ -442,8 +442,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 485,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 487,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "312",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43702,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 43756,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "321",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26044,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 26045,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "234",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35455,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 35457,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "96",
@@ -1072,8 +1072,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101381,
-      "lastActivity": "2026-06-09"
+      "gamesTotal": 101391,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "8",
@@ -1093,8 +1093,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207093,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 207096,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "165",
@@ -1667,8 +1667,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17744,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 17745,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "385",
@@ -2122,8 +2122,8 @@
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
-      "gamesTotal": 298,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 299,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "22",
