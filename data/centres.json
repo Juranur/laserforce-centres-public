@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-25T15:36:38.581Z",
+  "lastUpdated": "2026-06-25T21:02:46.450Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 263,
+  "lastCheckedIndex": 192,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30547,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 30737,
+      "lastActivity": "2026-06-25"
     },
     {
       "id": "25",
@@ -456,7 +456,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43783,
+      "gamesTotal": 43815,
       "lastActivity": "2026-06-25"
     },
     {
@@ -1296,14 +1296,14 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66235,
+      "gamesTotal": 66247,
       "lastActivity": "2026-06-25"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12455,
+      "gamesTotal": 12477,
       "lastActivity": "2026-06-25"
     },
     {
@@ -1331,7 +1331,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 431,
+      "gamesTotal": 443,
       "lastActivity": "2026-06-25"
     },
     {
@@ -2108,7 +2108,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50193,
+      "gamesTotal": 50291,
       "lastActivity": "2026-06-25"
     },
     {
