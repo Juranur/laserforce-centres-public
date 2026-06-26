@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-26T05:09:37.569Z",
+  "lastUpdated": "2026-06-26T10:31:59.139Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 123,
+  "lastCheckedIndex": 55,
   "centres": [
     {
       "id": "159",
@@ -932,15 +932,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1696,
-      "lastActivity": "2026-06-18"
+      "gamesTotal": 1698,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43232,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 43250,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "160",
@@ -1142,8 +1142,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88119,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 88125,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "113",
@@ -1156,8 +1156,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 403,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 416,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "324",
@@ -1198,8 +1198,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58013,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 58035,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "134",
@@ -1660,7 +1660,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4440,
+      "gamesTotal": 4441,
       "lastActivity": "2026-06-26"
     },
     {
@@ -1940,8 +1940,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37796,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 37799,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "58",
@@ -2108,8 +2108,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50291,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 50333,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "29",
@@ -2185,7 +2185,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3223,
+      "gamesTotal": 3288,
       "lastActivity": "2026-06-26"
     },
     {
