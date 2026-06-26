@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-26T10:31:59.139Z",
+  "lastUpdated": "2026-06-26T15:28:38.858Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 55,
+  "lastCheckedIndex": 333,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43815,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 43825,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "321",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35457,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 35458,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "96",
@@ -918,8 +918,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30304,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 30306,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "154",
@@ -1128,8 +1128,8 @@
       "id": "416",
       "regionSite": "7-19",
       "name": "Laserforce Preston, Preston, UK",
-      "gamesTotal": 117,
-      "lastActivity": "2026-04-08"
+      "gamesTotal": 119,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "216",
@@ -1156,7 +1156,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 416,
+      "gamesTotal": 419,
       "lastActivity": "2026-06-26"
     },
     {
@@ -1198,7 +1198,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58035,
+      "gamesTotal": 58037,
       "lastActivity": "2026-06-26"
     },
     {
@@ -1296,8 +1296,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66247,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 66248,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "231",
@@ -1464,8 +1464,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8366,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 8376,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "330",
@@ -1527,8 +1527,8 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60492,
-      "lastActivity": "2026-05-30"
+      "gamesTotal": 60500,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "97",
@@ -1660,7 +1660,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4441,
+      "gamesTotal": 4444,
       "lastActivity": "2026-06-26"
     },
     {
@@ -1751,8 +1751,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27163,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 27170,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "99",
@@ -1961,15 +1961,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 21852,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 21953,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 120612,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 120641,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "441",
@@ -2122,8 +2122,8 @@
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
-      "gamesTotal": 299,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 300,
+      "lastActivity": "2026-06-26"
     },
     {
       "id": "22",
