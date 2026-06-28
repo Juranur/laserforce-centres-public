@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-28T10:13:24.666Z",
+  "lastUpdated": "2026-06-28T14:55:09.763Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 193,
+  "lastCheckedIndex": 124,
   "centres": [
     {
       "id": "159",
@@ -183,8 +183,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5903,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 5907,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "394",
@@ -337,7 +337,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54862,
+      "gamesTotal": 54868,
       "lastActivity": "2026-06-28"
     },
     {
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26046,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 26048,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "234",
@@ -603,8 +603,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35459,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 35462,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "96",
@@ -694,8 +694,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2671,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 2687,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "116",
@@ -1401,22 +1401,22 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37767,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 37772,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82173,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 82176,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43191,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 43205,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "168",
@@ -1457,8 +1457,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 81995,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 81997,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "436",
@@ -1478,8 +1478,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36708,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 36716,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "296",
@@ -1506,14 +1506,14 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 29,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 30,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9789,
+      "gamesTotal": 9791,
       "lastActivity": "2026-06-28"
     },
     {
@@ -1660,8 +1660,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4446,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 4448,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "381",
@@ -1814,8 +1814,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25128,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 25188,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "306",
@@ -1842,8 +1842,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7645,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 7647,
+      "lastActivity": "2026-06-28"
     },
     {
       "id": "166",
