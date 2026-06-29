@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-29T05:37:40.480Z",
+  "lastUpdated": "2026-06-29T12:05:51.059Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 343,
+  "lastCheckedIndex": 271,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30741,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 30743,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "25",
@@ -337,8 +337,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 54868,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 55012,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "254",
@@ -1093,8 +1093,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207101,
-      "lastActivity": "2026-06-25"
+      "gamesTotal": 207170,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "165",
@@ -1142,8 +1142,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88176,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 88206,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "113",
@@ -1569,8 +1569,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92591,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 92594,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "98",
@@ -1646,8 +1646,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40354,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 40382,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "293",
