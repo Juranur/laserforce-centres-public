@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-28T20:30:34.435Z",
+  "lastUpdated": "2026-06-29T05:37:40.480Z",
   "totalCentres": 346,
   "centresWithData": 346,
-  "lastCheckedIndex": 60,
+  "lastCheckedIndex": 343,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 43926,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 43964,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "321",
@@ -484,8 +484,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26048,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 26075,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "234",
@@ -582,8 +582,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8461,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 8469,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "309",
@@ -729,8 +729,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2831,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 2833,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "46",
@@ -792,8 +792,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68912,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 68982,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "28",
@@ -1506,15 +1506,15 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 30,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 32,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9791,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 9798,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "43",
@@ -1961,15 +1961,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 22057,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 22073,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 120641,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 120740,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "441",
@@ -2213,8 +2213,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1400,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 1402,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "299",
@@ -2234,15 +2234,15 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83043,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 83176,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
-      "gamesTotal": 299,
-      "lastActivity": "2026-05-19"
+      "gamesTotal": 300,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "77",
