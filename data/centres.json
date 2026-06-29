@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T12:05:51.059Z",
-  "totalCentres": 346,
+  "lastUpdated": "2026-06-29T16:50:58.597Z",
+  "totalCentres": 347,
   "centresWithData": 346,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 199,
   "centres": [
     {
       "id": "159",
@@ -59,6 +59,13 @@
       "name": "Adventure World, Oberhausen, DE",
       "gamesTotal": 3966,
       "lastActivity": "2026-06-13"
+    },
+    {
+      "id": "502",
+      "regionSite": "7-26",
+      "name": "AirHop Adventure & Trampoline Park Tunbridge Wells, England, United Kingdom",
+      "gamesTotal": 0,
+      "lastActivity": "before 2026"
     },
     {
       "id": "486",
@@ -197,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3001,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 3004,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "262",
@@ -554,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1244,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 1246,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "437",
@@ -750,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 546,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 550,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "421",
@@ -1016,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31921,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 31923,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "329",
@@ -1044,8 +1051,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31110,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 31112,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "189",
@@ -1142,7 +1149,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88206,
+      "gamesTotal": 88236,
       "lastActivity": "2026-06-29"
     },
     {
@@ -1219,8 +1226,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9874,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 9875,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "12",
@@ -1331,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 481,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 482,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "380",
@@ -2374,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 660,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 662,
+      "lastActivity": "2026-06-29"
     },
     {
       "id": "100",
