@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T10:44:01.033Z",
+  "lastUpdated": "2026-06-30T15:23:32.387Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 335,
+  "lastCheckedIndex": 264,
   "centres": [
     {
       "id": "159",
@@ -204,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3004,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 3006,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "262",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8743,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 8744,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "282",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31923,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 31927,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "329",
@@ -1184,7 +1184,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33913,
+      "gamesTotal": 33915,
       "lastActivity": "2026-06-30"
     },
     {
@@ -1408,8 +1408,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37776,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 37777,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "243",
@@ -1436,8 +1436,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48913,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 48917,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "141",
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40430,
+      "gamesTotal": 40451,
       "lastActivity": "2026-06-30"
     },
     {
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 739,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 741,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "24",
