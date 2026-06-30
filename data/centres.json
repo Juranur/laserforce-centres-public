@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T20:58:49.267Z",
+  "lastUpdated": "2026-06-30T05:04:14.399Z",
   "totalCentres": 347,
-  "centresWithData": 346,
-  "lastCheckedIndex": 128,
+  "centresWithData": 347,
+  "lastCheckedIndex": 59,
   "centres": [
     {
       "id": "159",
@@ -64,8 +64,8 @@
       "id": "502",
       "regionSite": "7-26",
       "name": "AirHop Adventure & Trampoline Park Tunbridge Wells, England, United Kingdom",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "486",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15072,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 15075,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "230",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17246,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 17316,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "493",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60455,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 60545,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "373",
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46552,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 46582,
+      "lastActivity": "2026-06-30"
     },
     {
       "id": "485",
