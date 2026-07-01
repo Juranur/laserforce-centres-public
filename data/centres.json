@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T05:31:51.207Z",
+  "lastUpdated": "2026-07-01T10:52:54.692Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 126,
+  "lastCheckedIndex": 61,
   "centres": [
     {
       "id": "159",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42359,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 42405,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "497",
@@ -995,8 +995,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4358,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 4366,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "133",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 31927,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 32032,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "329",
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1066,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 1069,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "389",
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58125,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 58129,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "134",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3091,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 3093,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "178",
@@ -1345,8 +1345,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5271,
-      "lastActivity": "2026-06-11"
+      "gamesTotal": 5307,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "248",
@@ -1506,7 +1506,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46592,
+      "gamesTotal": 46593,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1639,8 +1639,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1003,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 1008,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "9",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40451,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 40469,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "293",
@@ -1674,7 +1674,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17866,
+      "gamesTotal": 17886,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37894,
+      "gamesTotal": 37925,
       "lastActivity": "2026-07-01"
     },
     {
