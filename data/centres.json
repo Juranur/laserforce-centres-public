@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T10:52:54.692Z",
+  "lastUpdated": "2026-07-01T15:41:45.842Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 61,
+  "lastCheckedIndex": 336,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44034,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 44175,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "321",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1247,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 1301,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "437",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8469,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 8470,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "309",
@@ -1093,8 +1093,8 @@
       "id": "420",
       "regionSite": "7-21",
       "name": "Laserforce Barrow, Barrow-in-Furness, UK",
-      "gamesTotal": 77,
-      "lastActivity": "2026-04-04"
+      "gamesTotal": 78,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "2",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 419,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 427,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "324",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33917,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 33918,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "478",
@@ -1205,7 +1205,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58129,
+      "gamesTotal": 58131,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 487,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 496,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "380",
@@ -1464,7 +1464,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82051,
+      "gamesTotal": 82052,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1639,7 +1639,7 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1008,
+      "gamesTotal": 1068,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1674,7 +1674,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17886,
+      "gamesTotal": 17927,
       "lastActivity": "2026-07-01"
     },
     {
@@ -1877,8 +1877,8 @@
       "id": "399",
       "regionSite": "32-3",
       "name": "Playsquare Central Eastville, Thailand",
-      "gamesTotal": 1189,
-      "lastActivity": "2026-05-16"
+      "gamesTotal": 1190,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "332",
@@ -1968,8 +1968,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 22236,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 22272,
+      "lastActivity": "2026-07-01"
     },
     {
       "id": "349",
