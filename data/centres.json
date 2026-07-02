@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T04:58:56.390Z",
+  "lastUpdated": "2026-07-02T10:15:52.969Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 196,
+  "lastCheckedIndex": 128,
   "centres": [
     {
       "id": "159",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2687,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 2688,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "116",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46937,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 46945,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "448",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36720,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 36721,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "296",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92657,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 92762,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40469,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 40495,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "293",
@@ -1674,8 +1674,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17927,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 17970,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "385",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3111,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 3113,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "426",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37940,
+      "gamesTotal": 37941,
       "lastActivity": "2026-07-02"
     },
     {
