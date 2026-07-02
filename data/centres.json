@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T20:54:58.894Z",
+  "lastUpdated": "2026-07-02T04:58:56.390Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 264,
+  "lastCheckedIndex": 196,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 495,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 498,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "312",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6228,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 6233,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "308",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 229,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 231,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "265",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37925,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 37940,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "58",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1402,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 1405,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "299",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 662,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 663,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "100",
