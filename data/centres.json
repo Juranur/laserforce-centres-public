@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T15:10:20.149Z",
+  "lastUpdated": "2026-07-02T20:32:07.284Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 59,
+  "lastCheckedIndex": 337,
   "centres": [
     {
       "id": "159",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35536,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 35541,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "96",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32109,
+      "gamesTotal": 32180,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1069,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 1072,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "389",
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 457,
+      "gamesTotal": 461,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58136,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 58146,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "134",
@@ -1310,8 +1310,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12490,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 12503,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "245",
@@ -1450,7 +1450,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46945,
+      "gamesTotal": 46949,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1485,7 +1485,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36721,
+      "gamesTotal": 36722,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40495,
+      "gamesTotal": 40505,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3113,
+      "gamesTotal": 3114,
       "lastActivity": "2026-07-02"
     },
     {
@@ -1919,7 +1919,7 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 231,
+      "gamesTotal": 232,
       "lastActivity": "2026-07-02"
     },
     {
