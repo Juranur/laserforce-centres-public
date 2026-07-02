@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T10:15:52.969Z",
+  "lastUpdated": "2026-07-02T15:10:20.149Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 128,
+  "lastCheckedIndex": 59,
   "centres": [
     {
       "id": "159",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1698,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 1703,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "128",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32032,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 32109,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "329",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 437,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 457,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "324",
@@ -1268,8 +1268,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5186,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 5190,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "252",
@@ -1303,8 +1303,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66344,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 66348,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "231",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24442,
-      "lastActivity": "2026-06-20"
+      "gamesTotal": 24443,
+      "lastActivity": "2026-07-02"
     },
     {
       "id": "143",
@@ -1674,7 +1674,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 17970,
+      "gamesTotal": 18016,
       "lastActivity": "2026-07-02"
     },
     {
