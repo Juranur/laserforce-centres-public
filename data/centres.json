@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-03T04:45:29.435Z",
+  "lastUpdated": "2026-07-03T10:19:35.565Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 268,
+  "lastCheckedIndex": 198,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44203,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 44251,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "321",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 875,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 876,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "206",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32180,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 32276,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "329",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 232,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 234,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "265",
@@ -2276,15 +2276,15 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 609,
-      "lastActivity": "2026-06-24"
+      "gamesTotal": 621,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 160,
-      "lastActivity": "2026-06-22"
+      "gamesTotal": 166,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "419",
