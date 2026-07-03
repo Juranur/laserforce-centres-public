@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-02T20:32:07.284Z",
+  "lastUpdated": "2026-07-03T04:45:29.435Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 337,
+  "lastCheckedIndex": 268,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30743,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 30844,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16224,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 16230,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "392",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 498,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 499,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "312",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 558,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 560,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "421",
@@ -1303,8 +1303,8 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66348,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 66368,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "231",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 496,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 519,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "380",
@@ -1464,8 +1464,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82055,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 82056,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "436",
@@ -1506,15 +1506,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46593,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 46600,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 34,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 35,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "398",
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27224,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 27310,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "99",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 663,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 668,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "100",
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 741,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 743,
+      "lastActivity": "2026-07-03"
     },
     {
       "id": "24",
