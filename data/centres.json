@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-04T04:39:57.873Z",
+  "lastUpdated": "2026-07-04T09:37:27.751Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 338,
+  "lastCheckedIndex": 266,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 499,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 500,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "312",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 68983,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 68985,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "28",
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8387,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 8388,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "330",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36722,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 36723,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "296",
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92763,
+      "gamesTotal": 92782,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9723,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 9726,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "302",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7647,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 7663,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "166",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 668,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 669,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "100",
@@ -2395,15 +2395,15 @@
       "id": "156",
       "regionSite": "4-72",
       "name": "Wunderland, Gresham, OR, USA",
-      "gamesTotal": 9656,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 9657,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 743,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 748,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "24",
