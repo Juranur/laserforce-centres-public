@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-04T09:37:27.751Z",
+  "lastUpdated": "2026-07-04T14:40:18.951Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 266,
+  "lastCheckedIndex": 194,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1825,
-      "lastActivity": "2026-06-15"
+      "gamesTotal": 1828,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "269",
@@ -589,7 +589,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8476,
+      "gamesTotal": 8478,
       "lastActivity": "2026-07-04"
     },
     {
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30344,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 30347,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "154",
@@ -1184,7 +1184,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33922,
+      "gamesTotal": 33923,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1226,8 +1226,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9875,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 9877,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "12",
@@ -1933,8 +1933,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12083,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 12086,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "384",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37948,
+      "gamesTotal": 37961,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 22432,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 22765,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 121026,
+      "gamesTotal": 121260,
       "lastActivity": "2026-07-04"
     },
     {
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50347,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 50366,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "29",
