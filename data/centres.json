@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-04T14:40:18.951Z",
+  "lastUpdated": "2026-07-04T20:14:03.551Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 194,
+  "lastCheckedIndex": 122,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4688,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 4690,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "372",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1286,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 1287,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "360",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55056,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 55061,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "254",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26076,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 26082,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "234",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6058,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 6059,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "359",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2688,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 2698,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "116",
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 969,
+      "gamesTotal": 971,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1380,8 +1380,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4230,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 4240,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "191",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24443,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 24467,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "143",
@@ -1415,15 +1415,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82354,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 82363,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43239,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 43274,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "168",
@@ -1436,8 +1436,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 48953,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 48971,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "141",
@@ -1450,28 +1450,28 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46959,
+      "gamesTotal": 46967,
       "lastActivity": "2026-07-04"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4448,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 4455,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82067,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 82085,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8388,
+      "gamesTotal": 8400,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34086,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 34091,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46604,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 46881,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "485",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31110,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 31116,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "194",
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92782,
+      "gamesTotal": 92786,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1688,8 +1688,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3020,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 3023,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "469",
@@ -1702,7 +1702,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3894,
+      "gamesTotal": 3896,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1821,14 +1821,14 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25188,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 25198,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9726,
+      "gamesTotal": 9729,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1849,7 +1849,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7663,
+      "gamesTotal": 7676,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1870,8 +1870,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 505,
-      "lastActivity": "2026-06-27"
+      "gamesTotal": 506,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "399",
@@ -1933,7 +1933,7 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12086,
+      "gamesTotal": 12088,
       "lastActivity": "2026-07-04"
     },
     {
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 22765,
+      "gamesTotal": 22988,
       "lastActivity": "2026-07-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 121260,
+      "gamesTotal": 121410,
       "lastActivity": "2026-07-04"
     },
     {
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1405,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 1406,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "299",
