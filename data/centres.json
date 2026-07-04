@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-03T20:30:18.573Z",
+  "lastUpdated": "2026-07-04T04:39:57.873Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 63,
+  "lastCheckedIndex": 338,
   "centres": [
     {
       "id": "159",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1301,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 1305,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "437",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8474,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 8476,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "309",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 876,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 969,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "206",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33920,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 33922,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "478",
@@ -1310,8 +1310,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12503,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 12513,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "245",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3093,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 3094,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "178",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 46952,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 46959,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "448",
@@ -1555,8 +1555,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 14029,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 14030,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "137",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92762,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 92763,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "98",
@@ -1702,8 +1702,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3870,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 3894,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "434",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37941,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 37948,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "58",
@@ -1975,8 +1975,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 121012,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 121026,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "441",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83199,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 83209,
+      "lastActivity": "2026-07-04"
     },
     {
       "id": "413",
