@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-05T04:58:24.568Z",
+  "lastUpdated": "2026-07-05T10:07:15.443Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 50,
+  "lastCheckedIndex": 325,
   "centres": [
     {
       "id": "159",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35541,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 35542,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "96",
@@ -659,8 +659,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6059,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 6060,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "359",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2698,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 2717,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "116",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2833,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 2836,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 971,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 978,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "206",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32397,
+      "gamesTotal": 32436,
       "lastActivity": "2026-07-05"
     },
     {
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207170,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 207188,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "165",
@@ -1401,7 +1401,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24471,
+      "gamesTotal": 24473,
       "lastActivity": "2026-07-05"
     },
     {
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8400,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 8402,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "330",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7676,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 7677,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "166",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 37967,
+      "gamesTotal": 37982,
       "lastActivity": "2026-07-05"
     },
     {
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 22988,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 23130,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 121410,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 121500,
+      "lastActivity": "2026-07-05"
     },
     {
       "id": "441",
@@ -2192,7 +2192,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3351,
+      "gamesTotal": 3405,
       "lastActivity": "2026-07-05"
     },
     {
