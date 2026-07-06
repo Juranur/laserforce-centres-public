@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-06T16:39:13.051Z",
+  "lastUpdated": "2026-07-06T20:57:58.119Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 321,
+  "lastCheckedIndex": 249,
   "centres": [
     {
       "id": "159",
@@ -190,8 +190,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5907,
-      "lastActivity": "2026-06-28"
+      "gamesTotal": 5909,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "394",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35542,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 35583,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "96",
@@ -988,7 +988,7 @@
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 50,
+      "gamesTotal": 55,
       "lastActivity": "2026-07-06"
     },
     {
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 33923,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 33929,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "478",
@@ -1324,15 +1324,15 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3096,
+      "gamesTotal": 3101,
       "lastActivity": "2026-07-06"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17316,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 17400,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "493",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60545,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 60663,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "373",
@@ -1499,8 +1499,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34091,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 34125,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "164",
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92804,
+      "gamesTotal": 92824,
       "lastActivity": "2026-07-06"
     },
     {
@@ -1688,8 +1688,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3047,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 3071,
+      "lastActivity": "2026-07-06"
     },
     {
       "id": "469",
