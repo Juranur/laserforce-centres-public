@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-07T04:55:00.115Z",
+  "lastUpdated": "2026-07-07T10:44:16.879Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 177,
+  "lastCheckedIndex": 107,
   "centres": [
     {
       "id": "159",
@@ -330,8 +330,8 @@
       "id": "428",
       "regionSite": "1-90",
       "name": "C1 Speed Electric Indoor Karting & Lasertag, Albion Park Rail, NSW, Australia",
-      "gamesTotal": 19,
-      "lastActivity": "2026-03-16"
+      "gamesTotal": 21,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "35",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15084,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 15100,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "230",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 558,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 561,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "380",
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34125,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 34131,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46944,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 46963,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "485",
@@ -1527,8 +1527,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76223,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 76224,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "44",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 92824,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 92850,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40560,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 40578,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "293",
@@ -1674,29 +1674,29 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18137,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 18149,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13419,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 13488,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3071,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 3076,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3124,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 3157,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "426",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38016,
+      "gamesTotal": 38070,
       "lastActivity": "2026-07-07"
     },
     {
@@ -2402,7 +2402,7 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 753,
+      "gamesTotal": 754,
       "lastActivity": "2026-07-07"
     },
     {
