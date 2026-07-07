@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-06T20:57:58.119Z",
+  "lastUpdated": "2026-07-07T04:55:00.115Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 249,
+  "lastCheckedIndex": 177,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 504,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 505,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "312",
@@ -603,8 +603,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 123,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 124,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "192",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 981,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 984,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "206",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1703,
-      "lastActivity": "2026-07-02"
+      "gamesTotal": 1704,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "128",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7682,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 7690,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38015,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 38016,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "58",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 23811,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 23817,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 121884,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 121954,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "441",
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 751,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 753,
+      "lastActivity": "2026-07-07"
     },
     {
       "id": "24",
