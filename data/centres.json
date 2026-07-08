@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-07T20:55:57.395Z",
+  "lastUpdated": "2026-07-08T04:20:06.394Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 312,
+  "lastCheckedIndex": 240,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 30854,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 30858,
+      "lastActivity": "2026-07-08"
     },
     {
       "id": "25",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1828,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 1834,
+      "lastActivity": "2026-07-08"
     },
     {
       "id": "269",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4692,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 4695,
+      "lastActivity": "2026-07-08"
     },
     {
       "id": "372",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 505,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 506,
+      "lastActivity": "2026-07-08"
     },
     {
       "id": "312",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69099,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 69110,
+      "lastActivity": "2026-07-08"
     },
     {
       "id": "28",
