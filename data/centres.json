@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-09T16:16:08.777Z",
+  "lastUpdated": "2026-07-09T20:46:08.972Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 166,
+  "lastCheckedIndex": 94,
   "centres": [
     {
       "id": "159",
@@ -29,7 +29,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16254,
+      "gamesTotal": 16257,
       "lastActivity": "2026-07-09"
     },
     {
@@ -645,7 +645,7 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9428,
+      "gamesTotal": 9429,
       "lastActivity": "2026-07-09"
     },
     {
@@ -1198,15 +1198,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6236,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 6245,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58230,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 58328,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "134",
@@ -1303,14 +1303,14 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66491,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 66536,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12524,
+      "gamesTotal": 12529,
       "lastActivity": "2026-07-09"
     },
     {
@@ -1324,22 +1324,22 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3101,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 3103,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17400,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 17401,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 581,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 588,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "380",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24487,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 24491,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "143",
@@ -1464,8 +1464,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82349,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 82517,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "436",
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 46963,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 46978,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "485",
@@ -1660,8 +1660,8 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4747,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 4760,
+      "lastActivity": "2026-07-09"
     },
     {
       "id": "457",
@@ -1821,7 +1821,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25332,
+      "gamesTotal": 25336,
       "lastActivity": "2026-07-09"
     },
     {
