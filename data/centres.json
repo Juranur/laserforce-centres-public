@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-09T20:46:08.972Z",
+  "lastUpdated": "2026-07-10T04:49:38.145Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 94,
+  "lastCheckedIndex": 22,
   "centres": [
     {
       "id": "159",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1550,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 1560,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "468",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69176,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 69183,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "28",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30383,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 30385,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "154",
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1082,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 1086,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "389",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 494,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 501,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "324",
@@ -1520,8 +1520,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 9952,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 9953,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "43",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38176,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 38186,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "58",
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 754,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 755,
+      "lastActivity": "2026-07-10"
     },
     {
       "id": "24",
