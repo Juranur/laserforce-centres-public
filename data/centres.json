@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-11T20:05:20.256Z",
+  "lastUpdated": "2026-07-12T04:26:53.201Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 219,
+  "lastCheckedIndex": 149,
   "centres": [
     {
       "id": "159",
@@ -582,8 +582,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 36,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 42,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "348",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69183,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 69184,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "28",
@@ -995,8 +995,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4372,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 4374,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "133",
@@ -1695,15 +1695,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3520,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 3527,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3896,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 3904,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "434",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25355,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 25358,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "306",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7696,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 7712,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38212,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 38214,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "58",
@@ -2234,15 +2234,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1719,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 1726,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83212,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 83218,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "413",
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 179,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 180,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "419",
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 757,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 759,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "24",
