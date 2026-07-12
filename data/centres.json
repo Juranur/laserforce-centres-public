@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-12T09:16:56.436Z",
+  "lastUpdated": "2026-07-12T14:33:38.324Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 83,
+  "lastCheckedIndex": 11,
   "centres": [
     {
       "id": "159",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35587,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 35591,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "96",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2745,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 2753,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "116",
@@ -771,15 +771,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1573,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 1577,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 988,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 989,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "206",
@@ -890,8 +890,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13335,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 13350,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "368",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30407,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 30408,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1704,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 1706,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "128",
@@ -995,7 +995,7 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4374,
+      "gamesTotal": 4378,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32884,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 32912,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "329",
@@ -1198,14 +1198,14 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6256,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 6258,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58375,
+      "gamesTotal": 58380,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15105,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 15116,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "230",
@@ -1324,21 +1324,21 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3109,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 3114,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17427,
+      "gamesTotal": 17515,
       "lastActivity": "2026-07-12"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 626,
+      "gamesTotal": 627,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1401,7 +1401,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24498,
+      "gamesTotal": 24503,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1422,7 +1422,7 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43315,
+      "gamesTotal": 43331,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1485,7 +1485,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36861,
+      "gamesTotal": 36863,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31184,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 31198,
+      "lastActivity": "2026-07-12"
     },
     {
       "id": "194",
@@ -1702,7 +1702,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 3904,
+      "gamesTotal": 3907,
       "lastActivity": "2026-07-12"
     },
     {
@@ -1821,7 +1821,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25358,
+      "gamesTotal": 25483,
       "lastActivity": "2026-07-12"
     },
     {
@@ -2241,7 +2241,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83218,
+      "gamesTotal": 83243,
       "lastActivity": "2026-07-12"
     },
     {
