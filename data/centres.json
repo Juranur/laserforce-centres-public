@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-13T15:40:54.735Z",
+  "lastUpdated": "2026-07-13T20:29:30.130Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 84,
+  "lastCheckedIndex": 12,
   "centres": [
     {
       "id": "159",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35592,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 35670,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "96",
@@ -848,8 +848,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 388,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 389,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "90",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 509,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 577,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "324",
@@ -1296,7 +1296,7 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15123,
+      "gamesTotal": 15134,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1324,15 +1324,15 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3115,
+      "gamesTotal": 3116,
       "lastActivity": "2026-07-13"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17540,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 17597,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "493",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60663,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 60786,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "373",
@@ -1499,21 +1499,21 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34135,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 34146,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47044,
+      "gamesTotal": 47160,
       "lastActivity": "2026-07-13"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 49,
+      "gamesTotal": 51,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1674,14 +1674,14 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18431,
+      "gamesTotal": 18458,
       "lastActivity": "2026-07-13"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13579,
+      "gamesTotal": 13597,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1968,7 +1968,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24118,
+      "gamesTotal": 24126,
       "lastActivity": "2026-07-13"
     },
     {
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 672,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 673,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "100",
