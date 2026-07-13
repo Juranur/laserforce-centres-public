@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-12T20:05:48.085Z",
+  "lastUpdated": "2026-07-13T04:29:09.241Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 286,
+  "lastCheckedIndex": 215,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31026,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 31029,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16257,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 16283,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "392",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55164,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 55200,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "254",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 511,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 512,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "312",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26110,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 26117,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "234",
@@ -764,8 +764,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 327,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 328,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "465",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 989,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 990,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "206",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1706,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 1708,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "128",
@@ -1303,15 +1303,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66572,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 66628,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12535,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 12547,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "245",
@@ -1387,15 +1387,15 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19846,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 19849,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60922,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 60940,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "339",
@@ -1436,8 +1436,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49002,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 49011,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "141",
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8442,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 8456,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "330",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 47,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 49,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "398",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1423,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 1427,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "299",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83243,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 83351,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "413",
@@ -2353,8 +2353,8 @@
       "id": "412",
       "regionSite": "24-5",
       "name": "Visorium, Mayrhofen, Austria",
-      "gamesTotal": 40,
-      "lastActivity": "2026-06-29"
+      "gamesTotal": 42,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "376",
