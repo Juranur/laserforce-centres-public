@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-13T10:30:59.056Z",
+  "lastUpdated": "2026-07-13T15:40:54.735Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 153,
+  "lastCheckedIndex": 84,
   "centres": [
     {
       "id": "159",
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89448,
+      "gamesTotal": 89454,
       "lastActivity": "2026-07-13"
     },
     {
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1329,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 1330,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "437",
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207258,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 207325,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "165",
@@ -1142,15 +1142,15 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4112,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 4116,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88455,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 88472,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "113",
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58386,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 58388,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "134",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15121,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 15123,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "230",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3114,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 3115,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "178",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 628,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 630,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "380",
@@ -1464,8 +1464,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82579,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 82596,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "436",
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47043,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 47044,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "485",
@@ -1520,21 +1520,21 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10025,
+      "gamesTotal": 10035,
       "lastActivity": "2026-07-13"
     },
     {
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76250,
+      "gamesTotal": 76252,
       "lastActivity": "2026-07-13"
     },
     {
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60519,
+      "gamesTotal": 60521,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40741,
+      "gamesTotal": 40798,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1667,7 +1667,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4490,
+      "gamesTotal": 4523,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1688,14 +1688,14 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3102,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 3103,
+      "lastActivity": "2026-07-13"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3530,
+      "gamesTotal": 3534,
       "lastActivity": "2026-07-13"
     },
     {
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122131,
+      "gamesTotal": 122143,
       "lastActivity": "2026-07-13"
     },
     {
@@ -2241,7 +2241,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83351,
+      "gamesTotal": 83390,
       "lastActivity": "2026-07-13"
     },
     {
