@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T04:05:37.519Z",
+  "lastUpdated": "2026-07-14T09:10:03.074Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 287,
+  "lastCheckedIndex": 213,
   "centres": [
     {
       "id": "159",
@@ -78,8 +78,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 316,
-      "lastActivity": "2026-04-21"
+      "gamesTotal": 319,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "334",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89454,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 89456,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "353",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1708,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 1710,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "128",
@@ -1142,8 +1142,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4116,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 4118,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "23",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24516,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 24517,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "143",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83390,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 83570,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "413",
@@ -2276,8 +2276,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 621,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 622,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "490",
@@ -2388,8 +2388,8 @@
       "id": "100",
       "regionSite": "4-60",
       "name": "Wunderland, Beaverton, OR, USA",
-      "gamesTotal": 1834,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1835,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "156",
