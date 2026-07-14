@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-13T20:29:30.130Z",
+  "lastUpdated": "2026-07-14T04:05:37.519Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 12,
+  "lastCheckedIndex": 287,
   "centres": [
     {
       "id": "159",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1330,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 1331,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "437",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 577,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 589,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "324",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60786,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 60807,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "373",
@@ -1499,22 +1499,22 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34146,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 34162,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47160,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 47166,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 51,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 52,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "398",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31237,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 31239,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "194",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 239,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 240,
+      "lastActivity": "2026-07-14"
     },
     {
       "id": "265",
