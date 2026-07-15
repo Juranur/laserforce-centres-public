@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-15T09:16:23.950Z",
+  "lastUpdated": "2026-07-15T14:47:30.045Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 280,
+  "lastCheckedIndex": 210,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31030,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 31033,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16283,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 16289,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "392",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35670,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 35672,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "96",
@@ -771,7 +771,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1633,
+      "gamesTotal": 1638,
       "lastActivity": "2026-07-15"
     },
     {
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30408,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 30413,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "154",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 370,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 371,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "56",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 32920,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 32925,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "329",
@@ -1065,8 +1065,8 @@
       "id": "438",
       "regionSite": "24-6",
       "name": "Laserdance #1, Vienna, Austria",
-      "gamesTotal": 18,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 20,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "439",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88472,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 88527,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "113",
@@ -1303,15 +1303,15 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66628,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 66637,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12547,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 12553,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "245",
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122385,
+      "gamesTotal": 122400,
       "lastActivity": "2026-07-15"
     },
     {
@@ -2241,7 +2241,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83765,
+      "gamesTotal": 83774,
       "lastActivity": "2026-07-15"
     },
     {
