@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-15T14:47:30.045Z",
+  "lastUpdated": "2026-07-15T20:12:08.110Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 210,
+  "lastCheckedIndex": 140,
   "centres": [
     {
       "id": "159",
@@ -29,7 +29,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16289,
+      "gamesTotal": 16311,
       "lastActivity": "2026-07-15"
     },
     {
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89468,
+      "gamesTotal": 89478,
       "lastActivity": "2026-07-15"
     },
     {
@@ -372,8 +372,8 @@
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
-      "gamesTotal": 5585,
-      "lastActivity": "2026-06-26"
+      "gamesTotal": 5592,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "75",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44494,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 44554,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "321",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26117,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 26124,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "234",
@@ -610,7 +610,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35672,
+      "gamesTotal": 35700,
       "lastActivity": "2026-07-15"
     },
     {
@@ -771,14 +771,14 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1638,
+      "gamesTotal": 1644,
       "lastActivity": "2026-07-15"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 992,
+      "gamesTotal": 993,
       "lastActivity": "2026-07-15"
     },
     {
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36957,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 36962,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "296",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31239,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 31280,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "194",
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40918,
+      "gamesTotal": 40947,
       "lastActivity": "2026-07-15"
     },
     {
@@ -1667,35 +1667,35 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4632,
+      "gamesTotal": 4719,
       "lastActivity": "2026-07-15"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18514,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 18611,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13633,
+      "gamesTotal": 13676,
       "lastActivity": "2026-07-15"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3103,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 3105,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3577,
+      "gamesTotal": 3623,
       "lastActivity": "2026-07-15"
     },
     {
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27464,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 27468,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "99",
@@ -1933,8 +1933,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12090,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 12092,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "384",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38297,
+      "gamesTotal": 38325,
       "lastActivity": "2026-07-15"
     },
     {
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24217,
+      "gamesTotal": 24238,
       "lastActivity": "2026-07-15"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122400,
+      "gamesTotal": 122405,
       "lastActivity": "2026-07-15"
     },
     {
@@ -2241,7 +2241,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83774,
+      "gamesTotal": 83859,
       "lastActivity": "2026-07-15"
     },
     {
