@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-15T04:04:03.408Z",
+  "lastUpdated": "2026-07-15T09:16:23.950Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 4,
+  "lastCheckedIndex": 280,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89465,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 89468,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "353",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17598,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 17600,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "493",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93112,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 93156,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 40869,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 40918,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "293",
@@ -1667,8 +1667,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4591,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 4632,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "381",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3546,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 3577,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "426",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38266,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 38297,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "58",
@@ -1968,7 +1968,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24215,
+      "gamesTotal": 24217,
       "lastActivity": "2026-07-15"
     },
     {
