@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T20:26:21.729Z",
+  "lastUpdated": "2026-07-15T04:04:03.408Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 74,
+  "lastCheckedIndex": 4,
   "centres": [
     {
       "id": "159",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1331,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 1375,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "437",
@@ -771,15 +771,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1615,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 1633,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 990,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 992,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "206",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 52,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 54,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "398",
@@ -1681,8 +1681,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13631,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 13633,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "386",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24197,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 24215,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122160,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 122385,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "441",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1427,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 1428,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "299",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83592,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 83765,
+      "lastActivity": "2026-07-15"
     },
     {
       "id": "413",
