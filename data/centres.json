@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-16T14:59:58.918Z",
+  "lastUpdated": "2026-07-16T20:13:17.920Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 269,
+  "lastCheckedIndex": 197,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13085,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 13086,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "340",
@@ -162,15 +162,15 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4719,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 4720,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89478,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 89481,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "353",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1298,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 1301,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "360",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44723,
+      "gamesTotal": 44765,
       "lastActivity": "2026-07-16"
     },
     {
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26124,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 26125,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "234",
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30416,
+      "gamesTotal": 30423,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1051,8 +1051,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31118,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 31121,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "189",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 590,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 608,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "324",
@@ -1198,14 +1198,14 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6262,
+      "gamesTotal": 6267,
       "lastActivity": "2026-07-16"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58403,
+      "gamesTotal": 58409,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1303,7 +1303,7 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66707,
+      "gamesTotal": 66750,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3116,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 3123,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "178",
@@ -1933,8 +1933,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12092,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 12095,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "384",
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24242,
+      "gamesTotal": 24264,
       "lastActivity": "2026-07-16"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122410,
+      "gamesTotal": 122475,
       "lastActivity": "2026-07-16"
     },
     {
@@ -2241,7 +2241,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 83884,
+      "gamesTotal": 83961,
       "lastActivity": "2026-07-16"
     },
     {
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 673,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 676,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "100",
