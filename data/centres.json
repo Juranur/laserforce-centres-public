@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-16T09:15:17.431Z",
+  "lastUpdated": "2026-07-16T14:59:58.918Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 343,
+  "lastCheckedIndex": 269,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16311,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 16312,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "392",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 512,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 514,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "312",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44554,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 44723,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "321",
@@ -995,7 +995,7 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4381,
+      "gamesTotal": 4383,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1205,7 +1205,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58401,
+      "gamesTotal": 58403,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1303,7 +1303,7 @@
       "id": "230",
       "regionSite": "21-70",
       "name": "Lasertag Deutschland 1, Darmstadt, Germany",
-      "gamesTotal": 66705,
+      "gamesTotal": 66707,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1338,7 +1338,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 632,
+      "gamesTotal": 634,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1380,15 +1380,15 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4245,
+      "gamesTotal": 4246,
       "lastActivity": "2026-07-16"
     },
     {
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19849,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 19855,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "219",
@@ -1464,15 +1464,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82602,
+      "gamesTotal": 82614,
       "lastActivity": "2026-07-16"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8456,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 8458,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "330",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31280,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 31282,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "194",
@@ -1667,21 +1667,21 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4719,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 4889,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18634,
+      "gamesTotal": 18660,
       "lastActivity": "2026-07-16"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13686,
+      "gamesTotal": 13715,
       "lastActivity": "2026-07-16"
     },
     {
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7729,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 7731,
+      "lastActivity": "2026-07-16"
     },
     {
       "id": "166",
