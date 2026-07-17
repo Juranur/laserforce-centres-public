@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-17T04:14:04.840Z",
+  "lastUpdated": "2026-07-17T09:10:36.565Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 127,
+  "lastCheckedIndex": 58,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89481,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 89485,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "353",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88527,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 88529,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "113",
@@ -1310,8 +1310,8 @@
       "id": "231",
       "regionSite": "21-71",
       "name": "Lasertag Deutschland 2, Darmstadt, Germany",
-      "gamesTotal": 12557,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 12566,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "245",
@@ -1667,22 +1667,22 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 4893,
+      "gamesTotal": 4960,
       "lastActivity": "2026-07-17"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18660,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 18678,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13715,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 13725,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "386",
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9779,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 9794,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "302",
@@ -1968,7 +1968,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24277,
+      "gamesTotal": 24279,
       "lastActivity": "2026-07-17"
     },
     {
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 183,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 186,
+      "lastActivity": "2026-07-17"
     },
     {
       "id": "419",
