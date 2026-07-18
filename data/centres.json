@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-18T14:27:27.130Z",
+  "lastUpdated": "2026-07-18T20:04:18.549Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 59,
+  "lastCheckedIndex": 346,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44885,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 44970,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "321",
@@ -491,7 +491,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26126,
+      "gamesTotal": 26127,
       "lastActivity": "2026-07-18"
     },
     {
@@ -589,7 +589,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8503,
+      "gamesTotal": 8508,
       "lastActivity": "2026-07-18"
     },
     {
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35700,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 35705,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "96",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9483,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 9499,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "404",
@@ -701,7 +701,7 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2758,
+      "gamesTotal": 2761,
       "lastActivity": "2026-07-18"
     },
     {
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1662,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 1689,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "468",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69184,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 69185,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "28",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30423,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 30433,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "154",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33015,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 33089,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "329",
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 1508,
+      "gamesTotal": 1873,
       "lastActivity": "2026-07-18"
     },
     {
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6284,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 6286,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "308",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15137,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 15145,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "230",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 645,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 648,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "380",
@@ -1401,29 +1401,29 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24531,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 24533,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37888,
+      "gamesTotal": 37892,
       "lastActivity": "2026-07-18"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82836,
+      "gamesTotal": 82852,
       "lastActivity": "2026-07-18"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43345,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 43381,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "168",
@@ -1450,7 +1450,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47063,
+      "gamesTotal": 47069,
       "lastActivity": "2026-07-18"
     },
     {
@@ -1485,7 +1485,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 36979,
+      "gamesTotal": 36995,
       "lastActivity": "2026-07-18"
     },
     {
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47166,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 47169,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "485",
@@ -2199,8 +2199,8 @@
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 14877,
-      "lastActivity": "2026-06-14"
+      "gamesTotal": 14940,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "374",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1428,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 1429,
+      "lastActivity": "2026-07-18"
     },
     {
       "id": "299",
