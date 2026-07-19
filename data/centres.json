@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-18T20:04:18.549Z",
+  "lastUpdated": "2026-07-19T04:23:19.524Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 346,
+  "lastCheckedIndex": 275,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31112,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 31114,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "25",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4721,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 4726,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "372",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55236,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 55241,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "254",
@@ -379,8 +379,8 @@
       "id": "75",
       "regionSite": "4-25",
       "name": "Crown Family Entertainment Center, MD, USA",
-      "gamesTotal": 1123,
-      "lastActivity": "before 2026"
+      "gamesTotal": 1124,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "338",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 514,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 526,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "312",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44970,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 44974,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "321",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9499,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 9616,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "404",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1003,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1005,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "206",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1710,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 1711,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "128",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33089,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 33101,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "329",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34331,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 34333,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "478",
@@ -1226,8 +1226,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9899,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 9908,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "12",
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19855,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 19863,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "219",
@@ -1436,8 +1436,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49023,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 49029,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "141",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47069,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 47073,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "448",
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8464,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 8467,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "330",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 56,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 65,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "398",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93210,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 93213,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "98",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25558,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 25560,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "306",
@@ -1933,8 +1933,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12102,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 12103,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "384",
