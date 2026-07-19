@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-19T04:23:19.524Z",
+  "lastUpdated": "2026-07-19T09:19:13.715Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 275,
+  "lastCheckedIndex": 209,
   "centres": [
     {
       "id": "159",
@@ -449,7 +449,7 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 526,
+      "gamesTotal": 527,
       "lastActivity": "2026-07-19"
     },
     {
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2761,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 2785,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "116",
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1005,
+      "gamesTotal": 1006,
       "lastActivity": "2026-07-19"
     },
     {
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69185,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 69194,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "28",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30433,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 30436,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "154",
@@ -1009,8 +1009,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17452,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 17454,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "161",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33101,
+      "gamesTotal": 33111,
       "lastActivity": "2026-07-19"
     },
     {
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207325,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 207340,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "165",
@@ -1415,8 +1415,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82852,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 82858,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "167",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38372,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 38457,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "58",
@@ -2192,15 +2192,15 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3493,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 3540,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 14940,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 14972,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "374",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1429,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1434,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "299",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84239,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 84423,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "413",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 692,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 693,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "100",
@@ -2395,8 +2395,8 @@
       "id": "156",
       "regionSite": "4-72",
       "name": "Wunderland, Gresham, OR, USA",
-      "gamesTotal": 9657,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 9663,
+      "lastActivity": "2026-07-19"
     },
     {
       "id": "328",
