@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-19T20:05:24.463Z",
+  "lastUpdated": "2026-07-20T04:38:01.294Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 69,
+  "lastCheckedIndex": 2,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31114,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 31116,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "25",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35705,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 35710,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "96",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 568,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 574,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "421",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1689,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1709,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "468",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30438,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 30475,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "154",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1711,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 1712,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "128",
@@ -1394,8 +1394,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 60968,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 60972,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "339",
@@ -1464,8 +1464,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82829,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 82845,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "436",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37189,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 37226,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "296",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93214,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 93221,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "98",
@@ -2192,8 +2192,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3540,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 3541,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "111",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84423,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 84508,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "413",
@@ -2276,8 +2276,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 622,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 627,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "490",
