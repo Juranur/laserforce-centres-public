@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-20T04:38:01.294Z",
+  "lastUpdated": "2026-07-20T10:18:43.421Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 2,
+  "lastCheckedIndex": 278,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13091,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 13093,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "340",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89491,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 89545,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55241,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 55356,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "254",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26141,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 26153,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "234",
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207342,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 207402,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "165",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 65,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 66,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "398",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41076,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 41094,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "293",
@@ -1681,22 +1681,22 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13770,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 13778,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3105,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 3107,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3819,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 3820,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "426",
