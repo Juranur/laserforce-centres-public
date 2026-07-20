@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-20T15:12:50.273Z",
+  "lastUpdated": "2026-07-20T20:40:55.764Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 208,
+  "lastCheckedIndex": 136,
   "centres": [
     {
       "id": "159",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1307,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1309,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "360",
@@ -540,8 +540,8 @@
       "id": "317",
       "regionSite": "21-94",
       "name": "Full-One Lasertag, Winterberg, DE",
-      "gamesTotal": 9395,
-      "lastActivity": "2026-05-24"
+      "gamesTotal": 9396,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "379",
@@ -610,7 +610,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35710,
+      "gamesTotal": 35757,
       "lastActivity": "2026-07-20"
     },
     {
@@ -771,7 +771,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1724,
+      "gamesTotal": 1730,
       "lastActivity": "2026-07-20"
     },
     {
@@ -1471,21 +1471,21 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8500,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 8509,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18841,
-      "lastActivity": "2026-07-03"
+      "gamesTotal": 18849,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37226,
+      "gamesTotal": 37230,
       "lastActivity": "2026-07-20"
     },
     {
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34167,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 34185,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47169,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 47248,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "485",
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41094,
+      "gamesTotal": 41119,
       "lastActivity": "2026-07-20"
     },
     {
@@ -1667,21 +1667,21 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5085,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 5121,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18729,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 18734,
+      "lastActivity": "2026-07-20"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13778,
+      "gamesTotal": 13805,
       "lastActivity": "2026-07-20"
     },
     {
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3820,
+      "gamesTotal": 3823,
       "lastActivity": "2026-07-20"
     },
     {
