@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-21T14:58:54.872Z",
+  "lastUpdated": "2026-07-21T20:31:57.099Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 268,
+  "lastCheckedIndex": 199,
   "centres": [
     {
       "id": "159",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26153,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 26157,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "234",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1375,
-      "lastActivity": "2026-07-15"
+      "gamesTotal": 1402,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "437",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35757,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 35768,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "96",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1730,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 1757,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "468",
@@ -960,7 +960,7 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6695,
+      "gamesTotal": 6705,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33289,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 33317,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "329",
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2562,
+      "gamesTotal": 2563,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6301,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 6303,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "308",
@@ -1338,7 +1338,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 667,
+      "gamesTotal": 672,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1359,8 +1359,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7923,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 7933,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "279",
@@ -1380,8 +1380,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4246,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 4250,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "191",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38548,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 38646,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "58",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24320,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 24332,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122586,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 122675,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "441",
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50425,
-      "lastActivity": "2026-07-05"
+      "gamesTotal": 50426,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "29",
@@ -2192,7 +2192,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3545,
+      "gamesTotal": 3550,
       "lastActivity": "2026-07-21"
     },
     {
@@ -2276,8 +2276,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 627,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 628,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "490",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 693,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 694,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "100",
