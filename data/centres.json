@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-20T20:40:55.764Z",
+  "lastUpdated": "2026-07-21T04:16:51.514Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 136,
+  "lastCheckedIndex": 67,
   "centres": [
     {
       "id": "159",
@@ -995,8 +995,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4397,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 4398,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "133",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88652,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 88727,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "113",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2553,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 2562,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "324",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34337,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 34338,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "478",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15145,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 15153,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "230",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17606,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 17694,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "493",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 60831,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 60982,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "373",
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19891,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 19901,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "219",
@@ -1401,15 +1401,15 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24533,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 24538,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37947,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 37956,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "243",
@@ -1450,22 +1450,22 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47093,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 47095,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4511,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 4515,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82845,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 82849,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "436",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93221,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 93222,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "98",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3823,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 3824,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "426",
@@ -1891,8 +1891,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1054,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1056,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "224",
@@ -2234,8 +2234,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1727,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 1728,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "74",
