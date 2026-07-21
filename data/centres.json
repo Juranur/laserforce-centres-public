@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-21T09:29:10.896Z",
+  "lastUpdated": "2026-07-21T14:58:54.872Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 343,
+  "lastCheckedIndex": 268,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89617,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 89779,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "353",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 44974,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 44978,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "321",
@@ -673,8 +673,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7224,
-      "lastActivity": "2026-07-09"
+      "gamesTotal": 7226,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "473",
@@ -848,8 +848,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 389,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 391,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "90",
@@ -960,8 +960,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6693,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 6695,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "218",
@@ -1079,7 +1079,7 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101466,
+      "gamesTotal": 101472,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58425,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 58429,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "134",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3131,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 3138,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "178",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 666,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 667,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "380",
@@ -1457,14 +1457,14 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4515,
+      "gamesTotal": 4528,
       "lastActivity": "2026-07-21"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82849,
+      "gamesTotal": 82850,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1660,28 +1660,28 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4776,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 4784,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5137,
+      "gamesTotal": 5214,
       "lastActivity": "2026-07-21"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18756,
+      "gamesTotal": 18798,
       "lastActivity": "2026-07-21"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13820,
+      "gamesTotal": 13843,
       "lastActivity": "2026-07-21"
     },
     {
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9843,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 9864,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "302",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7778,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 7786,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "166",
