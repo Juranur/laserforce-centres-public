@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-21T04:16:51.514Z",
+  "lastUpdated": "2026-07-21T09:29:10.896Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 67,
+  "lastCheckedIndex": 343,
   "centres": [
     {
       "id": "159",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8509,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 8522,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "309",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1712,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 1726,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "128",
@@ -1079,8 +1079,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101443,
-      "lastActivity": "2026-07-07"
+      "gamesTotal": 101466,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "8",
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34185,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 34207,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47248,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 47265,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "485",
@@ -1667,22 +1667,22 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5121,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 5137,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18734,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 18756,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13805,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 13820,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "386",
@@ -2192,8 +2192,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3541,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 3545,
+      "lastActivity": "2026-07-21"
     },
     {
       "id": "111",
