@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-22T20:26:25.115Z",
+  "lastUpdated": "2026-07-23T04:21:16.644Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 258,
+  "lastCheckedIndex": 188,
   "centres": [
     {
       "id": "159",
@@ -442,15 +442,15 @@
       "id": "268",
       "regionSite": "17-2",
       "name": "Experymentarium Arena Laser Games, Lodz, Poland",
-      "gamesTotal": 899,
-      "lastActivity": "2026-06-06"
+      "gamesTotal": 900,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 527,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 528,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "312",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26160,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 26162,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "234",
@@ -771,15 +771,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1765,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 1791,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1006,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 1008,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "206",
@@ -813,8 +813,8 @@
       "id": "458",
       "regionSite": "7-23",
       "name": "Jump In by Air Hop Elstree, Borehamwood, United Kingdom",
-      "gamesTotal": 151,
-      "lastActivity": "2026-04-11"
+      "gamesTotal": 153,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "86",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33317,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 33341,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "329",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6303,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 6305,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "308",
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9864,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 9873,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "302",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7798,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 7801,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "166",
@@ -1870,8 +1870,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 509,
-      "lastActivity": "2026-07-10"
+      "gamesTotal": 510,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "399",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38718,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 38734,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "58",
@@ -2213,15 +2213,15 @@
       "id": "40",
       "regionSite": "1-46",
       "name": "The Big Banana, Coffs Harbour, NSW, AU",
-      "gamesTotal": 5356,
-      "lastActivity": "2026-03-21"
+      "gamesTotal": 5358,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1434,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 1437,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "299",
@@ -2276,8 +2276,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 628,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 629,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "490",
