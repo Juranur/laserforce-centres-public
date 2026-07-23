@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-23T04:21:16.644Z",
+  "lastUpdated": "2026-07-23T09:31:01.688Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 188,
+  "lastCheckedIndex": 116,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55389,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 55400,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "254",
@@ -603,8 +603,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 178,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 180,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "192",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17694,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 17699,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "493",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24550,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 24559,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "143",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47095,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 47104,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "448",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37233,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 37234,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "296",
@@ -1506,15 +1506,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47265,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 47266,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 69,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 72,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "398",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93265,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 93314,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "98",
@@ -1653,36 +1653,36 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41185,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 41191,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4784,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 4787,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5340,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 5390,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18852,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 18864,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13883,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 13903,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "386",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 3866,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 3869,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "426",
@@ -1828,7 +1828,7 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9873,
+      "gamesTotal": 9878,
       "lastActivity": "2026-07-23"
     },
     {
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38734,
+      "gamesTotal": 38735,
       "lastActivity": "2026-07-23"
     },
     {
