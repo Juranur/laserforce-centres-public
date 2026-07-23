@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-23T09:31:01.688Z",
+  "lastUpdated": "2026-07-23T15:11:30.304Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 116,
+  "lastCheckedIndex": 45,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89903,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 89952,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "353",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1309,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 1310,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "360",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1726,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 1728,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "128",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33341,
+      "gamesTotal": 33351,
       "lastActivity": "2026-07-23"
     },
     {
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34338,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 34342,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "478",
@@ -1198,15 +1198,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6305,
+      "gamesTotal": 6315,
       "lastActivity": "2026-07-23"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58429,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 58430,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "134",
@@ -1268,8 +1268,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5212,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 5214,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "252",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 681,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 692,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "380",
@@ -1380,8 +1380,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4250,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 4275,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "191",
@@ -1415,8 +1415,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82872,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 82879,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4540,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 4543,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "212",
@@ -1478,8 +1478,8 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18849,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 18854,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "337",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31344,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 31350,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "194",
@@ -1667,29 +1667,29 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5390,
+      "gamesTotal": 5475,
       "lastActivity": "2026-07-23"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18864,
+      "gamesTotal": 18891,
       "lastActivity": "2026-07-23"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13903,
+      "gamesTotal": 13914,
       "lastActivity": "2026-07-23"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3107,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 3112,
+      "lastActivity": "2026-07-23"
     },
     {
       "id": "469",
