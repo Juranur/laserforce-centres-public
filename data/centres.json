@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-23T20:25:31.833Z",
+  "lastUpdated": "2026-07-24T04:17:00.885Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 320,
+  "lastCheckedIndex": 248,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31116,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 31266,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "25",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 89952,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 90118,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "353",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 2,
-      "lastActivity": "before 2026"
+      "gamesTotal": 3,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "142",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69263,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 69270,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "28",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1728,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 1746,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "128",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 88801,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 88802,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "113",
@@ -2276,8 +2276,8 @@
       "id": "395",
       "regionSite": "4-174",
       "name": "Thrills Laser Tag and Arcade, FL, USA",
-      "gamesTotal": 629,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 631,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "490",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 699,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 701,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "100",
