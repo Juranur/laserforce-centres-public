@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-24T04:17:00.885Z",
+  "lastUpdated": "2026-07-24T09:25:50.707Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 248,
+  "lastCheckedIndex": 179,
   "centres": [
     {
       "id": "159",
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 90118,
+      "gamesTotal": 90151,
       "lastActivity": "2026-07-24"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58430,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 58433,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "134",
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 9890,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 9893,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "302",
@@ -1968,8 +1968,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24333,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 24336,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "349",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1437,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 1438,
+      "lastActivity": "2026-07-24"
     },
     {
       "id": "299",
