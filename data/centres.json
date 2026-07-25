@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-25T04:15:19.313Z",
+  "lastUpdated": "2026-07-25T09:06:46.139Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 328,
+  "lastCheckedIndex": 256,
   "centres": [
     {
       "id": "159",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 5,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 12,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "142",
@@ -302,8 +302,8 @@
       "id": "205",
       "regionSite": "21-46",
       "name": "Bowling Room Trier Betriebs GmbH, DE",
-      "gamesTotal": 6876,
-      "lastActivity": "2026-04-18"
+      "gamesTotal": 6881,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "258",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2818,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 2823,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "116",
@@ -778,7 +778,7 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1013,
+      "gamesTotal": 1015,
       "lastActivity": "2026-07-25"
     },
     {
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19911,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 19916,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "219",
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8509,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 8511,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "330",
@@ -1513,15 +1513,15 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 72,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 81,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10105,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 10108,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "43",
@@ -1555,8 +1555,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 14030,
-      "lastActivity": "2026-07-04"
+      "gamesTotal": 14035,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "137",
@@ -1639,8 +1639,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1070,
-      "lastActivity": "2026-07-13"
+      "gamesTotal": 1075,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "9",
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 822,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 827,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "24",
