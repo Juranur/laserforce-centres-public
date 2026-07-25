@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-24T20:30:29.226Z",
+  "lastUpdated": "2026-07-25T04:15:19.313Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 47,
+  "lastCheckedIndex": 328,
   "centres": [
     {
       "id": "159",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 17936,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 17960,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "487",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8530,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 8532,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "309",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35782,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 35796,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "96",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9616,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 9627,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "404",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1008,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 1013,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "206",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33504,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 33520,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "329",
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1093,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 1095,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "389",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 61036,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 61074,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "373",
@@ -1415,8 +1415,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82974,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 82989,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "167",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47126,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 47140,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "448",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93314,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 93316,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "98",
@@ -1681,8 +1681,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13948,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 13951,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "386",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7806,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 7820,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38735,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 38743,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "58",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1438,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 1442,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "299",
@@ -2241,15 +2241,15 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84508,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 84517,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
-      "gamesTotal": 301,
-      "lastActivity": "2026-07-18"
+      "gamesTotal": 303,
+      "lastActivity": "2026-07-25"
     },
     {
       "id": "77",
