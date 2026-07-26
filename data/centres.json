@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-26T04:29:02.363Z",
+  "lastUpdated": "2026-07-26T09:25:52.342Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 43,
+  "lastCheckedIndex": 326,
   "centres": [
     {
       "id": "159",
@@ -603,8 +603,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 180,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 181,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "192",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 629,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 630,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "421",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1016,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 1020,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "206",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69270,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 69272,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "28",
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207433,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 207436,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "165",
@@ -1639,8 +1639,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1075,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 1079,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "9",
@@ -1674,8 +1674,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18916,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 18918,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "385",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 25831,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 26036,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "306",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7832,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 7841,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38761,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 38772,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "58",
@@ -2192,8 +2192,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3606,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 3607,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "111",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84517,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 84521,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "413",
