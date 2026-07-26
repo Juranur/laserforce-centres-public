@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-26T09:25:52.342Z",
+  "lastUpdated": "2026-07-26T14:33:30.564Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 326,
+  "lastCheckedIndex": 256,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13093,
-      "lastActivity": "2026-07-20"
+      "gamesTotal": 13096,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "340",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3890,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 3892,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "184",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1310,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 1311,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "360",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55400,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 55402,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "254",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45116,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 45132,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "321",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1402,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 1404,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "437",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 728,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 731,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "380",
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19926,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 19947,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "219",
@@ -1408,15 +1408,15 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 37963,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 37970,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 82989,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 82996,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "167",
@@ -1464,8 +1464,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 82969,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 82974,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "436",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31363,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 31367,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "194",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93321,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 93324,
+      "lastActivity": "2026-07-26"
     },
     {
       "id": "98",
@@ -1674,7 +1674,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18918,
+      "gamesTotal": 18924,
       "lastActivity": "2026-07-26"
     },
     {
