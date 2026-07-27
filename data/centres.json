@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-27T15:42:14.394Z",
+  "lastUpdated": "2026-07-27T20:35:22.639Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 318,
+  "lastCheckedIndex": 251,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31269,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 31333,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "25",
@@ -57,8 +57,8 @@
       "id": "355",
       "regionSite": "21-110",
       "name": "Adventure World, Oberhausen, DE",
-      "gamesTotal": 3966,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 3967,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "502",
@@ -162,15 +162,15 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4728,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 4737,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 90263,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 90276,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "353",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 528,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 529,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "312",
@@ -1184,7 +1184,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34350,
+      "gamesTotal": 34351,
       "lastActivity": "2026-07-27"
     },
     {
@@ -1205,7 +1205,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58453,
+      "gamesTotal": 58455,
       "lastActivity": "2026-07-27"
     },
     {
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15159,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 15160,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "230",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3141,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 3183,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "178",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 61604,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 61680,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "373",
@@ -1387,14 +1387,14 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19952,
+      "gamesTotal": 19956,
       "lastActivity": "2026-07-27"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61045,
+      "gamesTotal": 61083,
       "lastActivity": "2026-07-27"
     },
     {
@@ -1436,7 +1436,7 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49055,
+      "gamesTotal": 49062,
       "lastActivity": "2026-07-27"
     },
     {
@@ -1485,7 +1485,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37383,
+      "gamesTotal": 37401,
       "lastActivity": "2026-07-27"
     },
     {
@@ -1653,15 +1653,15 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41233,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 41291,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4789,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 4791,
+      "lastActivity": "2026-07-27"
     },
     {
       "id": "457",
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4059,
+      "gamesTotal": 4080,
       "lastActivity": "2026-07-27"
     },
     {
