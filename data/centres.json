@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-28T15:15:59.119Z",
+  "lastUpdated": "2026-07-28T20:32:06.788Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 48,
+  "lastCheckedIndex": 325,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45136,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 45148,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "321",
@@ -477,8 +477,8 @@
       "id": "479",
       "regionSite": "21-133",
       "name": "FEC Service, Heilbronn, Germany",
-      "gamesTotal": 77,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 81,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "411",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26204,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 26205,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "234",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1406,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 1429,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "437",
@@ -771,7 +771,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1861,
+      "gamesTotal": 1869,
       "lastActivity": "2026-07-28"
     },
     {
@@ -946,8 +946,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43260,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 43266,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "160",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33774,
+      "gamesTotal": 33798,
       "lastActivity": "2026-07-28"
     },
     {
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2735,
+      "gamesTotal": 2736,
       "lastActivity": "2026-07-28"
     },
     {
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3183,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 3187,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "178",
@@ -1394,7 +1394,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61087,
+      "gamesTotal": 61091,
       "lastActivity": "2026-07-28"
     },
     {
@@ -1408,8 +1408,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38000,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 38005,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "243",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47140,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 47146,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "448",
@@ -1485,7 +1485,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37419,
+      "gamesTotal": 37425,
       "lastActivity": "2026-07-28"
     },
     {
@@ -1499,7 +1499,7 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34266,
+      "gamesTotal": 34269,
       "lastActivity": "2026-07-28"
     },
     {
@@ -1667,7 +1667,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5610,
+      "gamesTotal": 5625,
       "lastActivity": "2026-07-28"
     },
     {
@@ -2115,7 +2115,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50494,
+      "gamesTotal": 50509,
       "lastActivity": "2026-07-28"
     },
     {
