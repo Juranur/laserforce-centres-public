@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-28T04:08:50.952Z",
+  "lastUpdated": "2026-07-28T09:35:45.128Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 187,
+  "lastCheckedIndex": 117,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31333,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 31349,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "25",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35805,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 35833,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "96",
@@ -1331,15 +1331,15 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17700,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 17781,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 749,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 755,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "380",
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34207,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 34266,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47288,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 47354,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "485",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41291,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 41302,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "293",
@@ -1667,22 +1667,22 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 5606,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 5610,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 18976,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 19003,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 13984,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 14002,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "386",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4080,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 4087,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "426",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24477,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 24492,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 122875,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 122911,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "441",
@@ -2395,8 +2395,8 @@
       "id": "156",
       "regionSite": "4-72",
       "name": "Wunderland, Gresham, OR, USA",
-      "gamesTotal": 9663,
-      "lastActivity": "2026-07-19"
+      "gamesTotal": 9665,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "328",
