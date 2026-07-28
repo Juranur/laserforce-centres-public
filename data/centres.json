@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-27T20:35:22.639Z",
+  "lastUpdated": "2026-07-28T04:08:50.952Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 251,
+  "lastCheckedIndex": 187,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 529,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 532,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "312",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1839,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 1861,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "468",
@@ -1891,8 +1891,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1062,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 1063,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "224",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 249,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 250,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "265",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1442,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 1443,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "299",
@@ -2234,8 +2234,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1728,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 1734,
+      "lastActivity": "2026-07-28"
     },
     {
       "id": "74",
