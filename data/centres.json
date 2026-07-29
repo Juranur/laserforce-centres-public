@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-29T15:14:04.050Z",
+  "lastUpdated": "2026-07-29T20:23:43.332Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 111,
+  "lastCheckedIndex": 42,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1249,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 1250,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "101",
@@ -183,8 +183,8 @@
       "id": "187",
       "regionSite": "21-38",
       "name": "Baltic Adventures, Greifswald, DE",
-      "gamesTotal": 936,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 939,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "289",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30520,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 30522,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "154",
@@ -946,8 +946,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43266,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 43324,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "160",
@@ -981,15 +981,15 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42405,
-      "lastActivity": "2026-07-01"
+      "gamesTotal": 42444,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 55,
-      "lastActivity": "2026-07-06"
+      "gamesTotal": 56,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "278",
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1096,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 1097,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "389",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89006,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 89069,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "113",
@@ -1163,7 +1163,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2742,
+      "gamesTotal": 2792,
       "lastActivity": "2026-07-29"
     },
     {
@@ -1219,8 +1219,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11880,
-      "lastActivity": "2026-06-21"
+      "gamesTotal": 11892,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "298",
@@ -1268,8 +1268,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5218,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 5220,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "252",
@@ -1436,7 +1436,7 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49073,
+      "gamesTotal": 49084,
       "lastActivity": "2026-07-29"
     },
     {
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47146,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 47150,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "448",
@@ -1513,7 +1513,7 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 87,
+      "gamesTotal": 88,
       "lastActivity": "2026-07-29"
     },
     {
@@ -1562,8 +1562,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4276,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 4277,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "173",
@@ -1681,7 +1681,7 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14104,
+      "gamesTotal": 14109,
       "lastActivity": "2026-07-29"
     },
     {
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4155,
+      "gamesTotal": 4166,
       "lastActivity": "2026-07-29"
     },
     {
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 24745,
+      "gamesTotal": 24753,
       "lastActivity": "2026-07-29"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123141,
+      "gamesTotal": 123145,
       "lastActivity": "2026-07-29"
     },
     {
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1443,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 1445,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "299",
