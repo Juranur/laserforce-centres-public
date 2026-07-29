@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-28T20:32:06.788Z",
+  "lastUpdated": "2026-07-29T04:09:56.760Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 325,
+  "lastCheckedIndex": 253,
   "centres": [
     {
       "id": "159",
@@ -309,8 +309,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2734,
-      "lastActivity": "2026-07-16"
+      "gamesTotal": 2736,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "81",
@@ -358,8 +358,8 @@
       "id": "396",
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
-      "gamesTotal": 520,
-      "lastActivity": "before 2026"
+      "gamesTotal": 521,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "500",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1429,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 1431,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "437",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69272,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 69286,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "28",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93333,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 93394,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "98",
@@ -1709,8 +1709,8 @@
       "id": "434",
       "regionSite": "4-197",
       "name": "Monster Mini Golf Chantilly, VA, United States",
-      "gamesTotal": 67,
-      "lastActivity": "2026-06-16"
+      "gamesTotal": 69,
+      "lastActivity": "2026-07-29"
     },
     {
       "id": "442",
