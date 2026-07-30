@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-30T03:43:34.221Z",
+  "lastUpdated": "2026-07-30T09:29:39.301Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 318,
+  "lastCheckedIndex": 247,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1250,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 1251,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "101",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45186,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 45192,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "321",
@@ -939,8 +939,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1746,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 1747,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "128",
@@ -1324,8 +1324,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3187,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 3188,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "178",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93466,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 93497,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41385,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 41403,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "293",
@@ -1695,15 +1695,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4166,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 4259,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4025,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 4026,
+      "lastActivity": "2026-07-30"
     },
     {
       "id": "434",
