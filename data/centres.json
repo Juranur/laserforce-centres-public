@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-30T20:33:00.184Z",
+  "lastUpdated": "2026-07-31T04:26:22.114Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 100,
+  "lastCheckedIndex": 29,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1251,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 1253,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "101",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 90291,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 90316,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "353",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2840,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 2841,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "46",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30522,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 30523,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "154",
@@ -1051,8 +1051,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31127,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 31144,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "189",
@@ -1226,8 +1226,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9945,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 9952,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "12",
@@ -1975,8 +1975,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123290,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 123298,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "441",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1460,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 1463,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "299",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 701,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 703,
+      "lastActivity": "2026-07-31"
     },
     {
       "id": "100",
