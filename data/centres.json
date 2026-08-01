@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-01T09:20:12.410Z",
+  "lastUpdated": "2026-08-01T14:33:39.647Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 27,
+  "lastCheckedIndex": 304,
   "centres": [
     {
       "id": "159",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 12,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 13,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "142",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8532,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 8539,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "309",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2827,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 2839,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "116",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1900,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 1916,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "468",
@@ -925,8 +925,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30527,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 30532,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "154",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6436,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 6437,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "308",
@@ -1268,8 +1268,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5226,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 5231,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "252",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37427,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 37433,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "296",
@@ -1520,7 +1520,7 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10118,
+      "gamesTotal": 10120,
       "lastActivity": "2026-08-01"
     },
     {
@@ -1821,14 +1821,14 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26081,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 26086,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10004,
+      "gamesTotal": 10024,
       "lastActivity": "2026-08-01"
     },
     {
@@ -1849,7 +1849,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7895,
+      "gamesTotal": 7904,
       "lastActivity": "2026-08-01"
     },
     {
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50529,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 50537,
+      "lastActivity": "2026-08-01"
     },
     {
       "id": "29",
