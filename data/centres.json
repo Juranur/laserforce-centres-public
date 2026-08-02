@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-02T09:23:02.134Z",
+  "lastUpdated": "2026-08-02T14:33:21.585Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 93,
+  "lastCheckedIndex": 28,
   "centres": [
     {
       "id": "159",
@@ -204,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3012,
-      "lastActivity": "2026-07-12"
+      "gamesTotal": 3016,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "262",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2839,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 2868,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "116",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69374,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 69375,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "28",
@@ -918,15 +918,15 @@
       "id": "496",
       "regionSite": "41-2",
       "name": "Laser Aréna Bratislava #2, Slovakia",
-      "gamesTotal": 3,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 14,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30536,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 30539,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "154",
@@ -960,15 +960,15 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6705,
-      "lastActivity": "2026-07-21"
+      "gamesTotal": 6711,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "218",
       "regionSite": "21-59",
       "name": "Laser Heroes GmbH, Bremerhaven, DE",
-      "gamesTotal": 8803,
-      "lastActivity": "2026-06-13"
+      "gamesTotal": 8814,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "484",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 33897,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 33933,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "329",
@@ -1065,15 +1065,15 @@
       "id": "438",
       "regionSite": "24-6",
       "name": "Laserdance #1, Vienna, Austria",
-      "gamesTotal": 22,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 31,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "439",
       "regionSite": "24-7",
       "name": "Laserdance #2, Vienna, Austria",
-      "gamesTotal": 26,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 32,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "53",
@@ -1121,8 +1121,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1097,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 1099,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "389",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89069,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 89197,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "113",
@@ -1226,8 +1226,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9955,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 9964,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "12",
@@ -1268,8 +1268,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5231,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 5233,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "252",
@@ -1324,7 +1324,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3215,
+      "gamesTotal": 3224,
       "lastActivity": "2026-08-02"
     },
     {
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37433,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 37456,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "296",
@@ -1520,7 +1520,7 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10123,
+      "gamesTotal": 10125,
       "lastActivity": "2026-08-02"
     },
     {
@@ -1821,15 +1821,15 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26092,
+      "gamesTotal": 26161,
       "lastActivity": "2026-08-02"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10024,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 10072,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "302",
@@ -2192,8 +2192,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3704,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 3705,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "111",
