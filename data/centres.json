@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-01T20:09:13.445Z",
+  "lastUpdated": "2026-08-02T04:25:41.547Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 234,
+  "lastCheckedIndex": 164,
   "centres": [
     {
       "id": "159",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1441,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 1442,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "437",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2841,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 2846,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "46",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1035,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 1038,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "206",
@@ -911,8 +911,8 @@
       "id": "425",
       "regionSite": "41-1",
       "name": "Laser Aréna Bratislava #1, Slovakia",
-      "gamesTotal": 20,
-      "lastActivity": "2026-07-17"
+      "gamesTotal": 37,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "496",
@@ -1674,22 +1674,22 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19273,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 19274,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14185,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 14223,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3113,
-      "lastActivity": "2026-07-23"
+      "gamesTotal": 3147,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "469",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26086,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 26092,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "306",
@@ -1891,8 +1891,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1063,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 1067,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "224",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 251,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 252,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "265",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 38930,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 38932,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "58",
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50537,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 50561,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "29",
@@ -2241,8 +2241,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84521,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 84534,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "413",
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 188,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 189,
+      "lastActivity": "2026-08-02"
     },
     {
       "id": "419",
