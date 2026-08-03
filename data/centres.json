@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-02T20:10:51.307Z",
+  "lastUpdated": "2026-08-03T04:28:43.250Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 309,
+  "lastCheckedIndex": 237,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31809,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 31814,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16339,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 16363,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "392",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3906,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 3910,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "184",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 13,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 14,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "142",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55592,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 55628,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "254",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26234,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 26237,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "234",
@@ -1520,8 +1520,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10125,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 10131,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "43",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93523,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 93565,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "98",
@@ -2220,8 +2220,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1465,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 1473,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "299",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 703,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 704,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "100",
