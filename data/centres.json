@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-03T10:48:34.587Z",
+  "lastUpdated": "2026-08-03T15:45:16.078Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 164,
+  "lastCheckedIndex": 95,
   "centres": [
     {
       "id": "159",
@@ -309,8 +309,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2736,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 2741,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "81",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8539,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 8541,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "309",
@@ -1296,8 +1296,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15166,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 15167,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "230",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 787,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 795,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "380",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 61680,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 61685,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "373",
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 19966,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 19976,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "219",
@@ -1422,8 +1422,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43403,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 43417,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "168",
@@ -1457,15 +1457,15 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4561,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 4573,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 83164,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 83281,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "436",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37573,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 37597,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "296",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 128,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 139,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "398",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31410,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 31439,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "194",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41466,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 41495,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "293",
@@ -1667,21 +1667,21 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6055,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 6062,
+      "lastActivity": "2026-08-03"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19326,
+      "gamesTotal": 19371,
       "lastActivity": "2026-08-03"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14247,
+      "gamesTotal": 14282,
       "lastActivity": "2026-08-03"
     },
     {
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4432,
+      "gamesTotal": 4458,
       "lastActivity": "2026-08-03"
     },
     {
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123460,
+      "gamesTotal": 123486,
       "lastActivity": "2026-08-03"
     },
     {
