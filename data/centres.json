@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-04T04:11:58.882Z",
+  "lastUpdated": "2026-08-04T09:39:21.592Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 300,
+  "lastCheckedIndex": 239,
   "centres": [
     {
       "id": "159",
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45387,
+      "gamesTotal": 45438,
       "lastActivity": "2026-08-04"
     },
     {
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69375,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 69428,
+      "lastActivity": "2026-08-04"
     },
     {
       "id": "28",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41541,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 41551,
+      "lastActivity": "2026-08-04"
     },
     {
       "id": "293",
@@ -1681,7 +1681,7 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14287,
+      "gamesTotal": 14315,
       "lastActivity": "2026-08-04"
     },
     {
