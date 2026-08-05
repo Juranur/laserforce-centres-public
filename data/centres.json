@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-05T15:14:42.159Z",
+  "lastUpdated": "2026-08-05T20:34:44.700Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 241,
+  "lastCheckedIndex": 172,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31815,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 31817,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "25",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16363,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 16387,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "392",
@@ -113,7 +113,7 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13120,
+      "gamesTotal": 13156,
       "lastActivity": "2026-08-05"
     },
     {
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 1970,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 1982,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "468",
@@ -946,7 +946,7 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43327,
+      "gamesTotal": 43329,
       "lastActivity": "2026-08-05"
     },
     {
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34001,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 34012,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "329",
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58474,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 58478,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "134",
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27763,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 27766,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "99",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7909,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 7915,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "166",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39072,
+      "gamesTotal": 39094,
       "lastActivity": "2026-08-05"
     },
     {
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25080,
+      "gamesTotal": 25091,
       "lastActivity": "2026-08-05"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123703,
+      "gamesTotal": 123726,
       "lastActivity": "2026-08-05"
     },
     {
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50591,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 50641,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "29",
