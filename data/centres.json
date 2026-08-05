@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-04T20:36:20.412Z",
+  "lastUpdated": "2026-08-05T04:07:14.480Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 102,
+  "lastCheckedIndex": 31,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1257,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 1258,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "101",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2846,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 2847,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "46",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 632,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 634,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "421",
@@ -778,8 +778,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1039,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 1041,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "206",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42444,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 42473,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "497",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2974,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 2975,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "324",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34355,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 34357,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "478",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93604,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 93672,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "98",
@@ -1975,8 +1975,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123664,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 123692,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "441",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 704,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 721,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "100",
