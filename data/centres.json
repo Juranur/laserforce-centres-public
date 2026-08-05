@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-05T04:07:14.480Z",
+  "lastUpdated": "2026-08-05T09:36:48.221Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 31,
+  "lastCheckedIndex": 310,
   "centres": [
     {
       "id": "159",
@@ -358,8 +358,8 @@
       "id": "396",
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
-      "gamesTotal": 522,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 523,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "500",
@@ -1674,15 +1674,15 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19516,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 19570,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14380,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 14410,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "386",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39036,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 39072,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "58",
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25070,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 25080,
+      "lastActivity": "2026-08-05"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123692,
+      "gamesTotal": 123703,
       "lastActivity": "2026-08-05"
     },
     {
