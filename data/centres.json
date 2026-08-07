@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-07T00:58:38.925Z",
+  "lastUpdated": "2026-08-07T08:16:30.505Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 233,
+  "lastCheckedIndex": 163,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55696,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 55697,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "254",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45484,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 45509,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "321",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 377,
-      "lastActivity": "2026-07-25"
+      "gamesTotal": 381,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "56",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34013,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 34020,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "329",
@@ -1100,15 +1100,15 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207544,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 207549,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25594,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 25602,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "148",
@@ -1142,8 +1142,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4120,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 4122,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "23",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41608,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 41609,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "293",
@@ -1674,22 +1674,22 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19671,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 19679,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14487,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 14539,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3151,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 3161,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "469",
@@ -1702,8 +1702,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4030,
-      "lastActivity": "2026-07-31"
+      "gamesTotal": 4031,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "434",
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27766,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 27863,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "99",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26166,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 26168,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "306",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7915,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 7920,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "166",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25167,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 25178,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123736,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 123746,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "441",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 723,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 726,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "100",
