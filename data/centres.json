@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-06T15:17:29.863Z",
+  "lastUpdated": "2026-08-07T00:58:38.925Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 304,
+  "lastCheckedIndex": 233,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31817,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 31914,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "25",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3916,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 3932,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "184",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26237,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 26245,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "234",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 637,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 640,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "421",
@@ -1163,8 +1163,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 2984,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 2987,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "324",
@@ -1198,15 +1198,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6456,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 6457,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58479,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 58481,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "134",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 17900,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 17930,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "493",
@@ -1464,15 +1464,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 83480,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 83525,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8599,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 8612,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "330",
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47410,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 47420,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "485",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93803,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 93813,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "98",
@@ -1639,8 +1639,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1130,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 1173,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "9",
@@ -2234,8 +2234,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1736,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 1737,
+      "lastActivity": "2026-08-07"
     },
     {
       "id": "74",
