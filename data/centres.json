@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-09T13:54:15.576Z",
+  "lastUpdated": "2026-08-09T19:41:41.054Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 230,
+  "lastCheckedIndex": 158,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31924,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 31925,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "25",
@@ -141,7 +141,7 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 3953,
+      "gamesTotal": 3975,
       "lastActivity": "2026-08-09"
     },
     {
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55710,
+      "gamesTotal": 55794,
       "lastActivity": "2026-08-09"
     },
     {
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45568,
+      "gamesTotal": 45589,
       "lastActivity": "2026-08-09"
     },
     {
@@ -526,8 +526,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 552,
-      "lastActivity": "2026-07-30"
+      "gamesTotal": 557,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "242",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9853,
-      "lastActivity": "2026-08-06"
+      "gamesTotal": 9859,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "404",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 640,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 644,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "421",
@@ -771,7 +771,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2018,
+      "gamesTotal": 2024,
       "lastActivity": "2026-08-09"
     },
     {
@@ -925,7 +925,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30586,
+      "gamesTotal": 30611,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1009,7 +1009,7 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17469,
+      "gamesTotal": 17481,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34104,
+      "gamesTotal": 34203,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1107,8 +1107,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25602,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 25608,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "148",
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41812,
+      "gamesTotal": 41943,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1702,8 +1702,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4047,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 4082,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "434",
@@ -1758,7 +1758,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27889,
+      "gamesTotal": 28188,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1821,14 +1821,14 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26178,
+      "gamesTotal": 26329,
       "lastActivity": "2026-08-09"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10118,
+      "gamesTotal": 10140,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7957,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 7958,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "166",
@@ -1863,8 +1863,8 @@
       "id": "350",
       "regionSite": "16-4",
       "name": "PLAY'IN PARK, Neyron, FR",
-      "gamesTotal": 51,
-      "lastActivity": "2026-05-29"
+      "gamesTotal": 55,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "450",
@@ -1912,8 +1912,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17383,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 17451,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "491",
@@ -1933,8 +1933,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12112,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 12114,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "384",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25231,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 25261,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123791,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 123842,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "441",
@@ -2192,7 +2192,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3786,
+      "gamesTotal": 3778,
       "lastActivity": "2026-08-09"
     },
     {
