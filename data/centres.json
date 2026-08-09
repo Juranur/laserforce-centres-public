@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-09T03:02:50.934Z",
+  "lastUpdated": "2026-08-09T07:55:46.357Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 24,
+  "lastCheckedIndex": 301,
   "centres": [
     {
       "id": "159",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 14,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 15,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "142",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55706,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 55710,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "254",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35939,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 35941,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "96",
@@ -1527,8 +1527,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76307,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 76309,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "44",
@@ -1541,8 +1541,8 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6730,
-      "lastActivity": "2026-08-01"
+      "gamesTotal": 6736,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "174",
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93857,
+      "gamesTotal": 93866,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41807,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 41812,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "293",
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 27866,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 27889,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "99",
@@ -1828,7 +1828,7 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10110,
+      "gamesTotal": 10118,
       "lastActivity": "2026-08-09"
     },
     {
@@ -1891,8 +1891,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1067,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 1069,
+      "lastActivity": "2026-08-09"
     },
     {
       "id": "224",
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39148,
+      "gamesTotal": 39155,
       "lastActivity": "2026-08-09"
     },
     {
