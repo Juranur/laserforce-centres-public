@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-10T08:43:29.378Z",
+  "lastUpdated": "2026-08-10T14:13:55.609Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 23,
+  "lastCheckedIndex": 300,
   "centres": [
     {
       "id": "159",
@@ -204,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3017,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 3020,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "262",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8745,
-      "lastActivity": "2026-06-30"
+      "gamesTotal": 8794,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "282",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45589,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 45704,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "321",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34203,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 34209,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "329",
@@ -1149,7 +1149,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89467,
+      "gamesTotal": 89569,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1205,7 +1205,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58497,
+      "gamesTotal": 58499,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 859,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 871,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "380",
@@ -1450,7 +1450,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47247,
+      "gamesTotal": 47250,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93880,
+      "gamesTotal": 93888,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1653,7 +1653,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 41950,
+      "gamesTotal": 42029,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1667,14 +1667,14 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6083,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 6102,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19791,
+      "gamesTotal": 19868,
       "lastActivity": "2026-08-10"
     },
     {
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4613,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 4620,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "426",
@@ -1968,14 +1968,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25328,
+      "gamesTotal": 25361,
       "lastActivity": "2026-08-10"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123873,
+      "gamesTotal": 123920,
       "lastActivity": "2026-08-10"
     },
     {
@@ -2087,8 +2087,8 @@
       "id": "432",
       "regionSite": "21-122",
       "name": "Space Magic, Aurich, DE",
-      "gamesTotal": 36,
-      "lastActivity": "2026-06-23"
+      "gamesTotal": 37,
+      "lastActivity": "2026-08-10"
     },
     {
       "id": "365",
