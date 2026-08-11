@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-10T19:55:44.477Z",
+  "lastUpdated": "2026-08-11T03:01:50.439Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 227,
+  "lastCheckedIndex": 155,
   "centres": [
     {
       "id": "159",
@@ -449,8 +449,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 549,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 552,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "312",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35941,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 35996,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "96",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2847,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 2850,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "46",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42029,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 42035,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "293",
@@ -1667,22 +1667,22 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6102,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 6104,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19868,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 19879,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14561,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 14578,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "386",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4620,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 4622,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "426",
@@ -1891,8 +1891,8 @@
       "id": "429",
       "regionSite": "4-188",
       "name": "Portals Entertainment Group, Temecula CA, USA",
-      "gamesTotal": 1069,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 1070,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "224",
@@ -1912,8 +1912,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17451,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 17461,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "491",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25361,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 25364,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 123920,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 123934,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "441",
