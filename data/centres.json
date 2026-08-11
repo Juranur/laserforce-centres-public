@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-11T03:01:50.439Z",
+  "lastUpdated": "2026-08-11T08:07:48.637Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 155,
+  "lastCheckedIndex": 85,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 90824,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 90874,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "353",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 8803,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 8817,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "282",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1442,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 1450,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "437",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 61957,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 61981,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "373",
@@ -1499,15 +1499,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34316,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 34339,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47511,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 47533,
+      "lastActivity": "2026-08-11"
     },
     {
       "id": "485",
@@ -1968,7 +1968,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25364,
+      "gamesTotal": 25372,
       "lastActivity": "2026-08-11"
     },
     {
