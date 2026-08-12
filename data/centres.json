@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-11T20:01:38.285Z",
+  "lastUpdated": "2026-08-12T03:19:21.247Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 290,
+  "lastCheckedIndex": 220,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 31925,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 31927,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "25",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1472,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 1493,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "437",
@@ -2115,8 +2115,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50674,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 50731,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "29",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 745,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 756,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "100",
