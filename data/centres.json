@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-12T03:19:21.247Z",
+  "lastUpdated": "2026-08-12T08:31:29.365Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 220,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
@@ -981,8 +981,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42485,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 42534,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "497",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34219,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 34221,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "329",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 93888,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 93967,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42035,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 42132,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "293",
@@ -1667,22 +1667,22 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6121,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 6123,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 19978,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 19998,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14601,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 14603,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "386",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4622,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 4636,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "426",
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10140,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 10147,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "302",
@@ -1870,8 +1870,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 513,
-      "lastActivity": "2026-07-26"
+      "gamesTotal": 514,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "399",
@@ -1919,8 +1919,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 253,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 255,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "265",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39232,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 39257,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "58",
@@ -1968,15 +1968,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25528,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 25548,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124134,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 124167,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "441",
@@ -2213,8 +2213,8 @@
       "id": "40",
       "regionSite": "1-46",
       "name": "The Big Banana, Coffs Harbour, NSW, AU",
-      "gamesTotal": 5364,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 5366,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "406",
@@ -2381,7 +2381,7 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 756,
+      "gamesTotal": 761,
       "lastActivity": "2026-08-12"
     },
     {
