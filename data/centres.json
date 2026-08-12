@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-12T14:15:28.496Z",
+  "lastUpdated": "2026-08-12T20:00:24.032Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 76,
+  "lastCheckedIndex": 7,
   "centres": [
     {
       "id": "159",
@@ -589,8 +589,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8551,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 8554,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "309",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 35996,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 36002,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "96",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9859,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 9936,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "404",
@@ -757,8 +757,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 649,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 656,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "421",
@@ -1023,7 +1023,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34221,
+      "gamesTotal": 34222,
       "lastActivity": "2026-08-12"
     },
     {
@@ -1184,7 +1184,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34389,
+      "gamesTotal": 34393,
       "lastActivity": "2026-08-12"
     },
     {
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6464,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 6465,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "308",
@@ -1408,8 +1408,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38005,
-      "lastActivity": "2026-07-28"
+      "gamesTotal": 38006,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "243",
@@ -1513,8 +1513,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 172,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 175,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "398",
@@ -1681,7 +1681,7 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14603,
+      "gamesTotal": 14613,
       "lastActivity": "2026-08-12"
     },
     {
@@ -1695,7 +1695,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4651,
+      "gamesTotal": 4654,
       "lastActivity": "2026-08-12"
     },
     {
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7962,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 7970,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "166",
@@ -1870,7 +1870,7 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 514,
+      "gamesTotal": 517,
       "lastActivity": "2026-08-12"
     },
     {
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124167,
+      "gamesTotal": 124193,
       "lastActivity": "2026-08-12"
     },
     {
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 198,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 200,
+      "lastActivity": "2026-08-12"
     },
     {
       "id": "419",
