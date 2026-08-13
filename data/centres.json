@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-13T03:21:20.030Z",
+  "lastUpdated": "2026-08-13T08:33:45.471Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 283,
+  "lastCheckedIndex": 211,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16388,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 16402,
+      "lastActivity": "2026-08-13"
     },
     {
       "id": "392",
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 91437,
+      "gamesTotal": 91463,
       "lastActivity": "2026-08-13"
     },
     {
@@ -421,7 +421,7 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9069,
+      "gamesTotal": 9093,
       "lastActivity": "2026-08-13"
     },
     {
@@ -463,7 +463,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 45832,
+      "gamesTotal": 45847,
       "lastActivity": "2026-08-13"
     },
     {
@@ -799,7 +799,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69506,
+      "gamesTotal": 69593,
       "lastActivity": "2026-08-13"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58520,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 58524,
+      "lastActivity": "2026-08-13"
     },
     {
       "id": "134",
@@ -1415,8 +1415,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 83453,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 83512,
+      "lastActivity": "2026-08-13"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4600,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 4605,
+      "lastActivity": "2026-08-13"
     },
     {
       "id": "212",
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 200,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 201,
+      "lastActivity": "2026-08-13"
     },
     {
       "id": "419",
