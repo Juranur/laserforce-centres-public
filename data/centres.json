@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-14T03:19:44.475Z",
+  "lastUpdated": "2026-08-14T08:32:04.808Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 5,
+  "lastCheckedIndex": 280,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 92015,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 92154,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 55879,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 55881,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "254",
@@ -421,8 +421,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9194,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 9205,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "282",
@@ -491,8 +491,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26277,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 26281,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "234",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94047,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 94062,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "98",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42235,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 42256,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "293",
@@ -1667,14 +1667,14 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6301,
+      "gamesTotal": 6343,
       "lastActivity": "2026-08-14"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20221,
+      "gamesTotal": 20226,
       "lastActivity": "2026-08-14"
     },
     {
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4668,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 4680,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "426",
@@ -1968,7 +1968,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25643,
+      "gamesTotal": 25654,
       "lastActivity": "2026-08-14"
     },
     {
