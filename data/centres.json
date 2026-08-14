@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-14T08:32:04.808Z",
+  "lastUpdated": "2026-08-14T14:10:28.016Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 280,
+  "lastCheckedIndex": 211,
   "centres": [
     {
       "id": "159",
@@ -400,8 +400,8 @@
       "id": "487",
       "regionSite": "44-1",
       "name": "Dock Fun & Event Center, Vlissingen, Netherlands",
-      "gamesTotal": 39,
-      "lastActivity": "2026-08-08"
+      "gamesTotal": 40,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "276",
@@ -771,8 +771,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2024,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 2028,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "468",
@@ -974,8 +974,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 386,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 387,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "56",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34222,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 34224,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "329",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6465,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 6467,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "308",
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124292,
+      "gamesTotal": 124341,
       "lastActivity": "2026-08-14"
     },
     {
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 761,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 768,
+      "lastActivity": "2026-08-14"
     },
     {
       "id": "100",
@@ -2402,7 +2402,7 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 939,
+      "gamesTotal": 941,
       "lastActivity": "2026-08-14"
     },
     {
