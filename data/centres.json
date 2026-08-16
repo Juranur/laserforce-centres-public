@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-16T02:36:14.638Z",
+  "lastUpdated": "2026-08-16T07:40:42.259Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 137,
+  "lastCheckedIndex": 65,
   "centres": [
     {
       "id": "159",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6687,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 6761,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "308",
@@ -1338,8 +1338,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 900,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 946,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "380",
@@ -1373,8 +1373,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3179,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 3181,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "455",
@@ -1387,8 +1387,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20018,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 20022,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "219",
@@ -1450,8 +1450,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47314,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 47319,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "448",
@@ -1534,8 +1534,8 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60533,
-      "lastActivity": "2026-07-24"
+      "gamesTotal": 60535,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "97",
@@ -1576,7 +1576,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94065,
+      "gamesTotal": 94091,
       "lastActivity": "2026-08-16"
     },
     {
@@ -1947,7 +1947,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39332,
+      "gamesTotal": 39368,
       "lastActivity": "2026-08-16"
     },
     {
@@ -2073,7 +2073,7 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 656,
+      "gamesTotal": 664,
       "lastActivity": "2026-08-16"
     },
     {
@@ -2402,8 +2402,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 941,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 949,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "24",
