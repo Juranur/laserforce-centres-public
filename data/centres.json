@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-15T19:28:45.509Z",
+  "lastUpdated": "2026-08-16T02:36:14.638Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 206,
+  "lastCheckedIndex": 137,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 92852,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 92908,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "353",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 20,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 28,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "142",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56016,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 56068,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "254",
@@ -1471,8 +1471,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8631,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 8643,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "330",
@@ -1506,15 +1506,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47543,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 47554,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 189,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 197,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "398",
@@ -1548,8 +1548,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31570,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 31580,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "194",
@@ -1576,8 +1576,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94062,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 94065,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "98",
@@ -1674,15 +1674,15 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20242,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 20244,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14695,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 14696,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "386",
@@ -1737,8 +1737,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8964,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 8965,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "255",
@@ -1821,8 +1821,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26329,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 26335,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "306",
@@ -1849,8 +1849,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 7996,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 8001,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "166",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39330,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 39332,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "58",
@@ -2073,8 +2073,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 655,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 656,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "195",
@@ -2199,8 +2199,8 @@
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15006,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 15010,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "374",
@@ -2234,15 +2234,15 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1739,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 1745,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84551,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 84554,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "413",
@@ -2283,8 +2283,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 201,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 202,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "419",
