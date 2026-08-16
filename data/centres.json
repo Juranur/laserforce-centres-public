@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-16T07:40:42.259Z",
+  "lastUpdated": "2026-08-16T13:42:23.975Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 65,
+  "lastCheckedIndex": 340,
   "centres": [
     {
       "id": "159",
@@ -582,8 +582,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 52,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 62,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "348",
@@ -645,8 +645,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9936,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 9940,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "404",
@@ -701,8 +701,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2868,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 2882,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "116",
@@ -736,8 +736,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2850,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 2852,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "46",
@@ -799,8 +799,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69606,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 69612,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "28",
@@ -988,8 +988,8 @@
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 56,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 61,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "278",
@@ -1023,8 +1023,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34302,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 34356,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "329",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89632,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 89754,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "113",
@@ -1191,22 +1191,22 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 711,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 719,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6761,
+      "gamesTotal": 6767,
       "lastActivity": "2026-08-16"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58544,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 58548,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "134",
@@ -1338,7 +1338,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 946,
+      "gamesTotal": 956,
       "lastActivity": "2026-08-16"
     },
     {
@@ -1457,15 +1457,15 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4605,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 4606,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 83776,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 83788,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "436",
@@ -1758,8 +1758,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28216,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 28217,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "99",
@@ -1821,15 +1821,15 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26335,
+      "gamesTotal": 26386,
       "lastActivity": "2026-08-16"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10171,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 10179,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "302",
@@ -1870,8 +1870,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 517,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 519,
+      "lastActivity": "2026-08-16"
     },
     {
       "id": "399",
