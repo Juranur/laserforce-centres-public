@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-17T07:57:51.055Z",
+  "lastUpdated": "2026-08-17T13:46:00.330Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 136,
+  "lastCheckedIndex": 66,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 92908,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 93063,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "353",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 28,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 29,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "142",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56069,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 56090,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "254",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46083,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 46089,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "321",
@@ -1009,8 +1009,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17481,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 17483,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "161",
@@ -1100,8 +1100,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207617,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 207688,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "165",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89777,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 89873,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "113",
@@ -1184,8 +1184,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34396,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 34399,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "478",
@@ -1198,8 +1198,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6771,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 6772,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "308",
@@ -1415,8 +1415,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 83616,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 83618,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "167",
@@ -1471,7 +1471,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8649,
+      "gamesTotal": 8665,
       "lastActivity": "2026-08-17"
     },
     {
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42288,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 42315,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "293",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4737,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 4743,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "426",
@@ -1828,8 +1828,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10180,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 10186,
+      "lastActivity": "2026-08-17"
     },
     {
       "id": "302",
@@ -1975,7 +1975,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124423,
+      "gamesTotal": 124496,
       "lastActivity": "2026-08-17"
     },
     {
