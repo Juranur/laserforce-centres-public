@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-17T19:39:40.685Z",
+  "lastUpdated": "2026-08-18T02:29:15.110Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 341,
+  "lastCheckedIndex": 271,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 93063,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 93092,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "353",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1329,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 1339,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "360",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 29,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 34,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "142",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56090,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 56091,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "254",
@@ -463,8 +463,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46089,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 46120,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "321",
@@ -561,8 +561,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1506,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 1514,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "437",
@@ -610,8 +610,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36075,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 36080,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "96",
@@ -1149,8 +1149,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89873,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 89881,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "113",
@@ -1331,8 +1331,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18012,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 18036,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "493",
@@ -1366,8 +1366,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62037,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 62075,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "373",
@@ -1401,8 +1401,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24761,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 24767,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "143",
@@ -1485,8 +1485,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37894,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 37896,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "296",
@@ -1506,8 +1506,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47626,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 47676,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "485",
@@ -1653,8 +1653,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42315,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 42324,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "293",
@@ -1695,8 +1695,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4743,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 4744,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "426",
