@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-18T13:47:56.730Z",
-  "totalCentres": 347,
-  "centresWithData": 347,
-  "lastCheckedIndex": 129,
+  "lastUpdated": "2026-08-18T19:38:27.458Z",
+  "totalCentres": 348,
+  "centresWithData": 348,
+  "lastCheckedIndex": 59,
   "centres": [
     {
       "id": "159",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4026,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 4028,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "184",
@@ -169,7 +169,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 93338,
+      "gamesTotal": 93394,
       "lastActivity": "2026-08-18"
     },
     {
@@ -409,6 +409,13 @@
       "name": "Drop Zone, Iowa, USA",
       "gamesTotal": 473,
       "lastActivity": "before 2026"
+    },
+    {
+      "id": "503",
+      "regionSite": "4-229",
+      "name": "Empire Adventure Park, Westbury, NY, United States",
+      "gamesTotal": 1,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "342",
@@ -1079,8 +1086,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101606,
-      "lastActivity": "2026-08-11"
+      "gamesTotal": 101678,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "8",
@@ -1142,8 +1149,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4125,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 4127,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "23",
@@ -1198,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6787,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 6789,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "308",
@@ -1324,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3237,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 3238,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "178",
@@ -1359,14 +1366,14 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7963,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 7973,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62075,
+      "gamesTotal": 62087,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1387,14 +1394,14 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20031,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 20043,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61279,
+      "gamesTotal": 61284,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1408,7 +1415,7 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38020,
+      "gamesTotal": 38022,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1422,7 +1429,7 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43449,
+      "gamesTotal": 43450,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1464,8 +1471,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 83915,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 83924,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "436",
@@ -1513,7 +1520,7 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 214,
+      "gamesTotal": 222,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1653,7 +1660,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42354,
+      "gamesTotal": 42361,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1681,7 +1688,7 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14725,
+      "gamesTotal": 14729,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1695,7 +1702,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4747,
+      "gamesTotal": 4750,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1849,7 +1856,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8021,
+      "gamesTotal": 8023,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1947,7 +1954,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39373,
+      "gamesTotal": 39483,
       "lastActivity": "2026-08-18"
     },
     {
@@ -1968,14 +1975,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25806,
+      "gamesTotal": 25881,
       "lastActivity": "2026-08-18"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124566,
+      "gamesTotal": 124639,
       "lastActivity": "2026-08-18"
     },
     {
