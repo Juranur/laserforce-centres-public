@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-18T02:29:15.110Z",
+  "lastUpdated": "2026-08-18T07:44:28.610Z",
   "totalCentres": 347,
   "centresWithData": 347,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 199,
   "centres": [
     {
       "id": "159",
@@ -1394,8 +1394,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61272,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 61279,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "339",
@@ -1947,8 +1947,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39368,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 39373,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "58",
@@ -2381,8 +2381,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 786,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 788,
+      "lastActivity": "2026-08-18"
     },
     {
       "id": "100",
