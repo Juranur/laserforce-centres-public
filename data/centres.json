@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T02:32:04.964Z",
+  "lastUpdated": "2026-08-19T07:44:52.608Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 337,
+  "lastCheckedIndex": 263,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4811,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 4820,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "372",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56091,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 56092,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "254",
@@ -456,7 +456,7 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 568,
+      "gamesTotal": 570,
       "lastActivity": "2026-08-19"
     },
     {
@@ -1520,8 +1520,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 222,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 226,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "398",
@@ -1583,7 +1583,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94142,
+      "gamesTotal": 94172,
       "lastActivity": "2026-08-19"
     },
     {
@@ -1660,8 +1660,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42361,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 42367,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "293",
@@ -2409,8 +2409,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 949,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 951,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "24",
