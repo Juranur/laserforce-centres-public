@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-18T19:38:27.458Z",
+  "lastUpdated": "2026-08-19T02:32:04.964Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 59,
+  "lastCheckedIndex": 337,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 567,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 568,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "312",
@@ -470,8 +470,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46123,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 46167,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "321",
@@ -533,8 +533,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 557,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 573,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "242",
@@ -568,8 +568,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1514,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 1560,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "437",
@@ -596,8 +596,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8558,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 8561,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "309",
@@ -680,8 +680,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7237,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 7239,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "473",
@@ -771,8 +771,8 @@
       "id": "421",
       "regionSite": "21-119",
       "name": "Gate99 Lasertag, Eppelheim, DE",
-      "gamesTotal": 336,
-      "lastActivity": "2026-07-22"
+      "gamesTotal": 341,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "465",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94111,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 94142,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "98",
@@ -1667,8 +1667,8 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4824,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 4826,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "457",
@@ -1975,8 +1975,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25881,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 25926,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "349",
