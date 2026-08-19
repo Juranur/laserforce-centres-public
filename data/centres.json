@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T13:49:26.311Z",
+  "lastUpdated": "2026-08-19T19:34:31.533Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 195,
+  "lastCheckedIndex": 129,
   "centres": [
     {
       "id": "159",
@@ -134,15 +134,15 @@
       "id": "316",
       "regionSite": "4-130",
       "name": "Apex Entertainment, NY, USA",
-      "gamesTotal": 128,
-      "lastActivity": "2026-07-08"
+      "gamesTotal": 129,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4028,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 4039,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "184",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 93394,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 93555,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "353",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56092,
+      "gamesTotal": 56102,
       "lastActivity": "2026-08-19"
     },
     {
@@ -428,8 +428,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9298,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 9299,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "282",
@@ -470,7 +470,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46167,
+      "gamesTotal": 46173,
       "lastActivity": "2026-08-19"
     },
     {
@@ -652,8 +652,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 9947,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 10006,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "404",
@@ -1401,8 +1401,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61284,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 61299,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "339",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 83623,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 83690,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "167",
@@ -1457,22 +1457,22 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47334,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 47349,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4606,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 4626,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 83924,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 83929,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "436",
@@ -1492,8 +1492,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37896,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 37912,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "296",
@@ -1513,14 +1513,14 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47676,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 47679,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 226,
+      "gamesTotal": 232,
       "lastActivity": "2026-08-19"
     },
     {
@@ -1660,7 +1660,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42367,
+      "gamesTotal": 42381,
       "lastActivity": "2026-08-19"
     },
     {
@@ -1688,8 +1688,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14729,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 14736,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "386",
@@ -1702,15 +1702,15 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4750,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 4753,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4082,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 4087,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "434",
@@ -1835,8 +1835,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10186,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 10199,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "302",
@@ -1975,14 +1975,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25991,
+      "gamesTotal": 26029,
       "lastActivity": "2026-08-19"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124754,
+      "gamesTotal": 124787,
       "lastActivity": "2026-08-19"
     },
     {
