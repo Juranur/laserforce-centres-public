@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T07:44:52.608Z",
+  "lastUpdated": "2026-08-19T13:49:26.311Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 263,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -162,7 +162,7 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4820,
+      "gamesTotal": 4826,
       "lastActivity": "2026-08-19"
     },
     {
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36080,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 36081,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "96",
@@ -1170,8 +1170,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3059,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 3060,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "324",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6789,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 6796,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "308",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15178,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 15179,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "230",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39483,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 39556,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "58",
@@ -1975,15 +1975,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 25926,
+      "gamesTotal": 25991,
       "lastActivity": "2026-08-19"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124639,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 124754,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "441",
@@ -2220,8 +2220,8 @@
       "id": "40",
       "regionSite": "1-46",
       "name": "The Big Banana, Coffs Harbour, NSW, AU",
-      "gamesTotal": 5366,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 5369,
+      "lastActivity": "2026-08-19"
     },
     {
       "id": "406",
