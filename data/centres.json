@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-20T07:45:40.055Z",
+  "lastUpdated": "2026-08-20T13:51:30.658Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 345,
+  "lastCheckedIndex": 271,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13170,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 13171,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "340",
@@ -162,15 +162,15 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4826,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 4827,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 93555,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 93595,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "353",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 570,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 575,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "312",
@@ -470,8 +470,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46173,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 46206,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "321",
@@ -1401,8 +1401,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61299,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 61301,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "339",
@@ -1492,8 +1492,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 37912,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 37917,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "296",
@@ -1555,8 +1555,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31620,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 31680,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "194",
@@ -1660,7 +1660,7 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42384,
+      "gamesTotal": 42402,
       "lastActivity": "2026-08-20"
     },
     {
@@ -1688,8 +1688,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14736,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 14739,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "386",
