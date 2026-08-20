@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-20T13:51:30.658Z",
+  "lastUpdated": "2026-08-20T19:39:39.513Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 200,
   "centres": [
     {
       "id": "159",
@@ -162,14 +162,14 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4827,
+      "gamesTotal": 4828,
       "lastActivity": "2026-08-20"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 93595,
+      "gamesTotal": 93743,
       "lastActivity": "2026-08-20"
     },
     {
@@ -533,8 +533,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 573,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 574,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "242",
@@ -617,7 +617,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36084,
+      "gamesTotal": 36085,
       "lastActivity": "2026-08-20"
     },
     {
@@ -778,7 +778,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2083,
+      "gamesTotal": 2135,
       "lastActivity": "2026-08-20"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6796,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 6802,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "308",
@@ -1233,8 +1233,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9968,
-      "lastActivity": "2026-08-07"
+      "gamesTotal": 9976,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "12",
@@ -1401,7 +1401,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61301,
+      "gamesTotal": 61308,
       "lastActivity": "2026-08-20"
     },
     {
@@ -1975,15 +1975,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26037,
+      "gamesTotal": 26138,
       "lastActivity": "2026-08-20"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124787,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 124937,
+      "lastActivity": "2026-08-20"
     },
     {
       "id": "441",
