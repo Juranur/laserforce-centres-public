@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-21T02:35:54.394Z",
+  "lastUpdated": "2026-08-21T07:47:51.933Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 130,
+  "lastCheckedIndex": 57,
   "centres": [
     {
       "id": "159",
@@ -1128,8 +1128,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1112,
-      "lastActivity": "2026-08-13"
+      "gamesTotal": 1113,
+      "lastActivity": "2026-08-21"
     },
     {
       "id": "389",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 89975,
-      "lastActivity": "2026-08-20"
+      "gamesTotal": 89994,
+      "lastActivity": "2026-08-21"
     },
     {
       "id": "113",
@@ -1212,8 +1212,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58555,
-      "lastActivity": "2026-08-20"
+      "gamesTotal": 58645,
+      "lastActivity": "2026-08-21"
     },
     {
       "id": "134",
@@ -1982,7 +1982,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 124963,
+      "gamesTotal": 124972,
       "lastActivity": "2026-08-21"
     },
     {
