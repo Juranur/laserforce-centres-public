@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-22T07:40:38.653Z",
+  "lastUpdated": "2026-08-22T13:41:10.359Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 123,
+  "lastCheckedIndex": 51,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4828,
-      "lastActivity": "2026-08-20"
+      "gamesTotal": 4830,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "372",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1339,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 1342,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "360",
@@ -1128,8 +1128,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1121,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 1122,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "389",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 90379,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 90595,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "113",
@@ -1198,22 +1198,22 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 753,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 769,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6831,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 6841,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58647,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 58649,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "134",
@@ -1338,14 +1338,14 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18036,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 18037,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1007,
+      "gamesTotal": 1019,
       "lastActivity": "2026-08-22"
     },
     {
@@ -1401,7 +1401,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61318,
+      "gamesTotal": 61331,
       "lastActivity": "2026-08-22"
     },
     {
@@ -1422,7 +1422,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 83866,
+      "gamesTotal": 83880,
       "lastActivity": "2026-08-22"
     },
     {
@@ -1527,7 +1527,7 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10240,
+      "gamesTotal": 10241,
       "lastActivity": "2026-08-22"
     },
     {
@@ -1681,7 +1681,7 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20246,
+      "gamesTotal": 20247,
       "lastActivity": "2026-08-22"
     },
     {
@@ -1842,8 +1842,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10199,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 10203,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "302",
@@ -1933,8 +1933,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 256,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 257,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "265",
@@ -2129,8 +2129,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50759,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 50771,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "29",
@@ -2416,8 +2416,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 951,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 1022,
+      "lastActivity": "2026-08-22"
     },
     {
       "id": "24",
