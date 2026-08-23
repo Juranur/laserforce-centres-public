@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-23T02:38:43.126Z",
+  "lastUpdated": "2026-08-23T07:42:32.423Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 264,
+  "lastCheckedIndex": 190,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 577,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 585,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "312",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 90697,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 90751,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "113",
@@ -1863,8 +1863,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8023,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 8068,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "166",
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39591,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 39592,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "58",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 125104,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 125214,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "441",
@@ -2129,8 +2129,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50771,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 50837,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "29",
@@ -2206,15 +2206,15 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3833,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 3835,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15055,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 15096,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "374",
@@ -2255,8 +2255,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84672,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 84701,
+      "lastActivity": "2026-08-23"
     },
     {
       "id": "413",
