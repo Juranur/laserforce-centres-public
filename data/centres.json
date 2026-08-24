@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-24T02:36:47.512Z",
+  "lastUpdated": "2026-08-24T08:01:23.719Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 318,
+  "lastCheckedIndex": 248,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16421,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 16445,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "392",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4077,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 4083,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "184",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1342,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 1350,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "360",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 38,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 39,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "142",
@@ -1030,8 +1030,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34634,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 34648,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "329",
@@ -1450,8 +1450,8 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12546,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 12548,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "246",
@@ -1681,8 +1681,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20247,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 20253,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "385",
@@ -2395,8 +2395,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 794,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 797,
+      "lastActivity": "2026-08-24"
     },
     {
       "id": "100",
