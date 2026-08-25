@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-25T07:49:24.506Z",
+  "lastUpdated": "2026-08-25T13:49:59.471Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 302,
+  "lastCheckedIndex": 228,
   "centres": [
     {
       "id": "159",
@@ -589,8 +589,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 84,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 85,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "348",
@@ -1086,8 +1086,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101681,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 101769,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "8",
@@ -1170,7 +1170,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3062,
+      "gamesTotal": 3064,
       "lastActivity": "2026-08-25"
     },
     {
@@ -1373,7 +1373,7 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62183,
+      "gamesTotal": 62187,
       "lastActivity": "2026-08-25"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20132,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 20135,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "219",
@@ -1583,7 +1583,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94415,
+      "gamesTotal": 94509,
       "lastActivity": "2026-08-25"
     },
     {
@@ -2206,8 +2206,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3847,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 3848,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "111",
