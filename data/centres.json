@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-24T19:40:51.765Z",
+  "lastUpdated": "2026-08-25T02:31:32.486Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 101,
+  "lastCheckedIndex": 27,
   "centres": [
     {
       "id": "159",
@@ -1058,8 +1058,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31159,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 31162,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "189",
@@ -1170,8 +1170,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3061,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 3062,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "324",
@@ -1198,22 +1198,22 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 801,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 803,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6848,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 6987,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58731,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 58748,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "134",
@@ -1338,8 +1338,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18069,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 18072,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "493",
@@ -1373,8 +1373,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62143,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 62183,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "373",
@@ -1506,8 +1506,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34357,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 34394,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "164",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94345,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 94415,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "98",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 125469,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 125481,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "441",
