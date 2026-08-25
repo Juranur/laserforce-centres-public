@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-25T02:31:32.486Z",
+  "lastUpdated": "2026-08-25T07:49:24.506Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 27,
+  "lastCheckedIndex": 302,
   "centres": [
     {
       "id": "159",
@@ -358,8 +358,8 @@
       "id": "396",
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
-      "gamesTotal": 523,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 524,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "500",
@@ -470,8 +470,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46394,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 46397,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "321",
@@ -1513,8 +1513,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47770,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 47846,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "485",
@@ -1660,8 +1660,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42442,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 42444,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "293",
@@ -1681,8 +1681,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20289,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 20293,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "385",
@@ -1982,14 +1982,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26410,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 26412,
+      "lastActivity": "2026-08-25"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 125481,
+      "gamesTotal": 125494,
       "lastActivity": "2026-08-25"
     },
     {
