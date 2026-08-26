@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-26T02:35:59.766Z",
+  "lastUpdated": "2026-08-26T07:49:43.468Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 79,
+  "lastCheckedIndex": 7,
   "centres": [
     {
       "id": "159",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36152,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 36158,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "96",
@@ -1583,7 +1583,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94546,
+      "gamesTotal": 94628,
       "lastActivity": "2026-08-26"
     },
     {
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39670,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 39685,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "58",
@@ -2227,8 +2227,8 @@
       "id": "40",
       "regionSite": "1-46",
       "name": "The Big Banana, Coffs Harbour, NSW, AU",
-      "gamesTotal": 5369,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 5371,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "406",
@@ -2395,8 +2395,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 797,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 800,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "100",
