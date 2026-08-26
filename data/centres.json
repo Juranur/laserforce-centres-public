@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-25T19:38:26.673Z",
+  "lastUpdated": "2026-08-26T02:35:59.766Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 152,
+  "lastCheckedIndex": 79,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32072,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 32178,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "25",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1047,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 1048,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "380",
@@ -1373,8 +1373,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62187,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 62191,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "373",
@@ -1394,8 +1394,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20135,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 20140,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "219",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47306,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 47314,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "448",
@@ -1555,8 +1555,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31697,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 31704,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "194",
@@ -1569,8 +1569,8 @@
       "id": "137",
       "regionSite": "24-1",
       "name": "Lolli Park, Pasching AUT",
-      "gamesTotal": 4277,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 4279,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "173",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94509,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 94546,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "98",
@@ -1982,15 +1982,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26513,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 26541,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 125627,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 125648,
+      "lastActivity": "2026-08-26"
     },
     {
       "id": "441",
