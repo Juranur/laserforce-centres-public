@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-27T09:39:38.711Z",
+  "lastUpdated": "2026-08-27T22:59:30.783Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 139,
+  "lastCheckedIndex": 67,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32178,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 32286,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "25",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94151,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 94170,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "353",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 585,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 586,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "312",
@@ -470,7 +470,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46505,
+      "gamesTotal": 46553,
       "lastActivity": "2026-08-27"
     },
     {
@@ -1114,8 +1114,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25617,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 25629,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "148",
@@ -1170,8 +1170,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3064,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 3111,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "324",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 6987,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 6988,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "308",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3308,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 3318,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "178",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1063,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 1072,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "380",
@@ -1394,15 +1394,15 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20142,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 20152,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61444,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 61491,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "339",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 83950,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 83973,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47322,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 47331,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "448",
@@ -1492,8 +1492,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38025,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 38030,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "296",
@@ -1513,8 +1513,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47846,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 47860,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "485",
@@ -1667,21 +1667,21 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4826,
-      "lastActivity": "2026-08-19"
+      "gamesTotal": 4827,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6519,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 6523,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20401,
+      "gamesTotal": 20421,
       "lastActivity": "2026-08-27"
     },
     {
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8086,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 8098,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "166",
@@ -1877,8 +1877,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 523,
-      "lastActivity": "2026-08-22"
+      "gamesTotal": 526,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "399",
@@ -1975,14 +1975,14 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26592,
+      "gamesTotal": 26610,
       "lastActivity": "2026-08-27"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 125783,
+      "gamesTotal": 125909,
       "lastActivity": "2026-08-27"
     },
     {
@@ -2388,8 +2388,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 800,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 805,
+      "lastActivity": "2026-08-27"
     },
     {
       "id": "100",
