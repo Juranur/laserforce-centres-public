@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-29T17:26:02.651Z",
+  "lastUpdated": "2026-08-29T21:39:24.454Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 126,
+  "lastCheckedIndex": 53,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16457,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 16459,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "392",
@@ -211,8 +211,8 @@
       "id": "262",
       "regionSite": "21-67",
       "name": "BBE Event GmbH, Leipzig, DE",
-      "gamesTotal": 1383,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 1385,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "482",
@@ -897,8 +897,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13389,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 13392,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "368",
@@ -932,8 +932,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30691,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 30693,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "154",
@@ -946,15 +946,15 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1756,
+      "gamesTotal": 1757,
       "lastActivity": "2026-08-29"
     },
     {
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43330,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 43400,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "160",
@@ -981,8 +981,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 403,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 407,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "56",
@@ -1002,8 +1002,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4404,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 4410,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "133",
@@ -1016,8 +1016,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17483,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 17487,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "161",
@@ -1030,15 +1030,15 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34753,
+      "gamesTotal": 34757,
       "lastActivity": "2026-08-29"
     },
     {
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9433,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 9449,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "188",
@@ -1058,8 +1058,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31162,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 31169,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "189",
@@ -1072,8 +1072,8 @@
       "id": "438",
       "regionSite": "24-6",
       "name": "Laserdance #1, Vienna, Austria",
-      "gamesTotal": 31,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 32,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "439",
@@ -1114,8 +1114,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25629,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 25632,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "148",
@@ -1128,8 +1128,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1126,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 1183,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "389",
@@ -1149,15 +1149,15 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4127,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 4133,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91032,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 91041,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "113",
@@ -1205,15 +1205,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7043,
+      "gamesTotal": 7050,
       "lastActivity": "2026-08-29"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58763,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 58772,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "134",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15208,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 15214,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "230",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3318,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 3323,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "178",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1088,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 1096,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "380",
@@ -1394,14 +1394,14 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20162,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 20168,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61510,
+      "gamesTotal": 61534,
       "lastActivity": "2026-08-29"
     },
     {
@@ -1457,21 +1457,21 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47364,
+      "gamesTotal": 47377,
       "lastActivity": "2026-08-29"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4637,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 4649,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84296,
+      "gamesTotal": 84301,
       "lastActivity": "2026-08-29"
     },
     {
@@ -1555,8 +1555,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31748,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 31757,
+      "lastActivity": "2026-08-29"
     },
     {
       "id": "194",
