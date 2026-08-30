@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-29T21:39:24.454Z",
+  "lastUpdated": "2026-08-30T05:50:52.978Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 53,
+  "lastCheckedIndex": 326,
   "centres": [
     {
       "id": "159",
@@ -428,8 +428,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9338,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 9486,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "282",
@@ -498,8 +498,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26330,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 26333,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "234",
@@ -596,8 +596,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8578,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 8579,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "309",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36183,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 36186,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "96",
@@ -708,8 +708,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2885,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 2908,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "116",
@@ -946,8 +946,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1757,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 1758,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "128",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3323,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 3326,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "178",
@@ -1401,8 +1401,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61534,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 61543,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "339",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47377,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 47382,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "448",
@@ -1520,8 +1520,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 256,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 258,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "398",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94797,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 94817,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "98",
@@ -1646,8 +1646,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1224,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 1229,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "9",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39699,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 39722,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "58",
@@ -2080,8 +2080,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 664,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 681,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "195",
@@ -2241,8 +2241,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1746,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 1751,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "74",
