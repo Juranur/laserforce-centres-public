@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-30T12:34:01.742Z",
+  "lastUpdated": "2026-08-30T17:20:58.582Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 254,
+  "lastCheckedIndex": 183,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16459,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 16472,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "392",
@@ -617,7 +617,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36186,
+      "gamesTotal": 36188,
       "lastActivity": "2026-08-30"
     },
     {
@@ -953,8 +953,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43400,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 43404,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "160",
@@ -981,8 +981,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 407,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 410,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "56",
@@ -1030,15 +1030,15 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34774,
+      "gamesTotal": 34787,
       "lastActivity": "2026-08-30"
     },
     {
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9449,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 9457,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "188",
@@ -1156,7 +1156,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91042,
+      "gamesTotal": 91043,
       "lastActivity": "2026-08-30"
     },
     {
@@ -1198,22 +1198,22 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 807,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 808,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7050,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 7061,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58772,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 58782,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "134",
@@ -1233,8 +1233,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9991,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 9993,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "12",
@@ -1828,8 +1828,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26777,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 26936,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "306",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8140,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 8156,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "166",
@@ -1919,8 +1919,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17540,
-      "lastActivity": "2026-08-17"
+      "gamesTotal": 17569,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "491",
@@ -1954,7 +1954,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39722,
+      "gamesTotal": 39724,
       "lastActivity": "2026-08-30"
     },
     {
@@ -2094,8 +2094,8 @@
       "id": "432",
       "regionSite": "21-122",
       "name": "Space Magic, Aurich, DE",
-      "gamesTotal": 37,
-      "lastActivity": "2026-08-10"
+      "gamesTotal": 39,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "365",
@@ -2185,8 +2185,8 @@
       "id": "30",
       "regionSite": "1-33",
       "name": "Strike Bowling Melbourne Central, VIC, Australia",
-      "gamesTotal": 4093,
-      "lastActivity": "before 2026"
+      "gamesTotal": 4095,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "371",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3943,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 3948,
+      "lastActivity": "2026-08-30"
     },
     {
       "id": "111",
