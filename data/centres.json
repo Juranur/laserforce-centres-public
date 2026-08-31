@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-31T05:58:15.218Z",
+  "lastUpdated": "2026-08-31T14:13:42.079Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 41,
+  "lastCheckedIndex": 321,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 589,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 591,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "312",
@@ -470,8 +470,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46725,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 46768,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "321",
@@ -498,8 +498,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26333,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 26342,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "234",
@@ -806,8 +806,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69803,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 69804,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "28",
@@ -1107,8 +1107,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207768,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 207837,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "165",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91043,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 91152,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "113",
@@ -1380,8 +1380,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3193,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 3196,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "455",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84129,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 84133,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "167",
@@ -1492,8 +1492,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38227,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 38230,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "296",
@@ -1506,8 +1506,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34410,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 34414,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "164",
@@ -1527,8 +1527,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10282,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 10290,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "43",
@@ -1674,8 +1674,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6530,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 6536,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "381",
@@ -1702,8 +1702,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4872,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 4873,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "426",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3948,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 3959,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "111",
