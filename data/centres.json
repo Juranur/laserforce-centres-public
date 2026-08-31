@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-31T14:13:42.079Z",
+  "lastUpdated": "2026-08-31T23:33:52.896Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 321,
+  "lastCheckedIndex": 249,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32287,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 32345,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "25",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1354,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 1355,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "360",
@@ -470,7 +470,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46768,
+      "gamesTotal": 46798,
       "lastActivity": "2026-08-31"
     },
     {
@@ -596,8 +596,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8600,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 8612,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "309",
@@ -1058,7 +1058,7 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31172,
+      "gamesTotal": 31173,
       "lastActivity": "2026-08-31"
     },
     {
@@ -1226,15 +1226,15 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11898,
+      "gamesTotal": 11906,
       "lastActivity": "2026-08-31"
     },
     {
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 9993,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 10005,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "12",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15214,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 15215,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "230",
@@ -1373,8 +1373,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62199,
-      "lastActivity": "2026-08-26"
+      "gamesTotal": 62310,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "373",
@@ -1401,8 +1401,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61614,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 61616,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "339",
@@ -1478,8 +1478,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8766,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 8771,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "330",
@@ -1520,8 +1520,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 258,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 260,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "398",
@@ -1646,8 +1646,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1229,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 1248,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "9",
@@ -1660,8 +1660,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42522,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 42566,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "293",
@@ -1702,7 +1702,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4873,
+      "gamesTotal": 4875,
       "lastActivity": "2026-08-31"
     },
     {
