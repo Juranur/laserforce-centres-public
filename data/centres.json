@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-30T21:44:24.724Z",
+  "lastUpdated": "2026-08-31T05:58:15.218Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 114,
+  "lastCheckedIndex": 41,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16472,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 16478,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "392",
@@ -932,8 +932,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30700,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 30713,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "154",
@@ -953,8 +953,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43404,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 43411,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "160",
@@ -1030,8 +1030,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34787,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 34843,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "329",
@@ -1058,8 +1058,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31169,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 31172,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "189",
@@ -1226,8 +1226,8 @@
       "id": "343",
       "regionSite": "21-102",
       "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
-      "gamesTotal": 11892,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 11898,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "298",
@@ -1548,8 +1548,8 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6742,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 6745,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "174",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94819,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 94824,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "98",
@@ -1919,8 +1919,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17569,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 17661,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "491",
@@ -2227,8 +2227,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1494,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 1496,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "299",
@@ -2290,8 +2290,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 204,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 206,
+      "lastActivity": "2026-08-31"
     },
     {
       "id": "419",
