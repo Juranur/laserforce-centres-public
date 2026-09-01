@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-01T05:34:52.843Z",
+  "lastUpdated": "2026-09-01T12:20:31.318Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 176,
+  "lastCheckedIndex": 103,
   "centres": [
     {
       "id": "159",
@@ -414,8 +414,8 @@
       "id": "503",
       "regionSite": "4-229",
       "name": "Empire Adventure Park, Westbury, NY, United States",
-      "gamesTotal": 1,
-      "lastActivity": "2026-08-18"
+      "gamesTotal": 3,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "342",
@@ -708,8 +708,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2916,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 2922,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "116",
@@ -1331,15 +1331,15 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3336,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 3337,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18072,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 18108,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "493",
@@ -1380,8 +1380,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3196,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 3197,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "455",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84133,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 84148,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "167",
@@ -1492,8 +1492,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38230,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 38237,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "296",
@@ -1506,15 +1506,15 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34414,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 34482,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47867,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 47948,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "485",
@@ -1674,8 +1674,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6536,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 6540,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "381",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8156,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 8162,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "166",
