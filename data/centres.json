@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-01T12:20:31.318Z",
+  "lastUpdated": "2026-09-01T17:17:08.280Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 103,
+  "lastCheckedIndex": 33,
   "centres": [
     {
       "id": "159",
@@ -155,8 +155,8 @@
       "id": "367",
       "regionSite": "1-85",
       "name": "Archie Brothers Docklands, VIC, Australia",
-      "gamesTotal": 321,
-      "lastActivity": "2026-08-15"
+      "gamesTotal": 322,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "238",
@@ -764,8 +764,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 673,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 674,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "421",
@@ -1086,8 +1086,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101769,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 101862,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "8",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15215,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 15216,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "230",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1101,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 1103,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "380",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47402,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 47403,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "448",
@@ -1471,8 +1471,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84323,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 84328,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "436",
@@ -1492,7 +1492,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38237,
+      "gamesTotal": 38256,
       "lastActivity": "2026-09-01"
     },
     {
@@ -1513,7 +1513,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47948,
+      "gamesTotal": 47949,
       "lastActivity": "2026-09-01"
     },
     {
@@ -1954,7 +1954,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39726,
+      "gamesTotal": 39761,
       "lastActivity": "2026-09-01"
     },
     {
@@ -2122,8 +2122,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50837,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 50878,
+      "lastActivity": "2026-09-01"
     },
     {
       "id": "29",
