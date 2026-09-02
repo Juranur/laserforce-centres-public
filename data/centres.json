@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-02T04:55:55.813Z",
+  "lastUpdated": "2026-09-02T11:54:07.922Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 241,
+  "lastCheckedIndex": 172,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1843,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 1844,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "269",
@@ -988,8 +988,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42534,
-      "lastActivity": "2026-08-12"
+      "gamesTotal": 42568,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "497",
@@ -1030,8 +1030,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34843,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 34845,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "329",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91152,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 91174,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "113",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7061,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 7117,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "308",
@@ -1751,8 +1751,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8965,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 8967,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "408",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39761,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 39819,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "58",
