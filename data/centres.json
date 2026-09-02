@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-02T11:54:07.922Z",
+  "lastUpdated": "2026-09-02T17:14:48.822Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 172,
+  "lastCheckedIndex": 110,
   "centres": [
     {
       "id": "159",
@@ -22,7 +22,7 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1844,
+      "gamesTotal": 1853,
       "lastActivity": "2026-09-02"
     },
     {
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13181,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 13231,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "340",
@@ -652,8 +652,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10019,
-      "lastActivity": "2026-08-20"
+      "gamesTotal": 10045,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "404",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1103,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 1104,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "380",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84148,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 84153,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47403,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 47419,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "448",
@@ -1471,15 +1471,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84328,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 84339,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8771,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 8776,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "330",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94824,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 94872,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "98",
@@ -1646,8 +1646,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1248,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 1291,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "9",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8165,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 8188,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "166",
@@ -2409,8 +2409,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1027,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 1031,
+      "lastActivity": "2026-09-02"
     },
     {
       "id": "24",
