@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T17:06:07.289Z",
+  "lastUpdated": "2026-09-03T21:43:21.607Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 169,
+  "lastCheckedIndex": 104,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32346,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 32514,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "25",
@@ -29,7 +29,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16497,
+      "gamesTotal": 16501,
       "lastActivity": "2026-09-03"
     },
     {
@@ -1212,8 +1212,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58782,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 58790,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "134",
@@ -1366,8 +1366,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7990,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 7994,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "279",
@@ -1457,7 +1457,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47432,
+      "gamesTotal": 47442,
       "lastActivity": "2026-09-03"
     },
     {
@@ -1478,8 +1478,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8780,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 8786,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "330",
@@ -1765,8 +1765,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28411,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 28489,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "99",
@@ -2227,8 +2227,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1496,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 1498,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "299",
