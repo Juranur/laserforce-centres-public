@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-03T04:54:06.649Z",
+  "lastUpdated": "2026-09-03T11:51:12.395Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 312,
+  "lastCheckedIndex": 239,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16478,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 16497,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "392",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13231,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 13297,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "340",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4836,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 4838,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "372",
@@ -1457,7 +1457,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47429,
+      "gamesTotal": 47432,
       "lastActivity": "2026-09-03"
     },
     {
