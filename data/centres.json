@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-02T21:44:54.079Z",
+  "lastUpdated": "2026-09-03T04:54:06.649Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 37,
+  "lastCheckedIndex": 312,
   "centres": [
     {
       "id": "159",
@@ -309,8 +309,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2742,
-      "lastActivity": "2026-08-04"
+      "gamesTotal": 2744,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "81",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56389,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 56433,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "254",
@@ -358,8 +358,8 @@
       "id": "396",
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
-      "gamesTotal": 524,
-      "lastActivity": "2026-08-25"
+      "gamesTotal": 528,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "500",
@@ -652,8 +652,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10045,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 10060,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "404",
@@ -785,8 +785,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1041,
-      "lastActivity": "2026-08-05"
+      "gamesTotal": 1102,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "206",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47419,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 47429,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "448",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94872,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 94965,
+      "lastActivity": "2026-09-03"
     },
     {
       "id": "98",
