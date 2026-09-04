@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-04T11:53:21.970Z",
+  "lastUpdated": "2026-09-04T17:00:34.215Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 306,
+  "lastCheckedIndex": 233,
   "centres": [
     {
       "id": "159",
@@ -953,8 +953,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43411,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 43414,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "160",
@@ -1030,8 +1030,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34845,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 34852,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "329",
@@ -1205,15 +1205,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7252,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 7254,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58790,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 58793,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "134",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1104,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 1107,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "380",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84205,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 84237,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47442,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 47445,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "448",
@@ -1471,15 +1471,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84348,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 84373,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8786,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 8810,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "330",
@@ -1513,15 +1513,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47949,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 47951,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 260,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 262,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "398",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3959,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 3967,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "111",
@@ -2409,8 +2409,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1031,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 1067,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "24",
