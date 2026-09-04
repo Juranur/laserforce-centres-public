@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-03T21:43:21.607Z",
+  "lastUpdated": "2026-09-04T04:58:14.959Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 104,
+  "lastCheckedIndex": 31,
   "centres": [
     {
       "id": "159",
@@ -183,8 +183,8 @@
       "id": "187",
       "regionSite": "21-38",
       "name": "Baltic Adventures, Greifswald, DE",
-      "gamesTotal": 945,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 949,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "289",
@@ -778,8 +778,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2197,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 2201,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "468",
@@ -932,8 +932,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30716,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 30717,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "154",
@@ -1114,8 +1114,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25632,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 25647,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "148",
@@ -1128,8 +1128,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1183,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 1187,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "389",
@@ -1170,8 +1170,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3128,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 3206,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "324",
@@ -1926,8 +1926,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 258,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 259,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "265",
@@ -2388,8 +2388,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 805,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 807,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "100",
