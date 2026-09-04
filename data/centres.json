@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-04T17:00:34.215Z",
+  "lastUpdated": "2026-09-04T21:29:54.590Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 233,
+  "lastCheckedIndex": 160,
   "centres": [
     {
       "id": "159",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36281,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 36284,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "96",
@@ -785,8 +785,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1102,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 1103,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "206",
@@ -1030,7 +1030,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34852,
+      "gamesTotal": 34996,
       "lastActivity": "2026-09-04"
     },
     {
@@ -1674,8 +1674,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6540,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 6542,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "381",
@@ -1828,8 +1828,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26937,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 26940,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "306",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39833,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 39834,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "58",
@@ -2122,8 +2122,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 50878,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 51067,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "29",
