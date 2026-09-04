@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-04T04:58:14.959Z",
+  "lastUpdated": "2026-09-04T11:53:21.970Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 31,
+  "lastCheckedIndex": 306,
   "centres": [
     {
       "id": "159",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 591,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 594,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "312",
@@ -589,8 +589,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 90,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 92,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "348",
@@ -603,15 +603,15 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2628,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 2634,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 182,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 185,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "192",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3337,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 3338,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "178",
@@ -1975,15 +1975,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26801,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 26865,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126215,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 126225,
+      "lastActivity": "2026-09-04"
     },
     {
       "id": "441",
