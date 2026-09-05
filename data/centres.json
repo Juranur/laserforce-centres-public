@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-05T15:48:49.330Z",
+  "lastUpdated": "2026-09-05T21:02:37.849Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 290,
+  "lastCheckedIndex": 220,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32517,
+      "gamesTotal": 32518,
       "lastActivity": "2026-09-05"
     },
     {
@@ -57,8 +57,8 @@
       "id": "355",
       "regionSite": "21-110",
       "name": "Adventure World, Oberhausen, DE",
-      "gamesTotal": 3978,
-      "lastActivity": "2026-08-21"
+      "gamesTotal": 4013,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "502",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4839,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 4841,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "372",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56436,
+      "gamesTotal": 56439,
       "lastActivity": "2026-09-05"
     },
     {
@@ -470,7 +470,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46948,
+      "gamesTotal": 46972,
       "lastActivity": "2026-09-05"
     },
     {
@@ -589,7 +589,7 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 101,
+      "gamesTotal": 111,
       "lastActivity": "2026-09-05"
     },
     {
@@ -617,7 +617,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36286,
+      "gamesTotal": 36288,
       "lastActivity": "2026-09-05"
     },
     {
@@ -743,8 +743,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2853,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 2855,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "46",
@@ -932,7 +932,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30721,
+      "gamesTotal": 30722,
       "lastActivity": "2026-09-05"
     },
     {
@@ -967,7 +967,7 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6729,
+      "gamesTotal": 6737,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1002,8 +1002,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4410,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 4415,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "133",
@@ -1016,7 +1016,7 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17494,
+      "gamesTotal": 17495,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1198,21 +1198,21 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 808,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 810,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7267,
+      "gamesTotal": 7275,
       "lastActivity": "2026-09-05"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58794,
+      "gamesTotal": 58796,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1107,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 1146,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "380",
@@ -1422,15 +1422,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84368,
+      "gamesTotal": 84381,
       "lastActivity": "2026-09-05"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43588,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 43638,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "168",
@@ -1457,7 +1457,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47494,
+      "gamesTotal": 47504,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1471,7 +1471,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84381,
+      "gamesTotal": 84388,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1492,7 +1492,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38286,
+      "gamesTotal": 38287,
       "lastActivity": "2026-09-05"
     },
     {
@@ -2059,8 +2059,8 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3383,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 3384,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "7",
@@ -2199,15 +2199,15 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4058,
+      "gamesTotal": 4081,
       "lastActivity": "2026-09-05"
     },
     {
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15096,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 15165,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "374",
@@ -2227,8 +2227,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1498,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 1502,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "299",
@@ -2290,8 +2290,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 206,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 208,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "419",
@@ -2388,8 +2388,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 807,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 808,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "100",
