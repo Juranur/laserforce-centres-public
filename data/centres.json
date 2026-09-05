@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-05T04:53:45.850Z",
+  "lastUpdated": "2026-09-05T11:15:12.717Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 88,
+  "lastCheckedIndex": 15,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32516,
+      "gamesTotal": 32517,
       "lastActivity": "2026-09-05"
     },
     {
@@ -778,15 +778,15 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2201,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 2203,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1103,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 1105,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "206",
@@ -932,8 +932,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30717,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 30721,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "154",
@@ -967,8 +967,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6722,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 6729,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "218",
@@ -1016,8 +1016,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17491,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 17494,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "161",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7254,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 7257,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "308",
@@ -1485,14 +1485,14 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 18967,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 18973,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38258,
+      "gamesTotal": 38267,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1583,7 +1583,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 94991,
+      "gamesTotal": 95005,
       "lastActivity": "2026-09-05"
     },
     {
@@ -1835,8 +1835,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10217,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 10222,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "302",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8190,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 8208,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "166",
@@ -2199,7 +2199,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 3994,
+      "gamesTotal": 4058,
       "lastActivity": "2026-09-05"
     },
     {
@@ -2248,7 +2248,7 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84718,
+      "gamesTotal": 84725,
       "lastActivity": "2026-09-05"
     },
     {
@@ -2409,8 +2409,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1067,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 1071,
+      "lastActivity": "2026-09-05"
     },
     {
       "id": "24",
