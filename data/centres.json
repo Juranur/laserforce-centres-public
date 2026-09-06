@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-06T11:33:31.843Z",
+  "lastUpdated": "2026-09-06T16:10:18.553Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 79,
+  "lastCheckedIndex": 11,
   "centres": [
     {
       "id": "159",
@@ -22,8 +22,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1853,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 1861,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "269",
@@ -589,15 +589,15 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 111,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 114,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8633,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 8642,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "309",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36288,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 36293,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "96",
@@ -764,8 +764,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 675,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 685,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "421",
@@ -778,8 +778,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2207,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 2209,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "468",
@@ -792,8 +792,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5066,
-      "lastActivity": "2026-08-03"
+      "gamesTotal": 5069,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "323",
@@ -806,7 +806,7 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69809,
+      "gamesTotal": 69816,
       "lastActivity": "2026-09-06"
     },
     {
@@ -932,7 +932,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30723,
+      "gamesTotal": 30726,
       "lastActivity": "2026-09-06"
     },
     {
@@ -967,8 +967,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6737,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 6740,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "218",
@@ -1030,7 +1030,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35000,
+      "gamesTotal": 35071,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7275,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 7281,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "308",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1146,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 1150,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "380",
@@ -1394,8 +1394,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20174,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 20183,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "219",
@@ -1429,8 +1429,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43638,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 43640,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "168",
@@ -1471,14 +1471,14 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84400,
+      "gamesTotal": 84411,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8825,
+      "gamesTotal": 8828,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1667,14 +1667,14 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4827,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 4829,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6619,
+      "gamesTotal": 6622,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1709,7 +1709,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4112,
+      "gamesTotal": 4115,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1765,7 +1765,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28493,
+      "gamesTotal": 28676,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1856,7 +1856,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8214,
+      "gamesTotal": 8219,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1919,8 +1919,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17661,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 17677,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "491",
