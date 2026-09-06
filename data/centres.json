@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-05T21:02:37.849Z",
+  "lastUpdated": "2026-09-06T05:01:52.267Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 220,
+  "lastCheckedIndex": 146,
   "centres": [
     {
       "id": "159",
@@ -743,8 +743,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2855,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 2857,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "46",
@@ -785,8 +785,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1105,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 1106,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "206",
@@ -806,8 +806,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69804,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 69809,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "28",
@@ -897,8 +897,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13392,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 13412,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "368",
@@ -932,8 +932,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30722,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 30723,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "154",
@@ -946,8 +946,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1759,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 1760,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "128",
@@ -1030,8 +1030,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 34996,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 35000,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "329",
@@ -1555,8 +1555,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31832,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 31857,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "194",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95005,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 95020,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "98",
@@ -1695,22 +1695,22 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3180,
-      "lastActivity": "2026-08-28"
+      "gamesTotal": 3228,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4877,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 4879,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4106,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 4112,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "434",
@@ -1765,8 +1765,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28489,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 28493,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "99",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8208,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 8214,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "166",
@@ -1926,8 +1926,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 259,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 261,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "265",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39834,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 39838,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "58",
@@ -2248,8 +2248,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84725,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 84735,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "413",
