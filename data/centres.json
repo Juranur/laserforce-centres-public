@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-06T16:10:18.553Z",
+  "lastUpdated": "2026-09-06T21:06:55.445Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 11,
+  "lastCheckedIndex": 288,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13297,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 13308,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "340",
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4201,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 4222,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "184",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56442,
+      "gamesTotal": 56502,
       "lastActivity": "2026-09-06"
     },
     {
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 600,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 601,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "312",
@@ -470,7 +470,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 46999,
+      "gamesTotal": 47071,
       "lastActivity": "2026-09-06"
     },
     {
@@ -498,8 +498,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26344,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 26358,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "234",
@@ -589,14 +589,14 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 114,
+      "gamesTotal": 115,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8642,
+      "gamesTotal": 8643,
       "lastActivity": "2026-09-06"
     },
     {
@@ -617,7 +617,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36293,
+      "gamesTotal": 36300,
       "lastActivity": "2026-09-06"
     },
     {
@@ -778,7 +778,7 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2209,
+      "gamesTotal": 2212,
       "lastActivity": "2026-09-06"
     },
     {
@@ -932,7 +932,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30726,
+      "gamesTotal": 30737,
       "lastActivity": "2026-09-06"
     },
     {
@@ -946,7 +946,7 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1760,
+      "gamesTotal": 1762,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1030,7 +1030,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35071,
+      "gamesTotal": 35155,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1149,8 +1149,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4133,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 4134,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "23",
@@ -1191,14 +1191,14 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34667,
+      "gamesTotal": 34704,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 814,
+      "gamesTotal": 953,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1366,8 +1366,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 7997,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 8002,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "279",
@@ -1401,15 +1401,15 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61656,
+      "gamesTotal": 61757,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24822,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 24842,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "143",
@@ -1429,7 +1429,7 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43640,
+      "gamesTotal": 43644,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1443,15 +1443,15 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49192,
+      "gamesTotal": 49203,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12548,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 12568,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "246",
@@ -1471,14 +1471,14 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84411,
+      "gamesTotal": 84419,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8828,
+      "gamesTotal": 8836,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1520,7 +1520,7 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 269,
+      "gamesTotal": 272,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1534,7 +1534,7 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76391,
+      "gamesTotal": 76401,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1555,7 +1555,7 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31857,
+      "gamesTotal": 31873,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1702,7 +1702,7 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4881,
+      "gamesTotal": 4883,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1765,7 +1765,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28676,
+      "gamesTotal": 28721,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1828,7 +1828,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 26962,
+      "gamesTotal": 27007,
       "lastActivity": "2026-09-06"
     },
     {
@@ -1940,8 +1940,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12133,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 12137,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "384",
@@ -1975,15 +1975,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26871,
+      "gamesTotal": 26987,
       "lastActivity": "2026-09-06"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126225,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 126309,
+      "lastActivity": "2026-09-06"
     },
     {
       "id": "441",
