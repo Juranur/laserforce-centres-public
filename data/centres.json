@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-06T21:06:55.445Z",
+  "lastUpdated": "2026-09-07T05:01:35.908Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 288,
+  "lastCheckedIndex": 215,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13308,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 13309,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "340",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 601,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 602,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "312",
@@ -498,8 +498,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26358,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 26361,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "234",
@@ -785,8 +785,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1106,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 1107,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "206",
@@ -1422,8 +1422,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84381,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 84410,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "167",
@@ -1457,8 +1457,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47504,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 47533,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "448",
@@ -2122,8 +2122,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51177,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 51204,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "29",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4081,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 4087,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "111",
@@ -2227,8 +2227,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1502,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 1505,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "299",
@@ -2241,8 +2241,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1751,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 1759,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "74",
