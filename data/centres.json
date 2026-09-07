@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-07T05:01:35.908Z",
+  "lastUpdated": "2026-09-07T13:03:10.812Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 215,
+  "lastCheckedIndex": 142,
   "centres": [
     {
       "id": "159",
@@ -1527,8 +1527,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10299,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 10311,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "43",
@@ -1548,8 +1548,8 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6745,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 6753,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "174",
@@ -1583,8 +1583,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95031,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 95049,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "98",
@@ -1709,8 +1709,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4115,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 4116,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "434",
@@ -1751,8 +1751,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8967,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 8968,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "408",
@@ -1919,8 +1919,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17677,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 17759,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "491",
@@ -1975,15 +1975,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 26987,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 27002,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126309,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 126313,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "441",
