@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-07T13:03:10.812Z",
+  "lastUpdated": "2026-09-07T22:14:52.035Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 142,
+  "lastCheckedIndex": 75,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56502,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 56507,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "254",
@@ -1107,8 +1107,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207850,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 207926,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "165",
@@ -1156,8 +1156,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91208,
-      "lastActivity": "2026-09-02"
+      "gamesTotal": 91308,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "113",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15216,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 15220,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "230",
@@ -1338,15 +1338,15 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18108,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 18162,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1150,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 1153,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "380",
@@ -1373,8 +1373,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62310,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 62446,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "373",
@@ -1443,8 +1443,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49203,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 49212,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "141",
@@ -1457,7 +1457,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47533,
+      "gamesTotal": 47547,
       "lastActivity": "2026-09-07"
     },
     {
@@ -1513,15 +1513,15 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47952,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 47980,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 272,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 273,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "398",
@@ -1660,8 +1660,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42566,
-      "lastActivity": "2026-08-31"
+      "gamesTotal": 42603,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "293",
@@ -1688,22 +1688,22 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14761,
-      "lastActivity": "2026-08-24"
+      "gamesTotal": 14811,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3228,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 3239,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4883,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 4896,
+      "lastActivity": "2026-09-07"
     },
     {
       "id": "426",
@@ -2241,7 +2241,7 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1759,
+      "gamesTotal": 1761,
       "lastActivity": "2026-09-07"
     },
     {
