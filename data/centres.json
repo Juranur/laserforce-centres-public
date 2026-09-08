@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-07T22:14:52.035Z",
+  "lastUpdated": "2026-09-08T05:02:27.528Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 75,
+  "lastCheckedIndex": 12,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1260,
-      "lastActivity": "2026-08-09"
+      "gamesTotal": 1265,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "101",
@@ -596,8 +596,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8643,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 8654,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "309",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36300,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 36375,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "96",
@@ -764,8 +764,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 685,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 691,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "421",
@@ -785,8 +785,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1107,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 1168,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "206",
@@ -806,8 +806,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69816,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 69918,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "28",
@@ -2388,8 +2388,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 810,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 816,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "100",
