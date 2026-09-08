@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-08T11:53:03.177Z",
+  "lastUpdated": "2026-09-08T17:18:35.561Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 287,
+  "lastCheckedIndex": 214,
   "centres": [
     {
       "id": "159",
@@ -603,8 +603,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2640,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 2641,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "383",
@@ -1170,8 +1170,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3212,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 3214,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "324",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7281,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 7304,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "308",
@@ -1380,8 +1380,8 @@
       "id": "373",
       "regionSite": "7-15",
       "name": "Lasertag Nottingham, Nottingham, UK",
-      "gamesTotal": 3197,
-      "lastActivity": "2026-09-01"
+      "gamesTotal": 3203,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "455",
@@ -1443,8 +1443,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49212,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 49216,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "141",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4087,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 4089,
+      "lastActivity": "2026-09-08"
     },
     {
       "id": "111",
