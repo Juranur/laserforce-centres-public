@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-08T21:51:17.650Z",
+  "lastUpdated": "2026-09-09T05:08:06.104Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 151,
+  "lastCheckedIndex": 76,
   "centres": [
     {
       "id": "159",
@@ -1205,8 +1205,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7304,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 7345,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "308",
@@ -1303,8 +1303,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15220,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 8957,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "230",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3338,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 3340,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "178",
@@ -1443,8 +1443,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49216,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 49220,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "141",
@@ -1478,8 +1478,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8836,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 8847,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "330",
@@ -1926,8 +1926,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 261,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 262,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "265",
@@ -1954,8 +1954,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 39934,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 39949,
+      "lastActivity": "2026-09-09"
     },
     {
       "id": "58",
