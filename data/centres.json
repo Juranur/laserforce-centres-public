@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-10T11:54:13.402Z",
+  "lastUpdated": "2026-09-10T17:03:58.651Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 69,
+  "lastCheckedIndex": 342,
   "centres": [
     {
       "id": "159",
@@ -596,8 +596,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8656,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 8662,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "309",
@@ -617,8 +617,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36375,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 36377,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "96",
@@ -897,8 +897,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13412,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 13114,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "368",
@@ -1345,8 +1345,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1153,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 1159,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "380",
@@ -1394,8 +1394,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20206,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 20216,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "219",
@@ -1429,7 +1429,7 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43662,
+      "gamesTotal": 43663,
       "lastActivity": "2026-09-10"
     },
     {
@@ -1765,7 +1765,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28746,
+      "gamesTotal": 28747,
       "lastActivity": "2026-09-10"
     },
     {
