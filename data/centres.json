@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-10T17:03:58.651Z",
+  "lastUpdated": "2026-09-10T21:33:40.781Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 342,
+  "lastCheckedIndex": 271,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32518,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 32634,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "25",
@@ -113,7 +113,7 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13310,
+      "gamesTotal": 13324,
       "lastActivity": "2026-09-10"
     },
     {
@@ -141,8 +141,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4222,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 4229,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "184",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94170,
-      "lastActivity": "2026-08-27"
+      "gamesTotal": 94173,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56560,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 56572,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "254",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 604,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 606,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "312",
@@ -470,8 +470,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47149,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 47152,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "321",
@@ -1198,8 +1198,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 953,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 973,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "446",
@@ -1695,8 +1695,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3239,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 3243,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "469",
@@ -1856,8 +1856,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8219,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 8221,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "166",
