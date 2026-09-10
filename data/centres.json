@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-10T05:05:32.563Z",
+  "lastUpdated": "2026-09-10T11:54:13.402Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 134,
+  "lastCheckedIndex": 69,
   "centres": [
     {
       "id": "159",
@@ -1205,15 +1205,15 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7345,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 7348,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58796,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 58797,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "134",
@@ -1331,8 +1331,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3340,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 3343,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "178",
@@ -1422,15 +1422,15 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84410,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 84497,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43648,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 43662,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "168",
@@ -1765,8 +1765,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28741,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 28746,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "99",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4117,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 4152,
+      "lastActivity": "2026-09-10"
     },
     {
       "id": "111",
