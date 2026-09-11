@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-10T21:33:40.781Z",
+  "lastUpdated": "2026-09-11T05:05:28.864Z",
   "totalCentres": 348,
   "centresWithData": 348,
-  "lastCheckedIndex": 271,
+  "lastCheckedIndex": 201,
   "centres": [
     {
       "id": "159",
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1265,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 1266,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "101",
@@ -456,8 +456,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 606,
-      "lastActivity": "2026-09-10"
+      "gamesTotal": 608,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "312",
@@ -1394,8 +1394,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20216,
-      "lastActivity": "2026-09-10"
+      "gamesTotal": 20217,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "219",
@@ -2122,8 +2122,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51204,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 51288,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "29",
@@ -2199,8 +2199,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4152,
-      "lastActivity": "2026-09-10"
+      "gamesTotal": 4167,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "111",
@@ -2255,8 +2255,8 @@
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
-      "gamesTotal": 304,
-      "lastActivity": "2026-08-14"
+      "gamesTotal": 305,
+      "lastActivity": "2026-09-11"
     },
     {
       "id": "77",
