@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-12T21:16:52.609Z",
+  "lastUpdated": "2026-09-13T12:24:45.532Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 63,
+  "lastCheckedIndex": 342,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 608,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 611,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "312",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47235,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 47260,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "321",
@@ -505,8 +505,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26361,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 26363,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "234",
@@ -596,15 +596,15 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 120,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 126,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8688,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 8692,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "309",
@@ -617,8 +617,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 187,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 188,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "192",
@@ -715,8 +715,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2930,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 2944,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "116",
@@ -785,8 +785,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2222,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 2224,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "468",
@@ -813,8 +813,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 69940,
-      "lastActivity": "2026-09-10"
+      "gamesTotal": 69941,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "28",
@@ -904,8 +904,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13117,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 13119,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "368",
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30752,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 30753,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "154",
@@ -953,8 +953,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1764,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 1766,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "128",
@@ -1114,8 +1114,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 207926,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 207940,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "165",
@@ -1219,8 +1219,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58809,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 58811,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "134",
@@ -1310,8 +1310,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15130,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 15152,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "230",
@@ -1352,8 +1352,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1208,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 1210,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "380",
@@ -1408,8 +1408,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61772,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 61783,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "339",
@@ -1429,8 +1429,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84603,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 84606,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "167",
@@ -1471,8 +1471,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4665,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 4672,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "212",
@@ -1520,8 +1520,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 47998,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 48003,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "485",
@@ -1555,15 +1555,15 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6753,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 6755,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31910,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 31916,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "194",
@@ -1716,8 +1716,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4134,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 4137,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "434",
@@ -1835,8 +1835,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27012,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 27089,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "306",
@@ -1982,8 +1982,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27145,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 27160,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "349",
@@ -2129,8 +2129,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51295,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 51301,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "29",
@@ -2192,8 +2192,8 @@
       "id": "30",
       "regionSite": "1-33",
       "name": "Strike Bowling Melbourne Central, VIC, Australia",
-      "gamesTotal": 4098,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 4099,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "371",
@@ -2234,8 +2234,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1505,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 1507,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "299",
@@ -2255,8 +2255,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84736,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 84774,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "413",
