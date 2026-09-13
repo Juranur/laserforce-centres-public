@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-13T16:52:36.127Z",
+  "lastUpdated": "2026-09-13T21:27:32.827Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 269,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -29,7 +29,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16511,
+      "gamesTotal": 16535,
       "lastActivity": "2026-09-13"
     },
     {
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56582,
+      "gamesTotal": 56590,
       "lastActivity": "2026-09-13"
     },
     {
@@ -477,7 +477,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47284,
+      "gamesTotal": 47288,
       "lastActivity": "2026-09-13"
     },
     {
@@ -505,7 +505,7 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26363,
+      "gamesTotal": 26371,
       "lastActivity": "2026-09-13"
     },
     {
@@ -596,7 +596,7 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 135,
+      "gamesTotal": 136,
       "lastActivity": "2026-09-13"
     },
     {
@@ -1037,8 +1037,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35275,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 35453,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "329",
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91366,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 91489,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "113",
@@ -1205,8 +1205,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1056,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 1072,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "446",
@@ -1926,8 +1926,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 17759,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 17885,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "491",
@@ -1982,15 +1982,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27160,
+      "gamesTotal": 27255,
       "lastActivity": "2026-09-13"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126405,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 126496,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "441",
@@ -2101,8 +2101,8 @@
       "id": "432",
       "regionSite": "21-122",
       "name": "Space Magic, Aurich, DE",
-      "gamesTotal": 39,
-      "lastActivity": "2026-08-30"
+      "gamesTotal": 40,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "365",
@@ -2129,7 +2129,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51301,
+      "gamesTotal": 51406,
       "lastActivity": "2026-09-13"
     },
     {
@@ -2206,8 +2206,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4353,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 4368,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "111",
@@ -2248,8 +2248,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1761,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 1765,
+      "lastActivity": "2026-09-13"
     },
     {
       "id": "74",
