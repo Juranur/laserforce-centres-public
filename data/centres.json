@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-13T21:27:32.827Z",
+  "lastUpdated": "2026-09-14T05:22:46.146Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 195,
+  "lastCheckedIndex": 124,
   "centres": [
     {
       "id": "159",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 49,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 50,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "142",
@@ -575,8 +575,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1615,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 1616,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "437",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1168,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 1169,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "206",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62446,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 62458,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "373",
@@ -1408,29 +1408,29 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61796,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 61800,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24842,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 24851,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38165,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 38234,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84614,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 84628,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "167",
@@ -1450,8 +1450,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49229,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 49237,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "141",
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47584,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 47613,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "448",
@@ -1478,8 +1478,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84556,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 84561,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "436",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38324,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 38509,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "296",
@@ -1520,8 +1520,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48003,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 48045,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "485",
@@ -1534,15 +1534,15 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10311,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 10321,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76401,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 76443,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "44",
@@ -1562,8 +1562,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 31923,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 31948,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "194",
@@ -1702,8 +1702,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3243,
-      "lastActivity": "2026-09-10"
+      "gamesTotal": 3244,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "469",
@@ -1772,8 +1772,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28768,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 28794,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "99",
@@ -1835,8 +1835,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27089,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 27113,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "306",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126496,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 126504,
+      "lastActivity": "2026-09-14"
     },
     {
       "id": "441",
