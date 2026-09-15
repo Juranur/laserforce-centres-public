@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-15T17:35:34.886Z",
+  "lastUpdated": "2026-09-15T21:59:46.226Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 120,
+  "lastCheckedIndex": 46,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13327,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 13328,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "340",
@@ -1093,8 +1093,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101939,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 101992,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "8",
@@ -1177,8 +1177,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3606,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 3607,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "324",
@@ -1205,14 +1205,14 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1072,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 1079,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7669,
+      "gamesTotal": 7672,
       "lastActivity": "2026-09-15"
     },
     {
@@ -1352,8 +1352,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1228,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 1232,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "380",
@@ -1681,7 +1681,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6790,
+      "gamesTotal": 6791,
       "lastActivity": "2026-09-15"
     },
     {
@@ -1709,8 +1709,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4932,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 4933,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "426",
