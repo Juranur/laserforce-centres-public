@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-15T05:23:28.110Z",
+  "lastUpdated": "2026-09-15T12:22:41.125Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 269,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -190,8 +190,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5939,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 5942,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "394",
@@ -617,8 +617,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 188,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 194,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "192",
@@ -1310,8 +1310,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15152,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 15157,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "230",
