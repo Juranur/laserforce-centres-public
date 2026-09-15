@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-14T22:33:49.585Z",
+  "lastUpdated": "2026-09-15T05:23:28.110Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 339,
+  "lastCheckedIndex": 269,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94192,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 94307,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "353",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 611,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 612,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "312",
@@ -813,8 +813,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70001,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 70005,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "28",
@@ -1212,8 +1212,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7632,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 7669,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "308",
@@ -1345,8 +1345,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18162,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 18207,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "493",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62458,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 62556,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "373",
@@ -1513,8 +1513,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34490,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 34527,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "164",
@@ -1674,15 +1674,15 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4829,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 4855,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6693,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 6741,
+      "lastActivity": "2026-09-15"
     },
     {
       "id": "381",
