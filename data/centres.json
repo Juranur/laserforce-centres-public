@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-16T05:19:20.330Z",
+  "lastUpdated": "2026-09-16T12:09:04.626Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 321,
+  "lastCheckedIndex": 250,
   "centres": [
     {
       "id": "159",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95090,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 95127,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "98",
@@ -2395,8 +2395,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 819,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 820,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "100",
