@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-15T21:59:46.226Z",
+  "lastUpdated": "2026-09-16T05:19:20.330Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 46,
+  "lastCheckedIndex": 321,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 612,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 614,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "312",
@@ -610,8 +610,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2641,
-      "lastActivity": "2026-09-08"
+      "gamesTotal": 2642,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "383",
@@ -1709,8 +1709,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4933,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 4934,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "426",
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40030,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 40046,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "58",
@@ -1982,15 +1982,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27271,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 27373,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126532,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 126626,
+      "lastActivity": "2026-09-16"
     },
     {
       "id": "441",
