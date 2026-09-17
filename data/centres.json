@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-17T12:16:36.091Z",
+  "lastUpdated": "2026-09-17T17:35:58.465Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 319,
+  "lastCheckedIndex": 245,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32643,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 32656,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "25",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94498,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 94541,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "353",
@@ -211,8 +211,8 @@
       "id": "262",
       "regionSite": "21-67",
       "name": "BBE Event GmbH, Leipzig, DE",
-      "gamesTotal": 1392,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 1394,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "482",
@@ -624,8 +624,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36419,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 36426,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "96",
@@ -1205,22 +1205,22 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1103,
+      "gamesTotal": 1109,
       "lastActivity": "2026-09-17"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7672,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 7691,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58812,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 58815,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "134",
@@ -1345,8 +1345,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18207,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 18211,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "493",
@@ -1373,8 +1373,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8004,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 8010,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "279",
@@ -1415,8 +1415,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24854,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 24861,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "143",
@@ -1450,8 +1450,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49237,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 49249,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "141",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38511,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 38529,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "296",
@@ -1709,8 +1709,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4934,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 4936,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "426",
