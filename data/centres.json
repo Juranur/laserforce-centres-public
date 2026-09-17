@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-16T22:00:56.699Z",
+  "lastUpdated": "2026-09-17T05:25:13.789Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 116,
+  "lastCheckedIndex": 42,
   "centres": [
     {
       "id": "159",
@@ -1135,8 +1135,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1187,
-      "lastActivity": "2026-09-04"
+      "gamesTotal": 1190,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "389",
@@ -1205,8 +1205,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1079,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 1103,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "446",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95127,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 95244,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "98",
