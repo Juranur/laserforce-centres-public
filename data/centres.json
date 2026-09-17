@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-17T05:25:13.789Z",
+  "lastUpdated": "2026-09-17T12:16:36.091Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 42,
+  "lastCheckedIndex": 319,
   "centres": [
     {
       "id": "159",
@@ -785,8 +785,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2224,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 2230,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "468",
@@ -1954,8 +1954,8 @@
       "id": "384",
       "regionSite": "7-16",
       "name": "Quasar Norwich, Norwich, UK",
-      "gamesTotal": 155,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 157,
+      "lastActivity": "2026-09-17"
     },
     {
       "id": "153",
