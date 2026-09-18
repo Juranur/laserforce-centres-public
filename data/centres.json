@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-18T17:04:59.228Z",
+  "lastUpdated": "2026-09-18T21:36:31.061Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 308,
+  "lastCheckedIndex": 244,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32820,
-      "lastActivity": "2026-09-17"
+      "gamesTotal": 32821,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "25",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4850,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 4852,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "372",
@@ -575,7 +575,7 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1620,
+      "gamesTotal": 1624,
       "lastActivity": "2026-09-18"
     },
     {
@@ -666,8 +666,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 755,
-      "lastActivity": "2026-08-29"
+      "gamesTotal": 757,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "105",
@@ -1205,15 +1205,15 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1109,
-      "lastActivity": "2026-09-17"
+      "gamesTotal": 1115,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7691,
-      "lastActivity": "2026-09-17"
+      "gamesTotal": 7722,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "308",
@@ -1338,8 +1338,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3376,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 3381,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "178",
@@ -1429,7 +1429,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84676,
+      "gamesTotal": 84747,
       "lastActivity": "2026-09-18"
     },
     {
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47618,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 47642,
+      "lastActivity": "2026-09-18"
     },
     {
       "id": "448",
@@ -1478,7 +1478,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84651,
+      "gamesTotal": 84655,
       "lastActivity": "2026-09-18"
     },
     {
@@ -1520,7 +1520,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48224,
+      "gamesTotal": 48225,
       "lastActivity": "2026-09-18"
     },
     {
