@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T05:24:53.444Z",
+  "lastUpdated": "2026-09-20T11:56:08.460Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 225,
+  "lastCheckedIndex": 153,
   "centres": [
     {
       "id": "159",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18007,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 18009,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "487",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47483,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 47514,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "321",
@@ -610,8 +610,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2651,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 2653,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "383",
@@ -813,8 +813,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70007,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 70009,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "28",
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30757,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 30764,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "154",
@@ -1037,8 +1037,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35554,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 35627,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "329",
@@ -1065,8 +1065,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31184,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 31185,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "189",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95255,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 95265,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "98",
@@ -1688,8 +1688,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20624,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 20630,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "385",
@@ -1828,22 +1828,22 @@
       "id": "304",
       "regionSite": "3-6",
       "name": "Paradice Ice Skating, Botany, NZ",
-      "gamesTotal": 1123,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 1124,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27126,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 27132,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10269,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 10277,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "302",
@@ -1863,8 +1863,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8323,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 8338,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "166",
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40132,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 40134,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "58",
@@ -2143,8 +2143,8 @@
       "id": "344",
       "regionSite": "1-77",
       "name": "Strike Bowling Carousel, Cannington, WA, Australia",
-      "gamesTotal": 306,
-      "lastActivity": "2026-07-27"
+      "gamesTotal": 308,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "22",
@@ -2206,8 +2206,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4396,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 4397,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "111",
