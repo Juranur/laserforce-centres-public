@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-19T21:16:45.293Z",
+  "lastUpdated": "2026-09-20T05:24:53.444Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 297,
+  "lastCheckedIndex": 225,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32821,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 32826,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "25",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13330,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 13331,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "340",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4854,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 4856,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "372",
@@ -218,8 +218,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 53,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 54,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "142",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 615,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 618,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "312",
@@ -673,8 +673,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6063,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 6068,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "359",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1183,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 1184,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "206",
@@ -1212,8 +1212,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7744,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 7897,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "308",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62556,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 62566,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "373",
@@ -1527,8 +1527,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 279,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 280,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "398",
@@ -2255,8 +2255,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84775,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 84787,
+      "lastActivity": "2026-09-20"
     },
     {
       "id": "413",
