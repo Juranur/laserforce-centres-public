@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-21T13:25:03.188Z",
+  "lastUpdated": "2026-09-21T22:44:39.793Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 220,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94552,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 94671,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "353",
@@ -624,8 +624,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36464,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 36536,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "96",
@@ -1044,8 +1044,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9483,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 9503,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "188",
@@ -1555,8 +1555,8 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 6755,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 6763,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "174",
@@ -1667,22 +1667,22 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42693,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 42765,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4858,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 4887,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6792,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 6821,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "381",
@@ -1695,8 +1695,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14848,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 14877,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "386",
@@ -1709,8 +1709,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4937,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 4950,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "426",
@@ -1758,8 +1758,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8968,
-      "lastActivity": "2026-09-07"
+      "gamesTotal": 8971,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "408",
@@ -1947,8 +1947,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12147,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 12148,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "384",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126697,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 126784,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "441",
