@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T21:29:28.581Z",
+  "lastUpdated": "2026-09-21T05:23:36.671Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 11,
+  "lastCheckedIndex": 289,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13331,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 13341,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "340",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56656,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 56724,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "254",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18009,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 18013,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "487",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 618,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 619,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "312",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47530,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 47534,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "321",
@@ -505,8 +505,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26375,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 26414,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "234",
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91644,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 91648,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "113",
@@ -1240,8 +1240,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10027,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 10028,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "12",
@@ -1401,8 +1401,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20225,
-      "lastActivity": "2026-09-14"
+      "gamesTotal": 20226,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "219",
@@ -1527,15 +1527,15 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 280,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 284,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10331,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 10345,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "43",
@@ -1982,8 +1982,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27498,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 27519,
+      "lastActivity": "2026-09-21"
     },
     {
       "id": "349",
