@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-22T05:19:21.411Z",
+  "lastUpdated": "2026-09-22T12:12:49.374Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 78,
+  "lastCheckedIndex": 4,
   "centres": [
     {
       "id": "159",
@@ -603,8 +603,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8729,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 8732,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "309",
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30767,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 30769,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "154",
@@ -953,8 +953,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1768,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 1769,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "128",
@@ -1093,8 +1093,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 101992,
-      "lastActivity": "2026-09-15"
+      "gamesTotal": 102045,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "8",
@@ -1541,15 +1541,15 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76499,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 76521,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60543,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 60547,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "97",
@@ -1919,8 +1919,8 @@
       "id": "480",
       "regionSite": "1-91",
       "name": "Powerkarts Canberra, Griffith, ACT, AU",
-      "gamesTotal": 71,
-      "lastActivity": "2026-05-02"
+      "gamesTotal": 73,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "140",
