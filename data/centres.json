@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-21T22:44:39.793Z",
+  "lastUpdated": "2026-09-22T05:19:21.411Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 148,
+  "lastCheckedIndex": 78,
   "centres": [
     {
       "id": "159",
@@ -1114,8 +1114,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208016,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 208097,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "165",
@@ -1156,15 +1156,15 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4134,
-      "lastActivity": "2026-09-06"
+      "gamesTotal": 4135,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91648,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 91650,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "113",
@@ -1177,8 +1177,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3612,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 3614,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "324",
@@ -1338,22 +1338,22 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3423,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 3443,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18212,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 18314,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1282,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 1286,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "380",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62579,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 62707,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "373",
@@ -1408,8 +1408,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61848,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 61870,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "339",
@@ -1513,22 +1513,22 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34584,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 34608,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48249,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 48402,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 284,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 287,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "398",
@@ -2402,8 +2402,8 @@
       "id": "100",
       "regionSite": "4-60",
       "name": "Wunderland, Beaverton, OR, USA",
-      "gamesTotal": 1835,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 1836,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "156",
