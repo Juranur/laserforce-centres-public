@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-22T17:34:02.583Z",
+  "lastUpdated": "2026-09-22T21:59:53.764Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 282,
+  "lastCheckedIndex": 216,
   "centres": [
     {
       "id": "159",
@@ -603,7 +603,7 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8732,
+      "gamesTotal": 8733,
       "lastActivity": "2026-09-22"
     },
     {
@@ -960,8 +960,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43416,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 43436,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "160",
@@ -1373,8 +1373,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8010,
-      "lastActivity": "2026-09-17"
+      "gamesTotal": 8020,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "279",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38586,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 38596,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "296",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126784,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 126907,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "441",
