@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-22T12:12:49.374Z",
+  "lastUpdated": "2026-09-22T17:34:02.583Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 4,
+  "lastCheckedIndex": 282,
   "centres": [
     {
       "id": "159",
@@ -113,8 +113,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13341,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 13342,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "340",
@@ -435,8 +435,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9807,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 9823,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "282",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47534,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 47549,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "321",
@@ -596,8 +596,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 150,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 152,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "348",
@@ -1219,8 +1219,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58845,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 58848,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "134",
@@ -1408,7 +1408,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61870,
+      "gamesTotal": 61872,
       "lastActivity": "2026-09-22"
     },
     {
@@ -1674,22 +1674,22 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4887,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 4888,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6821,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 6897,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20630,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 20724,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "385",
@@ -1772,8 +1772,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28847,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 28857,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "99",
@@ -1982,8 +1982,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27519,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 27552,
+      "lastActivity": "2026-09-22"
     },
     {
       "id": "349",
