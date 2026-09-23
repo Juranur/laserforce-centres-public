@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-22T21:59:53.764Z",
+  "lastUpdated": "2026-09-23T05:16:18.127Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 216,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1184,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 1185,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "206",
@@ -995,8 +995,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42611,
-      "lastActivity": "2026-09-09"
+      "gamesTotal": 42656,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "497",
@@ -1541,8 +1541,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76521,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 76540,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "44",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95265,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 95306,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "98",
@@ -1667,8 +1667,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42765,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 42780,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "293",
@@ -1772,8 +1772,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 28857,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 28867,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "99",
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40134,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 40144,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "58",
@@ -1982,8 +1982,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27552,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 27636,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "349",
@@ -2416,8 +2416,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1094,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 1096,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "24",
