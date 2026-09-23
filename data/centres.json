@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-23T17:30:30.990Z",
+  "lastUpdated": "2026-09-23T22:13:10.812Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 0,
+  "lastCheckedIndex": 279,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16535,
-      "lastActivity": "2026-09-13"
+      "gamesTotal": 16551,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "392",
@@ -78,8 +78,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 319,
-      "lastActivity": "2026-07-14"
+      "gamesTotal": 331,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "334",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94671,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 94853,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "353",
@@ -204,8 +204,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3024,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 3028,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "262",
@@ -344,7 +344,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56726,
+      "gamesTotal": 56778,
       "lastActivity": "2026-09-23"
     },
     {
@@ -435,8 +435,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9823,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 9827,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "282",
@@ -477,7 +477,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47567,
+      "gamesTotal": 47585,
       "lastActivity": "2026-09-23"
     },
     {
@@ -575,8 +575,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1627,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 1630,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "437",
@@ -624,7 +624,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36540,
+      "gamesTotal": 36543,
       "lastActivity": "2026-09-23"
     },
     {
@@ -659,7 +659,7 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10154,
+      "gamesTotal": 10181,
       "lastActivity": "2026-09-23"
     },
     {
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91650,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 91682,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "113",
@@ -1240,8 +1240,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10028,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 10034,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "12",
@@ -1373,8 +1373,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8020,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 8023,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "279",
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47642,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 47645,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "448",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38596,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 38598,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "296",
@@ -1709,8 +1709,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4950,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 4952,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "426",
