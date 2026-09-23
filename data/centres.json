@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-23T05:16:18.127Z",
+  "lastUpdated": "2026-09-23T12:08:35.229Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 148,
+  "lastCheckedIndex": 74,
   "centres": [
     {
       "id": "159",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56724,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 56726,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "254",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47549,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 47567,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "321",
@@ -1212,8 +1212,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7904,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 7905,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "308",
@@ -1408,8 +1408,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 61872,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 61873,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "339",
@@ -1653,8 +1653,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1365,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 1409,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "9",
@@ -2416,7 +2416,7 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1096,
+      "gamesTotal": 1098,
       "lastActivity": "2026-09-23"
     },
     {
