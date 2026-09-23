@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-23T12:08:35.229Z",
+  "lastUpdated": "2026-09-23T17:30:30.990Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 74,
+  "lastCheckedIndex": 0,
   "centres": [
     {
       "id": "159",
@@ -624,8 +624,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36536,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 36540,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "96",
@@ -659,8 +659,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10148,
-      "lastActivity": "2026-09-16"
+      "gamesTotal": 10154,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "404",
@@ -1352,8 +1352,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1286,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 1288,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "380",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62707,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 62721,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "373",
@@ -1401,8 +1401,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20226,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 20237,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "219",
@@ -1422,15 +1422,15 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38249,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 38255,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84760,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 84808,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "167",
@@ -1478,8 +1478,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84683,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 84721,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "436",
@@ -1562,8 +1562,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32050,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 32057,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "194",
@@ -1681,8 +1681,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6897,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 6905,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "381",
@@ -1863,8 +1863,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8346,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 8347,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "166",
@@ -1982,15 +1982,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 27636,
+      "gamesTotal": 27649,
       "lastActivity": "2026-09-23"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126907,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 126924,
+      "lastActivity": "2026-09-23"
     },
     {
       "id": "441",
