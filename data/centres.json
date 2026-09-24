@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-24T17:48:41.158Z",
+  "lastUpdated": "2026-09-24T22:14:18.532Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 63,
+  "lastCheckedIndex": 336,
   "centres": [
     {
       "id": "159",
@@ -533,8 +533,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 54,
-      "lastActivity": "2026-04-22"
+      "gamesTotal": 56,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "452",
@@ -687,8 +687,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7247,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 7249,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "473",
@@ -939,7 +939,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30770,
+      "gamesTotal": 30772,
       "lastActivity": "2026-09-24"
     },
     {
@@ -1135,7 +1135,7 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1239,
+      "gamesTotal": 1240,
       "lastActivity": "2026-09-24"
     },
     {
@@ -1212,7 +1212,7 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7922,
+      "gamesTotal": 7943,
       "lastActivity": "2026-09-24"
     },
     {
@@ -1464,7 +1464,7 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47647,
+      "gamesTotal": 47655,
       "lastActivity": "2026-09-24"
     },
     {
@@ -1478,15 +1478,15 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84795,
+      "gamesTotal": 84801,
       "lastActivity": "2026-09-24"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 8917,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 8927,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "330",
@@ -1520,7 +1520,7 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48408,
+      "gamesTotal": 48423,
       "lastActivity": "2026-09-24"
     },
     {
