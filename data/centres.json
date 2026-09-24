@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-24T12:22:08.972Z",
+  "lastUpdated": "2026-09-24T17:48:41.158Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 133,
+  "lastCheckedIndex": 63,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94853,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 94902,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "353",
@@ -1086,8 +1086,8 @@
       "id": "439",
       "regionSite": "24-7",
       "name": "Laserdance #2, Vienna, Austria",
-      "gamesTotal": 32,
-      "lastActivity": "2026-08-02"
+      "gamesTotal": 34,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "53",
@@ -1121,8 +1121,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25653,
-      "lastActivity": "2026-09-11"
+      "gamesTotal": 25657,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "148",
@@ -1135,8 +1135,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1236,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 1239,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "389",
@@ -1212,8 +1212,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 7905,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 7922,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "308",
@@ -1394,8 +1394,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4322,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 4344,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "191",
@@ -1429,8 +1429,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 84808,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 84856,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "167",
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47645,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 47647,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "448",
@@ -1478,7 +1478,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84787,
+      "gamesTotal": 84795,
       "lastActivity": "2026-09-24"
     },
     {
@@ -1520,8 +1520,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48402,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 48408,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "485",
@@ -1681,8 +1681,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6905,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 6907,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "381",
@@ -2129,7 +2129,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51487,
+      "gamesTotal": 51604,
       "lastActivity": "2026-09-24"
     },
     {
@@ -2388,8 +2388,8 @@
       "id": "387",
       "regionSite": "21-112",
       "name": "World of Lasertag GmbH, Kaiserslautern, DE",
-      "gamesTotal": 455,
-      "lastActivity": "2026-08-23"
+      "gamesTotal": 459,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "445",
