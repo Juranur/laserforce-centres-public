@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-23T22:13:10.812Z",
+  "lastUpdated": "2026-09-24T05:13:15.714Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 279,
+  "lastCheckedIndex": 208,
   "centres": [
     {
       "id": "159",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62721,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 62851,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "373",
@@ -1422,8 +1422,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38255,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 38256,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "243",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126924,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 126946,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "441",
@@ -2129,8 +2129,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51475,
-      "lastActivity": "2026-09-17"
+      "gamesTotal": 51487,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "29",
@@ -2234,8 +2234,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1510,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 1511,
+      "lastActivity": "2026-09-24"
     },
     {
       "id": "299",
