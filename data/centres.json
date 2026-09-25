@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-24T22:14:18.532Z",
+  "lastUpdated": "2026-09-25T05:23:45.698Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 336,
+  "lastCheckedIndex": 261,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 32826,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 33064,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "25",
@@ -358,8 +358,8 @@
       "id": "396",
       "regionSite": "4-178",
       "name": "Cedar Fun Center, Cedar City, UT, USA",
-      "gamesTotal": 528,
-      "lastActivity": "2026-09-03"
+      "gamesTotal": 533,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "500",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1185,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 1205,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "206",
@@ -1121,8 +1121,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25657,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 25659,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "148",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38598,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 38603,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "296",
@@ -2388,15 +2388,15 @@
       "id": "387",
       "regionSite": "21-112",
       "name": "World of Lasertag GmbH, Kaiserslautern, DE",
-      "gamesTotal": 459,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 474,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 822,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 823,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "100",
