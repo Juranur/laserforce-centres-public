@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-25T05:23:45.698Z",
+  "lastUpdated": "2026-09-25T12:28:08.603Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 261,
+  "lastCheckedIndex": 189,
   "centres": [
     {
       "id": "159",
@@ -176,8 +176,8 @@
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1874,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 1875,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "187",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 126946,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 127126,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "441",
@@ -2234,8 +2234,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1511,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 1512,
+      "lastActivity": "2026-09-25"
     },
     {
       "id": "299",
