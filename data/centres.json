@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-25T22:15:26.621Z",
+  "lastUpdated": "2026-09-26T05:28:07.581Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 46,
+  "lastCheckedIndex": 330,
   "centres": [
     {
       "id": "159",
@@ -393,8 +393,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18013,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 18024,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "487",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 619,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 620,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "312",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47587,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 47589,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1630,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 1633,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "437",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1205,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 1210,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "206",
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30773,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 30774,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "154",
@@ -1366,8 +1366,8 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9669,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 9676,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "179",
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47701,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 47713,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "448",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95393,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 95398,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "98",
@@ -1863,8 +1863,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8350,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 8352,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "166",
@@ -1961,8 +1961,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40157,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 40160,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "58",
@@ -2234,8 +2234,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1512,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 1514,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "299",
@@ -2255,8 +2255,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84788,
-      "lastActivity": "2026-09-21"
+      "gamesTotal": 84796,
+      "lastActivity": "2026-09-26"
     },
     {
       "id": "413",
