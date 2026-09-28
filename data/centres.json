@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-28T14:24:56.733Z",
+  "lastUpdated": "2026-09-28T23:58:42.081Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 32,
+  "lastCheckedIndex": 309,
   "centres": [
     {
       "id": "159",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47722,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 47727,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "321",
@@ -575,8 +575,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1633,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 1642,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "437",
@@ -624,7 +624,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36554,
+      "gamesTotal": 36643,
       "lastActivity": "2026-09-28"
     },
     {
@@ -1198,7 +1198,7 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34745,
+      "gamesTotal": 34748,
       "lastActivity": "2026-09-28"
     },
     {
@@ -1345,8 +1345,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18314,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 18347,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "493",
@@ -1380,7 +1380,7 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 62866,
+      "gamesTotal": 63036,
       "lastActivity": "2026-09-28"
     },
     {
@@ -1464,8 +1464,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47719,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 47738,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "448",
@@ -1513,8 +1513,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34623,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 34661,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "164",
@@ -1667,15 +1667,15 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42780,
-      "lastActivity": "2026-09-23"
+      "gamesTotal": 42820,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4890,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 4898,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "457",
