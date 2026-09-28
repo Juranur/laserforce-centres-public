@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-28T05:49:51.163Z",
+  "lastUpdated": "2026-09-28T14:24:56.733Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 95,
+  "lastCheckedIndex": 32,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94902,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 94904,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "353",
@@ -757,8 +757,8 @@
       "id": "46",
       "regionSite": "1-52",
       "name": "Game Over Pty Ltd, Coomera, QLD, AU",
-      "gamesTotal": 255,
-      "lastActivity": "2026-07-11"
+      "gamesTotal": 256,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "313",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1211,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 1213,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "206",
@@ -813,8 +813,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70016,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 70090,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "28",
@@ -988,8 +988,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 440,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 443,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "56",
@@ -1037,8 +1037,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35766,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 35776,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "329",
@@ -1093,8 +1093,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102175,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 102255,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "8",
@@ -1114,8 +1114,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208097,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 208163,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "165",
@@ -1156,15 +1156,15 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4135,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 4136,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91782,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 91895,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "113",
@@ -1534,15 +1534,15 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10361,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 10422,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76560,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 76582,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "44",
@@ -1989,8 +1989,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 127205,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 127219,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "441",
@@ -2129,8 +2129,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51604,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 51644,
+      "lastActivity": "2026-09-28"
     },
     {
       "id": "29",
