@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-28T23:58:42.081Z",
+  "lastUpdated": "2026-09-29T06:14:40.233Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 309,
+  "lastCheckedIndex": 238,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94904,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 94905,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "353",
@@ -771,8 +771,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 724,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 725,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "421",
@@ -1310,8 +1310,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15185,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 15190,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "230",
