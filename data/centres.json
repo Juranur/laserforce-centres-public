@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-29T13:26:08.926Z",
+  "lastUpdated": "2026-09-29T22:58:18.243Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 174,
+  "lastCheckedIndex": 100,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4862,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 4865,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "372",
@@ -540,8 +540,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 588,
-      "lastActivity": "2026-09-18"
+      "gamesTotal": 592,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "242",
@@ -603,8 +603,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8758,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 8760,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "309",
@@ -1380,8 +1380,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 63036,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 63037,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "373",
@@ -1401,8 +1401,8 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20278,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 20281,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "219",
@@ -1471,8 +1471,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4699,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 4705,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "212",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38798,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 38827,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "296",
@@ -1520,8 +1520,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48487,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 48654,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "485",
@@ -1541,8 +1541,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76582,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 76612,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "44",
@@ -1667,8 +1667,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42820,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 42844,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "293",
@@ -1681,15 +1681,15 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 6918,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 6993,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20725,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 20818,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "385",
