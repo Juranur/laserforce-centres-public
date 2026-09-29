@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-29T06:14:40.233Z",
+  "lastUpdated": "2026-09-29T13:26:08.926Z",
   "totalCentres": 349,
   "centresWithData": 349,
-  "lastCheckedIndex": 238,
+  "lastCheckedIndex": 174,
   "centres": [
     {
       "id": "159",
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30777,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 30780,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "154",
@@ -1828,8 +1828,8 @@
       "id": "304",
       "regionSite": "3-6",
       "name": "Paradice Ice Skating, Botany, NZ",
-      "gamesTotal": 1124,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 1126,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "361",
@@ -1842,8 +1842,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10280,
-      "lastActivity": "2026-09-24"
+      "gamesTotal": 10285,
+      "lastActivity": "2026-09-29"
     },
     {
       "id": "302",
