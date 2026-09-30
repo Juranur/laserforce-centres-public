@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-30T13:11:07.177Z",
+  "lastUpdated": "2026-09-30T22:57:35.855Z",
   "totalCentres": 350,
   "centresWithData": 350,
-  "lastCheckedIndex": 303,
+  "lastCheckedIndex": 234,
   "centres": [
     {
       "id": "159",
@@ -29,8 +29,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16554,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 16566,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "392",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 94905,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 95120,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "353",
@@ -344,8 +344,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 56901,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 56941,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "254",
@@ -505,8 +505,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26431,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 26434,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "234",
@@ -659,8 +659,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10183,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 10288,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "404",
@@ -960,7 +960,7 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43495,
+      "gamesTotal": 43496,
       "lastActivity": "2026-09-30"
     },
     {
@@ -1219,8 +1219,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58887,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 58939,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "134",
@@ -1240,8 +1240,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10035,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 10037,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "12",
@@ -1338,8 +1338,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3449,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 3453,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "178",
@@ -1429,8 +1429,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85034,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 85078,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "167",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95412,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 95439,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "98",
@@ -2136,8 +2136,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51644,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 51670,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "29",
