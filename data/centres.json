@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-30T06:01:52.141Z",
-  "totalCentres": 349,
-  "centresWithData": 349,
-  "lastCheckedIndex": 27,
+  "lastUpdated": "2026-09-30T13:11:07.177Z",
+  "totalCentres": 350,
+  "centresWithData": 350,
+  "lastCheckedIndex": 303,
   "centres": [
     {
       "id": "159",
@@ -463,8 +463,8 @@
       "id": "488",
       "regionSite": "4-211",
       "name": "Extreme Rush, Pocatello, ID, United States",
-      "gamesTotal": 623,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 624,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "312",
@@ -1100,8 +1100,8 @@
       "id": "8",
       "regionSite": "1-5",
       "name": "Laserforce Ballarat",
-      "gamesTotal": 24666,
-      "lastActivity": "before 2026"
+      "gamesTotal": 24669,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "420",
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91895,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 91944,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "113",
@@ -1828,8 +1828,8 @@
       "id": "304",
       "regionSite": "3-6",
       "name": "Paradice Ice Skating, Botany, NZ",
-      "gamesTotal": 1126,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 1132,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "361",
@@ -1893,6 +1893,13 @@
       "name": "Playsquare Central Eastville, Thailand",
       "gamesTotal": 1240,
       "lastActivity": "2026-09-18"
+    },
+    {
+      "id": "504",
+      "regionSite": "5-6",
+      "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
+      "gamesTotal": 3,
+      "lastActivity": "2026-09-30"
     },
     {
       "id": "332",
