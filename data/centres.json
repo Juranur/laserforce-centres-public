@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-01T06:17:39.547Z",
+  "lastUpdated": "2026-10-01T13:45:58.733Z",
   "totalCentres": 350,
   "centresWithData": 350,
-  "lastCheckedIndex": 159,
+  "lastCheckedIndex": 87,
   "centres": [
     {
       "id": "159",
@@ -169,8 +169,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95120,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 95123,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "353",
@@ -498,8 +498,8 @@
       "id": "411",
       "regionSite": "4-161",
       "name": "Fiesta Fun Center, St. George, UT, USA",
-      "gamesTotal": 49,
-      "lastActivity": "2026-07-29"
+      "gamesTotal": 50,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "209",
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91944,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 91952,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "113",
@@ -1205,15 +1205,15 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1259,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 1288,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8267,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 8276,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "308",
@@ -1352,8 +1352,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1325,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 1338,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "380",
@@ -1478,8 +1478,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84880,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 84885,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "436",
@@ -1499,8 +1499,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38827,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 38831,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "296",
@@ -1534,8 +1534,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10422,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 10467,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "43",
@@ -1562,8 +1562,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32145,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 32192,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "194",
@@ -1590,8 +1590,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95439,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 95570,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "98",
@@ -1884,8 +1884,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 529,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 530,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "399",
@@ -1898,8 +1898,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 3,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 4,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "332",
@@ -2402,8 +2402,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 823,
-      "lastActivity": "2026-09-25"
+      "gamesTotal": 825,
+      "lastActivity": "2026-10-01"
     },
     {
       "id": "100",
