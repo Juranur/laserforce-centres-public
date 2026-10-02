@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-02T06:04:44.522Z",
+  "lastUpdated": "2026-10-02T13:09:11.259Z",
   "totalCentres": 350,
   "centresWithData": 350,
-  "lastCheckedIndex": 288,
+  "lastCheckedIndex": 213,
   "centres": [
     {
       "id": "159",
@@ -1198,8 +1198,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34748,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 34752,
+      "lastActivity": "2026-10-02"
     },
     {
       "id": "478",
@@ -2136,8 +2136,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51670,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 51775,
+      "lastActivity": "2026-10-02"
     },
     {
       "id": "29",
@@ -2402,8 +2402,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 825,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 827,
+      "lastActivity": "2026-10-02"
     },
     {
       "id": "100",
@@ -2423,8 +2423,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1159,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 1160,
+      "lastActivity": "2026-10-02"
     },
     {
       "id": "24",
