@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-10-03T16:55:45.354Z",
+  "lastUpdated": "2026-10-03T21:45:52.913Z",
   "totalCentres": 351,
   "centresWithData": 351,
-  "lastCheckedIndex": 258,
+  "lastCheckedIndex": 187,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33239,
+      "gamesTotal": 33241,
       "lastActivity": "2026-10-03"
     },
     {
@@ -85,8 +85,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1267,
-      "lastActivity": "2026-09-12"
+      "gamesTotal": 1268,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "101",
@@ -477,7 +477,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47879,
+      "gamesTotal": 47968,
       "lastActivity": "2026-10-03"
     },
     {
@@ -596,21 +596,21 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 184,
+      "gamesTotal": 194,
       "lastActivity": "2026-10-03"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8777,
+      "gamesTotal": 8784,
       "lastActivity": "2026-10-03"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2659,
+      "gamesTotal": 2673,
       "lastActivity": "2026-10-03"
     },
     {
@@ -904,7 +904,7 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13126,
+      "gamesTotal": 13138,
       "lastActivity": "2026-10-03"
     },
     {
@@ -939,8 +939,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30787,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 30791,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "154",
@@ -1023,8 +1023,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17504,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 17509,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "161",
@@ -1037,7 +1037,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35859,
+      "gamesTotal": 35871,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1177,7 +1177,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3669,
+      "gamesTotal": 3670,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1205,7 +1205,7 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1295,
+      "gamesTotal": 1314,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1226,8 +1226,8 @@
       "id": "134",
       "regionSite": "21-5",
       "name": "Laserplanet, Oberwerrn, Germany",
-      "gamesTotal": 1170,
-      "lastActivity": "2026-04-25"
+      "gamesTotal": 1176,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "343",
@@ -1842,7 +1842,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27313,
+      "gamesTotal": 27315,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1870,8 +1870,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8391,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 8408,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "166",
@@ -1961,8 +1961,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12151,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 12153,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "384",
@@ -2227,8 +2227,8 @@
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15165,
-      "lastActivity": "2026-09-05"
+      "gamesTotal": 15211,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "374",
