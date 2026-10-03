@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-03T05:47:52.082Z",
+  "lastUpdated": "2026-10-03T12:18:31.812Z",
   "totalCentres": 350,
   "centresWithData": 350,
-  "lastCheckedIndex": 60,
+  "lastCheckedIndex": 334,
   "centres": [
     {
       "id": "159",
@@ -477,8 +477,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 47857,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 47879,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "321",
@@ -505,8 +505,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26434,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 26435,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "234",
@@ -603,22 +603,22 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8771,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 8777,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2657,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 2659,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 196,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 199,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "192",
@@ -673,8 +673,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6068,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 6069,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "359",
@@ -715,8 +715,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2957,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 2960,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "116",
@@ -792,8 +792,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1227,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 1228,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "206",
@@ -904,8 +904,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13121,
-      "lastActivity": "2026-09-19"
+      "gamesTotal": 13126,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "368",
@@ -960,8 +960,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43496,
-      "lastActivity": "2026-09-30"
+      "gamesTotal": 43530,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "160",
@@ -1009,7 +1009,7 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4447,
+      "gamesTotal": 4451,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1163,8 +1163,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91952,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 91954,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "113",
@@ -1198,21 +1198,21 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 34755,
+      "gamesTotal": 35030,
       "lastActivity": "2026-10-03"
     },
     {
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1288,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 1294,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8284,
+      "gamesTotal": 8288,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1415,7 +1415,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24885,
+      "gamesTotal": 24889,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1429,7 +1429,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85179,
+      "gamesTotal": 85194,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1471,8 +1471,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4705,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 4706,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "212",
@@ -1499,7 +1499,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38848,
+      "gamesTotal": 38851,
       "lastActivity": "2026-10-03"
     },
     {
@@ -1534,8 +1534,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10471,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 10472,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "43",
@@ -1835,8 +1835,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27306,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 27313,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "306",
@@ -1926,8 +1926,8 @@
       "id": "480",
       "regionSite": "1-91",
       "name": "Powerkarts Canberra, Griffith, ACT, AU",
-      "gamesTotal": 73,
-      "lastActivity": "2026-09-22"
+      "gamesTotal": 76,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "140",
@@ -1968,8 +1968,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40176,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 40182,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "58",
@@ -2136,8 +2136,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 51775,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 52052,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "29",
@@ -2262,8 +2262,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84797,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 84801,
+      "lastActivity": "2026-10-03"
     },
     {
       "id": "413",
