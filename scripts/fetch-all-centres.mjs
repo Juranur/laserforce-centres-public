@@ -1,6 +1,7 @@
 /**
  * Fetch script for Laserforce centres
- * Rotates through centres so all get checked over multiple runs
+ * - Rotates through centres to handle rate limiting
+ * - Preserves centres that disappear from API with "no longer public" status
  */
 
 import * as fs from 'fs';
@@ -10,11 +11,11 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Very conservative delays
-const BASE_DELAY = 4000;         // 4 seconds between requests
-const RATE_LIMIT_PAUSE = 60000;  // 60 second pause when rate limited
-const CONSECUTIVE_LIMIT = 2;     // Pause after 2 consecutive rate limits
-const BATCH_SIZE = 20;           // Save every 20 centres
+// Conservative delays
+const BASE_DELAY = 4000;
+const RATE_LIMIT_PAUSE = 60000;
+const CONSECUTIVE_LIMIT = 2;
+const BATCH_SIZE = 20;
 
 const CENTRES_API = 'https://v2.iplaylaserforce.com/globalScoringDropdownInfo.php';
 const SCORING_API = 'https://v2.iplaylaserforce.com/globalScoring.php';
@@ -55,7 +56,7 @@ async function fetchCentreList() {
   });
 
   const data = await response.json();
-  log(`Found ${data.centres.length} centres`);
+  log(`Found ${data.centres.length} centres in API`);
   return data.centres;
 }
 
@@ -92,8 +93,8 @@ async function fetchGamesTotal(centreId) {
   }
 }
 
-function saveData(outputPath, centreList, results, lastCheckedIndex) {
-  const centres = centreList.map(c => {
+function saveData(outputPath, activeCentres, retiredCentres, results, lastCheckedIndex) {
+  const activeMapped = activeCentres.map(c => {
     const data = results.get(c.centreId) || { gamesTotal: 0, lastActivity: 'before 2026' };
     return {
       id: c.centreId,
@@ -101,15 +102,29 @@ function saveData(outputPath, centreList, results, lastCheckedIndex) {
       name: c.centre,
       gamesTotal: data.gamesTotal,
       lastActivity: data.lastActivity,
+      status: 'active'
     };
   });
 
+  const retiredMapped = retiredCentres.map(c => ({
+    id: c.id,
+    regionSite: c.regionSite,
+    name: c.name,
+    gamesTotal: c.gamesTotal,
+    lastActivity: c.lastActivity || 'before 2026',
+    status: 'no longer public'
+  }));
+
+  const allCentres = [...activeMapped, ...retiredMapped];
+
   const output = {
     lastUpdated: new Date().toISOString(),
-    totalCentres: centres.length,
-    centresWithData: centres.filter(c => c.gamesTotal > 0).length,
+    totalCentres: allCentres.length,
+    activeCentres: activeMapped.length,
+    retiredCentres: retiredMapped.length,
+    centresWithData: allCentres.filter(c => c.gamesTotal > 0).length,
     lastCheckedIndex: lastCheckedIndex,
-    centres,
+    centres: allCentres,
   };
 
   const dataDir = path.join(__dirname, '..', 'data');
@@ -122,44 +137,63 @@ function saveData(outputPath, centreList, results, lastCheckedIndex) {
 async function main() {
   log('=== Laserforce Data Fetch Started ===');
   log(`Date: ${getTodayDate()}`);
-  log('Mode: Rotating through centres (4s delay, 60s pause on rate limit)');
+  log('Mode: Rotating + preserving retired centres');
 
   const outputPath = path.join(__dirname, '..', 'data', 'centres.json');
   const today = getTodayDate();
 
   const results = new Map();
   let startIndex = 0;
+  let fullExistingCentres = [];
 
   if (fs.existsSync(outputPath)) {
     try {
       const existing = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
       if (existing.centres) {
+        fullExistingCentres = existing.centres;
         for (const c of existing.centres) {
           results.set(c.id, {
             gamesTotal: c.gamesTotal || 0,
             lastActivity: c.lastActivity || 'before 2026',
+            status: c.status || 'active',
           });
         }
         log(`Loaded ${results.size} existing records`);
       }
       if (typeof existing.lastCheckedIndex === 'number') {
         startIndex = (existing.lastCheckedIndex + 1) % existing.totalCentres;
-        log(`Resuming from index ${startIndex} (last checked: ${existing.lastCheckedIndex})`);
+        log(`Resuming from index ${startIndex}`);
       }
     } catch (err) {
       log(`Warning: Could not load existing data: ${err.message}`);
     }
   }
 
-  const centreList = await fetchCentreList();
-  const total = centreList.length;
+  const activeCentres = await fetchCentreList();
+  const activeIds = new Set(activeCentres.map(c => c.centreId));
 
+  // Build retired centres list (preserved from existing data)
+  const retiredCentres = [];
+  for (const c of fullExistingCentres) {
+    if (!activeIds.has(c.id)) {
+      retiredCentres.push({
+        id: c.id,
+        regionSite: c.regionSite,
+        name: c.name,
+        gamesTotal: c.gamesTotal,
+        lastActivity: c.lastActivity || 'before 2026',
+      });
+    }
+  }
+
+  log(`Active centres: ${activeCentres.length}`);
+  log(`Retired centres (preserved): ${retiredCentres.length}`);
+
+  const total = activeCentres.length;
   const reorderedList = [
-    ...centreList.slice(startIndex),
-    ...centreList.slice(0, startIndex)
+    ...activeCentres.slice(startIndex),
+    ...activeCentres.slice(0, startIndex)
   ];
-
-  log(`Rotation: Starting from index ${startIndex}, will check ${reorderedList.length} centres`);
 
   let completed = 0;
   let changesDetected = 0;
@@ -180,11 +214,10 @@ async function main() {
       consecutiveRateLimits++;
 
       if (consecutiveRateLimits >= CONSECUTIVE_LIMIT) {
-        log(`⚠️ Rate limited ${consecutiveRateLimits}x in a row, pausing 60s... (total hits: ${rateLimitHits})`);
+        log(`⚠️ Rate limited ${consecutiveRateLimits}x, pausing 60s... (total: ${rateLimitHits})`);
         await sleep(RATE_LIMIT_PAUSE);
         consecutiveRateLimits = 0;
       }
-
       continue;
     }
 
@@ -199,6 +232,7 @@ async function main() {
         results.set(centre.centreId, {
           gamesTotal: newTotal,
           lastActivity: today,
+          status: 'active',
         });
         changesDetected++;
         log(`✓ ${centre.centreId}: ${existing.gamesTotal} → ${newTotal} (${diff > 0 ? '+' : ''}${diff})`);
@@ -206,6 +240,7 @@ async function main() {
         results.set(centre.centreId, {
           gamesTotal: newTotal,
           lastActivity: existing.lastActivity,
+          status: 'active',
         });
       }
     }
@@ -214,7 +249,7 @@ async function main() {
 
     if (completed % BATCH_SIZE === 0) {
       log(`Progress: ${completed}/${reorderedList.length} | Changes: ${changesDetected} | Rate limits: ${rateLimitHits}`);
-      saveData(outputPath, centreList, results, lastCheckedIdx);
+      saveData(outputPath, activeCentres, retiredCentres, results, lastCheckedIdx);
     }
 
     if (!shouldStop()) {
@@ -222,17 +257,17 @@ async function main() {
     }
   }
 
-  const output = saveData(outputPath, centreList, results, lastCheckedIdx);
+  const output = saveData(outputPath, activeCentres, retiredCentres, results, lastCheckedIdx);
   const elapsed = Math.round((Date.now() - START_TIME) / 60000);
 
   log(`\n=== Complete in ${elapsed} minutes ===`);
-  log(`Centres checked this run: ${completed}/${total}`);
+  log(`Active centres checked: ${completed}/${total}`);
+  log(`Retired centres preserved: ${retiredCentres.length}`);
   log(`Last checked index: ${lastCheckedIdx}`);
-  log(`Next run will start from index: ${(lastCheckedIdx + 1) % total}`);
+  log(`Next run starts at: ${(lastCheckedIdx + 1) % total}`);
   log(`Changes detected: ${changesDetected}`);
   log(`Rate limit hits: ${rateLimitHits}`);
-  log(`Centres with data: ${output.centresWithData}`);
-  log(`Centres with today's date: ${output.centres.filter(c => c.lastActivity === today).length}`);
+  log(`Total centres in data: ${output.totalCentres}`);
 }
 
 main().catch(err => {
