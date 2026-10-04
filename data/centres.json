@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-04T06:20:12.023Z",
+  "lastUpdated": "2026-10-04T13:00:05.490Z",
   "totalCentres": 351,
   "centresWithData": 351,
-  "lastCheckedIndex": 112,
+  "lastCheckedIndex": 39,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33241,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 33243,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "25",
@@ -197,8 +197,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1358,
-      "lastActivity": "2026-09-26"
+      "gamesTotal": 1360,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "360",
@@ -904,8 +904,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13138,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 13164,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "368",
@@ -1002,8 +1002,8 @@
       "id": "497",
       "regionSite": "11-4",
       "name": "Laser tag arena i Skelleftea AB, Sweden",
-      "gamesTotal": 61,
-      "lastActivity": "2026-08-16"
+      "gamesTotal": 63,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "278",
@@ -1037,15 +1037,15 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35871,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 35965,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9509,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 9530,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "188",
@@ -1163,15 +1163,15 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 91962,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 92004,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "113",
       "regionSite": "11-1",
       "name": "Laserfortet, Stockholm",
-      "gamesTotal": 9253,
-      "lastActivity": "before 2026"
+      "gamesTotal": 9254,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "498",
@@ -1219,8 +1219,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 58988,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 59051,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "134",
@@ -1282,8 +1282,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5265,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 5273,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "252",
@@ -1310,8 +1310,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15211,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 15217,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "230",
@@ -1373,8 +1373,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8027,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 8032,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "279",
@@ -1436,8 +1436,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43752,
-      "lastActivity": "2026-09-20"
+      "gamesTotal": 43756,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "168",
@@ -1450,8 +1450,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49281,
-      "lastActivity": "2026-09-28"
+      "gamesTotal": 49311,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "141",
@@ -1485,7 +1485,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9100,
+      "gamesTotal": 9107,
       "lastActivity": "2026-10-04"
     },
     {
@@ -1499,7 +1499,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38875,
+      "gamesTotal": 38883,
       "lastActivity": "2026-10-04"
     },
     {
@@ -1534,15 +1534,15 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10472,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 10474,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76612,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 76622,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "44",
@@ -1716,7 +1716,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4202,
+      "gamesTotal": 4215,
       "lastActivity": "2026-10-04"
     },
     {
@@ -1842,15 +1842,15 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27315,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 27448,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10285,
-      "lastActivity": "2026-09-29"
+      "gamesTotal": 10297,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "302",
@@ -1870,8 +1870,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8408,
-      "lastActivity": "2026-10-03"
+      "gamesTotal": 8426,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "166",
@@ -1891,8 +1891,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 530,
-      "lastActivity": "2026-10-01"
+      "gamesTotal": 532,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "399",
@@ -2003,8 +2003,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 127542,
-      "lastActivity": "2026-10-02"
+      "gamesTotal": 127545,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "441",
@@ -2220,8 +2220,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4403,
-      "lastActivity": "2026-09-27"
+      "gamesTotal": 4451,
+      "lastActivity": "2026-10-04"
     },
     {
       "id": "111",
