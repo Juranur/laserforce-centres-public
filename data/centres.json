@@ -1,8 +1,8 @@
 {
   "lastUpdated": "2026-10-05T06:04:09.142Z",
-  "totalCentres": 351,
+  "totalCentres": 364,
   "activeCentres": 351,
-  "retiredCentres": 0,
+  "retiredCentres": 13,
   "centresWithData": 351,
   "lastCheckedIndex": 314,
   "centres": [
@@ -2813,6 +2813,110 @@
       "gamesTotal": 5,
       "lastActivity": "before 2026",
       "status": "active"
+    },
+    {
+      "id": "314",
+      "regionSite": "4-128",
+      "name": "Celebrity Lanes, Centennial, CO, USA",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "38",
+      "regionSite": "1-42",
+      "name": "Kemizo, Pakenham, VIC, AU",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "264",
+      "regionSite": "2-20",
+      "name": "Laserforce Drummondville, Drummondville, Quebec, CA",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "108",
+      "regionSite": "7-4",
+      "name": "Laserforce Leicester",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "147",
+      "regionSite": "9-6",
+      "name": "Laserforce Moscow",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "106",
+      "regionSite": "7-2",
+      "name": "Laserforce Peterborough",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "3",
+      "regionSite": "3-1",
+      "name": "Laserforce Wellington, NZ",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "170",
+      "regionSite": "1-70",
+      "name": "Laserfun, Cairns, AU",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "211",
+      "regionSite": "21-53",
+      "name": "Laserplex LaserTag Arena Dusseldorf, DE",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "237",
+      "regionSite": "21-73",
+      "name": "Lasertag Sports Bedburg, DE",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "228",
+      "regionSite": "21-65",
+      "name": "Lasertag Wittenberg, Wittenberg, DE",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "347",
+      "regionSite": "1-79",
+      "name": "Mackay Leisure Centre, Paget, QLD, AU",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "255",
+      "regionSite": "1-66",
+      "name": "Muswellbrook Amusement Centre, Muswellbrook, NSW, AU",
+      "gamesTotal": 0,
+      "lastActivity": "2022-08-14",
+      "status": "no longer public"
     }
   ]
 }

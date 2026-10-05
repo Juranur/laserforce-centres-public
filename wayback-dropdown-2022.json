@@ -1,0 +1,1194 @@
+{
+	"centres": [
+		{
+			"centreId": "159",
+			"regionSite": "21-22",
+			"centre": "3D Lasersports 2.0, Frechen, Gemany"
+		},
+		{
+			"centreId": "269",
+			"regionSite": "19-3",
+			"centre": "Actionworld AG, Obfelden, CHE"
+		},
+		{
+			"centreId": "84",
+			"regionSite": "4-38",
+			"centre": "Activekidz, New York, NY, US"
+		},
+		{
+			"centreId": "138",
+			"regionSite": "1-56",
+			"centre": "Airtime 360, Launceston, TAS, AU"
+		},
+		{
+			"centreId": "334",
+			"regionSite": "4-148",
+			"centre": "All American Fun Park, GA, USA"
+		},
+		{
+			"centreId": "101",
+			"regionSite": "4-61",
+			"centre": "All-Star Bowling, UTAH, USA"
+		},
+		{
+			"centreId": "213",
+			"regionSite": "4-88",
+			"centre": "Alley Cats, Arlington, Texas, USA"
+		},
+		{
+			"centreId": "180",
+			"regionSite": "21-36",
+			"centre": "Alpha Laser Tag, Karlsruhe, DE"
+		},
+		{
+			"centreId": "340",
+			"regionSite": "4-146",
+			"centre": "Apex Entertainment Albany, NY, USA"
+		},
+		{
+			"centreId": "345",
+			"regionSite": "4-156",
+			"centre": "Apex Entertainment Marlborough, MA, USA"
+		},
+		{
+			"centreId": "316",
+			"regionSite": "4-130",
+			"centre": "Apex Entertainment, NY, USA"
+		},
+		{
+			"centreId": "184",
+			"regionSite": "1-61",
+			"centre": "Archie Brothers, Alexandria, NSW, AU"
+		},
+		{
+			"centreId": "367",
+			"regionSite": "1-85",
+			"centre": "Archie Brothers, Docklands, VIC, AU"
+		},
+		{
+			"centreId": "238",
+			"regionSite": "21-75",
+			"centre": "ATOXI Sport GmbH, Rostock, DE"
+		},
+		{
+			"centreId": "372",
+			"regionSite": "20-9",
+			"centre": "Aurora Lasergames, Kladno, CZ"
+		},
+		{
+			"centreId": "353",
+			"regionSite": "1-82",
+			"centre": "Back To The Arcade, Goulburn, NSW, AU"
+		},
+		{
+			"centreId": "289",
+			"regionSite": "21-87",
+			"centre": "Baltic Lasertag, Neubrandenburg, DE"
+		},
+		{
+			"centreId": "98",
+			"regionSite": "4-58",
+			"centre": "BAM, Holland, MI, USA"
+		},
+		{
+			"centreId": "360",
+			"regionSite": "7-11",
+			"centre": "Battle Sector X2, Kent, UK"
+		},
+		{
+			"centreId": "262",
+			"regionSite": "21-67",
+			"centre": "BBE Event GmbH, Leipzig, DE"
+		},
+		{
+			"centreId": "343",
+			"regionSite": "21-102",
+			"centre": "BK Laser Sport GmbH, Leverkusen, DE"
+		},
+		{
+			"centreId": "142",
+			"regionSite": "21-10",
+			"centre": "Black Fox Lasertag, Rosenheim, Germany"
+		},
+		{
+			"centreId": "290",
+			"regionSite": "4-108",
+			"centre": "Bowl 32, Noblesville, IN, USA"
+		},
+		{
+			"centreId": "336",
+			"regionSite": "33-9",
+			"centre": "Bowl n Fun Aalborg ApS, Aalborg, DK"
+		},
+		{
+			"centreId": "295",
+			"regionSite": "33-6",
+			"centre": "Bowl n Fun Haderslev ApS, Haderslev, DK"
+		},
+		{
+			"centreId": "294",
+			"regionSite": "33-5",
+			"centre": "Bowl n Fun Naestved ApS, Naestved, DK"
+		},
+		{
+			"centreId": "281",
+			"regionSite": "33-4",
+			"centre": "Bowl n Fun Odense ApS, Odense, Denmark"
+		},
+		{
+			"centreId": "318",
+			"regionSite": "33-8",
+			"centre": "Bowl n Fun Sonderborg ApS, Sonderborg, DK"
+		},
+		{
+			"centreId": "307",
+			"regionSite": "33-7",
+			"centre": "Bowl n Fun Svendborg ApS, Svendborg, DK"
+		},
+		{
+			"centreId": "239",
+			"regionSite": "33-1",
+			"centre": "Bowl n Fun, Kolding, Denmark"
+		},
+		{
+			"centreId": "250",
+			"regionSite": "33-2",
+			"centre": "Bowl n Fun, Silkeborg, Denmark"
+		},
+		{
+			"centreId": "251",
+			"regionSite": "33-3",
+			"centre": "Bowl n Fun, Viborg, Denmark"
+		},
+		{
+			"centreId": "205",
+			"regionSite": "21-46",
+			"centre": "Bowling Room Trier Betriebs GmbH, DE"
+		},
+		{
+			"centreId": "258",
+			"regionSite": "19-2",
+			"centre": "Bowlingcenter Aarau, Aarau, Switzerland"
+		},
+		{
+			"centreId": "81",
+			"regionSite": "4-34",
+			"centre": "Branchburg Sports Complex, NJ, US"
+		},
+		{
+			"centreId": "300",
+			"regionSite": "21-89",
+			"centre": "BSA Bergische Sportarena GmbH & Co. KG, Wermelskirchen, DE"
+		},
+		{
+			"centreId": "35",
+			"regionSite": "1-38",
+			"centre": "Cairns Go-karts and Lasertag, Cairns, QLD, AU"
+		},
+		{
+			"centreId": "254",
+			"regionSite": "21-84",
+			"centre": "Caribbean Sports GmbH, Oberderdingen, DE"
+		},
+		{
+			"centreId": "314",
+			"regionSite": "4-128",
+			"centre": "Celebrity Lanes, Centennial, CO, USA"
+		},
+		{
+			"centreId": "249",
+			"regionSite": "21-83",
+			"centre": "Code Red Lasertagarena, Kempten, DE"
+		},
+		{
+			"centreId": "348",
+			"regionSite": "21-104",
+			"centre": "Die Kugel Spielhallen GmbH, Solingen, DE"
+		},
+		{
+			"centreId": "338",
+			"regionSite": "22-2",
+			"centre": "DIPIC Fun Management, Cluj, Romania"
+		},
+		{
+			"centreId": "210",
+			"regionSite": "21-52",
+			"centre": "District 44 GmbH, Grundau-Lieblos, DE"
+		},
+		{
+			"centreId": "276",
+			"regionSite": "4-85",
+			"centre": "Drop Zone, Iowa, USA"
+		},
+		{
+			"centreId": "342",
+			"regionSite": "4-152",
+			"centre": "EPIC Family Entertainment Center, LA, USA"
+		},
+		{
+			"centreId": "282",
+			"regionSite": "2-21",
+			"centre": "Espace 81 #1, Drummondville, Quebec, CA"
+		},
+		{
+			"centreId": "283",
+			"regionSite": "2-22",
+			"centre": "Espace 81 #2, Drummondville, Quebec, CA"
+		},
+		{
+			"centreId": "268",
+			"regionSite": "17-2",
+			"centre": "Experymentarium Arena Laser Games, Lodz, Poland"
+		},
+		{
+			"centreId": "312",
+			"regionSite": "4-127",
+			"centre": "Family Fun Factory of CNY LLC"
+		},
+		{
+			"centreId": "358",
+			"regionSite": "20-8",
+			"centre": "Fantasy Lasergame, Karlovy Vary, CZ"
+		},
+		{
+			"centreId": "321",
+			"regionSite": "4-136",
+			"centre": "Fast Lane Entertainment, AR, USA"
+		},
+		{
+			"centreId": "209",
+			"regionSite": "21-51",
+			"centre": "First Lasertag, Kornwestheim, DE"
+		},
+		{
+			"centreId": "234",
+			"regionSite": "4-93",
+			"centre": "Flight Fit N Fun, Columbia, SC"
+		},
+		{
+			"centreId": "320",
+			"regionSite": "4-133",
+			"centre": "Flight Zone, Wyoming, USA"
+		},
+		{
+			"centreId": "261",
+			"regionSite": "4-106",
+			"centre": "Freeway Lanes, Solon, OH, USA"
+		},
+		{
+			"centreId": "242",
+			"regionSite": "21-74",
+			"centre": "Fuerst Grundstuecks Co GmbH, Pleinfeld, DE"
+		},
+		{
+			"centreId": "317",
+			"regionSite": "21-94",
+			"centre": "Full-One Lasertag, Winterberg, DE"
+		},
+		{
+			"centreId": "49",
+			"regionSite": "4-67",
+			"centre": "Fun Depot, FL, US"
+		},
+		{
+			"centreId": "309",
+			"regionSite": "21-91",
+			"centre": "Fun Park Bergstrasse GmbH, Bensheim, DE"
+		},
+		{
+			"centreId": "192",
+			"regionSite": "21-41",
+			"centre": "Fun Sport Area GmbH, Troisdorf, DE"
+		},
+		{
+			"centreId": "362",
+			"regionSite": "7-13",
+			"centre": "Funky Laser, Cheltenham, UK"
+		},
+		{
+			"centreId": "199",
+			"regionSite": "1-63",
+			"centre": "Funland, Ulladulla, NSW, AU"
+		},
+		{
+			"centreId": "127",
+			"regionSite": "19-1",
+			"centre": "Funlaser Saint-Blaise, Switzerland"
+		},
+		{
+			"centreId": "105",
+			"regionSite": "4-66",
+			"centre": "Funset Boulevard, WI, US"
+		},
+		{
+			"centreId": "291",
+			"regionSite": "7-9",
+			"centre": "Funstation Ltd, Edinburgh, Scotland"
+		},
+		{
+			"centreId": "110",
+			"regionSite": "9-2",
+			"centre": "Funtime Russia SuperNova, Irkutsk, RU"
+		},
+		{
+			"centreId": "15",
+			"regionSite": "1-18",
+			"centre": "Funzone, Rockhampton"
+		},
+		{
+			"centreId": "116",
+			"regionSite": "15-2",
+			"centre": "Galactic Lasers, Sunway Pyramid, Malaysia"
+		},
+		{
+			"centreId": "46",
+			"regionSite": "1-52",
+			"centre": "Game Over Pty Ltd, Coomera, QLD, AU"
+		},
+		{
+			"centreId": "313",
+			"regionSite": "3-7",
+			"centre": "Game Over, Albany, NZ"
+		},
+		{
+			"centreId": "206",
+			"regionSite": "21-48",
+			"centre": "HD Lasertag, Ibbenburen, DE"
+		},
+		{
+			"centreId": "323",
+			"regionSite": "4-137",
+			"centre": "Idle Hours South, PA, USA"
+		},
+		{
+			"centreId": "87",
+			"regionSite": "4-43",
+			"centre": "Invasion Laser Tag, San Marcos, CA, US"
+		},
+		{
+			"centreId": "28",
+			"regionSite": "1-31",
+			"centre": "iPlay Australia - Belconnen, ACT, AU"
+		},
+		{
+			"centreId": "86",
+			"regionSite": "4-41",
+			"centre": "Jungle Rapids, Wilmington, NC, US"
+		},
+		{
+			"centreId": "10",
+			"regionSite": "1-9",
+			"centre": "Kartmania, Gepps Cross"
+		},
+		{
+			"centreId": "322",
+			"regionSite": "4-135",
+			"centre": "Kartrite Hotel & Indoor Water Park, IL, USA"
+		},
+		{
+			"centreId": "38",
+			"regionSite": "1-42",
+			"centre": "Kemizo, Pakenham, VIC, AU"
+		},
+		{
+			"centreId": "90",
+			"regionSite": "4-47",
+			"centre": "King Putt Las Vegas, NV, USA"
+		},
+		{
+			"centreId": "273",
+			"regionSite": "1-71",
+			"centre": "Kingpin Chermside, Chermside, QLD, AU"
+		},
+		{
+			"centreId": "303",
+			"regionSite": "1-75",
+			"centre": "Kingpin Macarthur, Campbelltown, NSW, AU"
+		},
+		{
+			"centreId": "130",
+			"regionSite": "21-1",
+			"centre": "KNK eG, Mannheim, Germany"
+		},
+		{
+			"centreId": "355",
+			"regionSite": "21-110",
+			"centre": "KR Freizeit & Event Gbr, Oberhausen, DE"
+		},
+		{
+			"centreId": "368",
+			"regionSite": "4-165",
+			"centre": "Kynytyx 1, Bellport, NY, USA"
+		},
+		{
+			"centreId": "369",
+			"regionSite": "4-167",
+			"centre": "Kynytyx 2, Bellport, NY, USA"
+		},
+		{
+			"centreId": "177",
+			"regionSite": "21-33",
+			"centre": "Laser Circus, Regensburg, DE"
+		},
+		{
+			"centreId": "154",
+			"regionSite": "2-11",
+			"centre": "Laser City Calgary South, Calgary, CA"
+		},
+		{
+			"centreId": "160",
+			"regionSite": "21-23",
+			"centre": "Laser Heroes #1, Bremen, DE"
+		},
+		{
+			"centreId": "229",
+			"regionSite": "21-66",
+			"centre": "Laser Heroes #3, Bremen, DE"
+		},
+		{
+			"centreId": "218",
+			"regionSite": "21-59",
+			"centre": "Laser Heroes GmbH, Bremerhaven, DE"
+		},
+		{
+			"centreId": "56",
+			"regionSite": "4-2",
+			"centre": "Laser Mania, St George, UT, USA"
+		},
+		{
+			"centreId": "141",
+			"regionSite": "21-9",
+			"centre": "Laser Tag Arena Denzlingen Germany"
+		},
+		{
+			"centreId": "278",
+			"regionSite": "21-18",
+			"centre": "Laser Tag Arena Suhl, Suhl, DE"
+		},
+		{
+			"centreId": "133",
+			"regionSite": "21-4",
+			"centre": "Laser Tag Arena, Oldenburg, Germany"
+		},
+		{
+			"centreId": "175",
+			"regionSite": "21-31",
+			"centre": "Laser Tag Arena, Osnabrueck, Germany"
+		},
+		{
+			"centreId": "161",
+			"regionSite": "2-12",
+			"centre": "Laser Tag Central, AB, CA"
+		},
+		{
+			"centreId": "215",
+			"regionSite": "21-55",
+			"centre": "Laser Tag Delmenhorst, DE"
+		},
+		{
+			"centreId": "188",
+			"regionSite": "21-39",
+			"centre": "Laser Universe, Schwentinental, DE"
+		},
+		{
+			"centreId": "59",
+			"regionSite": "4-7",
+			"centre": "Laser Zone, Sugarland"
+		},
+		{
+			"centreId": "152",
+			"regionSite": "21-16",
+			"centre": "Laserabyss, Altenkirchen, DE"
+		},
+		{
+			"centreId": "189",
+			"regionSite": "24-2",
+			"centre": "Laserbase.at, Rauchenwarth, Austria"
+		},
+		{
+			"centreId": "53",
+			"regionSite": "3-3",
+			"centre": "Laserforce Auckland"
+		},
+		{
+			"centreId": "8",
+			"regionSite": "1-5",
+			"centre": "Laserforce Ballarat"
+		},
+		{
+			"centreId": "2",
+			"regionSite": "1-1",
+			"centre": "Laserforce Brisbane"
+		},
+		{
+			"centreId": "264",
+			"regionSite": "2-20",
+			"centre": "Laserforce Drummondville, Drummondville, Quebec, CA"
+		},
+		{
+			"centreId": "165",
+			"regionSite": "21-26",
+			"centre": "Laserforce Gruenstadt"
+		},
+		{
+			"centreId": "148",
+			"regionSite": "21-12",
+			"centre": "Laserforce Kaiserslautern, Kaiserslautern, DE"
+		},
+		{
+			"centreId": "108",
+			"regionSite": "7-4",
+			"centre": "Laserforce Leicester"
+		},
+		{
+			"centreId": "12",
+			"regionSite": "1-15",
+			"centre": "Laserforce Mildura"
+		},
+		{
+			"centreId": "147",
+			"regionSite": "9-6",
+			"centre": "Laserforce Moscow"
+		},
+		{
+			"centreId": "106",
+			"regionSite": "7-2",
+			"centre": "Laserforce Peterborough"
+		},
+		{
+			"centreId": "216",
+			"regionSite": "21-56",
+			"centre": "Laserforce Ritterhude, Ritterhude, DE"
+		},
+		{
+			"centreId": "3",
+			"regionSite": "3-1",
+			"centre": "Laserforce Wellington, NZ"
+		},
+		{
+			"centreId": "113",
+			"regionSite": "11-1",
+			"centre": "Laserfortet, Stockholm"
+		},
+		{
+			"centreId": "170",
+			"regionSite": "1-70",
+			"centre": "Laserfun, Cairns, AU"
+		},
+		{
+			"centreId": "324",
+			"regionSite": "21-96",
+			"centre": "LaserHall Borstingen, DE"
+		},
+		{
+			"centreId": "225",
+			"regionSite": "30-1",
+			"centre": "Laserhunt, Skopje, Macedonia"
+		},
+		{
+			"centreId": "352",
+			"regionSite": "21-109",
+			"centre": "Laserland Bautzen, Bautzen, DE"
+		},
+		{
+			"centreId": "308",
+			"regionSite": "21-90",
+			"centre": "Laserland, Dresden, DE"
+		},
+		{
+			"centreId": "134",
+			"regionSite": "21-5",
+			"centre": "Laserplanet, Oberwerrn, Germany"
+		},
+		{
+			"centreId": "211",
+			"regionSite": "21-53",
+			"centre": "Laserplex LaserTag Arena Dusseldorf, DE"
+		},
+		{
+			"centreId": "298",
+			"regionSite": "21-88",
+			"centre": "Laserplex LaserTag Arena, Wuppertal, DE"
+		},
+		{
+			"centreId": "382",
+			"regionSite": "1-78",
+			"centre": "Laserquest Geelong, Geelong VIC, AU"
+		},
+		{
+			"centreId": "223",
+			"regionSite": "21-62",
+			"centre": "Lasertag Arena Elbepark, Hohe Borde, DE"
+		},
+		{
+			"centreId": "311",
+			"regionSite": "21-93",
+			"centre": "Lasertag Arena Magdeburg, Magdeburg, DE"
+		},
+		{
+			"centreId": "252",
+			"regionSite": "34-1",
+			"centre": "Lasertag Arena, Athens, Greece"
+		},
+		{
+			"centreId": "366",
+			"regionSite": "21-115",
+			"centre": "LaserTag Aschaffenburg, Aschaffenburg, DE"
+		},
+		{
+			"centreId": "380",
+			"regionSite": "21-105",
+			"centre": "Lasertag Bautzen, Bautzen, DE"
+		},
+		{
+			"centreId": "263",
+			"regionSite": "21-86",
+			"centre": "Lasertag Bonn, Bonn, DE"
+		},
+		{
+			"centreId": "230",
+			"regionSite": "21-70",
+			"centre": "Lasertag Deutschland 1, Darmstadt, Germany"
+		},
+		{
+			"centreId": "231",
+			"regionSite": "21-71",
+			"centre": "Lasertag Deutschland 2, Darmstadt, Germany"
+		},
+		{
+			"centreId": "186",
+			"regionSite": "21-37",
+			"centre": "Lasertag Friedrichshafen, DE"
+		},
+		{
+			"centreId": "178",
+			"regionSite": "21-34",
+			"centre": "Lasertag Fun Center, Hannover, DE"
+		},
+		{
+			"centreId": "248",
+			"regionSite": "21-82",
+			"centre": "Lasertag Ingolstadt, DE"
+		},
+		{
+			"centreId": "179",
+			"regionSite": "21-35",
+			"centre": "Lasertag Landau, Landau, Germany"
+		},
+		{
+			"centreId": "279",
+			"regionSite": "21-63",
+			"centre": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE"
+		},
+		{
+			"centreId": "373",
+			"regionSite": "7-15",
+			"centre": "Lasertag Nottingham, Nottingham, UK"
+		},
+		{
+			"centreId": "237",
+			"regionSite": "21-73",
+			"centre": "Lasertag Sports Bedburg, DE"
+		},
+		{
+			"centreId": "228",
+			"regionSite": "21-65",
+			"centre": "Lasertag Wittenberg, Wittenberg, DE"
+		},
+		{
+			"centreId": "191",
+			"regionSite": "21-40",
+			"centre": "Laserzone Augsburg, Augsburg, DE"
+		},
+		{
+			"centreId": "219",
+			"regionSite": "21-60",
+			"centre": "Laserzone Bielefeld, Bielefeld, DE"
+		},
+		{
+			"centreId": "339",
+			"regionSite": "21-103",
+			"centre": "Laserzone Duisburg, Duisburg, DE"
+		},
+		{
+			"centreId": "143",
+			"regionSite": "21-11",
+			"centre": "Laserzone Dusseldorf, Dusseldorf, Germany"
+		},
+		{
+			"centreId": "167",
+			"regionSite": "21-28",
+			"centre": "Laserzone Essen1, Essen, DE"
+		},
+		{
+			"centreId": "168",
+			"regionSite": "21-29",
+			"centre": "Laserzone Essen2, Essen, DE"
+		},
+		{
+			"centreId": "139",
+			"regionSite": "21-7",
+			"centre": "Laserzone Frankfurt, Frankfurt, Germany"
+		},
+		{
+			"centreId": "212",
+			"regionSite": "21-54",
+			"centre": "Laserzone Kiel, Kiel, DE"
+		},
+		{
+			"centreId": "243",
+			"regionSite": "21-76",
+			"centre": "Laserzone Kray, Essen, DE"
+		},
+		{
+			"centreId": "330",
+			"regionSite": "21-98",
+			"centre": "Laserzone Mainz, Mainz, DE"
+		},
+		{
+			"centreId": "337",
+			"regionSite": "21-101",
+			"centre": "Laserzone Monchengladbach, Monchengladbach, DE"
+		},
+		{
+			"centreId": "296",
+			"regionSite": "7-10",
+			"centre": "LaserZone, Bradford, UK"
+		},
+		{
+			"centreId": "227",
+			"regionSite": "7-8",
+			"centre": "LaserZone, Huddersfield, UK"
+		},
+		{
+			"centreId": "164",
+			"regionSite": "21-25",
+			"centre": "Laserzone, Wuerselen, DE"
+		},
+		{
+			"centreId": "43",
+			"regionSite": "1-49",
+			"centre": "Lazer Blaze Malaga, WA, AU"
+		},
+		{
+			"centreId": "44",
+			"regionSite": "1-50",
+			"centre": "Lazer Blaze Willetton, WA, AU"
+		},
+		{
+			"centreId": "23",
+			"regionSite": "1-26",
+			"centre": "Lazer Blaze, Port Kennedy, WA, AU"
+		},
+		{
+			"centreId": "97",
+			"regionSite": "4-56",
+			"centre": "Lazertag Extreme, CA, USA"
+		},
+		{
+			"centreId": "174",
+			"regionSite": "21-30",
+			"centre": "Legendary Lasertag, Giessen, DE"
+		},
+		{
+			"centreId": "329",
+			"regionSite": "21-97",
+			"centre": "Leons Lasertag, Verden, DE"
+		},
+		{
+			"centreId": "194",
+			"regionSite": "21-43",
+			"centre": "Lola Lasertag GmbH, Hameln, DE"
+		},
+		{
+			"centreId": "137",
+			"regionSite": "24-1",
+			"centre": "Lolli Park, Pasching AUT"
+		},
+		{
+			"centreId": "173",
+			"regionSite": "4-80",
+			"centre": "Lost Worlds Entertainment, City of Industry, CA"
+		},
+		{
+			"centreId": "70",
+			"regionSite": "4-19",
+			"centre": "Loveland Laser Tag Fun Center"
+		},
+		{
+			"centreId": "39",
+			"regionSite": "1-43",
+			"centre": "M9 Laser Skirmish Blacktown, NSW, AU"
+		},
+		{
+			"centreId": "24",
+			"regionSite": "1-27",
+			"centre": "M9 Laser Skirmish Cross Roads, SA, AU"
+		},
+		{
+			"centreId": "233",
+			"regionSite": "1-65",
+			"centre": "M9 Laser Skirmish Crown Casino, VIC, AU"
+		},
+		{
+			"centreId": "37",
+			"regionSite": "1-40",
+			"centre": "M9 Laser Skirmish North Strathfield, NSW, AU"
+		},
+		{
+			"centreId": "34",
+			"regionSite": "1-37",
+			"centre": "M9 Laser Skirmish Penrith, NSW, AU"
+		},
+		{
+			"centreId": "18",
+			"regionSite": "1-21",
+			"centre": "M9 Laser Skirmish Rooty Hill, NSW, AU"
+		},
+		{
+			"centreId": "21",
+			"regionSite": "1-24",
+			"centre": "M9 Laser Skirmish Watergardens, VIC, AU"
+		},
+		{
+			"centreId": "347",
+			"regionSite": "1-79",
+			"centre": "Mackay Leisure Centre, Paget, QLD, AU"
+		},
+		{
+			"centreId": "202",
+			"regionSite": "4-83",
+			"centre": "Malibu Jacks, Louisville, KY, USA"
+		},
+		{
+			"centreId": "247",
+			"regionSite": "21-80",
+			"centre": "Markmann Lasersports GmbH, Wilhelmshafen, DE"
+		},
+		{
+			"centreId": "341",
+			"regionSite": "4-155",
+			"centre": "Max Family Entertainment Center, SC, USA"
+		},
+		{
+			"centreId": "271",
+			"regionSite": "21-68",
+			"centre": "maX Sportzentrum, Norden, DE"
+		},
+		{
+			"centreId": "9",
+			"regionSite": "1-8",
+			"centre": "Mega Fast Karts, Richmond, SA, AU"
+		},
+		{
+			"centreId": "292",
+			"regionSite": "20-3",
+			"centre": "Mercuria Branik 1, Prague, CZ"
+		},
+		{
+			"centreId": "293",
+			"regionSite": "20-4",
+			"centre": "Mercuria Branik 2, Prague, CZ"
+		},
+		{
+			"centreId": "381",
+			"regionSite": "20-10",
+			"centre": "Mercuria Laser Tag Liberec, Liberec, CZ"
+		},
+		{
+			"centreId": "176",
+			"regionSite": "21-32",
+			"centre": "Multi Laser Tag, Neu-Ulm, DE"
+		},
+		{
+			"centreId": "255",
+			"regionSite": "1-66",
+			"centre": "Muswellbrook Amusement Centre, Muswellbrook, NSW, AU"
+		},
+		{
+			"centreId": "246",
+			"regionSite": "21-79",
+			"centre": "MV Paintball GmbH, Garching, DE"
+		},
+		{
+			"centreId": "310",
+			"regionSite": "21-92",
+			"centre": "Nova Lasertag, Luneburg, DE"
+		},
+		{
+			"centreId": "99",
+			"regionSite": "4-59",
+			"centre": "NRV Superbowl, VA, US"
+		},
+		{
+			"centreId": "198",
+			"regionSite": "11-3",
+			"centre": "O'Learys Mall of Scandinavia, Kista, Sweden"
+		},
+		{
+			"centreId": "214",
+			"regionSite": "7-7",
+			"centre": "Ocean Beach Pleasure Park, United Kingdom"
+		},
+		{
+			"centreId": "62",
+			"regionSite": "4-10",
+			"centre": "Odyssey 1, Tacoma, WA, USA"
+		},
+		{
+			"centreId": "304",
+			"regionSite": "3-6",
+			"centre": "Paradice Ice Skating, Botany, NZ"
+		},
+		{
+			"centreId": "361",
+			"regionSite": "21-111",
+			"centre": "Paraplex Games GmbH, Zell Am Main, DE"
+		},
+		{
+			"centreId": "306",
+			"regionSite": "32-2",
+			"centre": "Park & Garden Co. Ltd, Bangkok, Thailand"
+		},
+		{
+			"centreId": "302",
+			"regionSite": "2-28",
+			"centre": "Parkway Lanes, St. Catharines, Ontario CA"
+		},
+		{
+			"centreId": "267",
+			"regionSite": "4-112",
+			"centre": "Phazer Kraze Laser Tag, Murfreesboro, TN, USA"
+		},
+		{
+			"centreId": "128",
+			"regionSite": "20-1",
+			"centre": "Pilsen Czech Republic"
+		},
+		{
+			"centreId": "370",
+			"regionSite": "7-14",
+			"centre": "Planet Laser, Bury St Edmunds, UK"
+		},
+		{
+			"centreId": "166",
+			"regionSite": "21-27",
+			"centre": "Planet Lasertag Arnsberg, DE"
+		},
+		{
+			"centreId": "332",
+			"regionSite": "24-4",
+			"centre": "Playworld-Spielberg, Knittelfeld, Austria"
+		},
+		{
+			"centreId": "224",
+			"regionSite": "21-64",
+			"centre": "Power Laser, Biberach, Germany"
+		},
+		{
+			"centreId": "140",
+			"regionSite": "21-8",
+			"centre": "PowerLaser, Stuttgart, Germany"
+		},
+		{
+			"centreId": "265",
+			"regionSite": "4-107",
+			"centre": "Putt-Putt Fun Center, Hurst, TX, USA"
+		},
+		{
+			"centreId": "208",
+			"regionSite": "21-50",
+			"centre": "Quantum Lasertag, Speyer, DE"
+		},
+		{
+			"centreId": "384",
+			"regionSite": "7-16",
+			"centre": "Quasar Norwich, Norwich, UK"
+		},
+		{
+			"centreId": "153",
+			"regionSite": "1-58",
+			"centre": "Revolution Laser Arena, Wollongong, NSW, AU"
+		},
+		{
+			"centreId": "58",
+			"regionSite": "4-6",
+			"centre": "Revolution Laser Tag & Arcade, MI, USA"
+		},
+		{
+			"centreId": "272",
+			"regionSite": "4-113",
+			"centre": "REX Center , Las Vegas, USA"
+		},
+		{
+			"centreId": "349",
+			"regionSite": "20-7",
+			"centre": "Ricany Lasergame, Ricany, CZ"
+		},
+		{
+			"centreId": "346",
+			"regionSite": "4-158",
+			"centre": "Rock n Air East Brunswick, NJ, USA"
+		},
+		{
+			"centreId": "222",
+			"regionSite": "21-61",
+			"centre": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE"
+		},
+		{
+			"centreId": "7",
+			"regionSite": "1-4",
+			"centre": "Sidetracked, Oakleigh"
+		},
+		{
+			"centreId": "144",
+			"regionSite": "4-68",
+			"centre": "Silver Star Skate Center, IL, USA"
+		},
+		{
+			"centreId": "195",
+			"regionSite": "21-44",
+			"centre": "Snap7 UG, Nurnberg, DE"
+		},
+		{
+			"centreId": "365",
+			"regionSite": "21-114",
+			"centre": "Sport Mega Drom GmbH, Schwabisch Hall DE"
+		},
+		{
+			"centreId": "151",
+			"regionSite": "21-15",
+			"centre": "Sportpark GmbH, Gelsenkirchen, DE"
+		},
+		{
+			"centreId": "315",
+			"regionSite": "4-129",
+			"centre": "Star Castle Family Entertainment, GA, USA"
+		},
+		{
+			"centreId": "335",
+			"regionSite": "20-6",
+			"centre": "STAR DOMS, Domazlice, CZ"
+		},
+		{
+			"centreId": "344",
+			"regionSite": "1-77",
+			"centre": "Strike Carousel, Cannington, WA, AU"
+		},
+		{
+			"centreId": "357",
+			"regionSite": "1-84",
+			"centre": "Strike Karrinyup, Karrinyup, WA, AU"
+		},
+		{
+			"centreId": "31",
+			"regionSite": "1-34",
+			"centre": "Strike Laser Skirmish Bayside, Vic, AU"
+		},
+		{
+			"centreId": "22",
+			"regionSite": "1-25",
+			"centre": "Strike Laser Skirmish Charlestown, NSW, AU"
+		},
+		{
+			"centreId": "20",
+			"regionSite": "1-23",
+			"centre": "Strike Laser Skirmish Chatswood, NSW, AU"
+		},
+		{
+			"centreId": "27",
+			"regionSite": "1-30",
+			"centre": "Strike Laser Skirmish EQ, Moore Park, NSW, AU"
+		},
+		{
+			"centreId": "45",
+			"regionSite": "1-51",
+			"centre": "Strike Laser Skirmish Macquarie, NSW, AU"
+		},
+		{
+			"centreId": "30",
+			"regionSite": "1-33",
+			"centre": "Strike Laser Skirmish, Melbourne Central, Vic, AU"
+		},
+		{
+			"centreId": "29",
+			"regionSite": "1-32",
+			"centre": "Strike Laser Skirmish, Wintergarden, QLD, AU"
+		},
+		{
+			"centreId": "111",
+			"regionSite": "9-4",
+			"centre": "Syktyvkar, Russia"
+		},
+		{
+			"centreId": "40",
+			"regionSite": "1-46",
+			"centre": "The Big Banana, Coffs Harbour, NSW, AU"
+		},
+		{
+			"centreId": "299",
+			"regionSite": "4-119",
+			"centre": "The Clubhouse, Statesboro, GA, USA"
+		},
+		{
+			"centreId": "74",
+			"regionSite": "4-23",
+			"centre": "The Fun Warehouse, Syracuse"
+		},
+		{
+			"centreId": "77",
+			"regionSite": "4-28",
+			"centre": "The Rush Funplex, Utah"
+		},
+		{
+			"centreId": "145",
+			"regionSite": "4-69",
+			"centre": "The Zone, VA, USA"
+		},
+		{
+			"centreId": "257",
+			"regionSite": "35-1",
+			"centre": "Thrill Zone Game LLC, Dubai, UAE"
+		},
+		{
+			"centreId": "63",
+			"regionSite": "4-11",
+			"centre": "Toads of Fun"
+		},
+		{
+			"centreId": "201",
+			"regionSite": "4-82",
+			"centre": "TriState Funland, Nevada, USA"
+		},
+		{
+			"centreId": "200",
+			"regionSite": "1-64",
+			"centre": "Underworld Laser, Menai, NSW, AU"
+		},
+		{
+			"centreId": "319",
+			"regionSite": "4-132",
+			"centre": "Universal Family Entertainment LLC, Michigan, USA"
+		},
+		{
+			"centreId": "363",
+			"regionSite": "4-166",
+			"centre": "Urban Air Trampoline and Adventure Park, Oxford, MI, USA"
+		},
+		{
+			"centreId": "100",
+			"regionSite": "4-60",
+			"centre": "Wunderland, Beaverton, OR, USA"
+		},
+		{
+			"centreId": "156",
+			"regionSite": "4-72",
+			"centre": "Wunderland, Gresham, OR, USA"
+		},
+		{
+			"centreId": "328",
+			"regionSite": "1-69",
+			"centre": "Wyncity Morwell, Morwell, VIC"
+		}
+	]
+}
