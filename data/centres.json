@@ -1,8 +1,8 @@
 {
   "lastUpdated": "2026-10-05T06:04:09.142Z",
-  "totalCentres": 364,
+  "totalCentres": 366,
   "activeCentres": 351,
-  "retiredCentres": 13,
+  "retiredCentres": 15,
   "centresWithData": 351,
   "lastCheckedIndex": 314,
   "centres": [
@@ -2916,6 +2916,22 @@
       "name": "Muswellbrook Amusement Centre, Muswellbrook, NSW, AU",
       "gamesTotal": 173,
       "lastActivity": "2022-08-14",
+      "status": "no longer public"
+    },
+    {
+      "id": "122",
+      "regionSite": "18-3",
+      "name": "Turkey 3 - Akbati",
+      "gamesTotal": 4,
+      "lastActivity": "2025-10-12",
+      "status": "no longer public"
+    },
+    {
+      "id": "163",
+      "regionSite": "21-24",
+      "name": "Laserforce Munich, DE",
+      "gamesTotal": 4113,
+      "lastActivity": "2023-05-04",
       "status": "no longer public"
     }
   ]
