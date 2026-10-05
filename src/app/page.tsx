@@ -198,11 +198,11 @@ export default function Home() {
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{index + 1}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.id}</td>
                 <td style={{ padding: '10px', borderBottom: '1px solid #eee', fontFamily: 'monospace' }}>{centre.regionSite}</td>
-                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}</td{centre.status === 'no longer public' && (
+                <td style={{ padding: '10px', borderBottom: '1px solid #eee' }}>{centre.name}{centre.status === 'no longer public' && (
   <span style={{ marginLeft: 8, padding: '2px 8px', borderRadius: 12, background: '#f0f0f0', color: '#666', fontSize: 12, whiteSpace: 'nowrap' }}>
     No longer public
-  </span>
-)}>
+    </span>
+)}</td>
                 <td style={{ padding: '10px', textAlign: 'right', borderBottom: '1px solid #eee', fontWeight: '500' }}>
                   {centre.gamesTotal > 0 ? centre.gamesTotal.toLocaleString() : centre.status === 'active' ? '0' : '—'}
                 </td>
