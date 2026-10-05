@@ -7,6 +7,7 @@ interface Centre {
   regionSite: string
   name: string
   gamesTotal: number
+  status: string
   lastActivity: string
 }
 
