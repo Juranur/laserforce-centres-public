@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-05T15:08:46.048Z",
-  "totalCentres": 366,
+  "lastUpdated": "2026-10-05T16:47:08.854Z",
+  "totalCentres": 443,
   "activeCentres": 351,
-  "retiredCentres": 15,
-  "centresWithData": 364,
+  "retiredCentres": 92,
+  "centresWithData": 441,
   "lastCheckedIndex": 239,
   "centres": [
     {
@@ -2932,6 +2932,622 @@
       "name": "Laserforce Munich, DE",
       "gamesTotal": 4113,
       "lastActivity": "2023-05-04",
+      "status": "no longer public"
+    },
+    {
+      "id": "4",
+      "regionSite": "unknown",
+      "name": "Devel Test 13-1",
+      "gamesTotal": 4328,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "5",
+      "regionSite": "unknown",
+      "name": "Devel Test 13-2",
+      "gamesTotal": 4291,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "6",
+      "regionSite": "unknown",
+      "name": "Devel Test 13-3",
+      "gamesTotal": 16,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "11",
+      "regionSite": "unknown",
+      "name": "NRG Force, Thomastown",
+      "gamesTotal": 3525,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "13",
+      "regionSite": "unknown",
+      "name": "Laser Siege Turella",
+      "gamesTotal": 4628,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "14",
+      "regionSite": "unknown",
+      "name": "Karting Madness, Bayswater, VIC, AU",
+      "gamesTotal": 1188,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "32",
+      "regionSite": "unknown",
+      "name": "M9 Laser Skirmish Dee Why, NSW, AU",
+      "gamesTotal": 6,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "33",
+      "regionSite": "unknown",
+      "name": "Playtime Haymarket, Haymarket, NSW, AU",
+      "gamesTotal": 375,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "36",
+      "regionSite": "unknown",
+      "name": "Noosa Tenpin, QLD, AU",
+      "gamesTotal": 4085,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "41",
+      "regionSite": "unknown",
+      "name": "Tunzafun Fountain Gate, VIC, AU",
+      "gamesTotal": 1464,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "42",
+      "regionSite": "unknown",
+      "name": "Wyncity, Werribee, VIC",
+      "gamesTotal": 3363,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "52",
+      "regionSite": "unknown",
+      "name": "Lazer Maze Woodbridge, Ontario, CA",
+      "gamesTotal": 421,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "55",
+      "regionSite": "unknown",
+      "name": "Laserforce Napier",
+      "gamesTotal": 12545,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "57",
+      "regionSite": "unknown",
+      "name": "Lasertag Of Carmichael",
+      "gamesTotal": 58372,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "61",
+      "regionSite": "unknown",
+      "name": "Laser Tag of Baton Rouge",
+      "gamesTotal": 17792,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "64",
+      "regionSite": "unknown",
+      "name": "Atlantis Laser Tag, San Diego",
+      "gamesTotal": 72554,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "66",
+      "regionSite": "unknown",
+      "name": "Lazer Force Lazer Tag Zone Caseyville, IL, US",
+      "gamesTotal": 16123,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "68",
+      "regionSite": "unknown",
+      "name": "Laser Tag Adventure, Waukesha",
+      "gamesTotal": 4776,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "80",
+      "regionSite": "unknown",
+      "name": "Rascals Family Fun Center, Honolulu, HI, US",
+      "gamesTotal": 392,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "85",
+      "regionSite": "unknown",
+      "name": "Laser X, Archdale, NC, US",
+      "gamesTotal": 15,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "88",
+      "regionSite": "unknown",
+      "name": "Lazer Force Lazer Tag Zone Springfield, MO, US",
+      "gamesTotal": 2521,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "92",
+      "regionSite": "unknown",
+      "name": "Zero Gravity Extremes LLC Ohio USA",
+      "gamesTotal": 8780,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "94",
+      "regionSite": "unknown",
+      "name": "Adventure Zone, FL, US",
+      "gamesTotal": 45,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "103",
+      "regionSite": "unknown",
+      "name": "Southern Leisure Group, LLC, USA",
+      "gamesTotal": 272,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "104",
+      "regionSite": "unknown",
+      "name": "Putt Putt Funhouse, TX, US",
+      "gamesTotal": 6612,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "109",
+      "regionSite": "unknown",
+      "name": "Laserforce Northampton",
+      "gamesTotal": 19257,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "115",
+      "regionSite": "unknown",
+      "name": "Galactic Lasers, Kuala Lumpur, Malaysia",
+      "gamesTotal": 9024,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "118",
+      "regionSite": "unknown",
+      "name": "Koony Parc, Bondoufle, France",
+      "gamesTotal": 630,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "121",
+      "regionSite": "unknown",
+      "name": "Turkey 2 - Kizilay",
+      "gamesTotal": 6,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "123",
+      "regionSite": "unknown",
+      "name": "Turkey 4 - KentPark",
+      "gamesTotal": 10,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "126",
+      "regionSite": "unknown",
+      "name": "Turkey 7 Bodrum",
+      "gamesTotal": 40,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "129",
+      "regionSite": "unknown",
+      "name": "Mercuria Holesovice, Prague, CZ",
+      "gamesTotal": 24476,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "131",
+      "regionSite": "unknown",
+      "name": "Laserstar, Berlin, Germany",
+      "gamesTotal": 7747,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "135",
+      "regionSite": "unknown",
+      "name": "Paint Galaxy, Berlin, Germany",
+      "gamesTotal": 13498,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "91",
+      "regionSite": "unknown",
+      "name": "Logans Laser Tag, PA, USA",
+      "gamesTotal": 1929,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "132",
+      "regionSite": "unknown",
+      "name": "Laser Factory Jena Germany",
+      "gamesTotal": 3399,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "149",
+      "regionSite": "unknown",
+      "name": "Matchpoint, Nordhorn, DE",
+      "gamesTotal": 2075,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "150",
+      "regionSite": "unknown",
+      "name": "Lasertaghall, Asbach, DE",
+      "gamesTotal": 2223,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "157",
+      "regionSite": "unknown",
+      "name": "Boomers, St Petersburg, RU",
+      "gamesTotal": 979,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "158",
+      "regionSite": "unknown",
+      "name": "Planet Lasertag, Oberhausen, DE",
+      "gamesTotal": 10038,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "162",
+      "regionSite": "unknown",
+      "name": "Toru Entertainment, Diyarbakir, Istanbul",
+      "gamesTotal": 2,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "169",
+      "regionSite": "unknown",
+      "name": "Badboot, Antwerp, Belgium",
+      "gamesTotal": 350,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "171",
+      "regionSite": "unknown",
+      "name": "Laser Tag of Santa Rosa, Santa Rosa, CA, USA",
+      "gamesTotal": 13576,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "172",
+      "regionSite": "unknown",
+      "name": "Pins & Pockets, California, USA",
+      "gamesTotal": 16,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "181",
+      "regionSite": "unknown",
+      "name": "Viktor Tag, Barcelona, Spain",
+      "gamesTotal": 526,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "182",
+      "regionSite": "unknown",
+      "name": "Ginesta Club Familiar, Barcelona, Spain",
+      "gamesTotal": 431,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "190",
+      "regionSite": "unknown",
+      "name": "Lasertag Arena, Oberwart, Austria",
+      "gamesTotal": 8320,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "196",
+      "regionSite": "unknown",
+      "name": "Code Red Memmingen",
+      "gamesTotal": 3621,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "207",
+      "regionSite": "unknown",
+      "name": "Omix Bowling",
+      "gamesTotal": 4774,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "217",
+      "regionSite": "unknown",
+      "name": "Lasersports, Goppingen, DE",
+      "gamesTotal": 8875,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "220",
+      "regionSite": "unknown",
+      "name": "Kids Kingdom, Ottawa, Canada",
+      "gamesTotal": 630,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "221",
+      "regionSite": "unknown",
+      "name": "Laser Oasis, California, USA",
+      "gamesTotal": 3397,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "226",
+      "regionSite": "unknown",
+      "name": "Extreme Park, Santo Domingo, Republica Dominicana",
+      "gamesTotal": 25,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "232",
+      "regionSite": "unknown",
+      "name": "Maddox House, Bangkok, Thailand",
+      "gamesTotal": 24231,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "235",
+      "regionSite": "unknown",
+      "name": "Paintball Area NRW GmbH, Wipperfuerth, DE",
+      "gamesTotal": 909,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "236",
+      "regionSite": "unknown",
+      "name": "Future Games World, Manching DE",
+      "gamesTotal": 6900,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "240",
+      "regionSite": "unknown",
+      "name": "The Fun Factor Family Fun Centre, Kamloops, Canada",
+      "gamesTotal": 2,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "241",
+      "regionSite": "unknown",
+      "name": "Lakepoint Station, Georgia, USA",
+      "gamesTotal": 876,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "244",
+      "regionSite": "unknown",
+      "name": "RavelWays, Monschau, DE",
+      "gamesTotal": 3599,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "256",
+      "regionSite": "unknown",
+      "name": "Revolution Laser Tag NTC, Narellan, NSW, AU",
+      "gamesTotal": 6294,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "259",
+      "regionSite": "unknown",
+      "name": "Laser Plus1, Sherbrooke, Quebec, CA",
+      "gamesTotal": 1561,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "260",
+      "regionSite": "unknown",
+      "name": "Laser Plus2, Sherbrooke, Quebec, CA",
+      "gamesTotal": 1048,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "266",
+      "regionSite": "unknown",
+      "name": "The Elementary, Morrison, TN, USA",
+      "gamesTotal": 1831,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "270",
+      "regionSite": "unknown",
+      "name": "Fun Magic SA, La Chaux-de-Fonds, CHE",
+      "gamesTotal": 210,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "280",
+      "regionSite": "unknown",
+      "name": "RH GmbH, Frankenberg, DE",
+      "gamesTotal": 2575,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "284",
+      "regionSite": "unknown",
+      "name": "EPIC Gaming, CA",
+      "gamesTotal": 1853,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "285",
+      "regionSite": "unknown",
+      "name": "Laser Plus Three Rivers 1, Three Rivers, Quebec, CA",
+      "gamesTotal": 2768,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "286",
+      "regionSite": "unknown",
+      "name": "Laser Plus Three Rivers 2, Three Rivers, Quebec, CA",
+      "gamesTotal": 1459,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "287",
+      "regionSite": "unknown",
+      "name": "Laser Plus Three Rivers 3, Three Rivers, Quebec, CA",
+      "gamesTotal": 1398,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "288",
+      "regionSite": "unknown",
+      "name": "Event Center Playhouse, Plauen, DE",
+      "gamesTotal": 1636,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "297",
+      "regionSite": "unknown",
+      "name": "Laser Action Cannes Sarl Starfighter",
+      "gamesTotal": 1541,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "301",
+      "regionSite": "unknown",
+      "name": "LFA Sport Kft, Budapest, HU",
+      "gamesTotal": 3214,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "325",
+      "regionSite": "unknown",
+      "name": "Area 46 Hannover, Hannover, DE",
+      "gamesTotal": 247,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "326",
+      "regionSite": "unknown",
+      "name": "Alvarium Activity Center, CO, USA",
+      "gamesTotal": 25,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "331",
+      "regionSite": "unknown",
+      "name": "Konstantinos Spyropoulos Playground, Patras, GR",
+      "gamesTotal": 865,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "333",
+      "regionSite": "unknown",
+      "name": "Mercuria Laser Game Hamley, Prague, CZ",
+      "gamesTotal": 1304,
+      "lastActivity": "before 2026",
+      "status": "no longer public"
+    },
+    {
+      "id": "492",
+      "regionSite": "unknown",
+      "name": "Semnox Experience Centre, Mangaluru, Karnataka, India",
+      "gamesTotal": 6,
+      "lastActivity": "before 2026",
       "status": "no longer public"
     }
   ]
