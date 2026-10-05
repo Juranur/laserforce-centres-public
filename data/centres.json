@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-05T06:04:09.142Z",
+  "lastUpdated": "2026-10-05T15:08:46.048Z",
   "totalCentres": 366,
   "activeCentres": 351,
   "retiredCentres": 15,
-  "centresWithData": 351,
-  "lastCheckedIndex": 314,
+  "centresWithData": 364,
+  "lastCheckedIndex": 239,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33243,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 33244,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -26,16 +26,16 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1872,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 1873,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16582,
-      "lastActivity": "2026-10-01",
+      "gamesTotal": 16594,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13364,
-      "lastActivity": "2026-09-28",
+      "gamesTotal": 13366,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 54,
-      "lastActivity": "2026-09-20",
+      "gamesTotal": 56,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 35965,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 36084,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1322,16 +1322,16 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4136,
-      "lastActivity": "2026-09-28",
+      "gamesTotal": 4138,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92004,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 92077,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1378,16 +1378,16 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1314,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 1321,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8293,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 8299,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1570,16 +1570,16 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8032,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 8035,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 63043,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 63060,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1626,8 +1626,8 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38274,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 38362,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1674,8 +1674,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47782,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 47798,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1706,16 +1706,16 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 19001,
-      "lastActivity": "2026-09-28",
+      "gamesTotal": 19006,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 38883,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 39033,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1754,8 +1754,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10474,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 10504,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1906,8 +1906,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42848,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 42862,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1922,7 +1922,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7034,
+      "gamesTotal": 7051,
       "lastActivity": "2026-10-05",
       "status": "active"
     },
