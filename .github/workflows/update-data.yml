@@ -5,6 +5,12 @@ on:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:
 
+# Queue instead of collide: if a run is already in progress (or a manual
+# dispatch lands mid-run), the new run WAITS instead of racing it.
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -15,13 +21,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true
-          fetch-depth: 1
+          fetch-depth: 0   # full history: required so the rebase below can work
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
 
@@ -51,5 +57,6 @@ jobs:
           git add data/centres.json
           git diff --staged --quiet && echo "No changes to commit" || {
             git commit -m "Update centre data - $(date '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           }
