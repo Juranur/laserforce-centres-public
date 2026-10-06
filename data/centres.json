@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-06T06:58:33.375Z",
+  "lastUpdated": "2026-10-06T19:03:44.843Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 87,
+  "lastCheckedIndex": 14,
   "centres": [
     {
       "id": "159",
@@ -90,8 +90,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 331,
-      "lastActivity": "2026-09-23",
+      "gamesTotal": 334,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -882,8 +882,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 726,
-      "lastActivity": "2026-10-01",
+      "gamesTotal": 730,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1228,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 1231,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1098,8 +1098,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43554,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 43570,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1130,8 +1130,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 444,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 446,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36084,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 36103,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1250,8 +1250,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102363,
-      "lastActivity": "2026-09-30",
+      "gamesTotal": 102414,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1530,8 +1530,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3458,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 3471,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -1922,7 +1922,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7071,
+      "gamesTotal": 7149,
       "lastActivity": "2026-10-06",
       "status": "active"
     },
@@ -1930,8 +1930,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20820,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 20901,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -2258,7 +2258,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40192,
+      "gamesTotal": 40284,
       "lastActivity": "2026-10-06",
       "status": "active"
     },
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4451,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 4455,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 827,
-      "lastActivity": "2026-10-02",
+      "gamesTotal": 840,
+      "lastActivity": "2026-10-06",
       "status": "active"
     },
     {
