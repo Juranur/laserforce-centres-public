@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-05T16:47:08.854Z",
+  "lastUpdated": "2026-10-06T00:47:38.894Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 239,
+  "lastCheckedIndex": 163,
   "centres": [
     {
       "id": "159",
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95174,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 95362,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9828,
-      "lastActivity": "2026-09-25",
+      "gamesTotal": 9849,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -682,7 +682,7 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 211,
+      "gamesTotal": 216,
       "lastActivity": "2026-10-05",
       "status": "active"
     },
@@ -714,7 +714,7 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36654,
+      "gamesTotal": 36710,
       "lastActivity": "2026-10-05",
       "status": "active"
     },
@@ -778,8 +778,8 @@
       "id": "359",
       "regionSite": "7-12",
       "name": "Funstation Braehead, Glasgow, UK",
-      "gamesTotal": 41,
-      "lastActivity": "2026-03-22",
+      "gamesTotal": 47,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -914,8 +914,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5074,
-      "lastActivity": "2026-10-01",
+      "gamesTotal": 5082,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -1938,32 +1938,32 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14877,
-      "lastActivity": "2026-09-21",
+      "gamesTotal": 14914,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3291,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 3297,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 4952,
-      "lastActivity": "2026-09-23",
+      "gamesTotal": 4985,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4215,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 4225,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -2106,8 +2106,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27448,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 27455,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -2178,7 +2178,7 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 15,
+      "gamesTotal": 17,
       "lastActivity": "2026-10-05",
       "status": "active"
     },
@@ -2242,8 +2242,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12154,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 12157,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
@@ -2282,7 +2282,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28031,
+      "gamesTotal": 28037,
       "lastActivity": "2026-10-05",
       "status": "active"
     },
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 127545,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 127664,
+      "lastActivity": "2026-10-05",
       "status": "active"
     },
     {
