@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-07T13:57:01.947Z",
+  "lastUpdated": "2026-10-07T23:48:49.657Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 218,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
@@ -34,7 +34,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16595,
+      "gamesTotal": 16615,
       "lastActivity": "2026-10-07",
       "status": "active"
     },
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13366,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 13395,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -186,16 +186,16 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4866,
-      "lastActivity": "2026-10-02",
+      "gamesTotal": 4871,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95362,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 95564,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1642,
-      "lastActivity": "2026-09-28",
+      "gamesTotal": 1669,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36710,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 36715,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -1178,8 +1178,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36103,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 36104,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -1778,8 +1778,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32213,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 32249,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -1882,8 +1882,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1409,
-      "lastActivity": "2026-09-23",
+      "gamesTotal": 1480,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -1898,8 +1898,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 42917,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 42933,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -2130,8 +2130,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8426,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 8428,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -2234,8 +2234,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12157,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 12162,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -2250,7 +2250,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40298,
+      "gamesTotal": 40336,
       "lastActivity": "2026-10-07",
       "status": "active"
     },
@@ -2274,16 +2274,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28037,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 28154,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 127664,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 127830,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -2370,8 +2370,8 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3387,
-      "lastActivity": "2026-09-19",
+      "gamesTotal": 3388,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
@@ -2442,8 +2442,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52052,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 52108,
+      "lastActivity": "2026-10-07",
       "status": "active"
     },
     {
