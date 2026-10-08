@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-08T06:31:52.309Z",
+  "lastUpdated": "2026-10-08T14:03:44.523Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 73,
+  "lastCheckedIndex": 348,
   "centres": [
     {
       "id": "159",
@@ -890,8 +890,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2254,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 2267,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -2170,8 +2170,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 17,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 24,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
