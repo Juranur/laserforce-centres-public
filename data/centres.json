@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-07T23:48:49.657Z",
+  "lastUpdated": "2026-10-08T06:31:52.309Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 148,
+  "lastCheckedIndex": 73,
   "centres": [
     {
       "id": "159",
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9849,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 9850,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48165,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 48205,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3670,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 3672,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1362,8 +1362,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 35030,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 35031,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1386,8 +1386,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59056,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 59152,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1410,8 +1410,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10049,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 10063,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1562,8 +1562,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8035,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 8044,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1594,16 +1594,16 @@
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20310,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 20321,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62001,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 62007,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1626,16 +1626,16 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85222,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 85283,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43764,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 43785,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1650,8 +1650,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49359,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 49367,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48865,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 48866,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1746,8 +1746,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10504,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 10516,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1810,8 +1810,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95639,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 95713,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
