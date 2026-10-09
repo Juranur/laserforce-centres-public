@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-08T14:03:44.523Z",
+  "lastUpdated": "2026-10-09T00:02:29.760Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 348,
+  "lastCheckedIndex": 277,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33244,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 33378,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -98,8 +98,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1270,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 1271,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95564,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 95623,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -450,8 +450,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18034,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 18037,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48205,
+      "gamesTotal": 48232,
       "lastActivity": "2026-10-08",
       "status": "active"
     },
@@ -682,8 +682,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 216,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 220,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1122,8 +1122,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 446,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 447,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1522,8 +1522,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3471,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 3474,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -1650,7 +1650,7 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49367,
+      "gamesTotal": 49384,
       "lastActivity": "2026-10-08",
       "status": "active"
     },
@@ -1658,16 +1658,16 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12572,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 12573,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47803,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 47814,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
@@ -2098,8 +2098,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27455,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 27495,
+      "lastActivity": "2026-10-08",
       "status": "active"
     },
     {
