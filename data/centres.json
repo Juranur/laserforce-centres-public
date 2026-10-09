@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-09T00:02:29.760Z",
+  "lastUpdated": "2026-10-09T06:36:00.865Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 277,
+  "lastCheckedIndex": 203,
   "centres": [
     {
       "id": "159",
@@ -90,8 +90,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 334,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 339,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1238,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 1243,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -1322,8 +1322,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92120,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 92122,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -1586,8 +1586,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4390,
-      "lastActivity": "2026-10-01",
+      "gamesTotal": 4415,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2250,8 +2250,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40336,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 40354,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2274,16 +2274,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28154,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 28161,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 127830,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 127982,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2442,8 +2442,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52108,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 52204,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2578,8 +2578,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1774,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 1778,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
