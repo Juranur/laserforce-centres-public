@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-09T06:36:00.865Z",
+  "lastUpdated": "2026-10-09T13:50:14.036Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 203,
+  "lastCheckedIndex": 129,
   "centres": [
     {
       "id": "159",
@@ -98,8 +98,8 @@
       "id": "334",
       "regionSite": "4-148",
       "name": "All American Fun Park, GA, USA",
-      "gamesTotal": 1271,
-      "lastActivity": "2026-10-08",
+      "gamesTotal": 1272,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -690,8 +690,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8791,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 8793,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -1674,16 +1674,16 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4736,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 4743,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 84904,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 84964,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48866,
-      "lastActivity": "2026-10-08",
+      "gamesTotal": 48882,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -1778,8 +1778,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32249,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 32253,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2026,8 +2026,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29069,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 29070,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2106,8 +2106,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10297,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 10312,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2130,8 +2130,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8428,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 8434,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
@@ -2530,8 +2530,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4455,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 4478,
+      "lastActivity": "2026-10-09",
       "status": "active"
     },
     {
