@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-09T23:21:19.288Z",
+  "lastUpdated": "2026-10-10T06:18:28.511Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 58,
+  "lastCheckedIndex": 336,
   "centres": [
     {
       "id": "159",
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48232,
-      "lastActivity": "2026-10-08",
+      "gamesTotal": 48279,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -618,8 +618,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 594,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 600,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -690,32 +690,32 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8793,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 8803,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2673,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 2675,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 199,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 213,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36715,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 36720,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -754,8 +754,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10292,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 10293,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -890,24 +890,24 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2267,
-      "lastActivity": "2026-10-08",
+      "gamesTotal": 2270,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1243,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 1245,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5082,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 5089,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -2250,8 +2250,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40354,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 40355,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -2394,8 +2394,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 683,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 685,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -2586,8 +2586,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84809,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 84818,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
@@ -2634,8 +2634,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 216,
-      "lastActivity": "2026-09-21",
+      "gamesTotal": 217,
+      "lastActivity": "2026-10-10",
       "status": "active"
     },
     {
