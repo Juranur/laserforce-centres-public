@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-12T06:25:16.900Z",
+  "lastUpdated": "2026-10-12T15:56:59.738Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 248,
+  "lastCheckedIndex": 177,
   "centres": [
     {
       "id": "159",
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95623,
-      "lastActivity": "2026-10-08",
+      "gamesTotal": 95652,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1674,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 1676,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -1210,8 +1210,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31212,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 31223,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -1266,8 +1266,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208172,
-      "lastActivity": "2026-10-01",
+      "gamesTotal": 208272,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -1322,7 +1322,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92248,
+      "gamesTotal": 92338,
       "lastActivity": "2026-10-12",
       "status": "active"
     },
@@ -2026,8 +2026,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29076,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 29133,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -2170,8 +2170,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 30,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 36,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -2274,8 +2274,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28161,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 28210,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -2562,8 +2562,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1518,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 1524,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -2738,8 +2738,8 @@
       "id": "387",
       "regionSite": "21-112",
       "name": "World of Lasertag GmbH, Kaiserslautern, DE",
-      "gamesTotal": 477,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 478,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
