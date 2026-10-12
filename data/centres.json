@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-11T22:35:02.553Z",
+  "lastUpdated": "2026-10-12T06:25:16.900Z",
   "totalCentres": 443,
   "activeCentres": 350,
   "retiredCentres": 93,
   "centresWithData": 441,
-  "lastCheckedIndex": 319,
+  "lastCheckedIndex": 248,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33793,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 33799,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -26,16 +26,16 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1873,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 1877,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16623,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 16635,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13396,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 13400,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -162,8 +162,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4246,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 4327,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 57,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 62,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1260,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 1263,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -1322,8 +1322,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92242,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 92248,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -1938,8 +1938,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3299,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 3304,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
@@ -2746,8 +2746,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 841,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 844,
+      "lastActivity": "2026-10-12",
       "status": "active"
     },
     {
