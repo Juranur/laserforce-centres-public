@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-13T01:18:51.005Z",
+  "lastUpdated": "2026-10-13T14:49:17.467Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 102,
+  "lastCheckedIndex": 28,
   "centres": [
     {
       "id": "159",
@@ -90,8 +90,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 342,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 347,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1263,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 1265,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30815,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 30828,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1770,
-      "lastActivity": "2026-10-02",
+      "gamesTotal": 1771,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36409,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 36431,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1218,8 +1218,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31223,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 31225,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1250,8 +1250,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102414,
-      "lastActivity": "2026-10-06",
+      "gamesTotal": 102435,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1378,8 +1378,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1325,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 1331,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59175,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 59176,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1658,8 +1658,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49431,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 49442,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76670,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 76691,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 128209,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 128315,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -2602,8 +2602,8 @@
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
-      "gamesTotal": 305,
-      "lastActivity": "2026-09-11",
+      "gamesTotal": 306,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 844,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 845,
+      "lastActivity": "2026-10-13",
       "status": "active"
     },
     {
