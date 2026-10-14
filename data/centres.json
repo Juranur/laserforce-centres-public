@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-14T17:48:41.242Z",
+  "lastUpdated": "2026-10-14T22:21:14.535Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 78,
+  "lastCheckedIndex": 2,
   "centres": [
     {
       "id": "159",
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1679,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 1680,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
@@ -690,8 +690,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8811,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 8832,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36776,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 36780,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
@@ -754,8 +754,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10297,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 10315,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
@@ -1610,7 +1610,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62124,
+      "gamesTotal": 62127,
       "lastActivity": "2026-10-14",
       "status": "active"
     },
@@ -1634,7 +1634,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85439,
+      "gamesTotal": 85469,
       "lastActivity": "2026-10-14",
       "status": "active"
     },
@@ -1674,15 +1674,15 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47896,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 47899,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4784,
+      "gamesTotal": 4794,
       "lastActivity": "2026-10-14",
       "status": "active"
     },
@@ -2282,15 +2282,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28244,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 28256,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 128478,
+      "gamesTotal": 128486,
       "lastActivity": "2026-10-14",
       "status": "active"
     },
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4507,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 4510,
+      "lastActivity": "2026-10-14",
       "status": "active"
     },
     {
