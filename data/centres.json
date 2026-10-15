@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-15T05:04:25.849Z",
+  "lastUpdated": "2026-10-15T17:35:19.882Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 279,
+  "lastCheckedIndex": 204,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33799,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 33813,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16645,
+      "gamesTotal": 16647,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -114,8 +114,8 @@
       "id": "418",
       "regionSite": "4-183",
       "name": "Alley Cats Burleson,TX, USA",
-      "gamesTotal": 151,
-      "lastActivity": "2026-07-03",
+      "gamesTotal": 165,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -162,8 +162,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4327,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 4333,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -354,8 +354,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2751,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 2752,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 54,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 55,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9875,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 9876,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48533,
+      "gamesTotal": 48556,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -698,8 +698,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2682,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 2684,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1274,8 +1274,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208272,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 208278,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1346,8 +1346,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3673,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 3701,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59177,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 59182,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1594,8 +1594,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4415,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 4439,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1634,8 +1634,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85469,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 85483,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40503,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 40513,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2282,8 +2282,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28256,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 28262,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2450,8 +2450,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52279,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 52372,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2522,8 +2522,8 @@
       "id": "30",
       "regionSite": "1-33",
       "name": "Strike Bowling Melbourne Central, VIC, Australia",
-      "gamesTotal": 4099,
-      "lastActivity": "2026-09-13",
+      "gamesTotal": 4100,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2746,8 +2746,8 @@
       "id": "387",
       "regionSite": "21-112",
       "name": "World of Lasertag GmbH, Kaiserslautern, DE",
-      "gamesTotal": 478,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 488,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
