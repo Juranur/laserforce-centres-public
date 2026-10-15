@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-10-15T17:35:19.882Z",
+  "lastUpdated": "2026-10-15T22:02:57.629Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 204,
+  "lastCheckedIndex": 137,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33813,
+      "gamesTotal": 33913,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -194,7 +194,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 96019,
+      "gamesTotal": 96216,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48556,
+      "gamesTotal": 48578,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -818,8 +818,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 2980,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 2989,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1674,8 +1674,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47899,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 47914,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1690,7 +1690,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85117,
+      "gamesTotal": 85204,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -1738,8 +1738,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 49028,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 49045,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1786,7 +1786,7 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32344,
+      "gamesTotal": 32351,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -1930,8 +1930,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20991,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 20995,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1954,8 +1954,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5016,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 5018,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8484,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 8486,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2282,7 +2282,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28262,
+      "gamesTotal": 28276,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 128486,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 128568,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -2450,7 +2450,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52372,
+      "gamesTotal": 52373,
       "lastActivity": "2026-10-15",
       "status": "active"
     },
@@ -2570,8 +2570,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1537,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 1544,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
