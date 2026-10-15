@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-14T22:21:14.535Z",
+  "lastUpdated": "2026-10-15T05:04:25.849Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 2,
+  "lastCheckedIndex": 279,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16635,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 16645,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 95981,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 96019,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57030,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 57076,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48465,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 48533,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1273,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 1275,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1690,8 +1690,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85054,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 85117,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32300,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 32344,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95760,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 95881,
+      "lastActivity": "2026-10-15",
       "status": "active"
     },
     {
