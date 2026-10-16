@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-15T22:02:57.629Z",
+  "lastUpdated": "2026-10-16T05:00:25.664Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 137,
+  "lastCheckedIndex": 60,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16647,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 16676,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -90,8 +90,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 350,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 351,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1154,8 +1154,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4466,
-      "lastActivity": "2026-10-09",
+      "gamesTotal": 4468,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1314,8 +1314,8 @@
       "id": "416",
       "regionSite": "7-19",
       "name": "Laserforce Preston, Preston, UK",
-      "gamesTotal": 130,
-      "lastActivity": "2026-09-19",
+      "gamesTotal": 134,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1346,8 +1346,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3701,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 3753,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1378,16 +1378,16 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1333,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 1336,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8403,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 8405,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1618,8 +1618,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24943,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 24956,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1634,8 +1634,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85483,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 85499,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95881,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 95882,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -2570,8 +2570,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1544,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 1557,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
