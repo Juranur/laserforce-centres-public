@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-16T17:18:11.816Z",
+  "lastUpdated": "2026-10-16T21:41:37.528Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 264,
+  "lastCheckedIndex": 204,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33913,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 33929,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -450,7 +450,7 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18039,
+      "gamesTotal": 18045,
       "lastActivity": "2026-10-16",
       "status": "active"
     },
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48635,
+      "gamesTotal": 48637,
       "lastActivity": "2026-10-16",
       "status": "active"
     },
@@ -682,8 +682,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 252,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 260,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30828,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 30832,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1186,7 +1186,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36453,
+      "gamesTotal": 36589,
       "lastActivity": "2026-10-16",
       "status": "active"
     },
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59182,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 59190,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -1618,7 +1618,7 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24956,
+      "gamesTotal": 24965,
       "lastActivity": "2026-10-16",
       "status": "active"
     },
@@ -1634,7 +1634,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85505,
+      "gamesTotal": 85571,
       "lastActivity": "2026-10-16",
       "status": "active"
     },
@@ -1642,8 +1642,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43837,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 43845,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8486,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 8488,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -2242,8 +2242,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12173,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 12176,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 128568,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 128622,
+      "lastActivity": "2026-10-16",
       "status": "active"
     },
     {
