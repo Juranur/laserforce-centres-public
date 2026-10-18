@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-18T04:58:54.175Z",
+  "lastUpdated": "2026-10-18T11:37:56.412Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 191,
+  "lastCheckedIndex": 118,
   "centres": [
     {
       "id": "159",
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13413,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 13416,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -426,8 +426,8 @@
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
-      "gamesTotal": 5618,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 5620,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 57,
-      "lastActivity": "2026-10-16",
+      "gamesTotal": 58,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 276,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 279,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -754,8 +754,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10315,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 10357,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -858,8 +858,8 @@
       "id": "83",
       "regionSite": "4-37",
       "name": "Game On Social Hub, Kenner, LA, US",
-      "gamesTotal": 2881,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 2885,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1285,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 1310,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1562,8 +1562,8 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9681,
-      "lastActivity": "2026-09-26",
+      "gamesTotal": 9691,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1610,24 +1610,24 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62155,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 62190,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 24973,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 24991,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38381,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 38384,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1666,8 +1666,8 @@
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12574,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 12585,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1714,8 +1714,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39285,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 39288,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1738,8 +1738,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 49102,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 49125,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1762,16 +1762,16 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76724,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 76730,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60558,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 60563,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1962,8 +1962,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4227,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 4247,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1994,8 +1994,8 @@
       "id": "505",
       "regionSite": "4-235",
       "name": "Monster Mini Golf Mount Lake Terrace, WA, United States",
-      "gamesTotal": 5,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 8,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2010,8 +2010,8 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8996,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 8997,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29159,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 29160,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2106,16 +2106,16 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27527,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 27589,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10347,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 10350,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8510,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 8513,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2290,7 +2290,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129164,
+      "gamesTotal": 129318,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -2426,8 +2426,8 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1433,
-      "lastActivity": "2026-08-26",
+      "gamesTotal": 1435,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4539,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 4619,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 850,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 851,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
