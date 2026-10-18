@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-18T16:33:08.057Z",
+  "lastUpdated": "2026-10-18T21:16:05.668Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 43,
+  "lastCheckedIndex": 318,
   "centres": [
     {
       "id": "159",
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57184,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 57242,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -450,8 +450,8 @@
       "id": "210",
       "regionSite": "21-52",
       "name": "District 44 GmbH, Grundau-Lieblos, DE",
-      "gamesTotal": 18045,
-      "lastActivity": "2026-10-16",
+      "gamesTotal": 18053,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -474,7 +474,7 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 58,
+      "gamesTotal": 71,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48720,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 48803,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26519,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 26564,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -682,7 +682,7 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 279,
+      "gamesTotal": 289,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -690,16 +690,16 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8843,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 8846,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2684,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 2686,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36788,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 36794,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2311,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 2313,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1771,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 1773,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1186,7 +1186,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36680,
+      "gamesTotal": 36747,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -1570,16 +1570,16 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8051,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 8054,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 63370,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 63404,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1610,7 +1610,7 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62197,
+      "gamesTotal": 62234,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -1674,8 +1674,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 47930,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 47966,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1714,7 +1714,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39288,
+      "gamesTotal": 39397,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -1746,8 +1746,8 @@
       "id": "485",
       "regionSite": "4-202",
       "name": "Launch Entertainment Herndon, Virginia, United States",
-      "gamesTotal": 305,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 306,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1762,7 +1762,7 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76730,
+      "gamesTotal": 76734,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -1770,7 +1770,7 @@
       "id": "44",
       "regionSite": "1-50",
       "name": "Lazer Blaze Willetton, WA, AU",
-      "gamesTotal": 60563,
+      "gamesTotal": 60569,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -1906,8 +1906,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43072,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 43073,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -1962,7 +1962,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4247,
+      "gamesTotal": 4248,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -2010,7 +2010,7 @@
       "id": "176",
       "regionSite": "21-32",
       "name": "Multi Laser Tag, Neu-Ulm, DE",
-      "gamesTotal": 8997,
+      "gamesTotal": 9006,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -2034,7 +2034,7 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29171,
+      "gamesTotal": 29239,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -2106,7 +2106,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27589,
+      "gamesTotal": 27636,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
@@ -2282,15 +2282,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28276,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 28311,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129318,
+      "gamesTotal": 129589,
       "lastActivity": "2026-10-18",
       "status": "active"
     },
