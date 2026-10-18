@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-17T21:15:56.445Z",
+  "lastUpdated": "2026-10-18T04:58:54.175Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 264,
+  "lastCheckedIndex": 191,
   "centres": [
     {
       "id": "159",
@@ -202,8 +202,8 @@
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1875,
-      "lastActivity": "2026-09-25",
+      "gamesTotal": 1876,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -986,8 +986,8 @@
       "id": "431",
       "regionSite": "19-6",
       "name": "Kiddy Dome Westside, Bern, CHE",
-      "gamesTotal": 405,
-      "lastActivity": "2026-08-27",
+      "gamesTotal": 408,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40514,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 40523,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129020,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 129164,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2506,8 +2506,8 @@
       "id": "357",
       "regionSite": "1-84",
       "name": "Strike Bowling Karrinyup, WA, Australia",
-      "gamesTotal": 154,
-      "lastActivity": "2026-08-15",
+      "gamesTotal": 157,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2546,8 +2546,8 @@
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15227,
-      "lastActivity": "2026-10-04",
+      "gamesTotal": 15322,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2570,8 +2570,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1557,
-      "lastActivity": "2026-10-16",
+      "gamesTotal": 1560,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
@@ -2594,8 +2594,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84851,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 84853,
+      "lastActivity": "2026-10-18",
       "status": "active"
     },
     {
