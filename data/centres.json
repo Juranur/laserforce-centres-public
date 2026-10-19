@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-19T05:07:27.086Z",
+  "lastUpdated": "2026-10-19T13:39:15.233Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 243,
+  "lastCheckedIndex": 164,
   "centres": [
     {
       "id": "159",
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 71,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 72,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1274,8 +1274,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208278,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 208365,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40523,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 40524,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4619,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 4624,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
