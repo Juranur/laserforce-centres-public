@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-18T21:16:05.668Z",
+  "lastUpdated": "2026-10-19T05:07:27.086Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 318,
+  "lastCheckedIndex": 243,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 33929,
-      "lastActivity": "2026-10-16",
+      "gamesTotal": 33931,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13416,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 13436,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -154,8 +154,8 @@
       "id": "316",
       "regionSite": "4-130",
       "name": "Apex Entertainment, NY, USA",
-      "gamesTotal": 129,
-      "lastActivity": "2026-08-19",
+      "gamesTotal": 130,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 62,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 71,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26564,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 26572,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1310,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1311,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -930,8 +930,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70159,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 70212,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30845,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 30849,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1114,16 +1114,16 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6770,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 6774,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
       "id": "218",
       "regionSite": "21-59",
       "name": "Laser Heroes GmbH, Bremerhaven, DE",
-      "gamesTotal": 8824,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 8828,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1634,16 +1634,16 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85584,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 85625,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43902,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 43906,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1690,8 +1690,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85219,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 85393,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32361,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 32368,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95886,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 95888,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -2586,8 +2586,8 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1779,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 1780,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 851,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 853,
+      "lastActivity": "2026-10-19",
       "status": "active"
     },
     {
