@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-20T05:18:46.562Z",
+  "lastUpdated": "2026-10-20T12:09:24.747Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 22,
+  "lastCheckedIndex": 302,
   "centres": [
     {
       "id": "159",
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 72,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 82,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1322,8 +1322,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4143,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 4145,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1690,16 +1690,16 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85403,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 85421,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9282,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 9284,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76734,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 76748,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1954,8 +1954,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5020,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 5042,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -2178,8 +2178,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 36,
-      "lastActivity": "2026-10-12",
+      "gamesTotal": 37,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40524,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 40582,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -2282,16 +2282,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28311,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 28315,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129589,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 129598,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
