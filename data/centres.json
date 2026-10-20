@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-20T17:34:11.343Z",
+  "lastUpdated": "2026-10-20T22:18:04.602Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 235,
+  "lastCheckedIndex": 161,
   "centres": [
     {
       "id": "159",
@@ -26,7 +26,7 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1895,
+      "gamesTotal": 1897,
       "lastActivity": "2026-10-20",
       "status": "active"
     },
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 71,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 72,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 289,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 300,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1170,7 +1170,7 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17528,
+      "gamesTotal": 17536,
       "lastActivity": "2026-10-20",
       "status": "active"
     },
@@ -1906,32 +1906,32 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43180,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 43183,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4931,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 4934,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7295,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 7400,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 20998,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 21085,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29239,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 29292,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -2282,7 +2282,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28315,
+      "gamesTotal": 28369,
       "lastActivity": "2026-10-20",
       "status": "active"
     },
@@ -2290,7 +2290,7 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129598,
+      "gamesTotal": 129716,
       "lastActivity": "2026-10-20",
       "status": "active"
     },
