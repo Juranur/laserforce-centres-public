@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-19T23:04:13.808Z",
+  "lastUpdated": "2026-10-20T05:18:46.562Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 97,
+  "lastCheckedIndex": 22,
   "centres": [
     {
       "id": "159",
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4884,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 4887,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -898,16 +898,16 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2313,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 2319,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1311,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 1312,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1773,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1777,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36747,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 36753,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
@@ -1298,8 +1298,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1264,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1270,
+      "lastActivity": "2026-10-20",
       "status": "active"
     },
     {
