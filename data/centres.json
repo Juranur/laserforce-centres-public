@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-20T22:18:04.602Z",
+  "lastUpdated": "2026-10-21T05:09:35.667Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 161,
+  "lastCheckedIndex": 89,
   "centres": [
     {
       "id": "159",
@@ -1418,8 +1418,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10083,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 10089,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1498,8 +1498,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15263,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 15269,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1538,8 +1538,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18531,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 18539,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76748,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 76768,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95888,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 95922,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
