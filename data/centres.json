@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-21T17:50:50.381Z",
+  "lastUpdated": "2026-10-21T22:20:25.648Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 292,
+  "lastCheckedIndex": 226,
   "centres": [
     {
       "id": "159",
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13436,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 13441,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -194,7 +194,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 96534,
+      "gamesTotal": 96601,
       "lastActivity": "2026-10-21",
       "status": "active"
     },
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57242,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 57244,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -474,7 +474,7 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 155,
+      "gamesTotal": 156,
       "lastActivity": "2026-10-21",
       "status": "active"
     },
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1686,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 1701,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -754,8 +754,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10357,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 10419,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -898,16 +898,16 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2319,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 2321,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1312,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 1313,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1218,8 +1218,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31245,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 31248,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1394,7 +1394,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59311,
+      "gamesTotal": 59355,
       "lastActivity": "2026-10-21",
       "status": "active"
     },
@@ -1570,8 +1570,8 @@
       "id": "179",
       "regionSite": "21-35",
       "name": "Lasertag Landau, Landau, Germany",
-      "gamesTotal": 8054,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 8064,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
@@ -1698,7 +1698,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9304,
+      "gamesTotal": 9334,
       "lastActivity": "2026-10-21",
       "status": "active"
     },
@@ -2450,8 +2450,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52373,
-      "lastActivity": "2026-10-15",
+      "gamesTotal": 52378,
+      "lastActivity": "2026-10-21",
       "status": "active"
     },
     {
