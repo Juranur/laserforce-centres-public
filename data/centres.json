@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-22T17:50:29.905Z",
+  "lastUpdated": "2026-10-22T22:15:43.003Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 4,
+  "lastCheckedIndex": 291,
   "centres": [
     {
       "id": "159",
@@ -186,16 +186,16 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4888,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 4890,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 96601,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 96659,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -426,8 +426,8 @@
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
-      "gamesTotal": 5626,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 5628,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 156,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 175,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1378,8 +1378,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1360,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 1372,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1634,7 +1634,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85734,
+      "gamesTotal": 85763,
       "lastActivity": "2026-10-22",
       "status": "active"
     },
@@ -1714,7 +1714,7 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39483,
+      "gamesTotal": 39503,
       "lastActivity": "2026-10-22",
       "status": "active"
     },
@@ -2106,8 +2106,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27636,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 27648,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
