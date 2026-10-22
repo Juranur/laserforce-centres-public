@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-22T05:09:17.922Z",
+  "lastUpdated": "2026-10-22T12:24:30.604Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 151,
+  "lastCheckedIndex": 75,
   "centres": [
     {
       "id": "159",
@@ -210,8 +210,8 @@
       "id": "187",
       "regionSite": "21-38",
       "name": "Baltic Adventures, Greifswald, DE",
-      "gamesTotal": 961,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 973,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1370,8 +1370,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 35145,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 35151,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59355,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 59357,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1418,8 +1418,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10089,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 10097,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1546,8 +1546,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1494,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 1506,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1610,8 +1610,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62243,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 62249,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1634,16 +1634,16 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85662,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 85714,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43918,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 43927,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1690,8 +1690,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85447,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 85468,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1714,8 +1714,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39481,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 39483,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32385,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 32422,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 95922,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 96008,
+      "lastActivity": "2026-10-22",
       "status": "active"
     },
     {
