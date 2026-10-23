@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-22T22:15:43.003Z",
+  "lastUpdated": "2026-10-23T05:13:25.056Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 291,
+  "lastCheckedIndex": 215,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 34049,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 34210,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1777,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 1778,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1330,8 +1330,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92555,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 92559,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1698,8 +1698,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9357,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 9362,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
