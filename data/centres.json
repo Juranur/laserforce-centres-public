@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-23T17:43:07.099Z",
+  "lastUpdated": "2026-10-23T22:06:24.628Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 76,
+  "lastCheckedIndex": 2,
   "centres": [
     {
       "id": "159",
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30849,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 30853,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1130,8 +1130,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 448,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 452,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1154,8 +1154,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4472,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 4475,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1170,8 +1170,8 @@
       "id": "175",
       "regionSite": "21-31",
       "name": "Laser Tag Arena, Osnabrueck, Germany",
-      "gamesTotal": 17536,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 17549,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36788,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 36917,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1346,7 +1346,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 3807,
+      "gamesTotal": 4139,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -1394,7 +1394,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59371,
+      "gamesTotal": 59374,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -1562,7 +1562,7 @@
       "id": "248",
       "regionSite": "21-82",
       "name": "Lasertag Ingolstadt, DE",
-      "gamesTotal": 9693,
+      "gamesTotal": 9699,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -1634,7 +1634,7 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85781,
+      "gamesTotal": 85863,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -1682,7 +1682,7 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4869,
+      "gamesTotal": 4870,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -1730,8 +1730,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34714,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 34728,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -1962,7 +1962,7 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4249,
+      "gamesTotal": 4270,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -2106,7 +2106,7 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27650,
+      "gamesTotal": 27664,
       "lastActivity": "2026-10-23",
       "status": "active"
     },
@@ -2226,8 +2226,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 264,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 265,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
@@ -2642,8 +2642,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 219,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 220,
+      "lastActivity": "2026-10-23",
       "status": "active"
     },
     {
