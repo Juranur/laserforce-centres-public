@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-24T11:33:33.116Z",
+  "lastUpdated": "2026-10-24T16:35:55.631Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 212,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
@@ -66,8 +66,8 @@
       "id": "355",
       "regionSite": "21-110",
       "name": "Adventure World, Oberhausen, DE",
-      "gamesTotal": 4021,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 4024,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4890,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 4895,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -474,7 +474,7 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 208,
+      "gamesTotal": 222,
       "lastActivity": "2026-10-24",
       "status": "active"
     },
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48922,
+      "gamesTotal": 48959,
       "lastActivity": "2026-10-24",
       "status": "active"
     },
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26572,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 26575,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -682,7 +682,7 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 302,
+      "gamesTotal": 305,
       "lastActivity": "2026-10-24",
       "status": "active"
     },
@@ -690,8 +690,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8851,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 8861,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -706,8 +706,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 214,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 219,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -1074,7 +1074,7 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30854,
+      "gamesTotal": 30858,
       "lastActivity": "2026-10-24",
       "status": "active"
     },
@@ -1714,8 +1714,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39512,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 39527,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34728,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 34877,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -1754,7 +1754,7 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10588,
+      "gamesTotal": 10590,
       "lastActivity": "2026-10-24",
       "status": "active"
     },
@@ -1786,8 +1786,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32422,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 32427,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -1938,16 +1938,16 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14995,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 14996,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3305,
-      "lastActivity": "2026-10-14",
+      "gamesTotal": 3306,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -1962,8 +1962,8 @@
       "id": "426",
       "regionSite": "21-123",
       "name": "Mining Adventure World, Hamm, Germany",
-      "gamesTotal": 4270,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 4274,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -2106,16 +2106,16 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 27664,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 27679,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10363,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 10382,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -2138,16 +2138,16 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8520,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 8540,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
       "id": "166",
       "regionSite": "21-27",
       "name": "Planet Lasertag Arnsberg, DE",
-      "gamesTotal": 2517,
-      "lastActivity": "2026-03-17",
+      "gamesTotal": 2521,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -2178,8 +2178,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 37,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 39,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40621,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 40626,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4624,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 4628,
+      "lastActivity": "2026-10-24",
       "status": "active"
     },
     {
