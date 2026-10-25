@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-24T21:24:00.679Z",
+  "lastUpdated": "2026-10-25T05:07:26.683Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 70,
+  "lastCheckedIndex": 343,
   "centres": [
     {
       "id": "159",
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1703,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 1704,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36860,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 36868,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30858,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 30860,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1130,8 +1130,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 452,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 460,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1154,8 +1154,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4475,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 4487,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 36917,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 36927,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1594,24 +1594,24 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4469,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 4471,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20445,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 20457,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62279,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 62286,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1642,8 +1642,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 43958,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 43960,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40626,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 40632,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4628,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 4638,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2586,16 +2586,16 @@
       "id": "388",
       "regionSite": "4-173",
       "name": "The Edge, IL, USA",
-      "gamesTotal": 1780,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 1781,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84854,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 84857,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2642,8 +2642,8 @@
       "id": "490",
       "regionSite": "4-221",
       "name": "Thunder Road Entertainment, Sioux Falls, SD, United States",
-      "gamesTotal": 220,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 221,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
