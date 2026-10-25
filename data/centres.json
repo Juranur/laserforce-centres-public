@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-25T11:58:05.633Z",
+  "lastUpdated": "2026-10-25T16:47:13.997Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 268,
+  "lastCheckedIndex": 199,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16695,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 16696,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4895,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 4902,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -394,7 +394,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57269,
+      "gamesTotal": 57271,
       "lastActivity": "2026-10-25",
       "status": "active"
     },
@@ -474,7 +474,7 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 225,
+      "gamesTotal": 233,
       "lastActivity": "2026-10-25",
       "status": "active"
     },
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26575,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 26577,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -610,8 +610,8 @@
       "id": "415",
       "regionSite": "21-118",
       "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
-      "gamesTotal": 56,
-      "lastActivity": "2026-09-24",
+      "gamesTotal": 59,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -754,8 +754,8 @@
       "id": "407",
       "regionSite": "21-117",
       "name": "Funnygolf Ettlingen, Ettlingen, DE",
-      "gamesTotal": 10419,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 10424,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2336,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 2340,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -914,8 +914,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5089,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 5090,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1282,8 +1282,8 @@
       "id": "165",
       "regionSite": "21-26",
       "name": "Laserforce Gruenstadt",
-      "gamesTotal": 25680,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 25696,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1378,8 +1378,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1382,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 1384,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59377,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 59379,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1418,8 +1418,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10109,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 10116,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1466,8 +1466,8 @@
       "id": "311",
       "regionSite": "21-93",
       "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
-      "gamesTotal": 5276,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 5278,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1530,8 +1530,8 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3526,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 3570,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -1594,7 +1594,7 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4471,
+      "gamesTotal": 4477,
       "lastActivity": "2026-10-25",
       "status": "active"
     },
@@ -2162,8 +2162,8 @@
       "id": "450",
       "regionSite": "42-1",
       "name": "Play3r5 Arcade, Nicosia, Cyprus",
-      "gamesTotal": 533,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 534,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2242,8 +2242,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12180,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 12184,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2322,8 +2322,8 @@
       "id": "423",
       "regionSite": "21-121",
       "name": "Sax Racing GmbH, Schkeuditz, DE",
-      "gamesTotal": 111,
-      "lastActivity": "2026-08-29",
+      "gamesTotal": 114,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2426,8 +2426,8 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1435,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1437,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
@@ -2538,7 +2538,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4638,
+      "gamesTotal": 4644,
       "lastActivity": "2026-10-25",
       "status": "active"
     },
@@ -2570,8 +2570,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1560,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1563,
+      "lastActivity": "2026-10-25",
       "status": "active"
     },
     {
