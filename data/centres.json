@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-26T13:31:56.850Z",
+  "lastUpdated": "2026-10-26T23:22:49.939Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 334,
+  "lastCheckedIndex": 257,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 34210,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 34339,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 96928,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 97076,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 9910,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 9955,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -658,8 +658,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1704,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 1710,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36868,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 36921,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2340,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 2347,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -914,8 +914,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5092,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 5094,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1298,8 +1298,8 @@
       "id": "417",
       "regionSite": "7-20",
       "name": "Laserforce Leeds, Leeds, UK",
-      "gamesTotal": 1270,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 1273,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1386,7 +1386,7 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8554,
+      "gamesTotal": 8569,
       "lastActivity": "2026-10-26",
       "status": "active"
     },
@@ -1530,7 +1530,7 @@
       "id": "460",
       "regionSite": "21-132",
       "name": "Lasertag Evolution, Düsseldorf, Germany",
-      "gamesTotal": 3586,
+      "gamesTotal": 3600,
       "lastActivity": "2026-10-26",
       "status": "active"
     },
@@ -1538,8 +1538,8 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18539,
-      "lastActivity": "2026-10-21",
+      "gamesTotal": 18629,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1578,8 +1578,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 63529,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 63692,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1610,16 +1610,16 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62310,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 62345,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 25043,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 25044,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1634,8 +1634,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85923,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 85926,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34877,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 34882,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1906,8 +1906,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43183,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 43291,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1922,7 +1922,7 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7410,
+      "gamesTotal": 7429,
       "lastActivity": "2026-10-26",
       "status": "active"
     },
@@ -1954,8 +1954,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5049,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 5073,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 853,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 854,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
