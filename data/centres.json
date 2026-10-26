@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-26T05:11:51.784Z",
+  "lastUpdated": "2026-10-26T13:31:56.850Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 57,
+  "lastCheckedIndex": 334,
   "centres": [
     {
       "id": "159",
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 48998,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 49077,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26577,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 26593,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -698,8 +698,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2686,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 2694,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -978,8 +978,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 578,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 579,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1034,8 +1034,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13194,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 13206,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1274,8 +1274,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208365,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 208449,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1682,8 +1682,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4873,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 4883,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1698,8 +1698,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9446,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 9452,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1754,8 +1754,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10590,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 10602,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -1922,8 +1922,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7409,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 7410,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29347,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 29350,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
@@ -2226,8 +2226,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 265,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 266,
+      "lastActivity": "2026-10-26",
       "status": "active"
     },
     {
