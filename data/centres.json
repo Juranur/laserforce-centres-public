@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-27T05:30:49.491Z",
+  "lastUpdated": "2026-10-27T12:46:56.685Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 195,
+  "lastCheckedIndex": 118,
   "centres": [
     {
       "id": "159",
@@ -1690,16 +1690,16 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85524,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 85527,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9452,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 9455,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76778,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 76810,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1938,8 +1938,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 14997,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 15036,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -2138,7 +2138,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8566,
+      "gamesTotal": 8571,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
