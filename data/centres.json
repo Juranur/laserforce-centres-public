@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-27T18:43:48.145Z",
+  "lastUpdated": "2026-10-27T22:53:08.491Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 42,
+  "lastCheckedIndex": 317,
   "centres": [
     {
       "id": "159",
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57401,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 57404,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 236,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 239,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49077,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 49103,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -618,8 +618,8 @@
       "id": "452",
       "regionSite": "21-129",
       "name": "Freizeitarena Brilon, Germany",
-      "gamesTotal": 601,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 617,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -682,16 +682,16 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 305,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 311,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8862,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 8865,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -714,8 +714,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 36921,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 36933,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -786,8 +786,8 @@
       "id": "291",
       "regionSite": "7-9",
       "name": "Funstation Ltd, Edinburgh, Scotland",
-      "gamesTotal": 7253,
-      "lastActivity": "2026-10-13",
+      "gamesTotal": 7255,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -898,8 +898,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2347,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 2368,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -914,8 +914,8 @@
       "id": "206",
       "regionSite": "21-48",
       "name": "HD Lasertag, Ibbenburen, DE",
-      "gamesTotal": 5094,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 5095,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1098,7 +1098,7 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43609,
+      "gamesTotal": 43667,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
@@ -1370,8 +1370,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 35158,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 35161,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1418,8 +1418,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10116,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 10120,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1626,16 +1626,16 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38393,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 38397,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 85926,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 85933,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1674,8 +1674,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 48047,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 48048,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34882,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 34886,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1914,16 +1914,16 @@
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4934,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 4936,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7429,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 7479,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -2282,15 +2282,15 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28435,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 28533,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129841,
+      "gamesTotal": 129887,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
