@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-27T12:46:56.685Z",
+  "lastUpdated": "2026-10-27T18:43:48.145Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 118,
+  "lastCheckedIndex": 42,
   "centres": [
     {
       "id": "159",
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4902,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 4905,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1098,8 +1098,8 @@
       "id": "128",
       "regionSite": "20-1",
       "name": "Laser Game Plzen, CZ",
-      "gamesTotal": 43597,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 43609,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1122,8 +1122,8 @@
       "id": "218",
       "regionSite": "21-59",
       "name": "Laser Heroes GmbH, Bremerhaven, DE",
-      "gamesTotal": 8828,
-      "lastActivity": "2026-10-19",
+      "gamesTotal": 8836,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59379,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 59382,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1498,8 +1498,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15275,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 15280,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1546,7 +1546,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1537,
+      "gamesTotal": 1551,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
@@ -1554,8 +1554,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5329,
-      "lastActivity": "2026-08-22",
+      "gamesTotal": 5432,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1618,8 +1618,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 25044,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 25061,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1698,7 +1698,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9455,
+      "gamesTotal": 9472,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
@@ -1714,8 +1714,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39683,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 39701,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1762,7 +1762,7 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76810,
+      "gamesTotal": 76815,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
@@ -1794,8 +1794,8 @@
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
-      "gamesTotal": 14071,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 14072,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1906,8 +1906,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43291,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 43294,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1930,8 +1930,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 21089,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 21144,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -1954,8 +1954,8 @@
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5073,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 5081,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -2138,7 +2138,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8571,
+      "gamesTotal": 8575,
       "lastActivity": "2026-10-27",
       "status": "active"
     },
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129811,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 129841,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
