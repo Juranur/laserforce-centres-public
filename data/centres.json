@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-26T23:22:49.939Z",
+  "lastUpdated": "2026-10-27T05:30:49.491Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 257,
+  "lastCheckedIndex": 195,
   "centres": [
     {
       "id": "159",
@@ -1546,8 +1546,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1534,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 1537,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8554,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 8566,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
@@ -2599,19 +2599,19 @@
       "status": "active"
     },
     {
+      "id": "77",
+      "regionSite": "4-28",
+      "name": "The Rush Funplex Syracuse, UT, United States",
+      "gamesTotal": 594,
+      "lastActivity": "before 2026",
+      "status": "active"
+    },
+    {
       "id": "413",
       "regionSite": "4-181",
       "name": "The Rush Funplex, Pleasant View, UT, USA",
       "gamesTotal": 308,
       "lastActivity": "2026-10-26",
-      "status": "active"
-    },
-    {
-      "id": "77",
-      "regionSite": "4-28",
-      "name": "The Rush Funplex, Utah",
-      "gamesTotal": 594,
-      "lastActivity": "before 2026",
       "status": "active"
     },
     {
@@ -2778,8 +2778,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1208,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 1209,
+      "lastActivity": "2026-10-27",
       "status": "active"
     },
     {
