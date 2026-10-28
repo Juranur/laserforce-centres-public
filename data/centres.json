@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-27T22:53:08.491Z",
+  "lastUpdated": "2026-10-28T06:04:15.716Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 317,
+  "lastCheckedIndex": 241,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4420,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 4425,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1315,
-      "lastActivity": "2026-10-22",
+      "gamesTotal": 1316,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -1498,8 +1498,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15280,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 15289,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96030,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 96067,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
