@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-28T06:04:15.716Z",
+  "lastUpdated": "2026-10-28T13:24:17.360Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 241,
+  "lastCheckedIndex": 165,
   "centres": [
     {
       "id": "159",
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49103,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 49113,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -1330,8 +1330,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92719,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 92752,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -1946,16 +1946,16 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3306,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 3310,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5081,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 5096,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8575,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 8580,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40632,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 40719,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
@@ -2282,16 +2282,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28533,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 28545,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 129887,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 129888,
+      "lastActivity": "2026-10-28",
       "status": "active"
     },
     {
