@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-31T05:59:40.051Z",
+  "lastUpdated": "2026-10-31T12:53:23.737Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 278,
+  "lastCheckedIndex": 200,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16707,
-      "lastActivity": "2026-10-28",
+      "gamesTotal": 16713,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -394,7 +394,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57466,
+      "gamesTotal": 57470,
       "lastActivity": "2026-10-31",
       "status": "active"
     },
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49279,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 49290,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 315,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 318,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -698,8 +698,8 @@
       "id": "309",
       "regionSite": "21-91",
       "name": "Fun Park Bergstrasse GmbH, Bensheim, DE",
-      "gamesTotal": 2694,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 2695,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1130,8 +1130,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 464,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 465,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1186,7 +1186,7 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 37255,
+      "gamesTotal": 37257,
       "lastActivity": "2026-10-31",
       "status": "active"
     },
@@ -1378,8 +1378,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1394,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 1398,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1546,8 +1546,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1570,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 1599,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -2242,8 +2242,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12188,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 12189,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40735,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 40738,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -2450,8 +2450,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52506,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 52514,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -2594,8 +2594,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84928,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 84944,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
