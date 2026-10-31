@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-30T23:00:00.962Z",
+  "lastUpdated": "2026-10-31T05:59:40.051Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 349,
+  "lastCheckedIndex": 278,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 34501,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 34502,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -186,16 +186,16 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4909,
-      "lastActivity": "2026-10-28",
+      "gamesTotal": 4916,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 97266,
-      "lastActivity": "2026-10-28",
+      "gamesTotal": 97271,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57449,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 57466,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 252,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 257,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30863,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 30866,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1186,8 +1186,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 37237,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 37255,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59383,
-      "lastActivity": "2026-10-28",
+      "gamesTotal": 59391,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1634,8 +1634,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 86033,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 86129,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1682,8 +1682,8 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4891,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 4894,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1730,8 +1730,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34886,
-      "lastActivity": "2026-10-27",
+      "gamesTotal": 34901,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
@@ -1922,8 +1922,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7550,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 7602,
+      "lastActivity": "2026-10-31",
       "status": "active"
     },
     {
