@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-01T22:45:59.604Z",
+  "lastUpdated": "2026-11-02T06:27:20.711Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 265,
+  "lastCheckedIndex": 190,
   "centres": [
     {
       "id": "159",
@@ -770,8 +770,8 @@
       "id": "105",
       "regionSite": "4-66",
       "name": "Funset Boulevard, WI, US",
-      "gamesTotal": 6069,
-      "lastActivity": "2026-10-03",
+      "gamesTotal": 6070,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -930,8 +930,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70266,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 70340,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -1034,8 +1034,8 @@
       "id": "130",
       "regionSite": "21-1",
       "name": "KNK eG, Mannheim, Germany",
-      "gamesTotal": 13241,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 13249,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -1130,8 +1130,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 465,
-      "lastActivity": "2026-10-31",
+      "gamesTotal": 467,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -1370,8 +1370,8 @@
       "id": "352",
       "regionSite": "21-109",
       "name": "Laserland Bautzen, Bautzen, DE",
-      "gamesTotal": 35164,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 35476,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8709,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 8718,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2178,8 +2178,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 40,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 42,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2218,16 +2218,16 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 18146,
-      "lastActivity": "2026-10-05",
+      "gamesTotal": 18271,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 266,
-      "lastActivity": "2026-10-26",
+      "gamesTotal": 267,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2282,16 +2282,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 28995,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 29035,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 130236,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 130244,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2378,8 +2378,8 @@
       "id": "222",
       "regionSite": "21-61",
       "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
-      "gamesTotal": 3388,
-      "lastActivity": "2026-10-07",
+      "gamesTotal": 3389,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2482,8 +2482,8 @@
       "id": "20",
       "regionSite": "1-23",
       "name": "Strike Bowling Chatswood, NSW, Australia",
-      "gamesTotal": 300,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 303,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2538,8 +2538,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4660,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 4687,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2570,8 +2570,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1564,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 1569,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
@@ -2594,8 +2594,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 84944,
-      "lastActivity": "2026-10-31",
+      "gamesTotal": 85035,
+      "lastActivity": "2026-11-02",
       "status": "active"
     },
     {
