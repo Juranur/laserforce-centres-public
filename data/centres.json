@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-03T23:57:28.489Z",
+  "lastUpdated": "2026-11-04T06:43:12.010Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 239,
+  "lastCheckedIndex": 164,
   "centres": [
     {
       "id": "159",
@@ -882,8 +882,8 @@
       "id": "475",
       "regionSite": "21-134",
       "name": "Gamexplore, Goslar, Germany",
-      "gamesTotal": 746,
-      "lastActivity": "2026-10-17",
+      "gamesTotal": 748,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -1930,16 +1930,16 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 21524,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 21606,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 15083,
-      "lastActivity": "2026-11-02",
+      "gamesTotal": 15105,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -1994,8 +1994,8 @@
       "id": "505",
       "regionSite": "4-235",
       "name": "Monster Mini Golf Mount Lake Terrace, WA, United States",
-      "gamesTotal": 9,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 12,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29512,
-      "lastActivity": "2026-11-02",
+      "gamesTotal": 29550,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40739,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 40753,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -2282,16 +2282,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 29039,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 29111,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 130253,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 130370,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
@@ -2754,8 +2754,8 @@
       "id": "445",
       "regionSite": "4-192",
       "name": "Wunderland Salem, Salem OR, United States",
-      "gamesTotal": 855,
-      "lastActivity": "2026-10-30",
+      "gamesTotal": 857,
+      "lastActivity": "2026-11-04",
       "status": "active"
     },
     {
