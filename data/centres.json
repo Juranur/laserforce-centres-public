@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-05T20:38:19.713Z",
+  "lastUpdated": "2026-11-06T06:59:14.921Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 212,
+  "lastCheckedIndex": 152,
   "centres": [
     {
       "id": "159",
@@ -631,14 +631,6 @@
       "status": "active"
     },
     {
-      "id": "317",
-      "regionSite": "21-94",
-      "name": "Full-One Lasertag, Winterberg, DE",
-      "gamesTotal": 10173,
-      "lastActivity": "2026-09-26",
-      "status": "active"
-    },
-    {
       "id": "379",
       "regionSite": "21-85",
       "name": "Fun & Freizeitpark Spassi, Zell im Wiesental, DE",
@@ -1100,6 +1092,14 @@
       "name": "Laser Game Plzen, CZ",
       "gamesTotal": 43765,
       "lastActivity": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "id": "317",
+      "regionSite": "21-94",
+      "name": "Laser Game Winterberg, Germany",
+      "gamesTotal": 10173,
+      "lastActivity": "2026-09-26",
       "status": "active"
     },
     {
@@ -1738,8 +1738,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 49125,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 49135,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -1922,8 +1922,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7797,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 7805,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29550,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 29635,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2106,8 +2106,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 28029,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 28031,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8718,
-      "lastActivity": "2026-11-02",
+      "gamesTotal": 8721,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40823,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 40832,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2290,8 +2290,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 130397,
-      "lastActivity": "2026-11-05",
+      "gamesTotal": 130400,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
@@ -2594,8 +2594,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 85526,
-      "lastActivity": "2026-11-05",
+      "gamesTotal": 85527,
+      "lastActivity": "2026-11-06",
       "status": "active"
     },
     {
