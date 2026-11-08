@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-08T06:31:16.799Z",
+  "lastUpdated": "2026-11-08T13:58:06.569Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 147,
+  "lastCheckedIndex": 73,
   "centres": [
     {
       "id": "159",
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 342,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 356,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49534,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 49537,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1194,8 +1194,8 @@
       "id": "329",
       "regionSite": "21-97",
       "name": "Laser Tag Verden, Verden, DE",
-      "gamesTotal": 9558,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 9580,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1330,8 +1330,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 92816,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 92936,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1378,8 +1378,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1440,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 1442,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59463,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 59464,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1498,8 +1498,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15310,
-      "lastActivity": "2026-11-05",
+      "gamesTotal": 15320,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1626,24 +1626,24 @@
       "id": "143",
       "regionSite": "21-11",
       "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
-      "gamesTotal": 38409,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 38416,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 86355,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 86371,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 44058,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 44076,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1658,8 +1658,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49521,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 49523,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1754,8 +1754,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10644,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 10657,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1786,8 +1786,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32631,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 32633,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -1930,8 +1930,8 @@
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 21608,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 21612,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -2138,7 +2138,7 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8744,
+      "gamesTotal": 8750,
       "lastActivity": "2026-11-08",
       "status": "active"
     },
@@ -2402,8 +2402,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 689,
-      "lastActivity": "2026-10-11",
+      "gamesTotal": 690,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -2450,8 +2450,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52933,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 52969,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -2594,8 +2594,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 85533,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 85539,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
@@ -2778,8 +2778,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1218,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 1221,
+      "lastActivity": "2026-11-08",
       "status": "active"
     },
     {
