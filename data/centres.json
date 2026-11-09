@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-08T22:45:18.493Z",
+  "lastUpdated": "2026-11-09T06:40:48.958Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 8,
+  "lastCheckedIndex": 284,
   "centres": [
     {
       "id": "159",
@@ -242,16 +242,16 @@
       "id": "262",
       "regionSite": "21-67",
       "name": "BBE Event GmbH, Leipzig, DE",
-      "gamesTotal": 1556,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 1557,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 85,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 89,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57693,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 57729,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -426,8 +426,8 @@
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
-      "gamesTotal": 5635,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 5638,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 356,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 360,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49537,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 49573,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -578,8 +578,8 @@
       "id": "209",
       "regionSite": "21-51",
       "name": "First Lasertag, Kornwestheim, DE",
-      "gamesTotal": 26609,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 26611,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -922,8 +922,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70346,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 70424,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -1698,8 +1698,8 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9581,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 9588,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96356,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 96358,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -2034,8 +2034,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29637,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 29646,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -2138,8 +2138,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8750,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 8752,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
@@ -2218,8 +2218,8 @@
       "id": "140",
       "regionSite": "21-8",
       "name": "PowerLaser, Stuttgart, Germany",
-      "gamesTotal": 18272,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 18398,
+      "lastActivity": "2026-11-09",
       "status": "active"
     },
     {
