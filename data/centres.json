@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-09T16:43:40.275Z",
+  "lastUpdated": "2026-11-10T02:14:55.466Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 209,
+  "lastCheckedIndex": 133,
   "centres": [
     {
       "id": "159",
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 97851,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 98084,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 10006,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 10034,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -922,8 +922,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70424,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 70460,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1730,16 +1730,16 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34923,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 34943,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 49479,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 49528,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1818,8 +1818,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96358,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 96359,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1906,8 +1906,8 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43446,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 43582,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1922,8 +1922,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7818,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 7874,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1938,24 +1938,24 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 15105,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 15133,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3347,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 3356,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5246,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 5272,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -2114,8 +2114,8 @@
       "id": "306",
       "regionSite": "32-2",
       "name": "Park & Garden Co. Ltd, Bangkok, Thailand",
-      "gamesTotal": 10415,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 10418,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -2282,16 +2282,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 29227,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 29228,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 130497,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 130500,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -2778,8 +2778,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1221,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 1222,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
