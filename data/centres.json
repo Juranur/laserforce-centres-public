@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-10T02:14:55.466Z",
+  "lastUpdated": "2026-11-10T15:32:03.978Z",
   "totalCentres": 443,
   "activeCentres": 351,
   "retiredCentres": 92,
   "centresWithData": 441,
-  "lastCheckedIndex": 133,
+  "lastCheckedIndex": 55,
   "centres": [
     {
       "id": "159",
@@ -234,8 +234,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3042,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 3046,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57729,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 57730,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1250,8 +1250,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102499,
-      "lastActivity": "2026-10-20",
+      "gamesTotal": 102554,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59473,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 59497,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1538,16 +1538,16 @@
       "id": "178",
       "regionSite": "21-34",
       "name": "Lasertag Fun Center, Hannover, DE",
-      "gamesTotal": 18631,
-      "lastActivity": "2026-11-06",
+      "gamesTotal": 18719,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1670,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 1672,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1578,8 +1578,8 @@
       "id": "279",
       "regionSite": "21-63",
       "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
-      "gamesTotal": 64011,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 64179,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1642,8 +1642,8 @@
       "id": "167",
       "regionSite": "21-28",
       "name": "Laserzone Essen1, Essen, DE",
-      "gamesTotal": 44122,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 44124,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1674,16 +1674,16 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 48251,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 48257,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4952,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 4953,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 76861,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 76894,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -2258,8 +2258,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40850,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 40923,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
@@ -2450,8 +2450,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52969,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 52970,
+      "lastActivity": "2026-11-10",
       "status": "active"
     },
     {
