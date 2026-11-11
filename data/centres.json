@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-10T23:56:04.098Z",
+  "lastUpdated": "2026-11-11T06:37:22.886Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 330,
+  "lastCheckedIndex": 267,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 34980,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 34981,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -66,8 +66,8 @@
       "id": "355",
       "regionSite": "21-110",
       "name": "Adventure World, Oberhausen, DE",
-      "gamesTotal": 4029,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 4032,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57730,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 57732,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1322,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 1323,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -1146,8 +1146,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42833,
-      "lastActivity": "2026-10-29",
+      "gamesTotal": 42852,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -1786,16 +1786,16 @@
       "id": "97",
       "regionSite": "4-56",
       "name": "Lazertag Extreme, CA, USA",
-      "gamesTotal": 3237,
-      "lastActivity": "2026-10-23",
+      "gamesTotal": 3238,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32669,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 32725,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -2786,8 +2786,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1222,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 1224,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
