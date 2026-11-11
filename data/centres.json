@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-11T06:37:22.886Z",
+  "lastUpdated": "2026-11-11T14:47:12.730Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 267,
+  "lastCheckedIndex": 193,
   "centres": [
     {
       "id": "159",
@@ -890,8 +890,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2420,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 2427,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -1250,8 +1250,8 @@
       "id": "439",
       "regionSite": "24-7",
       "name": "Laserdance #2, Vienna, Austria",
-      "gamesTotal": 35,
-      "lastActivity": "2026-11-06",
+      "gamesTotal": 36,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
@@ -2266,8 +2266,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 40923,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 41000,
+      "lastActivity": "2026-11-11",
       "status": "active"
     },
     {
