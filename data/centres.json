@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-12T01:15:44.244Z",
+  "lastUpdated": "2026-11-12T15:48:56.317Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 115,
+  "lastCheckedIndex": 47,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16731,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 16755,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -194,7 +194,7 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 98328,
+      "gamesTotal": 98345,
       "lastActivity": "2026-11-12",
       "status": "active"
     },
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1780,
-      "lastActivity": "2026-11-03",
+      "gamesTotal": 1782,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1242,24 +1242,24 @@
       "id": "438",
       "regionSite": "24-6",
       "name": "Laserdance #1, Vienna, Austria",
-      "gamesTotal": 32,
-      "lastActivity": "2026-08-29",
+      "gamesTotal": 33,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
       "id": "439",
       "regionSite": "24-7",
       "name": "Laserdance #2, Vienna, Austria",
-      "gamesTotal": 36,
-      "lastActivity": "2026-11-11",
+      "gamesTotal": 37,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102554,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 102563,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1282,8 +1282,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208604,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 208613,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 93029,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 93075,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1386,8 +1386,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1456,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 1460,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1402,8 +1402,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59497,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 59504,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1722,8 +1722,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 39993,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 39999,
+      "lastActivity": "2026-11-12",
       "status": "active"
     },
     {
@@ -1826,7 +1826,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96404,
+      "gamesTotal": 96498,
       "lastActivity": "2026-11-12",
       "status": "active"
     },
@@ -2266,7 +2266,7 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41020,
+      "gamesTotal": 41026,
       "lastActivity": "2026-11-12",
       "status": "active"
     },
@@ -2458,7 +2458,7 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 52978,
+      "gamesTotal": 52987,
       "lastActivity": "2026-11-12",
       "status": "active"
     },
