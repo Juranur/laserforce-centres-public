@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-13T00:17:48.209Z",
+  "lastUpdated": "2026-11-13T07:02:29.759Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 322,
+  "lastCheckedIndex": 249,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 34981,
-      "lastActivity": "2026-11-11",
+      "gamesTotal": 35163,
+      "lastActivity": "2026-11-13",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 98345,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 98385,
+      "lastActivity": "2026-11-13",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 89,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 90,
+      "lastActivity": "2026-11-13",
       "status": "active"
     },
     {
@@ -1738,8 +1738,8 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34943,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 34949,
+      "lastActivity": "2026-11-13",
       "status": "active"
     },
     {
