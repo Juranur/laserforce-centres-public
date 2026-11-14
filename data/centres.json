@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-14T06:46:34.375Z",
+  "lastUpdated": "2026-11-14T14:12:51.575Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 115,
+  "lastCheckedIndex": 45,
   "centres": [
     {
       "id": "159",
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30888,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 30897,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1090,8 +1090,8 @@
       "id": "402",
       "regionSite": "4-170",
       "name": "Laser Fun Zone, WA, USA",
-      "gamesTotal": 1782,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 1784,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1194,8 +1194,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 37699,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 37730,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1226,8 +1226,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31264,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 31267,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1274,8 +1274,8 @@
       "id": "420",
       "regionSite": "7-21",
       "name": "Laserforce Barrow, Barrow-in-Furness, UK",
-      "gamesTotal": 90,
-      "lastActivity": "2026-11-01",
+      "gamesTotal": 91,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1386,8 +1386,8 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1467,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 1480,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1402,8 +1402,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59504,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 59511,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1442,8 +1442,8 @@
       "id": "382",
       "regionSite": "1-78",
       "name": "Laserquest Geelong, Geelong VIC, AU",
-      "gamesTotal": 910,
-      "lastActivity": "2026-10-10",
+      "gamesTotal": 979,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1506,8 +1506,8 @@
       "id": "263",
       "regionSite": "21-86",
       "name": "Lasertag Bonn, Bonn, DE",
-      "gamesTotal": 15320,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 15323,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1722,8 +1722,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 40005,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 40010,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10661,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 10663,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -1826,8 +1826,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96498,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 96499,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -2114,8 +2114,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 28271,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 28273,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -2146,8 +2146,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8757,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 8766,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -2250,8 +2250,8 @@
       "id": "208",
       "regionSite": "21-50",
       "name": "Quantum Lasertag, Speyer, DE",
-      "gamesTotal": 12198,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 12199,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -2290,8 +2290,8 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 29410,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 29420,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
@@ -2546,7 +2546,7 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4780,
+      "gamesTotal": 4782,
       "lastActivity": "2026-11-14",
       "status": "active"
     },
@@ -2578,8 +2578,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1573,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 1574,
+      "lastActivity": "2026-11-14",
       "status": "active"
     },
     {
