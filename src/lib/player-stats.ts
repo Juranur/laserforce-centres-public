@@ -132,6 +132,7 @@ export interface MergedPoint {
   t: number;
   exact: number | null;
   archive: number | null;
+  estimate: number | null; // dashed pre-archive estimate: 0 at earliest join date → first real point
   mission?: RecentMission;
 }
 
@@ -139,14 +140,47 @@ export interface MergedPoint {
 export function mergeSeries(series: BuiltSeries): MergedPoint[] {
   const map = new Map<number, MergedPoint>();
   for (const p of series.exact) {
-    map.set(p.t, { t: p.t, exact: p.missions, archive: null, mission: p.mission });
+    map.set(p.t, { t: p.t, exact: p.missions, archive: null, estimate: null, mission: p.mission });
   }
   for (const p of series.archive) {
     const existing = map.get(p.t);
     if (existing) existing.archive = p.missions;
-    else map.set(p.t, { t: p.t, exact: null, archive: p.missions });
+    else map.set(p.t, { t: p.t, exact: null, archive: p.missions, estimate: null });
   }
   return [...map.values()].sort((a, b) => a.t - b.t);
+}
+
+/**
+ * Inject a dashed "estimated history" segment from the player's earliest
+ * centre-join date (0 missions, by definition) to the first real data point.
+ *
+ * The Laserforce API exposes no per-mission history before the last-30 window
+ * and no past career totals, so the period between "joined" and "first archive
+ * point" is genuinely unknown. A straight line is the simplest honest visual:
+ * it is clearly labelled as an estimate and never plotted as real data. The
+ * segment is two points (join date, first real point) with `estimate` set;
+ * every other point keeps `estimate: null`, and the chart renders the line
+ * with connectNulls=false so it only spans that one segment.
+ */
+export function withEstimate(merged: MergedPoint[], player: PlayerHistory): MergedPoint[] {
+  if (!merged.length) return merged;
+
+  const joinTs = player.centres
+    .map(c => Date.parse((c.joined ?? "") + "T00:00:00Z"))
+    .filter(t => Number.isFinite(t));
+  if (!joinTs.length) return merged;
+
+  const joinT = Math.min(...joinTs);
+  const first = merged[0];
+  // only add an estimate when the join date actually predates the real data
+  if (joinT >= first.t) return merged;
+
+  const firstVal = first.exact ?? first.archive ?? 0;
+  const tagged = merged.map((p, i) =>
+    i === 0 ? { ...p, estimate: firstVal } : { ...p, estimate: null },
+  );
+  tagged.unshift({ t: joinT, exact: null, archive: null, estimate: 0 });
+  return tagged;
 }
 
 export function fmtNum(n: number): string {
@@ -166,4 +200,4 @@ export function highestSkill(centres: CentreEntry[]): CentreEntry | null {
 
 export function fmtDay(t: number): string {
   return new Date(t).toLocaleDateString("en-US", { month: "short", day: "numeric" });
-}
+} 
