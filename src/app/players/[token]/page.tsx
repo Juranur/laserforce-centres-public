@@ -74,7 +74,7 @@ export default async function PlayerPage({ params }: PageProps) {
       {/* cumulative chart */}
       <section className="mt-6 rounded-xl border border-zinc-800 bg-zinc-900/60 p-6">
         <h2 className="mb-1 text-lg font-semibold text-cyan-300">Career missions over time</h2>
-        <p className="mb-4 text-xs text-zinc-500">
+        <p className="mb-4 text-xs text-zinc-300">
           Cumulative total. Cyan: exact totals from the API&apos;s last-30-missions window
           ({series.exact.length ? fmtDay(series.exact[0].t) + " → " + fmtDay(series.exact[series.exact.length - 1].t) : "n/a"}).
           Amber: archived totals, one point per update cycle — the curve extends every cycle
@@ -82,7 +82,7 @@ export default async function PlayerPage({ params }: PageProps) {
           older per-mission history is not exposed by the API).
         </p>
         <PlayerMissionsChart data={merged} yDomain={series.yDomain} />
-        <div className="mt-2 flex flex-wrap gap-4 text-xs text-zinc-500">
+        <div className="mt-2 flex flex-wrap gap-4 text-xs text-zinc-300">
           <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-cyan-400" />exact (last-30 window)</span>
           <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-amber-400" />archive (per cycle)</span>
         </div>
@@ -97,7 +97,7 @@ export default async function PlayerPage({ params }: PageProps) {
             ))}
           </div>
         ) : (
-          <p className="mt-4 text-xs text-zinc-500">
+          <p className="mt-4 text-xs text-zinc-300">
             First archive point recorded — deltas between cycles appear here from the next cycle on.
           </p>
         )}
