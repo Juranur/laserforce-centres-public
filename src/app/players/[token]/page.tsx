@@ -9,6 +9,7 @@ import {
   getPlayer,
   highestSkill,
   mergeSeries,
+  withEstimate,
 } from "@/lib/player-stats";
 
 interface PageProps {
@@ -22,7 +23,7 @@ export default async function PlayerPage({ params }: PageProps) {
   if (!player) notFound();
 
   const series = buildSeries(player);
-  const merged = mergeSeries(series);
+  const merged = withEstimate(mergeSeries(series), player);
   const skill = highestSkill(player.centres);
   const memberYears = player.joinDate
     ? Math.round(((Date.now() - Date.parse(player.joinDate + "T00:00:00Z")) / 31557600000) * 10) / 10
@@ -78,13 +79,16 @@ export default async function PlayerPage({ params }: PageProps) {
           Cumulative total. Cyan: exact totals from the API&apos;s last-30-missions window
           ({series.exact.length ? fmtDay(series.exact[0].t) + " → " + fmtDay(series.exact[series.exact.length - 1].t) : "n/a"}).
           Amber: archived totals, one point per update cycle — the curve extends every cycle
-          ({player.archivePoints.length} point{player.archivePoints.length === 1 ? "" : "s"} so far,
-          older per-mission history is not exposed by the API).
+          ({player.archivePoints.length} point{player.archivePoints.length === 1 ? "" : "s"} so far).
+          Grey dashed: a straight line from the player&apos;s earliest centre-join date to the first
+          real data point — the API exposes no per-mission history before the archive, so this span
+          is unknown and the dashed line is a labelled estimate, not measured data.
         </p>
         <PlayerMissionsChart data={merged} yDomain={series.yDomain} />
         <div className="mt-2 flex flex-wrap gap-4 text-xs text-zinc-300">
           <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-cyan-400" />exact (last-30 window)</span>
           <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-amber-400" />archive (per cycle)</span>
+          <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-zinc-400" />estimated (join date &rarr; archive)</span>
         </div>
         {archiveDeltas.length > 0 ? (
           <div className="mt-4 text-sm text-zinc-400">
@@ -97,7 +101,7 @@ export default async function PlayerPage({ params }: PageProps) {
             ))}
           </div>
         ) : (
-          <p className="mt-4 text-xs text-zinc-300">
+          <p className="mt-4 text-xs text-zinc-500">
             First archive point recorded — deltas between cycles appear here from the next cycle on.
           </p>
         )}
@@ -180,4 +184,4 @@ export default async function PlayerPage({ params }: PageProps) {
       </section>
     </main>
   );
-}
+} 
