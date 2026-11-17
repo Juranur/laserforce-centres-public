@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-17T02:38:54.378Z",
+  "lastUpdated": "2026-11-17T16:39:54.422Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 225,
+  "lastCheckedIndex": 158,
   "centres": [
     {
       "id": "159",
@@ -234,8 +234,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3046,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 3050,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -546,7 +546,7 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49833,
+      "gamesTotal": 49857,
       "lastActivity": "2026-11-17",
       "status": "active"
     },
@@ -1258,8 +1258,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102563,
-      "lastActivity": "2026-11-12",
+      "gamesTotal": 102651,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1914,56 +1914,56 @@
       "id": "292",
       "regionSite": "20-3",
       "name": "Mercuria Branik 1, Prague, CZ",
-      "gamesTotal": 43594,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 43635,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "293",
       "regionSite": "20-4",
       "name": "Mercuria Branik 2, Prague, CZ",
-      "gamesTotal": 4958,
-      "lastActivity": "2026-11-10",
+      "gamesTotal": 4962,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 7965,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 7997,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "381",
       "regionSite": "20-10",
       "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
-      "gamesTotal": 21714,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 21720,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 15155,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 15163,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3357,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 3361,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "469",
       "regionSite": "20-17",
       "name": "Mercuria Pankrac, Prague, CZ",
-      "gamesTotal": 5274,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 5310,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -2042,8 +2042,8 @@
       "id": "310",
       "regionSite": "21-92",
       "name": "Nova Lasertag, Luneburg, DE",
-      "gamesTotal": 29733,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 29735,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -2266,8 +2266,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41265,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 41267,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -2290,16 +2290,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 29506,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 29606,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 130732,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 130785,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
