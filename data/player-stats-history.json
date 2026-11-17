@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated": "2026-11-17T08:11:49.117Z",
-  "cycle": 3,
+  "generated": "2026-11-17T11:16:25.693Z",
+  "cycle": 4,
   "note": "archivePoints accumulate one point per update cycle; recentMissions is the API's exact last-30 window used to draw the precise recent segment.",
   "leaderboard": {
     "queryType": 1,
@@ -2591,10 +2591,6 @@
           "missions": 2
         },
         {
-          "type": "Jeder gegen Jeden",
-          "missions": 1
-        },
-        {
           "type": "Last Man Standing",
           "missions": 1
         },
@@ -2608,6 +2604,10 @@
         },
         {
           "type": "Zombies ",
+          "missions": 1
+        },
+        {
+          "type": "Jeder gegen Jeden",
           "missions": 1
         },
         {
@@ -2666,6 +2666,10 @@
         },
         {
           "t": "2026-11-17T08:11:49.117Z",
+          "missions": 7704
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
           "missions": 7704
         }
       ],
@@ -2851,7 +2855,7 @@
           "score": 2722
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "pdxFcdc": {
       "codename": "FLY ✨Lila✨",
@@ -4504,6 +4508,10 @@
         {
           "t": "2026-11-17T08:11:49.117Z",
           "missions": 8657
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 8657
         }
       ],
       "recentMissions": [
@@ -4688,7 +4696,7 @@
           "score": 6040
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "gWtyhnL": {
       "codename": "FLY Nuke",
@@ -6261,6 +6269,10 @@
         {
           "t": "2026-11-17T08:11:49.117Z",
           "missions": 2803
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 2803
         }
       ],
       "recentMissions": [
@@ -6445,7 +6457,7 @@
           "score": 21033
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "G7ZgDmc": {
       "codename": "NYX Jonny1337 ☣",
@@ -7955,6 +7967,10 @@
         {
           "t": "2026-11-17T08:11:49.117Z",
           "missions": 3445
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 3445
         }
       ],
       "recentMissions": [
@@ -8139,7 +8155,7 @@
           "score": 10738
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "7CkQbgk": {
       "codename": "NYX Senex ☣",
@@ -9545,11 +9561,11 @@
           "missions": 8
         },
         {
-          "type": "LTD Double Ball",
+          "type": "Zombies ",
           "missions": 7
         },
         {
-          "type": "Zombies ",
+          "type": "LTD Double Ball",
           "missions": 7
         },
         {
@@ -9621,11 +9637,11 @@
           "missions": 1
         },
         {
-          "type": "Non Standard Missions",
+          "type": "Knockout Missions",
           "missions": 1
         },
         {
-          "type": "Knockout Missions",
+          "type": "Non Standard Missions",
           "missions": 1
         },
         {
@@ -9648,6 +9664,10 @@
         },
         {
           "t": "2026-11-17T08:11:49.117Z",
+          "missions": 3222
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
           "missions": 3222
         }
       ],
@@ -9833,7 +9853,7 @@
           "score": 20618
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "QxWnkFg": {
       "codename": "FLY  ֎ƑąⱠӑ֎",
@@ -11280,6 +11300,10 @@
         {
           "t": "2026-11-17T08:11:49.117Z",
           "missions": 3991
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 3991
         }
       ],
       "recentMissions": [
@@ -11464,7 +11488,7 @@
           "score": 11063
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z"
+      "lastFetched": "2026-11-17T11:16:25.693Z"
     },
     "dGpwTcb": {
       "token": "dGpwTcb",
@@ -11475,6 +11499,10 @@
         },
         {
           "t": "2026-11-17T08:11:49.117Z",
+          "missions": 2937
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
           "missions": 2937
         }
       ],
@@ -11660,7 +11688,7 @@
           "score": 113
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z",
+      "lastFetched": "2026-11-17T11:16:25.693Z",
       "codename": "FLY ₪ØƦʟǺǹԁѳ₪",
       "avatar": "61",
       "joinDate": "2018-09-01",
@@ -12985,11 +13013,11 @@
           "missions": 5
         },
         {
-          "type": "Fangen 2.0",
+          "type": "Darkgame",
           "missions": 2
         },
         {
-          "type": "Darkgame",
+          "type": "Fangen 2.0",
           "missions": 2
         },
         {
@@ -13039,6 +13067,10 @@
         },
         {
           "t": "2026-11-17T08:11:49.117Z",
+          "missions": 10616
+        },
+        {
+          "t": "2026-11-17T11:16:25.693Z",
           "missions": 10616
         }
       ],
@@ -13224,7 +13256,7 @@
           "score": 10313
         }
       ],
-      "lastFetched": "2026-11-17T08:11:49.117Z",
+      "lastFetched": "2026-11-17T11:16:25.693Z",
       "codename": "Thomiiik",
       "avatar": "4",
       "joinDate": "2016-06-15",
@@ -14658,11 +14690,11 @@
           "missions": 1
         },
         {
-          "type": "Feel like a pro",
+          "type": "Betaphase",
           "missions": 1
         },
         {
-          "type": "Betaphase",
+          "type": "Feel like a pro",
           "missions": 1
         },
         {
@@ -14679,6 +14711,1932 @@
         },
         {
           "type": "Grünstadt Tournament",
+          "missions": 1
+        },
+        {
+          "type": "Adventure Badge",
+          "missions": 1
+        }
+      ]
+    },
+    "kRqzzKr": {
+      "token": "kRqzzKr",
+      "archivePoints": [
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 2506
+        }
+      ],
+      "recentMissions": [
+        {
+          "date": "2026-11-11 20:59:35",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 617
+        },
+        {
+          "date": "2026-11-11 20:53:00",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 507
+        },
+        {
+          "date": "2026-11-11 20:29:24",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 208
+        },
+        {
+          "date": "2026-11-11 20:23:36",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10215
+        },
+        {
+          "date": "2026-11-11 20:00:48",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 20521
+        },
+        {
+          "date": "2026-11-11 19:55:13",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10110
+        },
+        {
+          "date": "2026-11-11 19:33:50",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 20227
+        },
+        {
+          "date": "2026-11-11 19:27:49",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 317
+        },
+        {
+          "date": "2026-11-11 19:06:45",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 20712
+        },
+        {
+          "date": "2026-11-11 18:59:37",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 511
+        },
+        {
+          "date": "2026-11-11 18:37:40",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10604
+        },
+        {
+          "date": "2026-11-11 18:31:51",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10506
+        },
+        {
+          "date": "2026-11-11 18:09:39",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 20217
+        },
+        {
+          "date": "2026-11-11 18:03:42",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10316
+        },
+        {
+          "date": "2026-10-31 22:01:25",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Standard - Jeder Gegen Jeden",
+          "score": 11960
+        },
+        {
+          "date": "2026-10-31 21:39:22",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Zombie - 3 Teams",
+          "score": 13250
+        },
+        {
+          "date": "2026-10-31 21:17:03",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Zombie - 3 Teams",
+          "score": 13000
+        },
+        {
+          "date": "2026-10-31 20:52:21",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Zombie - 3 Teams",
+          "score": 12500
+        },
+        {
+          "date": "2026-10-31 20:28:37",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Standard - 2 Teams",
+          "score": 15770
+        },
+        {
+          "date": "2026-10-31 20:07:33",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Standard - 2 Teams",
+          "score": 20295
+        },
+        {
+          "date": "2026-10-31 19:49:56",
+          "site": "Laserzone Hamburg, Germany",
+          "type": "Standard - Jeder Gegen Jeden",
+          "score": 13790
+        },
+        {
+          "date": "2026-10-28 20:51:12",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 411
+        },
+        {
+          "date": "2026-10-28 20:45:13",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 509
+        },
+        {
+          "date": "2026-10-28 20:30:38",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 10318
+        },
+        {
+          "date": "2026-10-28 20:24:48",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 407
+        },
+        {
+          "date": "2026-10-28 20:08:42",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 121
+        },
+        {
+          "date": "2026-10-28 20:01:22",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 7
+        },
+        {
+          "date": "2026-10-28 19:45:38",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 516
+        },
+        {
+          "date": "2026-10-28 19:39:47",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 20510
+        },
+        {
+          "date": "2026-10-28 19:22:18",
+          "site": "Laserzone Kiel, Kiel, DE",
+          "type": "LaserBall Liga",
+          "score": 106
+        }
+      ],
+      "lastFetched": "2026-11-17T11:16:25.693Z",
+      "codename": "[KST]Nini",
+      "avatar": "32",
+      "joinDate": "2017-10-29",
+      "totalMissions": 2506,
+      "centres": [
+        {
+          "name": "Laserzone Kiel, Kiel, DE",
+          "missions": 1690,
+          "skillLevelNum": 8,
+          "skillLevelName": "Lasergod",
+          "joined": "2017-10-29"
+        },
+        {
+          "name": "Nova Lasertag, Luneburg, DE",
+          "missions": 130,
+          "skillLevelNum": 4,
+          "skillLevelName": "Sternenlord",
+          "joined": "2023-05-06"
+        },
+        {
+          "name": "Laserzone Hamburg, Germany",
+          "missions": 76,
+          "skillLevelNum": 5,
+          "skillLevelName": "Oberste Krieger",
+          "joined": "2024-12-20"
+        },
+        {
+          "name": "3D Lasersports 2.0, Frechen, Gemany",
+          "missions": 62,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-01"
+        },
+        {
+          "name": "Laser Game Winterberg, Germany",
+          "missions": 51,
+          "skillLevelNum": 3,
+          "skillLevelName": "Hauptmann",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Lasertag Fun Center, Hannover, DE",
+          "missions": 50,
+          "skillLevelNum": 0,
+          "skillLevelName": "Auto [Silber 1]",
+          "joined": "2025-05-11"
+        },
+        {
+          "name": "Laserzone Essen Ost GmbH",
+          "missions": 48,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2024-12-27"
+        },
+        {
+          "name": "Mercuria Pankrac, Prague, CZ",
+          "missions": 46,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2026-04-03"
+        },
+        {
+          "name": "Laserzone, Wuerselen, DE",
+          "missions": 45,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-18"
+        },
+        {
+          "name": "Laser Tag Delmenhorst, DE",
+          "missions": 39,
+          "skillLevelNum": 0,
+          "skillLevelName": "Grünschnabel",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Lasergame Beroun, Czech Republic",
+          "missions": 34,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "Laserland Bautzen, Bautzen, DE",
+          "missions": 24,
+          "skillLevelNum": 0,
+          "skillLevelName": "Dominator",
+          "joined": "2024-12-28"
+        },
+        {
+          "name": "Laserzone Bielefeld, Bielefeld, DE",
+          "missions": 20,
+          "skillLevelNum": 2,
+          "skillLevelName": "Unsterblicher",
+          "joined": "2024-05-30"
+        },
+        {
+          "name": "Laserzone Köln, Köln-Ossendorf, Germany",
+          "missions": 14,
+          "skillLevelNum": 2,
+          "skillLevelName": "Unsterblicher",
+          "joined": "2024-12-31"
+        },
+        {
+          "name": "Mining Adventure World, Hamm, Germany",
+          "missions": 13,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-16"
+        },
+        {
+          "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
+          "missions": 12,
+          "skillLevelNum": 2,
+          "skillLevelName": "Soldat",
+          "joined": "2022-08-06"
+        },
+        {
+          "name": "Laserzone Garching, Garching, DE",
+          "missions": 11,
+          "skillLevelNum": 2,
+          "skillLevelName": "Unsterblicher",
+          "joined": "2024-05-27"
+        },
+        {
+          "name": "Laser Universe, Schwentinental, DE",
+          "missions": 8,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2022-08-13"
+        },
+        {
+          "name": "Laserplex LaserTag Arena, Wuppertal, DE",
+          "missions": 8,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-12-30"
+        },
+        {
+          "name": "Lasertag Neufahrn Munchen Nord, Neufahrn bei Freising, DE",
+          "missions": 7,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-05-27"
+        },
+        {
+          "name": "Legendary Lasertag, Giessen, DE",
+          "missions": 7,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-24"
+        },
+        {
+          "name": "Adventure Island, Fehmarn, Germany",
+          "missions": 6,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-12"
+        },
+        {
+          "name": "Ricany Lasergame 2, Ricany, CZ",
+          "missions": 5,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2026-04-05"
+        },
+        {
+          "name": "Laserzone Monchengladbach, Monchengladbach, DE",
+          "missions": 4,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-05-29"
+        },
+        {
+          "name": "Ricany Lasergame, Ricany, CZ",
+          "missions": 4,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2026-04-05"
+        },
+        {
+          "name": "Code Red Lasertagarena, Kempten, DE",
+          "missions": 4,
+          "skillLevelNum": 0,
+          "skillLevelName": "One",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "HD Lasertag, Ibbenburen, DE",
+          "missions": 3,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Laserzone Essen1, Essen, DE",
+          "missions": 2,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-05-29"
+        },
+        {
+          "name": "Fun Sport Area GmbH, Troisdorf, DE",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2024-12-29"
+        },
+        {
+          "name": "Fun Laser Tag GmbH, Solingen, DE",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2024-12-30"
+        },
+        {
+          "name": "Sportpark GmbH, Gelsenkirchen, DE",
+          "missions": 2,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-08-09"
+        },
+        {
+          "name": "Sax Racing GmbH, Schkeuditz, DE",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-04-03"
+        },
+        {
+          "name": "Laser Heroes, Lingen, Germany",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-04"
+        },
+        {
+          "name": "Aurora Lasergames, Kladno, CZ",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-10-24"
+        },
+        {
+          "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-10-24"
+        },
+        {
+          "name": "Laserzone Augsburg, Augsburg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2024-05-28"
+        },
+        {
+          "name": "Laserzone Mainz, Mainz, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2024-05-28"
+        },
+        {
+          "name": "Laserzone Duisburg, Duisburg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2024-05-29"
+        },
+        {
+          "name": "Adventure World, Oberhausen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2024-12-27"
+        },
+        {
+          "name": "BSA Bergische Sportarena GmbH & Co. KG, Wermelskirchen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2024-12-30"
+        },
+        {
+          "name": "ATOXI Sport GmbH, Rostock, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-02-01"
+        },
+        {
+          "name": "Laserforce Ritterhude, Ritterhude, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laser Heroes #3, Weserpark, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laser Tag Verden, Verden, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Amateur",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laser Tag Arena, Osnabrueck, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Baltic Lasertag, Neubrandenburg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-11"
+        },
+        {
+          "name": "Baltic Adventures, Greifswald, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-19"
+        },
+        {
+          "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
+          "missions": 1,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-05-08"
+        },
+        {
+          "name": "Bowl n Fun Haderslev ApS, Haderslev, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-16"
+        },
+        {
+          "name": "Bowl n Fun, Kolding, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun, Silkeborg, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun, Viborg, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun Sonderborg ApS, Sonderborg, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun Aalborg ApS, Aalborg, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Planet Lasertag Arnsberg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Freizeitarena Brilon, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "KNK eG, Mannheim, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Laserzone Frankfurt, Frankfurt, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Laserforce Gruenstadt",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Bowling Room Trier Betriebs GmbH, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Lasertag Deutschland 1, Darmstadt, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Lasertag Deutschland 2, Darmstadt, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "World of Lasertag GmbH, Kaiserslautern, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Gate99 Lasertag, Eppelheim, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-08"
+        },
+        {
+          "name": "Laserabyss, Altenkirchen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-08-09"
+        },
+        {
+          "name": "Lasertag Bonn, Bonn, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2025-08-09"
+        },
+        {
+          "name": "Giga Live, Brandenburg an der Havel, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-29"
+        },
+        {
+          "name": "Laser Heroes #1, Bremen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "Laser Heroes GmbH, Bremerhaven, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "maXtag, Norden, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "Space Magic, Aurich, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "Gamexplore, Goslar, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-04-03"
+        },
+        {
+          "name": "Laserland, Dresden, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-04-06"
+        },
+        {
+          "name": "Bowl n Fun Naestved ApS, Naestved, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-06-12"
+        },
+        {
+          "name": "Bowl n Fun Odense ApS, Odense, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-06-13"
+        },
+        {
+          "name": "Bowl n Fun Svendborg ApS, Svendborg, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-06-13"
+        },
+        {
+          "name": "Laserdance #1, Vienna, Austria",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-15"
+        },
+        {
+          "name": "Laserdance #2, Vienna, Austria",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-15"
+        },
+        {
+          "name": "Laser Aréna Bratislava #1, Slovakia",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-07-17"
+        },
+        {
+          "name": "Laser Aréna Bratislava #2, Slovakia",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-17"
+        },
+        {
+          "name": "District 44 GmbH, Grundau-Lieblos, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-24"
+        },
+        {
+          "name": "Funpark Rodgau, Rodgau, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-24"
+        },
+        {
+          "name": "PowerLaser, Stuttgart, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Laserzone Freiburg/Denzlingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Alpha Laser Tag, Karlsruhe, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "First Lasertag, Kornwestheim, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Caribbean Sports GmbH, Oberderdingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Funnygolf Ettlingen, Ettlingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Action Forest, Titisee-Neustadt, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "FEC Service, Heilbronn, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-25"
+        },
+        {
+          "name": "Multi Laser Tag, Neu-Ulm, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "Call of Fun, Friedrichshafen, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "Quantum Lasertag, Speyer, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "Power Laser, Biberach, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "Fun Area Allgäu, Scheidegg, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-26"
+        },
+        {
+          "name": "Lasertag Evolution, Düsseldorf, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2026-07-28"
+        },
+        {
+          "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-07-30"
+        },
+        {
+          "name": "Lola Lasertag GmbH, Hameln, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-04"
+        },
+        {
+          "name": "Laserland Chemnitz, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "Lasertag Geiseltal, Braunsbedra, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Uferläufer",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "BBE Event GmbH, Leipzig, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-25"
+        },
+        {
+          "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-25"
+        },
+        {
+          "name": "EasyJump Trampolinpark Schwerin, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-25"
+        }
+      ],
+      "gameTypes": [
+        {
+          "type": "Standard",
+          "missions": 857
+        },
+        {
+          "type": "LZ Lazerball",
+          "missions": 559
+        },
+        {
+          "type": "Other",
+          "missions": 548
+        },
+        {
+          "type": "Space Marines",
+          "missions": 171
+        },
+        {
+          "type": "Laserball",
+          "missions": 136
+        },
+        {
+          "type": "Sonderspiele",
+          "missions": 49
+        },
+        {
+          "type": "Masters",
+          "missions": 47
+        },
+        {
+          "type": "LaserBall",
+          "missions": 45
+        },
+        {
+          "type": "Laserball LIGA",
+          "missions": 38
+        },
+        {
+          "type": "Laserball Tournament",
+          "missions": 18
+        },
+        {
+          "type": "Fun",
+          "missions": 9
+        },
+        {
+          "type": "Laserball 12min",
+          "missions": 7
+        },
+        {
+          "type": "Dungeons and Dragons",
+          "missions": 5
+        },
+        {
+          "type": " Standard",
+          "missions": 3
+        },
+        {
+          "type": "Tournament Missions",
+          "missions": 2
+        },
+        {
+          "type": "Chuck",
+          "missions": 1
+        },
+        {
+          "type": "Capture The Flag/DM",
+          "missions": 1
+        },
+        {
+          "type": "Capture the Flag",
+          "missions": 1
+        },
+        {
+          "type": "Domination",
+          "missions": 1
+        },
+        {
+          "type": "Gamepass",
+          "missions": 1
+        },
+        {
+          "type": "Missionen",
+          "missions": 1
+        },
+        {
+          "type": "Darkgame",
+          "missions": 1
+        },
+        {
+          "type": "Color Conquest Remix",
+          "missions": 1
+        },
+        {
+          "type": "Standard Level Einstellungen",
+          "missions": 1
+        },
+        {
+          "type": "Adventure of Capture The Flag",
+          "missions": 1
+        },
+        {
+          "type": "Jeder gegen Jeden",
+          "missions": 1
+        },
+        {
+          "type": "QL Levelsystem",
+          "missions": 1
+        }
+      ]
+    },
+    "dnT5qc8P": {
+      "token": "dnT5qc8P",
+      "archivePoints": [
+        {
+          "t": "2026-11-17T11:16:25.693Z",
+          "missions": 1711
+        }
+      ],
+      "recentMissions": [
+        {
+          "date": "2026-11-08 12:56:17",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 208
+        },
+        {
+          "date": "2026-11-08 12:50:15",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 10314
+        },
+        {
+          "date": "2026-11-08 12:42:17",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 4
+        },
+        {
+          "date": "2026-11-08 12:34:52",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 10117
+        },
+        {
+          "date": "2026-11-08 12:26:15",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 105
+        },
+        {
+          "date": "2026-11-08 12:19:56",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 10305
+        },
+        {
+          "date": "2026-11-08 11:39:56",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 2
+        },
+        {
+          "date": "2026-11-08 11:32:16",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 212
+        },
+        {
+          "date": "2026-11-08 11:04:23",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 10221
+        },
+        {
+          "date": "2026-11-08 10:57:21",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 312
+        },
+        {
+          "date": "2026-11-08 10:33:51",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 10123
+        },
+        {
+          "date": "2026-11-08 10:27:19",
+          "site": "Laser Tag Verden, Verden, DE",
+          "type": "LaserBall Turnier",
+          "score": 21
+        },
+        {
+          "date": "2026-10-25 17:23:12",
+          "site": "EasyJump Trampolinpark Schwerin, Germany",
+          "type": "3 Teams",
+          "score": 5183
+        },
+        {
+          "date": "2026-10-25 13:28:32",
+          "site": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
+          "type": "Team",
+          "score": 9193
+        },
+        {
+          "date": "2026-10-25 10:59:58",
+          "site": "Sax Racing GmbH, Schkeuditz, DE",
+          "type": "Individual",
+          "score": 6903
+        },
+        {
+          "date": "2026-10-25 10:08:36",
+          "site": "BBE Event GmbH, Leipzig, DE",
+          "type": "Std 6 Teams 10 Min",
+          "score": 18614
+        },
+        {
+          "date": "2026-10-24 21:36:22",
+          "site": "Esco Lasergame, Vokovice, Prague, Czech Republic",
+          "type": "LaserBall Classic",
+          "score": 50304
+        },
+        {
+          "date": "2026-10-24 21:29:20",
+          "site": "Esco Lasergame, Vokovice, Prague, Czech Republic",
+          "type": "LaserBall Classic",
+          "score": 20314
+        },
+        {
+          "date": "2026-10-24 20:31:03",
+          "site": "Aurora Lasergames, Kladno, CZ",
+          "type": "LaserBall Classic",
+          "score": 30405
+        },
+        {
+          "date": "2026-10-24 20:23:52",
+          "site": "Aurora Lasergames, Kladno, CZ",
+          "type": "LaserBall Classic",
+          "score": 40505
+        },
+        {
+          "date": "2026-10-24 18:33:53",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 10515
+        },
+        {
+          "date": "2026-10-24 18:27:09",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 410
+        },
+        {
+          "date": "2026-10-24 17:40:32",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 10330
+        },
+        {
+          "date": "2026-10-24 17:34:08",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 10320
+        },
+        {
+          "date": "2026-10-24 16:29:44",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 10416
+        },
+        {
+          "date": "2026-10-24 16:23:01",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 128
+        },
+        {
+          "date": "2026-10-24 15:06:44",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 31
+        },
+        {
+          "date": "2026-10-24 15:00:26",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 115
+        },
+        {
+          "date": "2026-10-24 13:43:07",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 206
+        },
+        {
+          "date": "2026-10-24 13:36:53",
+          "site": "Lasergame Beroun, Czech Republic",
+          "type": "Laserball Classic 3+1s",
+          "score": 624
+        }
+      ],
+      "lastFetched": "2026-11-17T11:16:25.693Z",
+      "codename": "[NDR] Juranur",
+      "avatar": "117",
+      "joinDate": "2023-11-07",
+      "totalMissions": 1711,
+      "centres": [
+        {
+          "name": "Laserzone Kiel, Kiel, DE",
+          "missions": 1262,
+          "skillLevelNum": 8,
+          "skillLevelName": "Lasergod",
+          "joined": "2023-11-07"
+        },
+        {
+          "name": "Nova Lasertag, Luneburg, DE",
+          "missions": 65,
+          "skillLevelNum": 0,
+          "skillLevelName": "Neuling",
+          "joined": "2025-06-09"
+        },
+        {
+          "name": "Mercuria Pankrac, Prague, CZ",
+          "missions": 51,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-12-08"
+        },
+        {
+          "name": "Laser Tag Delmenhorst, DE",
+          "missions": 39,
+          "skillLevelNum": 0,
+          "skillLevelName": "Grünschnabel",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Lasergame Beroun, Czech Republic",
+          "missions": 32,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "Lasertag Deutschland 1, Darmstadt, Germany",
+          "missions": 29,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-05-03"
+        },
+        {
+          "name": "Laserzone, Wuerselen, DE",
+          "missions": 29,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-18"
+        },
+        {
+          "name": "Aurora Lasergames, Kladno, CZ",
+          "missions": 24,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-12-06"
+        },
+        {
+          "name": "Laserzone Bielefeld, Bielefeld, DE",
+          "missions": 20,
+          "skillLevelNum": 2,
+          "skillLevelName": "Unsterblicher",
+          "joined": "2024-07-08"
+        },
+        {
+          "name": "Ricany Lasergame, Ricany, CZ",
+          "missions": 15,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-04-04"
+        },
+        {
+          "name": "Laser Tag Verden, Verden, DE",
+          "missions": 13,
+          "skillLevelNum": 0,
+          "skillLevelName": "Amateur",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laserzone Essen Ost GmbH",
+          "missions": 13,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Mining Adventure World, Hamm, Germany",
+          "missions": 13,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-16"
+        },
+        {
+          "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
+          "missions": 6,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-04-06"
+        },
+        {
+          "name": "Laserzone Hamburg, Germany",
+          "missions": 5,
+          "skillLevelNum": 2,
+          "skillLevelName": "Unsterblicher",
+          "joined": "2024-12-20"
+        },
+        {
+          "name": "Laserland, Dresden, DE",
+          "missions": 5,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-12-05"
+        },
+        {
+          "name": "Ricany Lasergame 2, Ricany, CZ",
+          "missions": 5,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2026-04-05"
+        },
+        {
+          "name": "Adventure Island, Fehmarn, Germany",
+          "missions": 4,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-08-30"
+        },
+        {
+          "name": "Laserzone Augsburg, Augsburg, DE",
+          "missions": 3,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2024-07-07"
+        },
+        {
+          "name": "Laserzone Köln, Köln-Ossendorf, Germany",
+          "missions": 3,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-11-07"
+        },
+        {
+          "name": "HD Lasertag, Ibbenburen, DE",
+          "missions": 3,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Sax Racing GmbH, Schkeuditz, DE",
+          "missions": 3,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-05"
+        },
+        {
+          "name": "Laserzone Garching, Garching, DE",
+          "missions": 2,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2024-07-07"
+        },
+        {
+          "name": "Laser Heroes GmbH, Bremerhaven, DE",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-10"
+        },
+        {
+          "name": "maXtag, Norden, Germany",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-04-12"
+        },
+        {
+          "name": "Freizeit Fabrik Berlin GmbH, Berlin, DE",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-09"
+        },
+        {
+          "name": "Laser Heroes, Lingen, Germany",
+          "missions": 2,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-04"
+        },
+        {
+          "name": "Laserforce Ritterhude, Ritterhude, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laser Heroes #3, Weserpark, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-02-15"
+        },
+        {
+          "name": "Laserzone Essen1, Essen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Laser Tag Arena, Osnabrueck, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-03-08"
+        },
+        {
+          "name": "Mercuria Branik 1, Prague, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-04-06"
+        },
+        {
+          "name": "Mercuria Branik 2, Prague, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-04-06"
+        },
+        {
+          "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-04-06"
+        },
+        {
+          "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-04-06"
+        },
+        {
+          "name": "Lasertag Deutschland 2, Darmstadt, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-05-03"
+        },
+        {
+          "name": "Bowl n Fun Haderslev ApS, Haderslev, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-16"
+        },
+        {
+          "name": "Bowl n Fun, Kolding, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun, Silkeborg, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun, Viborg, Denmark",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun Sonderborg ApS, Sonderborg, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Bowl n Fun Aalborg ApS, Aalborg, DK",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Recruit",
+          "joined": "2025-05-17"
+        },
+        {
+          "name": "Baltic Adventures, Greifswald, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-05-24"
+        },
+        {
+          "name": "ATOXI Sport GmbH, Rostock, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-05-24"
+        },
+        {
+          "name": "Baltic Lasertag, Neubrandenburg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-05-24"
+        },
+        {
+          "name": "Planet Lasertag Arnsberg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Laserplex LaserTag Arena, Wuppertal, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Laser Game Winterberg, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Freizeitarena Brilon, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-07-20"
+        },
+        {
+          "name": "Laserzone Dusseldorf, Dusseldorf, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-23"
+        },
+        {
+          "name": "Lasertag Evolution, Düsseldorf, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2025-10-23"
+        },
+        {
+          "name": "KNK eG, Mannheim, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Laserforce Gruenstadt",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Alpha Laser Tag, Karlsruhe, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Quantum Lasertag, Speyer, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Caribbean Sports GmbH, Oberderdingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Funnygolf Ettlingen, Ettlingen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Gate99 Lasertag, Eppelheim, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-24"
+        },
+        {
+          "name": "Sportpark GmbH, Gelsenkirchen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "3D Lasersports 2.0, Frechen, Gemany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Bowling Room Trier Betriebs GmbH, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Sektor5 Entertainment GmbH, Mechernich Firmenich, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Laserzone Monchengladbach, Monchengladbach, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Laserzone Duisburg, Duisburg, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Kadett",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Adventure World, Oberhausen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2025-10-25"
+        },
+        {
+          "name": "Laserabyss, Altenkirchen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "Legendary Lasertag, Giessen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "Fun Sport Area GmbH, Troisdorf, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "Lasertag Bonn, Bonn, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Anfänger",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "LASERPLEX - LaserTag Arena Leverkusen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "Fun Laser Tag GmbH, Solingen, DE",
+          "missions": 1,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-10-26"
+        },
+        {
+          "name": "Lasertag Arena Magdeburg, Magdeburg, DE",
+          "missions": 1,
+          "skillLevelNum": 1,
+          "skillLevelName": "Schütze",
+          "joined": "2025-12-05"
+        },
+        {
+          "name": "Giga Live, Brandenburg an der Havel, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-05"
+        },
+        {
+          "name": "Laserland Bautzen, Bautzen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-06"
+        },
+        {
+          "name": "Laserland Cottbus, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-06"
+        },
+        {
+          "name": "Mercuria Laser Game Luziny, Prague, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-12-08"
+        },
+        {
+          "name": "Lasertag Görlitz, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-09"
+        },
+        {
+          "name": "Mercuria Laser Tag Liberec, Liberec, CZ",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Zelenáč",
+          "joined": "2025-12-09"
+        },
+        {
+          "name": "Laser Heroes #1, Bremen, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "Space Magic, Aurich, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2025-12-19"
+        },
+        {
+          "name": "Gamexplore, Goslar, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-04-03"
+        },
+        {
+          "name": "Lola Lasertag GmbH, Hameln, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-04"
+        },
+        {
+          "name": "Laserland Chemnitz, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "Lasertag Geiseltal, Braunsbedra, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Uferläufer",
+          "joined": "2026-10-23"
+        },
+        {
+          "name": "BBE Event GmbH, Leipzig, DE",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-25"
+        },
+        {
+          "name": "EasyJump Trampolinpark Schwerin, Germany",
+          "missions": 1,
+          "skillLevelNum": 0,
+          "skillLevelName": "Rekrut",
+          "joined": "2026-10-25"
+        }
+      ],
+      "gameTypes": [
+        {
+          "type": "Standard",
+          "missions": 691
+        },
+        {
+          "type": "LZ Lazerball",
+          "missions": 342
+        },
+        {
+          "type": "Other",
+          "missions": 279
+        },
+        {
+          "type": "Laserball",
+          "missions": 120
+        },
+        {
+          "type": "Space Marines",
+          "missions": 104
+        },
+        {
+          "type": "Laserball LIGA",
+          "missions": 38
+        },
+        {
+          "type": "LaserBall",
+          "missions": 29
+        },
+        {
+          "type": "LTD Double Ball",
+          "missions": 28
+        },
+        {
+          "type": "Masters",
+          "missions": 25
+        },
+        {
+          "type": "Laserball Tournament",
+          "missions": 18
+        },
+        {
+          "type": "Dungeons & Dragons",
+          "missions": 13
+        },
+        {
+          "type": "Dungeons and Dragons",
+          "missions": 5
+        },
+        {
+          "type": "Laserball 12min",
+          "missions": 5
+        },
+        {
+          "type": "Capture The Flag/DM",
+          "missions": 3
+        },
+        {
+          "type": "Fun",
+          "missions": 2
+        },
+        {
+          "type": "Tournament Missions",
+          "missions": 2
+        },
+        {
+          "type": "Standard Level Einstellungen",
+          "missions": 2
+        },
+        {
+          "type": "Chuck",
+          "missions": 1
+        },
+        {
+          "type": "Missionen",
+          "missions": 1
+        },
+        {
+          "type": "QL Levelsystem",
+          "missions": 1
+        },
+        {
+          "type": "3D LaserSports STD",
           "missions": 1
         },
         {
