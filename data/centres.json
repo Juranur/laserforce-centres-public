@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-16T16:23:20.167Z",
+  "lastUpdated": "2026-11-17T02:38:54.378Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 302,
+  "lastCheckedIndex": 225,
   "centres": [
     {
       "id": "159",
@@ -162,8 +162,8 @@
       "id": "430",
       "regionSite": "21-124",
       "name": "Arcadia Lasertag Reutlingen, Reutlingen, DE",
-      "gamesTotal": 4436,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 4437,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 99133,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 99251,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -498,8 +498,8 @@
       "id": "440",
       "regionSite": "20-14",
       "name": "Esco Lasergame, Vokovice, Prague, Czech Republic",
-      "gamesTotal": 10035,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 10061,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 49809,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 49833,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8956,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 8959,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -706,8 +706,8 @@
       "id": "192",
       "regionSite": "21-41",
       "name": "Fun Sport Area GmbH, Troisdorf, DE",
-      "gamesTotal": 37097,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 37144,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30907,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 30908,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1554,8 +1554,8 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1712,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 1720,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1618,8 +1618,8 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62591,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 62621,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1698,16 +1698,16 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 85932,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 85935,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9623,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 9626,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
@@ -1738,16 +1738,16 @@
       "id": "227",
       "regionSite": "7-8",
       "name": "LaserZone, Huddersfield, UK",
-      "gamesTotal": 34967,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 34969,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 49540,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 49646,
+      "lastActivity": "2026-11-17",
       "status": "active"
     },
     {
