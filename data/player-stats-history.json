@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated": "2026-11-17T12:28:19.473Z",
-  "cycle": 5,
+  "generated": "2026-11-17T12:45:58.956Z",
+  "cycle": 6,
   "note": "archivePoints accumulate one point per update cycle; recentMissions is the API's exact last-30 window used to draw the precise recent segment.",
   "leaderboard": {
     "queryType": 1,
@@ -993,24 +993,19 @@
               "lastPlayed": "2025-12-26 16:38:56"
             },
             {
-              "type": "Wedlock",
-              "missions": 3,
-              "lastPlayed": "2025-12-25 17:22:20"
-            },
-            {
               "type": "Recharge",
               "missions": 3,
               "lastPlayed": "2025-12-25 17:00:19"
             },
             {
+              "type": "Wedlock",
+              "missions": 3,
+              "lastPlayed": "2025-12-25 17:22:20"
+            },
+            {
               "type": "LTD Double Ball",
               "missions": 2,
               "lastPlayed": "2025-12-26 19:47:37"
-            },
-            {
-              "type": "Jeder gegen Jeden",
-              "missions": 1,
-              "lastPlayed": "2024-05-31 16:46:06"
             },
             {
               "type": "Last Man Standing",
@@ -1031,6 +1026,11 @@
               "type": "Zombies ",
               "missions": 1,
               "lastPlayed": "2025-12-25 16:37:26"
+            },
+            {
+              "type": "Jeder gegen Jeden",
+              "missions": 1,
+              "lastPlayed": "2024-05-31 16:46:06"
             }
           ]
         },
@@ -1308,14 +1308,14 @@
               "lastPlayed": "2025-12-26 18:57:41"
             },
             {
-              "type": "LFL Deutschland",
-              "missions": 2,
-              "lastPlayed": "2022-12-26 16:20:16"
-            },
-            {
               "type": "Color Conquest",
               "missions": 2,
               "lastPlayed": "2025-12-26 16:14:28"
+            },
+            {
+              "type": "LFL Deutschland",
+              "missions": 2,
+              "lastPlayed": "2022-12-26 16:20:16"
             },
             {
               "type": "Standard",
@@ -1505,11 +1505,6 @@
               "lastPlayed": "2022-12-30 21:58:01"
             },
             {
-              "type": "Laser Venture",
-              "missions": 1,
-              "lastPlayed": "2022-12-30 22:45:21"
-            },
-            {
               "type": "LFL Deutschland",
               "missions": 1,
               "lastPlayed": "2018-12-29 22:55:54"
@@ -1518,6 +1513,11 @@
               "type": "Grünstadt Tournament",
               "missions": 1,
               "lastPlayed": "2018-12-30 01:56:38"
+            },
+            {
+              "type": "Laser Venture",
+              "missions": 1,
+              "lastPlayed": "2022-12-30 22:45:21"
             }
           ]
         },
@@ -1572,14 +1572,14 @@
               "lastPlayed": "2021-10-23 22:32:36"
             },
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2021-10-24 09:14:12"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2021-10-23 21:08:19"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2021-10-24 09:14:12"
             }
           ]
         },
@@ -1966,14 +1966,14 @@
           "joined": "2025-08-10",
           "summary": [
             {
-              "type": "Other",
-              "missions": 2,
-              "lastPlayed": "2025-08-10 19:20:26"
-            },
-            {
               "type": "Standard",
               "missions": 2,
               "lastPlayed": "2025-08-10 19:02:38"
+            },
+            {
+              "type": "Other",
+              "missions": 2,
+              "lastPlayed": "2025-08-10 19:20:26"
             }
           ]
         },
@@ -2277,14 +2277,14 @@
           "joined": "2022-06-04",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2025-06-08 10:44:08"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2022-06-04 15:33:57"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2025-06-08 10:44:08"
             }
           ]
         },
@@ -4749,11 +4749,11 @@
           "missions": 4
         },
         {
-          "type": "Wedlock",
+          "type": "Recharge",
           "missions": 3
         },
         {
-          "type": "Recharge",
+          "type": "Wedlock",
           "missions": 3
         },
         {
@@ -4801,10 +4801,6 @@
           "missions": 2
         },
         {
-          "type": "Jeder gegen Jeden",
-          "missions": 1
-        },
-        {
           "type": "Last Man Standing",
           "missions": 1
         },
@@ -4818,6 +4814,10 @@
         },
         {
           "type": "Zombies ",
+          "missions": 1
+        },
+        {
+          "type": "Jeder gegen Jeden",
           "missions": 1
         },
         {
@@ -4837,11 +4837,11 @@
           "missions": 1
         },
         {
-          "type": "Laser Venture",
+          "type": "Grünstadt Tournament",
           "missions": 1
         },
         {
-          "type": "Grünstadt Tournament",
+          "type": "Laser Venture",
           "missions": 1
         },
         {
@@ -5069,7 +5069,7 @@
           "score": 2722
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "pdxFcdc": {
       "codename": "FLY ✨Lila✨",
@@ -5208,6 +5208,11 @@
               "lastPlayed": "2025-01-11 19:57:03"
             },
             {
+              "type": "Dungeons & Dragons",
+              "missions": 1,
+              "lastPlayed": "2024-03-09 21:43:55"
+            },
+            {
               "type": "Knockout Missions",
               "missions": 1,
               "lastPlayed": "2023-12-02 22:01:15"
@@ -5216,11 +5221,6 @@
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2024-03-09 21:11:19"
-            },
-            {
-              "type": "Dungeons & Dragons",
-              "missions": 1,
-              "lastPlayed": "2024-03-09 21:43:55"
             }
           ]
         },
@@ -5729,14 +5729,14 @@
           "joined": "2024-01-02",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 3,
-              "lastPlayed": "2024-01-02 11:21:41"
-            },
-            {
               "type": "Other",
               "missions": 3,
               "lastPlayed": "2024-01-02 11:36:44"
+            },
+            {
+              "type": "Standard",
+              "missions": 3,
+              "lastPlayed": "2024-01-02 11:21:41"
             }
           ]
         },
@@ -5843,14 +5843,14 @@
           "joined": "2022-08-19",
           "summary": [
             {
-              "type": "Adventure Badge",
-              "missions": 2,
-              "lastPlayed": "2024-12-29 12:49:15"
-            },
-            {
               "type": "Other",
               "missions": 2,
               "lastPlayed": "2024-12-29 13:04:52"
+            },
+            {
+              "type": "Adventure Badge",
+              "missions": 2,
+              "lastPlayed": "2024-12-29 12:49:15"
             }
           ]
         },
@@ -6323,14 +6323,14 @@
           "joined": "2022-08-14",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2022-08-14 16:05:24"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2022-08-14 16:25:59"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2022-08-14 16:05:24"
             }
           ]
         },
@@ -6370,14 +6370,14 @@
           "joined": "2022-08-18",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2022-08-18 16:17:05"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2023-10-07 13:19:18"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2022-08-18 16:17:05"
             }
           ]
         },
@@ -6562,14 +6562,14 @@
           "joined": "2023-05-28",
           "summary": [
             {
-              "type": "3D LaserSports STD",
-              "missions": 1,
-              "lastPlayed": "2023-05-28 18:04:41"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2023-11-02 18:06:52"
+            },
+            {
+              "type": "3D LaserSports STD",
+              "missions": 1,
+              "lastPlayed": "2023-05-28 18:04:41"
             }
           ]
         },
@@ -6623,14 +6623,14 @@
           "joined": "2023-06-02",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2023-06-02 21:55:44"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2023-06-02 21:20:25"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2023-06-02 21:55:44"
             }
           ]
         },
@@ -6806,14 +6806,14 @@
           "joined": "2024-01-01",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2024-01-01 10:28:35"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-01-01 10:08:13"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2024-01-01 10:28:35"
             }
           ]
         },
@@ -6825,14 +6825,14 @@
           "joined": "2024-01-03",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-01-03 12:42:27"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2024-01-03 13:20:29"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-01-03 12:42:27"
             }
           ]
         },
@@ -6877,14 +6877,14 @@
           "joined": "2024-05-30",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2024-05-30 14:34:39"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-05-30 14:08:35"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2024-05-30 14:34:39"
             }
           ]
         },
@@ -6957,14 +6957,14 @@
           "joined": "2024-09-29",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2024-12-28 13:33:14"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-09-29 15:03:22"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2024-12-28 13:33:14"
             }
           ]
         },
@@ -8857,7 +8857,7 @@
           "score": 6040
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "gWtyhnL": {
       "codename": "FLY Nuke",
@@ -9403,14 +9403,14 @@
           "joined": "2023-04-28",
           "summary": [
             {
-              "type": "LFL Deutschland",
-              "missions": 3,
-              "lastPlayed": "2023-04-30 17:39:02"
-            },
-            {
               "type": "Standard",
               "missions": 3,
               "lastPlayed": "2023-04-30 16:46:59"
+            },
+            {
+              "type": "LFL Deutschland",
+              "missions": 3,
+              "lastPlayed": "2023-04-30 17:39:02"
             }
           ]
         },
@@ -9446,14 +9446,14 @@
           "joined": "2024-01-02",
           "summary": [
             {
-              "type": "Other",
-              "missions": 3,
-              "lastPlayed": "2024-01-02 11:36:44"
-            },
-            {
               "type": "Standard",
               "missions": 3,
               "lastPlayed": "2024-01-02 11:21:42"
+            },
+            {
+              "type": "Other",
+              "missions": 3,
+              "lastPlayed": "2024-01-02 11:36:44"
             }
           ]
         },
@@ -10170,14 +10170,14 @@
           "joined": "2023-05-01",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2023-05-01 13:32:53"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2023-05-01 13:58:32"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2023-05-01 13:32:53"
             }
           ]
         },
@@ -10264,14 +10264,14 @@
           "joined": "2023-06-02",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2023-06-02 21:20:25"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2023-06-02 21:55:44"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2023-06-02 21:20:25"
             }
           ]
         },
@@ -10518,14 +10518,14 @@
           "joined": "2024-05-30",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-05-30 14:08:35"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2024-05-30 14:34:39"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-05-30 14:08:35"
             }
           ]
         },
@@ -10598,14 +10598,14 @@
           "joined": "2024-09-29",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-09-29 15:03:22"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2024-12-28 13:33:14"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-09-29 15:03:22"
             }
           ]
         },
@@ -10645,14 +10645,14 @@
           "joined": "2024-12-14",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2024-12-14 16:59:19"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-12-14 17:22:27"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2024-12-14 16:59:19"
             }
           ]
         },
@@ -12446,7 +12446,7 @@
           "score": 21033
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "G7ZgDmc": {
       "codename": "NYX Jonny1337 ☣",
@@ -13000,11 +13000,6 @@
           "joined": "2022-06-03",
           "summary": [
             {
-              "type": "Standard Missions",
-              "missions": 1,
-              "lastPlayed": "2023-08-06 13:03:48"
-            },
-            {
               "type": "Knockout Missions",
               "missions": 1,
               "lastPlayed": "2025-06-08 13:36:29"
@@ -13013,6 +13008,11 @@
               "type": "Role Play Missions",
               "missions": 1,
               "lastPlayed": "2022-06-03 21:30:18"
+            },
+            {
+              "type": "Standard Missions",
+              "missions": 1,
+              "lastPlayed": "2023-08-06 13:03:48"
             }
           ]
         },
@@ -15759,7 +15759,7 @@
           "score": 10738
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "7CkQbgk": {
       "codename": "NYX Senex ☣",
@@ -15825,6 +15825,16 @@
               "lastPlayed": "2026-06-04 17:15:21"
             },
             {
+              "type": "LSV Base Defence",
+              "missions": 3,
+              "lastPlayed": "2026-04-18 21:50:14"
+            },
+            {
+              "type": "Recharge",
+              "missions": 3,
+              "lastPlayed": "2026-05-25 15:01:59"
+            },
+            {
               "type": "Level Up",
               "missions": 3,
               "lastPlayed": "2026-05-25 16:56:55"
@@ -15838,16 +15848,6 @@
               "type": "Last Man Standing",
               "missions": 3,
               "lastPlayed": "2026-06-04 19:36:31"
-            },
-            {
-              "type": "LSV Base Defence",
-              "missions": 3,
-              "lastPlayed": "2026-04-18 21:50:14"
-            },
-            {
-              "type": "Recharge",
-              "missions": 3,
-              "lastPlayed": "2026-05-25 15:01:59"
             },
             {
               "type": "Jeder gegen Jeden",
@@ -15889,14 +15889,14 @@
               "lastPlayed": "2025-12-26 18:57:41"
             },
             {
-              "type": "Color Conquest",
-              "missions": 3,
-              "lastPlayed": "2026-04-19 02:46:13"
-            },
-            {
               "type": "Recharge",
               "missions": 3,
               "lastPlayed": "2026-04-18 19:18:51"
+            },
+            {
+              "type": "Color Conquest",
+              "missions": 3,
+              "lastPlayed": "2026-04-19 02:46:13"
             },
             {
               "type": "Dracula",
@@ -16048,6 +16048,11 @@
               "lastPlayed": "2020-06-11 18:54:28"
             },
             {
+              "type": "Fun",
+              "missions": 1,
+              "lastPlayed": "2019-09-28 14:14:52"
+            },
+            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2020-06-11 14:23:15"
@@ -16056,11 +16061,6 @@
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2019-09-28 13:37:35"
-            },
-            {
-              "type": "Fun",
-              "missions": 1,
-              "lastPlayed": "2019-09-28 14:14:52"
             }
           ]
         },
@@ -16459,14 +16459,14 @@
           "joined": "2024-04-03",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-04-03 11:56:20"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2024-04-03 13:17:35"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-04-03 11:56:20"
             }
           ]
         },
@@ -16492,14 +16492,14 @@
           "joined": "2025-04-23",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2025-04-23 22:14:29"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2025-04-23 21:50:51"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2025-04-23 22:14:29"
             }
           ]
         },
@@ -18805,6 +18805,10 @@
           "missions": 4
         },
         {
+          "type": "LSV Base Defence",
+          "missions": 3
+        },
+        {
           "type": "Level Up",
           "missions": 3
         },
@@ -18814,10 +18818,6 @@
         },
         {
           "type": "Last Man Standing",
-          "missions": 3
-        },
-        {
-          "type": "LSV Base Defence",
           "missions": 3
         },
         {
@@ -19077,7 +19077,7 @@
           "score": 20618
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "QxWnkFg": {
       "codename": "FLY  ֎ƑąⱠӑ֎",
@@ -19269,14 +19269,14 @@
               "lastPlayed": "2026-05-16 18:10:40"
             },
             {
-              "type": "Other",
-              "missions": 2,
-              "lastPlayed": "2022-10-09 15:43:07"
-            },
-            {
               "type": "Standard",
               "missions": 2,
               "lastPlayed": "2023-01-29 18:32:26"
+            },
+            {
+              "type": "Other",
+              "missions": 2,
+              "lastPlayed": "2022-10-09 15:43:07"
             }
           ]
         },
@@ -19711,14 +19711,14 @@
           "joined": "2024-01-01",
           "summary": [
             {
-              "type": "Non Standard Missions",
-              "missions": 2,
-              "lastPlayed": "2024-01-01 16:30:27"
-            },
-            {
               "type": "Knockout Missions",
               "missions": 2,
               "lastPlayed": "2024-01-01 17:13:04"
+            },
+            {
+              "type": "Non Standard Missions",
+              "missions": 2,
+              "lastPlayed": "2024-01-01 16:30:27"
             },
             {
               "type": "Standard Missions",
@@ -20164,14 +20164,14 @@
           "joined": "2023-05-01",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2023-05-01 13:58:32"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2023-05-01 13:32:53"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2023-05-01 13:58:32"
             }
           ]
         },
@@ -20343,14 +20343,14 @@
           "joined": "2024-01-03",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-01-03 12:42:27"
-            },
-            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2024-01-03 13:20:29"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-01-03 12:42:27"
             }
           ]
         },
@@ -22354,7 +22354,7 @@
           "score": 11063
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z"
+      "lastFetched": "2026-11-17T12:45:58.956Z"
     },
     "dGpwTcb": {
       "token": "dGpwTcb",
@@ -22558,7 +22558,7 @@
           "score": 113
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z",
+      "lastFetched": "2026-11-17T12:45:58.956Z",
       "codename": "FLY ₪ØƦʟǺǹԁѳ₪",
       "avatar": "61",
       "joinDate": "2018-09-01",
@@ -25627,7 +25627,7 @@
           "score": 10313
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z",
+      "lastFetched": "2026-11-17T12:45:58.956Z",
       "codename": "Thomiiik",
       "avatar": "4",
       "joinDate": "2016-06-15",
@@ -26090,11 +26090,6 @@
               "lastPlayed": "2022-07-24 13:07:26"
             },
             {
-              "type": "Vampir",
-              "missions": 1,
-              "lastPlayed": "2026-08-17 21:49:55"
-            },
-            {
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2026-08-17 20:58:38"
@@ -26103,6 +26098,11 @@
               "type": "Capture The Flag/DM",
               "missions": 1,
               "lastPlayed": "2022-07-24 18:32:36"
+            },
+            {
+              "type": "Vampir",
+              "missions": 1,
+              "lastPlayed": "2026-08-17 21:49:55"
             }
           ]
         },
@@ -26608,14 +26608,14 @@
               "lastPlayed": "2024-07-04 16:29:29"
             },
             {
-              "type": "Standard",
-              "missions": 2,
-              "lastPlayed": "2019-09-20 19:55:24"
-            },
-            {
               "type": "Tournament",
               "missions": 2,
               "lastPlayed": "2019-09-21 23:53:55"
+            },
+            {
+              "type": "Standard",
+              "missions": 2,
+              "lastPlayed": "2019-09-20 19:55:24"
             }
           ]
         },
@@ -26665,14 +26665,14 @@
               "lastPlayed": "2023-06-18 13:57:15"
             },
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2023-06-18 14:15:20"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-02-21 18:52:20"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2023-06-18 14:15:20"
             }
           ]
         },
@@ -26775,14 +26775,14 @@
           "joined": "2025-06-26",
           "summary": [
             {
-              "type": "Missionen",
-              "missions": 3,
-              "lastPlayed": "2025-06-26 18:28:01"
-            },
-            {
               "type": "Laserball",
               "missions": 3,
               "lastPlayed": "2025-06-26 20:11:06"
+            },
+            {
+              "type": "Missionen",
+              "missions": 3,
+              "lastPlayed": "2025-06-26 18:28:01"
             },
             {
               "type": "Laserball LIGA",
@@ -26962,19 +26962,14 @@
           "joined": "2024-07-04",
           "summary": [
             {
-              "type": "Laserball",
-              "missions": 2,
-              "lastPlayed": "2024-07-04 18:40:08"
-            },
-            {
               "type": "AitH",
               "missions": 2,
               "lastPlayed": "2024-07-04 19:36:57"
             },
             {
-              "type": "Betaphase",
-              "missions": 1,
-              "lastPlayed": "2024-07-04 18:08:35"
+              "type": "Laserball",
+              "missions": 2,
+              "lastPlayed": "2024-07-04 18:40:08"
             },
             {
               "type": "Turnier",
@@ -26985,6 +26980,11 @@
               "type": "Feel like a pro",
               "missions": 1,
               "lastPlayed": "2024-07-04 19:58:20"
+            },
+            {
+              "type": "Betaphase",
+              "missions": 1,
+              "lastPlayed": "2024-07-04 18:08:35"
             }
           ]
         },
@@ -27039,6 +27039,11 @@
               "lastPlayed": "2023-03-23 20:10:58"
             },
             {
+              "type": "Advanced",
+              "missions": 1,
+              "lastPlayed": "2026-09-25 16:28:22"
+            },
+            {
               "type": "Other",
               "missions": 1,
               "lastPlayed": "2023-03-23 20:29:23"
@@ -27047,11 +27052,6 @@
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2023-03-23 20:50:05"
-            },
-            {
-              "type": "Advanced",
-              "missions": 1,
-              "lastPlayed": "2026-09-25 16:28:22"
             }
           ]
         },
@@ -27324,14 +27324,14 @@
           "joined": "2023-09-02",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 2,
-              "lastPlayed": "2023-09-02 21:31:35"
-            },
-            {
               "type": "Other",
               "missions": 2,
               "lastPlayed": "2023-09-02 22:24:15"
+            },
+            {
+              "type": "Standard",
+              "missions": 2,
+              "lastPlayed": "2023-09-02 21:31:35"
             }
           ]
         },
@@ -27376,14 +27376,14 @@
           "joined": "2024-07-05",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 2,
-              "lastPlayed": "2024-07-05 19:14:26"
-            },
-            {
               "type": "Other",
               "missions": 2,
               "lastPlayed": "2024-07-05 19:56:43"
+            },
+            {
+              "type": "Standard",
+              "missions": 2,
+              "lastPlayed": "2024-07-05 19:14:26"
             }
           ]
         },
@@ -27452,11 +27452,6 @@
           "joined": "2024-11-22",
           "summary": [
             {
-              "type": "Standard",
-              "missions": 1,
-              "lastPlayed": "2024-11-22 20:35:29"
-            },
-            {
               "type": "Capture The Flag/DM",
               "missions": 1,
               "lastPlayed": "2024-11-22 21:00:49"
@@ -27470,6 +27465,11 @@
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2024-11-22 21:33:11"
+            },
+            {
+              "type": "Standard",
+              "missions": 1,
+              "lastPlayed": "2024-11-22 20:35:29"
             }
           ]
         },
@@ -27816,11 +27816,6 @@
           "joined": "2024-03-31",
           "summary": [
             {
-              "type": "Other",
-              "missions": 1,
-              "lastPlayed": "2024-03-31 10:42:10"
-            },
-            {
               "type": "Standard",
               "missions": 1,
               "lastPlayed": "2024-03-31 10:10:31"
@@ -27829,6 +27824,11 @@
               "type": "Space Marines",
               "missions": 1,
               "lastPlayed": "2024-03-31 10:30:09"
+            },
+            {
+              "type": "Other",
+              "missions": 1,
+              "lastPlayed": "2024-03-31 10:42:10"
             }
           ]
         },
@@ -29201,11 +29201,11 @@
           "missions": 1
         },
         {
-          "type": "Betaphase",
+          "type": "Feel like a pro",
           "missions": 1
         },
         {
-          "type": "Feel like a pro",
+          "type": "Betaphase",
           "missions": 1
         },
         {
@@ -29424,7 +29424,7 @@
           "score": 106
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z",
+      "lastFetched": "2026-11-17T12:45:58.956Z",
       "codename": "[KST]Nini",
       "avatar": "32",
       "joinDate": "2017-10-29",
@@ -31352,7 +31352,7 @@
           "score": 624
         }
       ],
-      "lastFetched": "2026-11-17T12:28:19.473Z",
+      "lastFetched": "2026-11-17T12:45:58.956Z",
       "codename": "[NDR] Juranur",
       "avatar": "117",
       "joinDate": "2023-11-07",
