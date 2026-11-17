@@ -16,7 +16,11 @@ permissions:
 jobs:
   update-player-stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    # 100 min: the fetch script's MAX_RUNTIME_MS cap is 80 min (enough for all
+    # ~136 players at the observed ~14s/call pace), and it checkpoints every 5
+    # players so a kill can't lose the cycle. ~20 min headroom here for the
+    # final write + git commit/push. Public repo -> Actions minutes are free.
+    timeout-minutes: 100
 
     steps:
       - name: Checkout repository
@@ -57,4 +61,4 @@ jobs:
             git commit -m "Update player stats history - $(date '+%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
-          }
+          } 
