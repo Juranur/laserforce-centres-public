@@ -43,7 +43,7 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
         {fmtDay(point.t)}, {("0" + when.getHours()).slice(-2)}:{("0" + when.getMinutes()).slice(-2)}
       </div>
       <div>
-        career total <b>{fmtNum(point.exact ?? point.archive ?? 0)}</b>
+        career total <b>{fmtNum(point.exact ?? point.archive ?? point.estimate ?? 0)}</b>
       </div>
       {point.mission ? (
         <div className="text-zinc-400">
@@ -51,6 +51,9 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
         </div>
       ) : null}
       {point.archive != null ? <div className="text-amber-300">archive point</div> : null}
+      {point.estimate != null && point.exact == null && point.archive == null ? (
+        <div className="text-zinc-400">estimated (join date &mdash; no API history before archive)</div>
+      ) : null}
     </div>
   );
 }
@@ -98,8 +101,18 @@ export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Pro
             connectNulls
             isAnimationActive={false}
           />
+          <Line
+            type="linear"
+            dataKey="estimate"
+            stroke="#a1a1aa"
+            strokeWidth={1.5}
+            strokeDasharray="5 4"
+            dot={false}
+            connectNulls={false}
+            isAnimationActive={false}
+          />
         </LineChart>
       </ResponsiveContainer>
     </div>
   );
-}
+} 
