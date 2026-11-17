@@ -23,12 +23,19 @@ export interface LeaderboardRow {
   token: string;
 }
 
+export interface GameTypeSummary {
+  type: string;
+  missions: number;
+  lastPlayed: string | null; // "YYYY-MM-DD HH:MM:SS" — most recent mission of this type at this centre
+}
+
 export interface CentreEntry {
   name: string;
   missions: number;
   skillLevelNum: number;
   skillLevelName: string;
   joined: string;
+  summary?: GameTypeSummary[]; // per-game-type breakdown with last-played dates (populated once the fetcher runs with summary capture)
 }
 
 export interface GameTypeEntry {
@@ -196,6 +203,78 @@ export function highestSkill(centres: CentreEntry[]): CentreEntry | null {
     (best, c) => (!best || c.skillLevelNum > best.skillLevelNum ? c : best),
     null,
   );
+}
+
+export interface CentreActivity {
+  name: string;
+  missions: number;
+  joined: string;
+  lastPlayed: string | null; // most recent summary.lastPlayed across this centre's game types
+  joinedT: number;
+  lastPlayedT: number | null;
+  gameTypeCount: number;
+}
+
+/**
+ * Top centres by missions, enriched with the most-recent play date derived
+ * from each centre's per-game-type `summary`. Used by the career-span chart:
+ * each row's active span runs joined → lastPlayed, so the right edge encodes
+ * recency and the colour encodes volume. Falls back gracefully when `summary`
+ * is absent (older history fetched before summary capture) — lastPlayed stays
+ * null and the caller falls back to lastFetched/today.
+ */
+export function getCentreActivity(player: PlayerHistory, limit = 15): CentreActivity[] {
+  return player.centres
+    .map(c => {
+      const lastPlayed = (c.summary ?? [])
+        .map(s => s.lastPlayed)
+        .filter((s): s is string => !!s)
+        .sort()
+        .pop() ?? null;
+      return {
+        name: c.name,
+        missions: c.missions,
+        joined: c.joined,
+        lastPlayed,
+        joinedT: parseStamp(c.joined),
+        lastPlayedT: lastPlayed ? parseStamp(lastPlayed) : null,
+        gameTypeCount: c.summary?.length ?? 0,
+      };
+    })
+    .sort((a, b) => b.missions - a.missions)
+    .slice(0, limit);
+}
+
+export interface GameTypeActivity {
+  type: string;
+  missions: number;
+  lastPlayed: string | null;
+}
+
+/**
+ * Game-type breakdown with the most-recent play date aggregated across all
+ * centres. Falls back to the pre-aggregated `player.gameTypes` (counts only,
+ * no lastPlayed) when no per-centre summary is present, so the game-type
+ * section still renders for older history.
+ */
+export function getGameTypeActivity(player: PlayerHistory): GameTypeActivity[] {
+  const map = new Map<string, GameTypeActivity>();
+  for (const c of player.centres) {
+    for (const s of c.summary ?? []) {
+      const ex = map.get(s.type) ?? { type: s.type, missions: 0, lastPlayed: null };
+      ex.missions += s.missions;
+      if (s.lastPlayed && (!ex.lastPlayed || s.lastPlayed > ex.lastPlayed)) {
+        ex.lastPlayed = s.lastPlayed;
+      }
+      map.set(s.type, ex);
+    }
+  }
+  if (map.size === 0) {
+    for (const g of player.gameTypes) {
+      map.set(g.type, { type: g.type, missions: g.missions, lastPlayed: null });
+    }
+  }
+  return [...map.values()].sort((a, b) => b.missions - a.missions);
 }
 
 export function fmtDay(t: number): string {
