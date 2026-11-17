@@ -12,7 +12,7 @@
  *   LF_TOP_ARENAS    top N players globally by centres/arenas    (default 50)
  *   LF_TOP_KIEL      top N Laserzone Kiel players by games       (default 50)
  *   LF_KIEL_CENTRE_ID  centre id for the Kiel slice              (default 212)
- *   LF_BASE_DELAY    ms between API calls                        (default 4000)
+ *   LF_BASE_DELAY    ms between API calls                        (default 7000)
  *
  * API (all POST, form-encoded; no auth):
  *   https://v2.iplaylaserforce.com/globalScoring.php    -> leaderboard (top100)
@@ -31,12 +31,18 @@ const DATA_PATH = path.join(__dirname, '..', 'data', 'player-stats-history.json'
 const WATCHLIST_PATH = path.join(__dirname, '..', 'data', 'player-watchlist.json');
 
 const API_BASE = 'https://v2.iplaylaserforce.com/';
-const BASE_DELAY = parseInt(process.env.LF_BASE_DELAY || '4000', 10);
+const BASE_DELAY = parseInt(process.env.LF_BASE_DELAY || '7000', 10);
 const RATE_LIMIT_PAUSE = 60000;
-// 90 min: at ~136 players the cycle needs ~65 min at the observed pace, and the
-// old 50-min cap was cutting off the tail (Kiel cohort) before they got archived.
-// GitHub Actions jobs default to a 6h timeout, so 90 min is safe headroom.
-const MAX_RUNTIME_MS = 90 * 60 * 1000;
+// 50 min: MUST stay under the workflow's timeout-minutes (55 in
+// .github/workflows/update-player-stats.yml). The history file is written only
+// once, at the very end after the player loop, so a workflow timeout kill
+// mid-loop loses the ENTIRE cycle (no write, no commit). 50 min leaves ~5 min
+// for the write + git commit/push. The unseen-first ordering below guarantees
+// new players are fetched within this budget even when the full set (~136)
+// wouldn't all fit; existing players that miss the cap keep their previous data
+// (graceful) and refresh on a later cycle. To refresh ALL players every cycle
+// instead, raise BOTH this cap and the workflow timeout-minutes (see README).
+const MAX_RUNTIME_MS = 50 * 60 * 1000;
 const START_TIME = Date.now();
 // re-running within this window updates the existing point instead of appending
 const REPLACE_WINDOW_MS = 60 * 60 * 1000;
