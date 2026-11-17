@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated": "2026-11-16T21:56:51.089Z",
-  "cycle": 2,
+  "generated": "2026-11-17T08:11:49.117Z",
+  "cycle": 3,
   "note": "archivePoints accumulate one point per update cycle; recentMissions is the API's exact last-30 window used to draw the precise recent segment.",
   "leaderboard": {
     "queryType": 1,
@@ -2539,11 +2539,11 @@
           "missions": 4
         },
         {
-          "type": "Recharge",
+          "type": "Wedlock",
           "missions": 3
         },
         {
-          "type": "Wedlock",
+          "type": "Recharge",
           "missions": 3
         },
         {
@@ -2591,10 +2591,6 @@
           "missions": 2
         },
         {
-          "type": "Zombies ",
-          "missions": 1
-        },
-        {
           "type": "Jeder gegen Jeden",
           "missions": 1
         },
@@ -2611,15 +2607,19 @@
           "missions": 1
         },
         {
+          "type": "Zombies ",
+          "missions": 1
+        },
+        {
           "type": "Supercharge",
           "missions": 1
         },
         {
-          "type": "Dungeons & Dragons",
+          "type": "Sniper Missions",
           "missions": 1
         },
         {
-          "type": "Sniper Missions",
+          "type": "Dungeons & Dragons",
           "missions": 1
         },
         {
@@ -2662,6 +2662,10 @@
       "archivePoints": [
         {
           "t": "2026-11-16T21:37:23Z",
+          "missions": 7704
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
           "missions": 7704
         }
       ],
@@ -2847,7 +2851,7 @@
           "score": 2722
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "pdxFcdc": {
       "codename": "FLY ✨Lila✨",
@@ -4496,6 +4500,10 @@
         {
           "t": "2026-11-16T21:37:27Z",
           "missions": 8657
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
+          "missions": 8657
         }
       ],
       "recentMissions": [
@@ -4680,7 +4688,7 @@
           "score": 6040
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "gWtyhnL": {
       "codename": "FLY Nuke",
@@ -6249,6 +6257,10 @@
         {
           "t": "2026-11-16T21:37:31Z",
           "missions": 2803
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
+          "missions": 2803
         }
       ],
       "recentMissions": [
@@ -6433,7 +6445,7 @@
           "score": 21033
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "G7ZgDmc": {
       "codename": "NYX Jonny1337 ☣",
@@ -7915,11 +7927,11 @@
           "missions": 1
         },
         {
-          "type": "Knockout Missions",
+          "type": "Role Play Missions",
           "missions": 1
         },
         {
-          "type": "Role Play Missions",
+          "type": "Knockout Missions",
           "missions": 1
         },
         {
@@ -7938,6 +7950,10 @@
       "archivePoints": [
         {
           "t": "2026-11-16T21:37:35Z",
+          "missions": 3445
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
           "missions": 3445
         }
       ],
@@ -8123,7 +8139,7 @@
           "score": 10738
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "7CkQbgk": {
       "codename": "NYX Senex ☣",
@@ -9629,6 +9645,10 @@
         {
           "t": "2026-11-16T21:37:39Z",
           "missions": 3222
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
+          "missions": 3222
         }
       ],
       "recentMissions": [
@@ -9813,7 +9833,7 @@
           "score": 20618
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "QxWnkFg": {
       "codename": "FLY  ֎ƑąⱠӑ֎",
@@ -11256,6 +11276,10 @@
         {
           "t": "2026-11-16T21:37:44Z",
           "missions": 3991
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
+          "missions": 3991
         }
       ],
       "recentMissions": [
@@ -11440,13 +11464,17 @@
           "score": 11063
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z"
+      "lastFetched": "2026-11-17T08:11:49.117Z"
     },
     "dGpwTcb": {
       "token": "dGpwTcb",
       "archivePoints": [
         {
           "t": "2026-11-16T21:56:51.089Z",
+          "missions": 2937
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
           "missions": 2937
         }
       ],
@@ -11632,7 +11660,7 @@
           "score": 113
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z",
+      "lastFetched": "2026-11-17T08:11:49.117Z",
       "codename": "FLY ₪ØƦʟǺǹԁѳ₪",
       "avatar": "61",
       "joinDate": "2018-09-01",
@@ -13008,6 +13036,10 @@
         {
           "t": "2026-11-16T21:56:51.089Z",
           "missions": 10616
+        },
+        {
+          "t": "2026-11-17T08:11:49.117Z",
+          "missions": 10616
         }
       ],
       "recentMissions": [
@@ -13192,7 +13224,7 @@
           "score": 10313
         }
       ],
-      "lastFetched": "2026-11-16T21:56:51.089Z",
+      "lastFetched": "2026-11-17T08:11:49.117Z",
       "codename": "Thomiiik",
       "avatar": "4",
       "joinDate": "2016-06-15",
