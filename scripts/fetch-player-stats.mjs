@@ -238,6 +238,11 @@ async function main() {
         recentMissions: [],
         lastFetched: null,
       };
+      // Always stamp the token, even on pre-existing entries: history files
+      // written by older script versions have no `token` property on the player
+      // object, which made the /players list link to /players/undefined (404).
+      // Re-stamping each cycle repairs those entries in place.
+      player.token = token;
       player.codename = profile.codename;
       player.avatar = profile.avatar;
       player.joinDate = profile.joinDate;
