@@ -1,11 +1,14 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import PlayerMissionsChart from "@/components/player-missions-chart";
+import PlayerActivityChart from "@/components/player-activity-charts";
 import {
   avatarUrl,
   buildSeries,
   fmtDay,
   fmtNum,
+  getCentreActivity,
+  getGameTypeActivity,
   getPlayer,
   highestSkill,
   mergeSeries,
@@ -24,6 +27,8 @@ export default async function PlayerPage({ params }: PageProps) {
 
   const series = buildSeries(player);
   const merged = withEstimate(mergeSeries(series), player);
+  const centreActivity = getCentreActivity(player);
+  const gameTypeActivity = getGameTypeActivity(player);
   const skill = highestSkill(player.centres);
   const memberYears = player.joinDate
     ? Math.round(((Date.now() - Date.parse(player.joinDate + "T00:00:00Z")) / 31557600000) * 10) / 10
@@ -107,12 +112,30 @@ export default async function PlayerPage({ params }: PageProps) {
         )}
       </section>
 
+      {/* career activity span — uses dated summary data */}
+      <section className="mt-6 rounded-xl border border-zinc-800 bg-zinc-900/60 p-6">
+        <h2 className="mb-1 text-lg font-semibold text-cyan-300">Career activity by centre</h2>
+        <p className="mb-4 text-xs text-zinc-300">
+          Each bar spans a centre&apos;s first play → most recent play, derived from the
+          per-game-type last-played timestamps the update workflow captures. The right edge shows
+          how recently the player was last active there; the colour shows mission volume. This view
+          spans the whole career from the first join date —
+          {centreActivity.some(c => !c.lastPlayed)
+            ? " some centres lack a last-played date until the next update-workflow run populates summary data."
+            : " populated from summary data captured by the update workflow."}
+        </p>
+        <PlayerActivityChart centres={centreActivity} />
+      </section>
+
       {/* career by game type */}
       <section className="mt-6 rounded-xl border border-zinc-800 bg-zinc-900/60 p-6">
         <h2 className="mb-3 text-lg font-semibold text-cyan-300">Career missions by game type</h2>
         <div className="space-y-2">
-          {player.gameTypes.map(g => {
-            const max = player.gameTypes[0]?.missions || 1;
+          {gameTypeActivity.map(g => {
+            const max = gameTypeActivity[0]?.missions || 1;
+            const lastPlayed = g.lastPlayed
+              ? new Date(g.lastPlayed.replace(" ", "T") + "Z").toLocaleDateString("en-US", { month: "short", year: "numeric" })
+              : null;
             return (
               <div key={g.type} className="flex items-center gap-3 text-sm">
                 <div className="w-44 shrink-0 truncate text-right text-zinc-300">{g.type}</div>
@@ -123,6 +146,7 @@ export default async function PlayerPage({ params }: PageProps) {
                   />
                 </div>
                 <div className="w-16 text-right tabular-nums text-zinc-400">{fmtNum(g.missions)}</div>
+                <div className="w-24 shrink-0 text-right text-xs text-zinc-500">{lastPlayed ?? "—"}</div>
               </div>
             );
           })}
