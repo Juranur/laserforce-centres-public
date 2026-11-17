@@ -18,7 +18,7 @@ export interface LeaderboardRow {
   rank: number;
   centre: string;
   codename: string;
-  centres: number; // number of centres joined — this is what global scoring ranks by
+  metric: number; // ranking value: games played (qt=0) or centres/arenas played (qt=1)
   avatar: string;
   token: string;
 }
@@ -73,7 +73,11 @@ export interface PlayerStatsHistory {
   generated: string;
   cycle: number;
   note: string;
-  leaderboard: { queryType: number; rows: LeaderboardRow[] };
+  leaderboards: {
+    games: { queryType: number; centreId: number; rows: LeaderboardRow[] };
+    arenas: { queryType: number; centreId: number; rows: LeaderboardRow[] };
+    kiel: { queryType: number; centreId: number; rows: LeaderboardRow[] };
+  };
   players: Record<string, PlayerHistory>;
 }
 
