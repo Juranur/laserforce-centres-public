@@ -8,8 +8,11 @@
  * beyond the last 30 missions, so the archive IS the long-term dataset.
  *
  * Env knobs:
- *   LF_TRACK_TOP_N   how many top leaderboard players to track (default 8)
- *   LF_BASE_DELAY    ms between API calls (default 4000)
+ *   LF_TOP_GAMES     top N players globally by games played      (default 50)
+ *   LF_TOP_ARENAS    top N players globally by centres/arenas    (default 50)
+ *   LF_TOP_KIEL      top N Laserzone Kiel players by games       (default 50)
+ *   LF_KIEL_CENTRE_ID  centre id for the Kiel slice              (default 212)
+ *   LF_BASE_DELAY    ms between API calls                        (default 4000)
  *
  * API (all POST, form-encoded; no auth):
  *   https://v2.iplaylaserforce.com/globalScoring.php    -> leaderboard (top100)
@@ -34,8 +37,16 @@ const MAX_RUNTIME_MS = 50 * 60 * 1000;
 const START_TIME = Date.now();
 // re-running within this window updates the existing point instead of appending
 const REPLACE_WINDOW_MS = 60 * 60 * 1000;
-// leaderboard ranks by centres played (query type 1); track the top N
-const TRACK_TOP_N = parseInt(process.env.LF_TRACK_TOP_N || '8', 10);
+// Three leaderboard slices to track (heavily overlapping, so the tracked total
+// is well under TOP_GAMES + TOP_ARENAS + TOP_KIEL):
+//   games  — global, ranked by games/missions played    (queryType 0, centreId 0)
+//   arenas — global, ranked by centres/arenas played     (queryType 1, centreId 0)
+//   kiel   — Laserzone Kiel home players by games played (queryType 0, centreId 212)
+//            (the API honours the centreId filter ONLY with queryType 0)
+const TOP_GAMES  = parseInt(process.env.LF_TOP_GAMES  || '50', 10);
+const TOP_ARENAS = parseInt(process.env.LF_TOP_ARENAS || '50', 10);
+const TOP_KIEL   = parseInt(process.env.LF_TOP_KIEL   || '50', 10);
+const KIEL_CENTRE_ID = parseInt(process.env.LF_KIEL_CENTRE_ID || '212', 10);
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -95,17 +106,23 @@ async function withRetry(fn, label) {
   }
 }
 
-async function fetchLeaderboard() {
+// Fetch one leaderboard slice from globalScoring.php.
+//   queryType: 0 = games/missions played, 1 = centres/arenas played.
+//   centreId:  0 = global ranking; a specific id filters to that centre's home
+//              players. NOTE: the API honours the centre filter ONLY with
+//              queryType 0 — with queryType 1 it ignores centreId and returns
+//              the global centres ranking. So the Kiel slice uses queryType 0.
+async function fetchLeaderboard(queryType, centreId = 0) {
   const params = baseParams();
-  params.selectedQueryType = '1';
-  params.selectedCentreId = '0';
+  params.selectedQueryType = String(queryType);
+  params.selectedCentreId = String(centreId);
   params.selectedGroupId = '0';
   const data = await apiPost('globalScoring.php', params);
   return (data.top100 || []).map(r => ({
     rank: r['0'],
     centre: r['1'],
     codename: r['2'],
-    centres: r['3'], // number of centres joined — this is what the ranking is by
+    metric: r['3'], // games played (qt=0) or centres/arenas played (qt=1)
     avatar: String(r['5']),
     token: (r.DT_RowId || '').replace('token_', ''),
   }));
@@ -182,7 +199,11 @@ async function main() {
       generated: null,
       cycle: 0,
       note: 'archivePoints: one career-total point per update cycle. recentMissions: the API\'s exact last-30 window.',
-      leaderboard: { queryType: 1, rows: [] },
+      leaderboards: {
+        games:  { queryType: 0, centreId: 0,              rows: [] },
+        arenas: { queryType: 1, centreId: 0,              rows: [] },
+        kiel:   { queryType: 0, centreId: KIEL_CENTRE_ID, rows: [] },
+      },
       players: {},
     };
     log('No history file — starting a new one');
@@ -200,25 +221,39 @@ async function main() {
     }
   }
 
-  // 1. leaderboard refresh
-  let rows = [];
-  try {
-    rows = await withRetry(fetchLeaderboard, 'leaderboard');
-    history.leaderboard = { queryType: 1, rows };
-    log(`Leaderboard: ${rows.length} rows`);
-  } catch (e) {
-    log(`⚠️ Leaderboard failed, keeping previous rows: ${e.message}`);
-    rows = (history.leaderboard && history.leaderboard.rows) || [];
+  // 1. refresh the three leaderboard slices we track. Each is a separate API
+  //    call; the centreId filter only affects the Kiel slice (and only works
+  //    with queryType 0). On failure a slice keeps its previous rows.
+  const slices = [
+    { key: 'games',  qt: 0, centreId: 0,              limit: TOP_GAMES,  label: `top ${TOP_GAMES} games (global)` },
+    { key: 'arenas', qt: 1, centreId: 0,              limit: TOP_ARENAS, label: `top ${TOP_ARENAS} arenas (global)` },
+    { key: 'kiel',   qt: 0, centreId: KIEL_CENTRE_ID, limit: TOP_KIEL,   label: `top ${TOP_KIEL} games (Laserzone Kiel #${KIEL_CENTRE_ID})` },
+  ];
+  const fresh = {};
+  for (const s of slices) {
+    let rows = [];
+    try {
+      rows = await withRetry(() => fetchLeaderboard(s.qt, s.centreId), `leaderboard ${s.label}`);
+      log(`Leaderboard ${s.label}: ${rows.length} rows`);
+    } catch (e) {
+      const prev = history.leaderboards && history.leaderboards[s.key];
+      rows = (prev && prev.rows) || [];
+      log(`⚠️ Leaderboard ${s.label} failed, keeping ${rows.length} previous rows: ${e.message}`);
+    }
+    fresh[s.key] = { queryType: s.qt, centreId: s.centreId, rows };
+    await sleep(BASE_DELAY);
   }
-  await sleep(BASE_DELAY);
+  history.leaderboards = fresh;
 
-  // 2. decide which tokens to track: existing + watchlist + top N
+  // 2. decide which tokens to track: existing + watchlist + top N from each slice
   const tokens = new Set(Object.keys(history.players));
   watchlist.forEach(t => tokens.add(t));
-  for (const r of rows.slice(0, TRACK_TOP_N)) {
-    if (r.token) tokens.add(r.token);
+  for (const s of slices) {
+    for (const r of fresh[s.key].rows.slice(0, s.limit)) {
+      if (r.token) tokens.add(r.token);
+    }
   }
-  log(`Tracking ${tokens.size} player(s)`);
+  log(`Tracking ${tokens.size} player(s) — games top ${TOP_GAMES} ∪ arenas top ${TOP_ARENAS} ∪ Kiel top ${TOP_KIEL} (after overlap)`);
 
   // 3. per-player update: profile + recent missions + archive point
   let updated = 0, failed = 0;
