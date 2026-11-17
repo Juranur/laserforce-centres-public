@@ -33,7 +33,10 @@ const WATCHLIST_PATH = path.join(__dirname, '..', 'data', 'player-watchlist.json
 const API_BASE = 'https://v2.iplaylaserforce.com/';
 const BASE_DELAY = parseInt(process.env.LF_BASE_DELAY || '4000', 10);
 const RATE_LIMIT_PAUSE = 60000;
-const MAX_RUNTIME_MS = 50 * 60 * 1000;
+// 90 min: at ~136 players the cycle needs ~65 min at the observed pace, and the
+// old 50-min cap was cutting off the tail (Kiel cohort) before they got archived.
+// GitHub Actions jobs default to a 6h timeout, so 90 min is safe headroom.
+const MAX_RUNTIME_MS = 90 * 60 * 1000;
 const START_TIME = Date.now();
 // re-running within this window updates the existing point instead of appending
 const REPLACE_WINDOW_MS = 60 * 60 * 1000;
@@ -246,19 +249,31 @@ async function main() {
   history.leaderboards = fresh;
 
   // 2. decide which tokens to track: existing + watchlist + top N from each slice
-  const tokens = new Set(Object.keys(history.players));
+  const seen = new Set(Object.keys(history.players));
+  const tokens = new Set(seen);
   watchlist.forEach(t => tokens.add(t));
   for (const s of slices) {
     for (const r of fresh[s.key].rows.slice(0, s.limit)) {
       if (r.token) tokens.add(r.token);
     }
   }
-  log(`Tracking ${tokens.size} player(s) — games top ${TOP_GAMES} ∪ arenas top ${TOP_ARENAS} ∪ Kiel top ${TOP_KIEL} (after overlap)`);
+  // Iterate UNSEEN tokens first (new leaderboard members with no archive yet),
+  // then existing players. If the runtime cap bites, this guarantees newly-added
+  // players get their initial fetch+archive before we spend time re-refreshing
+  // players we already have — otherwise tail-of-list cohorts (the Kiel slice is
+  // last) can be skipped cycle after cycle and never get archived. Existing
+  // players skipped by a cap just keep their previous data (graceful).
+  const unseenFirst = [
+    ...[...tokens].filter(t => !seen.has(t)),
+    ...[...tokens].filter(t => seen.has(t)),
+  ];
+  const newCount = unseenFirst.length - seen.size;
+  log(`Tracking ${tokens.size} player(s) — ${newCount} new (fetched first), ${seen.size} existing — games top ${TOP_GAMES} ∪ arenas top ${TOP_ARENAS} ∪ Kiel top ${TOP_KIEL} (after overlap)`);
 
   // 3. per-player update: profile + recent missions + archive point
   let updated = 0, failed = 0;
   const nowIso = new Date().toISOString();
-  for (const token of tokens) {
+  for (const token of unseenFirst) {
     if (shouldStop()) { log('⏱️ Stopping early — remaining players keep their previous data'); break; }
     const existing = history.players[token];
     log(`Fetching ${token}${existing ? ` (${existing.codename})` : ''} ...`);
