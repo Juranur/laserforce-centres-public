@@ -119,6 +119,15 @@ async function fetchPlayerProfile(token) {
     skillLevelNum: c.skillLevelNum,
     skillLevelName: c.skillLevelName,
     joined: c.joined,
+    // per-game-type breakdown with last-played timestamps — the only dated
+    // activity signal the API exposes besides the last-30 window. Captured
+    // here so the career-span / recency charts have real historical anchors
+    // (one lastPlayed date per centre × game type, going back to the join year).
+    summary: (c.summary || []).map(s => ({
+      type: s[0],
+      missions: s[1],
+      lastPlayed: s[2] ?? null,
+    })),
   }));
   const gameTypes = {};
   (data.centre || []).forEach(c => {
@@ -262,4 +271,4 @@ async function main() {
 main().catch(e => {
   log(`❌ Fatal: ${e.message}`);
   process.exit(1);
-});
+}); 
