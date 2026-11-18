@@ -81,10 +81,15 @@ export default async function PlayerPage({ params }: PageProps) {
       <section className="mt-6 rounded-xl border border-zinc-800 bg-zinc-900/60 p-6">
         <h2 className="mb-1 text-lg font-semibold text-cyan-300">Career missions over time</h2>
         <p className="mb-4 text-xs text-zinc-100">
-          Cumulative total. Cyan: exact totals from the API&apos;s last-30-missions window
-          ({series.exact.length ? fmtDay(series.exact[0].t) + " → " + fmtDay(series.exact[series.exact.length - 1].t) : "n/a"}).
-          Amber: archived totals, one point per update cycle — the curve extends every cycle
-          ({player.archivePoints.length} point{player.archivePoints.length === 1 ? "" : "s"} so far).
+          Cumulative total. Cyan: the real career-missions curve, drawn from every measured
+          point — exact per-mission totals from the API&apos;s last-30-missions window
+          ({series.exact.length ? fmtDay(series.exact[0].t) + " → " + fmtDay(series.exact[series.exact.length - 1].t) : "n/a"})
+          merged with archived per-cycle totals ({player.archivePoints.length} point{player.archivePoints.length === 1 ? "" : "s"} so far).
+          A flat segment between two points just means no missions were recorded in that window —
+          whether the points came from the live pull or the archive tracker, it is equally real, so
+          they share one colour. Amber: a highlight over segments where more than 30 missions were
+          logged between two consecutive points — with ~6-hour update cycles this is rare, and it
+          flags the few genuinely unusual intervals (typically a catch-up after a coverage gap).
           Grey dashed: a piecewise-linear estimate from the player&apos;s earliest centre-join date to
           the first real data point, built from per-centre anchors (join dates, per-game-type
           last-played dates, and per-segment mission counts). Each centre × game type ramps linearly
@@ -96,8 +101,8 @@ export default async function PlayerPage({ params }: PageProps) {
         </p>
         <PlayerMissionsChart data={merged} yDomain={series.yDomain} />
         <div className="mt-2 flex flex-wrap gap-4 text-xs text-zinc-100">
-          <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-cyan-400" />exact (last-30 window)</span>
-          <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-amber-400" />archive (per cycle)</span>
+          <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-cyan-400" />real data (live pull + archive)</span>
+          <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-amber-400" />spike segment (&gt; 30 missions between points)</span>
           <span><span className="mr-1 inline-block h-2.5 w-2.5 rounded-sm bg-zinc-400" />estimated (per-centre anchors &rarr; archive)</span>
         </div>
         {archiveDeltas.length > 0 ? (
