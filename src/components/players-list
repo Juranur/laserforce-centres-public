@@ -1,0 +1,113 @@
+"use client";
+
+/**
+ * Players list with live search.
+ *
+ * Searchable client component: the heavy `getTrackedPlayers()` / `getHistory()`
+ * calls stay server-side (they read the committed history JSON), and the parent
+ * page passes the already-serialised summary rows down. This component owns the
+ * search box state and filters those rows in-memory — with ~hundreds of players
+ * that's instant, so there's no need for debounce or a request round-trip.
+ *
+ * Matching is case-insensitive and covers both the player's codename and their
+ * token (so you can paste a token straight from the API to jump to a player).
+ */
+import { useMemo, useState } from "react";
+import Link from "next/link";
+import { Search, X } from "lucide-react";
+import { Input } from "@/components/ui/input";
+import { avatarUrl, fmtNum } from "@/lib/player-stats";
+
+export interface PlayerListRow {
+  token: string;
+  codename: string;
+  avatar: string;
+  totalMissions: number;
+  centreCount: number;
+  joinDate: string | null;
+  archivePointCount: number;
+}
+
+interface Props {
+  players: PlayerListRow[];
+}
+
+export function PlayersList({ players }: Props) {
+  const [query, setQuery] = useState("");
+
+  const q = query.trim().toLowerCase();
+
+  const filtered = useMemo(() => {
+    if (!q) return players;
+    return players.filter(p =>
+      p.codename.toLowerCase().includes(q) ||
+      p.token.toLowerCase().includes(q)
+    );
+  }, [players, q]);
+
+  return (
+    <>
+      <div className="relative mb-5 max-w-md">
+        <Search
+          className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-zinc-500"
+          aria-hidden="true"
+        />
+        <Input
+          type="search"
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          placeholder={`Search ${players.length} players by codename or token…`}
+          aria-label="Search players by codename or token"
+          className="border-zinc-700 bg-zinc-900/60 pl-9 pr-9 text-sm text-zinc-100 placeholder:text-zinc-500 focus-visible:border-cyan-500 focus-visible:ring-cyan-500/30"
+        />
+        {query ? (
+          <button
+            type="button"
+            onClick={() => setQuery("")}
+            aria-label="Clear search"
+            className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-1 text-zinc-400 hover:bg-zinc-800 hover:text-zinc-100"
+          >
+            <X className="h-4 w-4" />
+          </button>
+        ) : null}
+      </div>
+
+      <div className="mb-4 text-xs text-zinc-400">
+        Showing <span className="text-zinc-100">{filtered.length}</span> of {players.length} player{players.length === 1 ? "" : "s"}
+      </div>
+
+      {filtered.length === 0 ? (
+        <p className="rounded-xl border border-zinc-800 bg-zinc-900/60 p-6 text-sm text-zinc-300">
+          No players match <span className="text-zinc-100">&ldquo;{query}&rdquo;</span>. Try a different codename or token.
+        </p>
+      ) : (
+        <div className="grid gap-4 sm:grid-cols-2">
+          {filtered.map(p => (
+            <Link
+              key={p.token}
+              href={`/players/${p.token}`}
+              className="flex items-center gap-4 rounded-xl border border-zinc-800 bg-zinc-900/60 p-4 transition-colors hover:border-cyan-500/60"
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={avatarUrl(p.avatar)}
+                alt=""
+                className="h-14 w-14 rounded-lg bg-zinc-800 object-contain"
+              />
+              <div className="min-w-0">
+                <div className="truncate font-semibold text-zinc-100">{p.codename}</div>
+                <div className="text-sm text-zinc-300">
+                  {fmtNum(p.totalMissions)} career missions &middot;{" "}
+                  {p.centreCount} centre{p.centreCount === 1 ? "" : "s"}
+                </div>
+                <div className="text-xs text-zinc-400">
+                  joined {p.joinDate ?? "?"} &middot; {p.archivePointCount} archive point(s)
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      )}
+    </>
+  );
+} 
