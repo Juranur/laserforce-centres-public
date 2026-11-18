@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import PlayerMissionsChart from "@/components/player-missions-chart";
 import PlayerActivityChart from "@/components/player-activity-charts";
+import { PlayerGameTypes } from "@/components/player-game-types";
 import {
   avatarUrl,
   buildSeries,
@@ -9,6 +10,7 @@ import {
   fmtNum,
   getCentreActivity,
   getGameTypeActivity,
+  getGameTypeCategories,
   getPlayer,
   highestSkill,
   mergeSeries,
@@ -29,6 +31,7 @@ export default async function PlayerPage({ params }: PageProps) {
   const merged = withEstimate(mergeSeries(series), player);
   const centreActivity = getCentreActivity(player);
   const gameTypeActivity = getGameTypeActivity(player);
+  const gameTypeCategories = getGameTypeCategories(gameTypeActivity);
   const skill = highestSkill(player.centres);
   const memberYears = player.joinDate
     ? Math.round(((Date.now() - Date.parse(player.joinDate + "T00:00:00Z")) / 31557600000) * 10) / 10
@@ -138,30 +141,22 @@ export default async function PlayerPage({ params }: PageProps) {
         <PlayerActivityChart centres={centreActivity} />
       </section>
 
-      {/* career by game type */}
+      {/* career by game type — grouped into six family buckets */}
       <section className="mt-6 rounded-xl border border-zinc-800 bg-zinc-900/60 p-6">
-        <h2 className="mb-3 text-lg font-semibold text-cyan-300">Career missions by game type</h2>
-        <div className="space-y-2">
-          {gameTypeActivity.map(g => {
-            const max = gameTypeActivity[0]?.missions || 1;
-            const lastPlayed = g.lastPlayed
-              ? new Date(g.lastPlayed.replace(" ", "T") + "Z").toLocaleDateString("en-US", { month: "short", year: "numeric" })
-              : null;
-            return (
-              <div key={g.type} className="flex items-center gap-3 text-sm">
-                <div className="w-44 shrink-0 truncate text-right text-zinc-100">{g.type}</div>
-                <div className="h-4 flex-1 overflow-hidden rounded bg-zinc-800">
-                  <div
-                    className="h-full rounded bg-gradient-to-r from-cyan-500/40 to-cyan-400"
-                    style={{ width: `${Math.max(2, (g.missions / max) * 100)}%` }}
-                  />
-                </div>
-                <div className="w-16 text-right tabular-nums text-zinc-100">{fmtNum(g.missions)}</div>
-                <div className="w-24 shrink-0 text-right text-xs text-zinc-100">{lastPlayed ?? "—"}</div>
-              </div>
-            );
-          })}
-        </div>
+        <h2 className="mb-1 text-lg font-semibold text-cyan-300">Career missions by game type</h2>
+        <p className="mb-4 text-xs text-zinc-100">
+          Missions grouped into game-type families. Arenas invent their own mode
+          names, so raw strings like &ldquo;Laserball 12min&rdquo;, &ldquo;LZ Lazerball&rdquo; and
+          &ldquo;Space Marines 5&rdquo; are collapsed into their family. Click any bucket to see
+          exactly which mode names contributed to it &mdash; &ldquo;Other&rdquo; is expanded by
+          default since it tends to be the largest single bucket (arenas push anything
+          uncategorised into a raw &ldquo;Other&rdquo; string, and genuine small modes like
+          Supercharge, Highlander, Vampir and Elimination live here too).
+        </p>
+        <PlayerGameTypes
+          categories={gameTypeCategories}
+          totalMissions={player.totalMissions}
+        />
       </section>
 
       {/* centres */}
