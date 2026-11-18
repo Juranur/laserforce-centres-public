@@ -4,7 +4,6 @@ import {
   getTrackedPlayers,
 } from "@/lib/player-stats";
 import { PlayersList } from "@/components/players-list";
-import type { PlayerListRow } from "@/components/player-list-types";
 
 export const metadata = {
   title: "Player Stats",
@@ -14,25 +13,16 @@ export const metadata = {
  * Index of tracked players (the ones the update cycle archives).
  *
  * The page itself is a server component: it reads the committed history JSON
- * (via getTrackedPlayers / getHistory) and hands a slim, serialisable summary
- * to the client <PlayersList>, which owns the search box state. The outer
- * <main> carries a dark background so the existing zinc-100 / zinc-300 text
- * reads correctly — without it, those near-white classes render against the
- * light body theme and the stats line is barely legible.
+ * (via getTrackedPlayers / getHistory) and hands the already-loaded
+ * PlayerHistory[] straight to the client <PlayersList>, which owns the search
+ * box state. The outer <main> carries a dark background so the existing
+ * zinc-100 / zinc-300 text reads correctly — without it, those near-white
+ * classes render against the light body theme and the stats line is barely
+ * legible.
  */
 export default function PlayersPage() {
   const history = getHistory();
   const players = getTrackedPlayers();
-
-  const rows: PlayerListRow[] = players.map(p => ({
-    token: p.token,
-    codename: p.codename,
-    avatar: p.avatar,
-    totalMissions: p.totalMissions,
-    centreCount: p.centres.length,
-    joinDate: p.joinDate,
-    archivePointCount: p.archivePoints.length,
-  }));
 
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-100">
@@ -44,7 +34,7 @@ export default function PlayersPage() {
           adds one point to every player&apos;s cumulative career curve.
         </p>
 
-        <PlayersList players={rows} />
+        <PlayersList players={players} />
 
         <p className="mt-8 text-xs text-zinc-400">
           Ranking source: globalScoring.php (top 100 by centres played). To track a player
