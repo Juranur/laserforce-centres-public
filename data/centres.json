@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-18T01:41:20.115Z",
+  "lastUpdated": "2026-11-18T16:19:18.872Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 80,
+  "lastCheckedIndex": 3,
   "centres": [
     {
       "id": "159",
@@ -754,8 +754,8 @@
       "id": "404",
       "regionSite": "21-116",
       "name": "Funpark Rodgau, Rodgau, DE",
-      "gamesTotal": 769,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 770,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1341,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 1343,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
@@ -1146,8 +1146,8 @@
       "id": "56",
       "regionSite": "4-2",
       "name": "Laser Mania, St George, UT, USA",
-      "gamesTotal": 42852,
-      "lastActivity": "2026-11-11",
+      "gamesTotal": 43717,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
@@ -1338,7 +1338,7 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 93223,
+      "gamesTotal": 93267,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -1354,7 +1354,7 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 5193,
+      "gamesTotal": 5195,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -1386,15 +1386,15 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1480,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 1496,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 8772,
+      "gamesTotal": 8776,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -1402,7 +1402,7 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59528,
+      "gamesTotal": 59529,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -1690,7 +1690,7 @@
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 4981,
+      "gamesTotal": 4987,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -1826,7 +1826,7 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96517,
+      "gamesTotal": 96551,
       "lastActivity": "2026-11-18",
       "status": "active"
     },
@@ -2266,8 +2266,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41267,
-      "lastActivity": "2026-11-17",
+      "gamesTotal": 41289,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
@@ -2458,8 +2458,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 53059,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 53061,
+      "lastActivity": "2026-11-18",
       "status": "active"
     },
     {
