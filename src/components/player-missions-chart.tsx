@@ -78,6 +78,22 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
 export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Props) {
   const [showEstimate, setShowEstimate] = useState(true);
 
+  // When the estimate is hidden, drop the pure-estimate knot points (the ones
+  // before any real data) so the X-axis only spans actual tracked data —
+  // otherwise the real curve gets cramped at the far right against the join date.
+  const visibleData = showEstimate
+    ? data
+    : data.filter(p => p.exact != null || p.archive != null);
+
+  // X-axis domain: full span when the estimate is shown, otherwise from the
+  // first real point to the last real point (no left padding so the axis starts
+  // exactly where data collection began).
+  const xDomain: [number, number] | ["dataMin", "dataMax"] = showEstimate
+    ? ["dataMin", "dataMax"]
+    : visibleData.length
+      ? [visibleData[0].t, visibleData[visibleData.length - 1].t]
+      : ["dataMin", "dataMax"];
+
   return (
     <div>
       <div className="mb-3 flex items-center gap-2">
@@ -93,13 +109,13 @@ export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Pro
       </div>
       <div style={{ width: "100%", height }}>
         <ResponsiveContainer>
-          <LineChart data={data} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
+          <LineChart data={visibleData} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
             <CartesianGrid stroke="#273252" strokeDasharray="3 3" />
             <XAxis
               dataKey="t"
               type="number"
               scale="time"
-              domain={["dataMin", "dataMax"]}
+              domain={xDomain}
               tickFormatter={fmtDayYear}
               stroke="#e2e8f0"
               tick={{ fontSize: 11, fill: "#e2e8f0" }}
