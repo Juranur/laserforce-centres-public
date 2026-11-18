@@ -84,16 +84,32 @@ interface ChartRow extends MergedPoint {
 }
 
 /**
- * Build the chart rows: keep every real knot (exact or archive) in order, drop
- * estimate-only knots, and tag each knot with whether the segment leading into
- * it was a spike (delta > SPIKE_THRESHOLD vs the previous real knot).
+ * Build the chart rows: keep EVERY knot in order — real knots (exact or
+ * archive) carry their `total`, estimate-only knots carry `total: null`.
+ *
+ * Keeping the estimate knots is what makes the toggle do something: the
+ * estimate <Line dataKey="estimate"> reads `estimate` off these rows, so
+ * they must be present for the grey dashed line to render. The real cyan
+ * line uses `connectNulls`, and since every estimate knot sits to the LEFT
+ * of the first real knot (join date → first measurement), the null `total`
+ * values never break the real curve — they only extend the X-axis leftward.
+ *
+ * Each knot is also tagged with whether the segment leading into it was a
+ * spike (delta > SPIKE_THRESHOLD vs the previous REAL knot — estimate knots
+ * are skipped when computing the delta so a long pre-archive ramp never
+ * flags as a spike).
  */
 function buildRows(data: MergedPoint[]): ChartRow[] {
   const rows: ChartRow[] = [];
   let prevTotal: number | null = null;
   for (const p of data) {
     const total = realValue(p);
-    if (total == null) continue; // skip pure-estimate knots
+    if (total == null) {
+      // pure-estimate knot: keep it (with null total) so the estimate Line
+      // can render it; it does not contribute to spike detection.
+      rows.push({ ...p, total: null });
+      continue;
+    }
     const spikeEnd = prevTotal != null ? total - prevTotal > SPIKE_THRESHOLD : false;
     rows.push({ ...p, total, spikeEnd });
     prevTotal = total;
