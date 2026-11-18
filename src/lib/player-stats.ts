@@ -390,6 +390,140 @@ export function getGameTypeActivity(player: PlayerHistory): GameTypeActivity[] {
   return [...map.values()].sort((a, b) => b.missions - a.missions);
 }
 
+/**
+ * Game-type families. Arenas invent their own mode names, so the raw
+ * `GameTypeActivity.type` strings are noisy (174 distinct strings across the
+ * tracked players). These six buckets collapse that long tail into the
+ * game-type families a player actually cares about, with "Other" catching the
+ * long tail (including the source `"Other"` bucket arenas use for anything
+ * uncategorised, plus genuine small modes like Supercharge, Highlander,
+ * Vampir, Colour Conquest and Elimination that are too small to slice off).
+ *
+ * Order matters: `classifyGameType` is first-match-wins, so the order here is
+ * the order the rules are evaluated in.
+ */
+export type GameTypeCategoryName =
+  | "Standard"
+  | "LaserBall"
+  | "Space Marines"
+  | "Dungeons & Dragons"
+  | "Death Match / Capture the Flag"
+  | "Other";
+
+export const GAME_TYPE_CATEGORY_ORDER: GameTypeCategoryName[] = [
+  "Standard",
+  "LaserBall",
+  "Space Marines",
+  "Dungeons & Dragons",
+  "Death Match / Capture the Flag",
+  "Other",
+];
+
+/** Stable accent colour per bucket, used by the chart bars and the legend. */
+export const GAME_TYPE_CATEGORY_COLORS: Record<GameTypeCategoryName, string> = {
+  Standard: "#29e0ff",
+  LaserBall: "#a78bfa",
+  "Space Marines": "#f97316",
+  "Dungeons & Dragons": "#34d399",
+  "Death Match / Capture the Flag": "#f43f5e",
+  Other: "#a1a1aa",
+};
+
+function hasSub(s: string, subs: string[]): boolean {
+  const l = s.toLowerCase();
+  return subs.some(sub => l.includes(sub));
+}
+
+function hasWord(s: string, words: string[]): boolean {
+  const l = s.toLowerCase();
+  return words.some(w => new RegExp(`\\b${w}\\b`).test(l));
+}
+
+/**
+ * Classify a raw game-type string into one of the six families.
+ *
+ * Case-insensitive, first-match-wins. The two non-obvious rules:
+ *  - "non standard" / "non-standard" / "nonstandard" is excluded from Standard
+ *    (it would otherwise false-positive on the `standard` substring) and
+ *    falls through to Other. ~11k missions recovered from the wrong bucket.
+ *  - `std` / `ball` / `marines` / `sm5` / `dm` / `ctf` use word-boundary
+ *    matching so the short abbreviations don't catch substrings inside longer
+ *    words (e.g. `dm` must not match inside "Admin").
+ */
+export function classifyGameType(name: string): GameTypeCategoryName {
+  // 1. Standard — but exclude the "non standard" variants first.
+  if (hasSub(name, ["non standard", "non-standard", "nonstandard"])) return "Other";
+  if (hasSub(name, ["standard", "standart"]) || hasWord(name, ["std"])) return "Standard";
+  // 2. LaserBall — catches "laserball", "laser ball", the "lazerball" typo,
+  //    and the "LZB"/"ball" abbreviations.
+  if (
+    hasSub(name, ["laserball", "laser ball", "lazerball", "lazer ball"]) ||
+    hasWord(name, ["lzb", "ball"])
+  ) {
+    return "LaserBall";
+  }
+  // 3. Space Marines — "space marines" covers the unversioned "Space Marines"
+  //    family; "sm5" and "marines" catch the abbreviated and versioned forms.
+  if (hasSub(name, ["space marines"]) || hasWord(name, ["sm5", "marines"])) {
+    return "Space Marines";
+  }
+  // 4. Dungeons & Dragons — covers "d&d", "d and d", "dnd" and the full names.
+  if (hasSub(name, ["dungeons", "dragons", "dnd", "d&d", "d and d"])) {
+    return "Dungeons & Dragons";
+  }
+  // 5. Death Match / Capture the Flag — bundled because arenas commonly ship
+  //    them as combined strings ("Capture The Flag/DM", "CTF/DM"); 94.6% of
+  //    this bucket's missions come from such combined names.
+  if (
+    hasSub(name, ["death match", "deathmatch", "capture the flag", "capture flag"]) ||
+    hasWord(name, ["dm", "ctf"])
+  ) {
+    return "Death Match / Capture the Flag";
+  }
+  // 6. Other — long tail, including the source "Other" bucket.
+  return "Other";
+}
+
+export interface GameTypeCategoryRow {
+  /** The constituent raw game-type string (e.g. "Laserball 12min"). */
+  type: string;
+  missions: number;
+  lastPlayed: string | null;
+}
+
+export interface GameTypeCategory {
+  name: GameTypeCategoryName;
+  /** Total missions across all raw types that fell into this bucket. */
+  missions: number;
+  /** Raw game-type strings in this bucket, sorted by mission count desc. */
+  rows: GameTypeCategoryRow[];
+}
+
+/**
+ * Group a player's per-game-type activity into the six family buckets. Each
+ * bucket carries its total mission count (for the bar width) and the sorted
+ * list of raw game-type strings that landed in it (for the expandable detail).
+ *
+ * Buckets are always returned in `GAME_TYPE_CATEGORY_ORDER` so the chart is
+ * stable across players, even if a player has zero missions in one of them.
+ */
+export function getGameTypeCategories(
+  activity: GameTypeActivity[],
+): GameTypeCategory[] {
+  const byCat = new Map<GameTypeCategoryName, GameTypeCategoryRow[]>();
+  for (const g of activity) {
+    const cat = classifyGameType(g.type);
+    const arr = byCat.get(cat) ?? [];
+    arr.push({ type: g.type, missions: g.missions, lastPlayed: g.lastPlayed });
+    byCat.set(cat, arr);
+  }
+  return GAME_TYPE_CATEGORY_ORDER.map(name => {
+    const rows = (byCat.get(name) ?? []).sort((a, b) => b.missions - a.missions);
+    const missions = rows.reduce((s, r) => s + r.missions, 0);
+    return { name, missions, rows };
+  });
+}
+
 export function fmtDay(t: number): string {
   return new Date(t).toLocaleDateString("en-US", { month: "short", day: "numeric" });
 } 
