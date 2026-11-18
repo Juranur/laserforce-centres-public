@@ -3,7 +3,8 @@ import {
   getHistory,
   getTrackedPlayers,
 } from "@/lib/player-stats";
-import { PlayersList, type PlayerListRow } from "@/components/players-list";
+import { PlayersList } from "@/components/players-list";
+import type { PlayerListRow } from "@/components/player-list-types";
 
 export const metadata = {
   title: "Player Stats",
