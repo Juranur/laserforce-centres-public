@@ -5,22 +5,27 @@
  *
  * Searchable client component: the heavy `getTrackedPlayers()` / `getHistory()`
  * calls stay server-side (they read the committed history JSON), and the parent
- * page passes the already-serialised summary rows down. This component owns the
- * search box state and filters those rows in-memory — with ~hundreds of players
- * that's instant, so there's no need for debounce or a request round-trip.
+ * page passes the already-loaded PlayerHistory rows down. This component owns
+ * the search box state and filters those rows in-memory — with ~hundreds of
+ * players that's instant, so there's no need for debounce or a request
+ * round-trip.
  *
  * Matching is case-insensitive and covers both the player's codename and their
  * token (so you can paste a token straight from the API to jump to a player).
+ *
+ * The `PlayerHistory` type is imported from `@/lib/player-stats` (not a sibling
+ * pure-type module) because that is the import shape the repo's other client
+ * components already use successfully through Vercel's webpack build.
  */
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Search, X } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { avatarUrl, fmtNum } from "@/lib/player-stats";
-import type { PlayerListRow } from "@/components/player-list-types";
+import type { PlayerHistory } from "@/lib/player-stats";
 
 interface Props {
-  players: PlayerListRow[];
+  players: PlayerHistory[];
 }
 
 export function PlayersList({ players }: Props) {
@@ -89,10 +94,10 @@ export function PlayersList({ players }: Props) {
                 <div className="truncate font-semibold text-zinc-100">{p.codename}</div>
                 <div className="text-sm text-zinc-300">
                   {fmtNum(p.totalMissions)} career missions &middot;{" "}
-                  {p.centreCount} centre{p.centreCount === 1 ? "" : "s"}
+                  {p.centres.length} centre{p.centres.length === 1 ? "" : "s"}
                 </div>
                 <div className="text-xs text-zinc-400">
-                  joined {p.joinDate ?? "?"} &middot; {p.archivePointCount} archive point(s)
+                  joined {p.joinDate ?? "?"} &middot; {p.archivePoints.length} archive point(s)
                 </div>
               </div>
             </Link>
