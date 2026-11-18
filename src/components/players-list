@@ -17,16 +17,7 @@ import Link from "next/link";
 import { Search, X } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { avatarUrl, fmtNum } from "@/lib/player-stats";
-
-export interface PlayerListRow {
-  token: string;
-  codename: string;
-  avatar: string;
-  totalMissions: number;
-  centreCount: number;
-  joinDate: string | null;
-  archivePointCount: number;
-}
+import type { PlayerListRow } from "@/components/player-list-types";
 
 interface Props {
   players: PlayerListRow[];
