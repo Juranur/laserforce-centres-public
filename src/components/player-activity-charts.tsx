@@ -16,6 +16,9 @@
  * stacked-bar Gantt trick: [pre (transparent)] + [active (coloured)] +
  * [post (transparent)], so the visible segment floats between two dates on a
  * real calendar-time x-axis.
+ *
+ * Only centres with 10 or more missions are shown, to keep the chart focused
+ * on centres the player has actually invested in.
  */
 import {
   Bar,
@@ -56,10 +59,6 @@ function heatColor(missions: number, max: number): string {
   return `hsl(${hue}, ${sat}%, ${light}%)`;
 }
 
-function truncate(name: string, max = 28): string {
-  return name.length > max ? name.slice(0, max - 1) + "…" : name;
-}
-
 interface TooltipPayloadItem {
   payload?: SpanRow;
 }
@@ -69,17 +68,17 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
   const row = payload[0]?.payload;
   if (!row) return null;
   return (
-    <div className="rounded-lg border border-zinc-700 bg-zinc-900/95 px-3 py-2 text-xs text-zinc-200 shadow-xl">
-      <div className="font-semibold text-zinc-100">{row.name}</div>
+    <div className="rounded-lg border border-zinc-700 bg-zinc-900/95 px-3 py-2 text-xs text-zinc-100 shadow-xl">
+      <div className="font-semibold text-zinc-50">{row.name}</div>
       <div>
         missions <b className="text-cyan-300">{fmtNum(row.missions)}</b>
         {row.gameTypeCount > 0 ? ` · ${row.gameTypeCount} game type${row.gameTypeCount === 1 ? "" : "s"}` : ""}
       </div>
-      <div className="text-zinc-400">
-        joined <b className="text-zinc-200">{row.joined}</b>
+      <div className="text-zinc-200">
+        joined <b className="text-zinc-50">{row.joined}</b>
       </div>
-      <div className="text-zinc-400">
-        last played <b className="text-zinc-200">{row.lastPlayed ?? "—"}</b>
+      <div className="text-zinc-200">
+        last played <b className="text-zinc-50">{row.lastPlayed ?? "—"}</b>
         {row.lastPlayed ? "" : " (no summary yet — run update workflow)"}
       </div>
     </div>
@@ -87,22 +86,28 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
 }
 
 export default function PlayerActivityChart({ centres }: Props) {
-  if (!centres.length) {
+  // Only keep centres with 10 or more missions — the chart is about where the
+  // player has actually invested their time, not single-visit drop-ins.
+  const filtered = centres.filter(c => c.missions >= 10);
+
+  if (!filtered.length) {
     return (
-      <p className="text-xs text-zinc-500">No centre activity to show.</p>
+      <p className="text-xs text-zinc-200">
+        No centre activity to show (no centres with 10 or more missions).
+      </p>
     );
   }
 
-  const careerStart = Math.min(...centres.map(c => c.joinedT).filter(Number.isFinite));
+  const careerStart = Math.min(...filtered.map(c => c.joinedT).filter(Number.isFinite));
   const now = Date.now();
-  const lastActive = Math.max(...centres.map(c => c.lastPlayedT ?? c.joinedT).filter(Number.isFinite));
+  const lastActive = Math.max(...filtered.map(c => c.lastPlayedT ?? c.joinedT).filter(Number.isFinite));
   const careerEnd = Math.max(now, lastActive);
   const spanMs = Math.max(1, careerEnd - careerStart);
-  const maxMissions = Math.max(...centres.map(c => c.missions));
+  const maxMissions = Math.max(...filtered.map(c => c.missions));
 
   // top centre first (most missions) appears at the TOP of the chart — recharts
   // renders category rows bottom-up, so reverse to put the leader on top
-  const rows: SpanRow[] = [...centres].reverse().map(c => {
+  const rows: SpanRow[] = [...filtered].reverse().map(c => {
     const end = c.lastPlayedT ?? careerEnd;
     const pre = Math.max(0, c.joinedT - careerStart);
     const active = Math.max(0, end - c.joinedT);
@@ -120,6 +125,10 @@ export default function PlayerActivityChart({ centres }: Props) {
     if (Number.isFinite(t) && t >= careerStart && t <= careerEnd) ticks.push(t - careerStart);
   }
 
+  // Width grows with the longest centre name so full names are never truncated.
+  const longestName = Math.max(...filtered.map(c => c.name.length), 0);
+  const labelWidth = Math.max(180, Math.min(360, longestName * 7 + 16));
+
   return (
     <div style={{ width: "100%", height }}>
       <ResponsiveContainer>
@@ -129,18 +138,18 @@ export default function PlayerActivityChart({ centres }: Props) {
             domain={[0, spanMs]}
             ticks={ticks}
             tickFormatter={(v: number) => fmtYear(careerStart + v)}
-            stroke="#8b95b5"
-            tick={{ fontSize: 11 }}
+            stroke="#e2e8f0"
+            tick={{ fontSize: 11, fill: "#e2e8f0" }}
             tickLine={false}
           />
           <YAxis
             type="category"
             dataKey="name"
-            width={180}
-            tickFormatter={truncate}
-            stroke="#8b95b5"
-            tick={{ fontSize: 11 }}
+            width={labelWidth}
+            stroke="#e2e8f0"
+            tick={{ fontSize: 11, fill: "#e2e8f0" }}
             tickLine={false}
+            interval={0}
           />
           <Tooltip content={<ChartTooltip />} cursor={{ fill: "#ffffff08" }} />
           <Bar dataKey="pre" stackId="span" fill="transparent" isAnimationActive={false} />
@@ -152,10 +161,11 @@ export default function PlayerActivityChart({ centres }: Props) {
           <Bar dataKey="post" stackId="span" fill="transparent" isAnimationActive={false} />
         </BarChart>
       </ResponsiveContainer>
-      <p className="mt-2 text-xs text-zinc-500">
+      <p className="mt-2 text-xs text-zinc-100">
         Each bar spans a centre&apos;s first play → most recent play.
         Bar colour = mission volume (dim = few, bright cyan = many).
-        {centres.some(c => !c.lastPlayed) ? " Some centres lack a last-played date (update workflow not yet run with summary capture)." : ""}
+        Only centres with 10 or more missions are shown.
+        {filtered.some(c => !c.lastPlayed) ? " Some centres lack a last-played date (update workflow not yet run with summary capture)." : ""}
       </p>
     </div>
   );
