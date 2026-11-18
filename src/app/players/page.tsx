@@ -3,7 +3,7 @@ import {
   getHistory,
   getTrackedPlayers,
 } from "@/lib/player-stats";
-import { PlayersList } from "@/components/players-list";
+import { PlayersList } from "@/components/player-search";
 
 export const metadata = {
   title: "Player Stats",
