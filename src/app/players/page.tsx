@@ -18,7 +18,7 @@ export default function PlayersPage() {
   return (
     <main className="mx-auto max-w-5xl px-4 py-10">
       <h1 className="mb-1 text-2xl font-bold text-zinc-100">Player stats</h1>
-      <p className="mb-8 text-sm text-zinc-400">
+      <p className="mb-8 text-sm text-zinc-100">
         {players.length} player(s) tracked &middot; archive cycle {history.cycle} &middot;
         updated {history.generated.slice(0, 16).replace("T", " ")} UTC &middot; each cycle
         adds one point to every player&apos;s cumulative career curve.
@@ -39,11 +39,11 @@ export default function PlayersPage() {
             />
             <div>
               <div className="font-semibold text-zinc-100">{p.codename}</div>
-              <div className="text-sm text-zinc-400">
+              <div className="text-sm text-zinc-100">
                 {fmtNum(p.totalMissions)} career missions &middot;{" "}
                 {p.centres.length} centre{p.centres.length === 1 ? "" : "s"}
               </div>
-              <div className="text-xs text-zinc-500">
+              <div className="text-xs text-zinc-100">
                 joined {p.joinDate ?? "?"} &middot; {p.archivePoints.length} archive point(s)
               </div>
             </div>
@@ -51,10 +51,10 @@ export default function PlayersPage() {
         ))}
       </div>
 
-      <p className="mt-8 text-xs text-zinc-500">
+      <p className="mt-8 text-xs text-zinc-100">
         Ranking source: globalScoring.php (top 100 by centres played). To track a player
         permanently, add their token to <code>data/player-watchlist.json</code>.
       </p>
     </main>
   );
-}
+} 
