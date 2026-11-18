@@ -2,9 +2,19 @@
 
 /**
  * Cumulative career-missions chart (line, not bars).
- *  - cyan line: exact per-mission totals from the API's last-30 window
- *  - amber line + dots: archived career totals, one point per update cycle
- *  - grey dashed line: piecewise-linear pre-archive estimate (toggleable)
+ *  - cyan line: the real cumulative-missions curve, drawn from every measured
+ *    knot (exact per-mission totals from the API's last-30 window AND archived
+ *    per-cycle totals, merged onto one time axis). A flat segment between two
+ *    knots just means no missions were recorded in that window — it is no less
+ *    "real" whether the knots came from the live pull or the archive tracker,
+ *    so they share one colour.
+ *  - amber line: a highlight overlay on segments where more than 30 missions
+ *    were logged between two consecutive knots (i.e. too fast to be the normal
+ *    play rate, almost certainly a catch-up after a gap in coverage). Only the
+ *    between-knot segments that exceed the threshold are drawn amber; the rest
+ *    of the curve stays cyan. With ~6-hour update cycles this is rare, which is
+ *    the point — it flags the few genuinely unusual intervals.
+ *  - grey dashed line: piecewise-linear pre-archive estimate (toggleable).
  *
  * Y axis is auto-zoomed to the known range: a zero-based axis would render a
  * 7,700-mission career as a flat line, since the archive currently only
@@ -12,7 +22,8 @@
  *
  * The pre-archive estimate (grey dashed) is shown by default but can be hidden
  * via the "Show estimated history" toggle — useful when only real measured data
- * is desired.
+ * is desired. When hidden, the pure-estimate knot points are dropped so the
+ * X-axis only spans actual tracked data.
  */
 import { useState } from "react";
 import {
@@ -34,6 +45,9 @@ interface Props {
   height?: number;
 }
 
+/** A segment with > this many missions between its endpoints is flagged amber. */
+const SPIKE_THRESHOLD = 30;
+
 interface TooltipPayloadItem {
   dataKey?: string | number;
   value?: number | null;
@@ -49,25 +63,82 @@ function fmtDayYear(t: number): string {
   });
 }
 
+/**
+ * Real cumulative value at a knot — exact (live pull) preferred, falling back to
+ * archive (per-cycle total). Estimate knots return null so they never contribute
+ * to the real line.
+ */
+function realValue(p: MergedPoint): number | null {
+  if (p.exact != null) return p.exact;
+  if (p.archive != null) return p.archive;
+  return null;
+}
+
+interface ChartRow extends MergedPoint {
+  /** cumulative total used by both the cyan and amber Lines. */
+  total: number | null;
+  /** true when the segment ENDING at this knot exceeded the spike threshold
+   *  (i.e. this knot's total minus the previous real knot's total > threshold).
+   *  Drives the amber highlight overlay. */
+  spikeEnd?: boolean;
+}
+
+/**
+ * Build the chart rows: keep every real knot (exact or archive) in order, drop
+ * estimate-only knots, and tag each knot with whether the segment leading into
+ * it was a spike (delta > SPIKE_THRESHOLD vs the previous real knot).
+ */
+function buildRows(data: MergedPoint[]): ChartRow[] {
+  const rows: ChartRow[] = [];
+  let prevTotal: number | null = null;
+  for (const p of data) {
+    const total = realValue(p);
+    if (total == null) continue; // skip pure-estimate knots
+    const spikeEnd = prevTotal != null ? total - prevTotal > SPIKE_THRESHOLD : false;
+    rows.push({ ...p, total, spikeEnd });
+    prevTotal = total;
+  }
+  return rows;
+}
+
+/**
+ * Amber overlay data: a parallel array where `total` is set only on the spike
+ * segments (the spike knot AND the knot just before it, so the segment between
+ * them is drawn), and null elsewhere. With connectNulls=false this renders as
+ * isolated amber segments exactly over the spike intervals, leaving the rest
+ * of the curve purely cyan.
+ */
+function buildSpikeOverlay(rows: ChartRow[]): (ChartRow & { overlay: number | null })[] {
+  return rows.map((r, i) => {
+    const prev = rows[i - 1];
+    const isSpikeSegment =
+      r.spikeEnd || (prev?.spikeEnd ?? false);
+    return { ...r, overlay: isSpikeSegment ? r.total : null };
+  });
+}
+
 function ChartTooltip({ active, payload }: { active?: boolean; payload?: TooltipPayloadItem[] }) {
   if (!active || !payload?.length) return null;
-  const point = payload[0]?.payload;
+  const point = payload[0]?.payload as ChartRow | undefined;
   if (!point) return null;
   const when = new Date(point.t);
+  const total = point.total ?? point.estimate ?? 0;
   return (
     <div className="rounded-lg border border-zinc-700 bg-zinc-900/95 px-3 py-2 text-xs text-zinc-100 shadow-xl">
       <div className="font-semibold text-cyan-300">
         {fmtDay(point.t)}, {("0" + when.getHours()).slice(-2)}:{("0" + when.getMinutes()).slice(-2)}
       </div>
       <div>
-        career total <b>{fmtNum(point.exact ?? point.archive ?? point.estimate ?? 0)}</b>
+        career total <b>{fmtNum(total)}</b>
       </div>
       {point.mission ? (
         <div className="text-zinc-200">
           {point.mission.type} &middot; score {fmtNum(point.mission.score)} &middot; {point.mission.site}
         </div>
       ) : null}
-      {point.archive != null ? <div className="text-amber-300">archive point</div> : null}
+      {point.spikeEnd ? (
+        <div className="text-amber-300">spike segment &mdash; &gt; {SPIKE_THRESHOLD} missions since the last point</div>
+      ) : null}
       {point.estimate != null && point.exact == null && point.archive == null ? (
         <div className="text-zinc-200">estimated (join date &mdash; no API history before archive)</div>
       ) : null}
@@ -78,20 +149,24 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
 export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Props) {
   const [showEstimate, setShowEstimate] = useState(true);
 
-  // When the estimate is hidden, drop the pure-estimate knot points (the ones
-  // before any real data) so the X-axis only spans actual tracked data —
-  // otherwise the real curve gets cramped at the far right against the join date.
+  // When the estimate is hidden, drop the pure-estimate knot points so the
+  // X-axis only spans actual tracked data — otherwise the real curve gets
+  // cramped at the far right against the join date.
   const visibleData = showEstimate
     ? data
     : data.filter(p => p.exact != null || p.archive != null);
+
+  // Chart rows: every real knot, tagged with spike-segment boundaries.
+  const rows = buildRows(visibleData);
+  const overlayRows = buildSpikeOverlay(rows);
 
   // X-axis domain: full span when the estimate is shown, otherwise from the
   // first real point to the last real point (no left padding so the axis starts
   // exactly where data collection began).
   const xDomain: [number, number] | ["dataMin", "dataMax"] = showEstimate
     ? ["dataMin", "dataMax"]
-    : visibleData.length
-      ? [visibleData[0].t, visibleData[visibleData.length - 1].t]
+    : rows.length
+      ? [rows[0].t, rows[rows.length - 1].t]
       : ["dataMin", "dataMax"];
 
   return (
@@ -109,7 +184,7 @@ export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Pro
       </div>
       <div style={{ width: "100%", height }}>
         <ResponsiveContainer>
-          <LineChart data={visibleData} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
+          <LineChart data={overlayRows} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
             <CartesianGrid stroke="#273252" strokeDasharray="3 3" />
             <XAxis
               dataKey="t"
@@ -130,22 +205,27 @@ export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Pro
               width={64}
             />
             <Tooltip content={<ChartTooltip />} />
+            {/* Real cumulative curve: one continuous cyan line over every
+                measured knot (live + archive merged). */}
             <Line
               type="linear"
-              dataKey="exact"
+              dataKey="total"
               stroke="#29e0ff"
               strokeWidth={2.5}
               dot={false}
               connectNulls
               isAnimationActive={false}
             />
+            {/* Amber highlight overlay: only the between-knot segments where the
+                mission delta exceeded the spike threshold. Drawn slightly
+                thicker so it reads as a highlight on top of the cyan line. */}
             <Line
               type="linear"
-              dataKey="archive"
+              dataKey="overlay"
               stroke="#ffb340"
-              strokeWidth={2}
-              dot={{ r: 4 }}
-              connectNulls
+              strokeWidth={4}
+              dot={false}
+              connectNulls={false}
               isAnimationActive={false}
             />
             {showEstimate ? (
