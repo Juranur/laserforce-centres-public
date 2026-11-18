@@ -4,10 +4,17 @@
  * Cumulative career-missions chart (line, not bars).
  *  - cyan line: exact per-mission totals from the API's last-30 window
  *  - amber line + dots: archived career totals, one point per update cycle
+ *  - grey dashed line: piecewise-linear pre-archive estimate (toggleable)
+ *
  * Y axis is auto-zoomed to the known range: a zero-based axis would render a
  * 7,700-mission career as a flat line, since the archive currently only
  * contains recent points. Absolute totals are on the axis labels.
+ *
+ * The pre-archive estimate (grey dashed) is shown by default but can be hidden
+ * via the "Show estimated history" toggle — useful when only real measured data
+ * is desired.
  */
+import { useState } from "react";
 import {
   CartesianGrid,
   Line,
@@ -17,6 +24,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
+import { Switch } from "@/components/ui/switch";
 import type { MergedPoint } from "@/lib/player-stats";
 import { fmtDay, fmtNum } from "@/lib/player-stats";
 
@@ -32,13 +40,22 @@ interface TooltipPayloadItem {
   payload?: MergedPoint;
 }
 
+/** Axis date formatter: includes the year so spans across years stay readable. */
+function fmtDayYear(t: number): string {
+  return new Date(t).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
+}
+
 function ChartTooltip({ active, payload }: { active?: boolean; payload?: TooltipPayloadItem[] }) {
   if (!active || !payload?.length) return null;
   const point = payload[0]?.payload;
   if (!point) return null;
   const when = new Date(point.t);
   return (
-    <div className="rounded-lg border border-zinc-700 bg-zinc-900/95 px-3 py-2 text-xs text-zinc-200 shadow-xl">
+    <div className="rounded-lg border border-zinc-700 bg-zinc-900/95 px-3 py-2 text-xs text-zinc-100 shadow-xl">
       <div className="font-semibold text-cyan-300">
         {fmtDay(point.t)}, {("0" + when.getHours()).slice(-2)}:{("0" + when.getMinutes()).slice(-2)}
       </div>
@@ -46,73 +63,90 @@ function ChartTooltip({ active, payload }: { active?: boolean; payload?: Tooltip
         career total <b>{fmtNum(point.exact ?? point.archive ?? point.estimate ?? 0)}</b>
       </div>
       {point.mission ? (
-        <div className="text-zinc-400">
+        <div className="text-zinc-200">
           {point.mission.type} &middot; score {fmtNum(point.mission.score)} &middot; {point.mission.site}
         </div>
       ) : null}
       {point.archive != null ? <div className="text-amber-300">archive point</div> : null}
       {point.estimate != null && point.exact == null && point.archive == null ? (
-        <div className="text-zinc-400">estimated (join date &mdash; no API history before archive)</div>
+        <div className="text-zinc-200">estimated (join date &mdash; no API history before archive)</div>
       ) : null}
     </div>
   );
 }
 
 export default function PlayerMissionsChart({ data, yDomain, height = 300 }: Props) {
+  const [showEstimate, setShowEstimate] = useState(true);
+
   return (
-    <div style={{ width: "100%", height }}>
-      <ResponsiveContainer>
-        <LineChart data={data} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
-          <CartesianGrid stroke="#273252" strokeDasharray="3 3" />
-          <XAxis
-            dataKey="t"
-            type="number"
-            scale="time"
-            domain={["dataMin", "dataMax"]}
-            tickFormatter={fmtDay}
-            stroke="#8b95b5"
-            tick={{ fontSize: 11 }}
-            tickLine={false}
-          />
-          <YAxis
-            domain={yDomain}
-            stroke="#8b95b5"
-            tick={{ fontSize: 11 }}
-            tickFormatter={fmtNum}
-            tickLine={false}
-            width={64}
-          />
-          <Tooltip content={<ChartTooltip />} />
-          <Line
-            type="linear"
-            dataKey="exact"
-            stroke="#29e0ff"
-            strokeWidth={2.5}
-            dot={false}
-            connectNulls
-            isAnimationActive={false}
-          />
-          <Line
-            type="linear"
-            dataKey="archive"
-            stroke="#ffb340"
-            strokeWidth={2}
-            dot={{ r: 4 }}
-            connectNulls
-            isAnimationActive={false}
-          />
-          <Line
-            type="linear"
-            dataKey="estimate"
-            stroke="#a1a1aa"
-            strokeWidth={1.5}
-            strokeDasharray="5 4"
-            dot={false}
-            connectNulls={false}
-            isAnimationActive={false}
-          />
-        </LineChart>
-      </ResponsiveContainer>
+    <div>
+      <div className="mb-3 flex items-center gap-2">
+        <Switch
+          id="show-estimate"
+          checked={showEstimate}
+          onCheckedChange={setShowEstimate}
+          aria-label="Toggle estimated pre-archive history"
+        />
+        <label htmlFor="show-estimate" className="cursor-pointer text-xs text-zinc-100">
+          Show estimated pre-archive history (dotted line)
+        </label>
+      </div>
+      <div style={{ width: "100%", height }}>
+        <ResponsiveContainer>
+          <LineChart data={data} margin={{ top: 12, right: 16, bottom: 4, left: 8 }}>
+            <CartesianGrid stroke="#273252" strokeDasharray="3 3" />
+            <XAxis
+              dataKey="t"
+              type="number"
+              scale="time"
+              domain={["dataMin", "dataMax"]}
+              tickFormatter={fmtDayYear}
+              stroke="#e2e8f0"
+              tick={{ fontSize: 11, fill: "#e2e8f0" }}
+              tickLine={false}
+            />
+            <YAxis
+              domain={yDomain}
+              stroke="#e2e8f0"
+              tick={{ fontSize: 11, fill: "#e2e8f0" }}
+              tickFormatter={fmtNum}
+              tickLine={false}
+              width={64}
+            />
+            <Tooltip content={<ChartTooltip />} />
+            <Line
+              type="linear"
+              dataKey="exact"
+              stroke="#29e0ff"
+              strokeWidth={2.5}
+              dot={false}
+              connectNulls
+              isAnimationActive={false}
+            />
+            <Line
+              type="linear"
+              dataKey="archive"
+              stroke="#ffb340"
+              strokeWidth={2}
+              dot={{ r: 4 }}
+              connectNulls
+              isAnimationActive={false}
+            />
+            {showEstimate ? (
+              <Line
+                type="linear"
+                dataKey="estimate"
+                stroke="#a1a1aa"
+                strokeWidth={1.5}
+                strokeDasharray="5 4"
+                dot={false}
+                connectNulls={false}
+                isAnimationActive={false}
+              />
+            ) : null}
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
     </div>
   );
 } 
