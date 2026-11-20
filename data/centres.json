@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-19T16:25:44.828Z",
+  "lastUpdated": "2026-11-20T01:21:38.924Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 210,
+  "lastCheckedIndex": 148,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 35170,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 35296,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 99475,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 99529,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -234,8 +234,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3050,
-      "lastActivity": "2026-11-17",
+      "gamesTotal": 3052,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 90,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 91,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -394,8 +394,8 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57853,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 57859,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 370,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 373,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8963,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 8964,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -810,8 +810,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 3057,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 3060,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1698,8 +1698,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 86043,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 86122,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1722,8 +1722,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 40053,
-      "lastActivity": "2026-11-18",
+      "gamesTotal": 40055,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1826,8 +1826,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96557,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 96669,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1898,8 +1898,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1642,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 1643,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1954,8 +1954,8 @@
       "id": "386",
       "regionSite": "20-12",
       "name": "Mercuria Lasertag Holesovice 2, Prague, CZ",
-      "gamesTotal": 3361,
-      "lastActivity": "2026-11-17",
+      "gamesTotal": 3362,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2002,8 +2002,8 @@
       "id": "505",
       "regionSite": "4-235",
       "name": "Monster Mini Golf Mount Lake Terrace, WA, United States",
-      "gamesTotal": 19,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 20,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2114,8 +2114,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 28438,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 28446,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2146,8 +2146,8 @@
       "id": "370",
       "regionSite": "7-14",
       "name": "Planet Laser, Bury St Edmunds, UK",
-      "gamesTotal": 8777,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 8779,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2770,8 +2770,8 @@
       "id": "100",
       "regionSite": "4-60",
       "name": "Wunderland, Beaverton, OR, USA",
-      "gamesTotal": 1840,
-      "lastActivity": "2026-11-09",
+      "gamesTotal": 794,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
