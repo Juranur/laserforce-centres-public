@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-20T01:21:38.924Z",
+  "lastUpdated": "2026-11-20T16:05:27.054Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 148,
+  "lastCheckedIndex": 71,
   "centres": [
     {
       "id": "159",
@@ -218,8 +218,8 @@
       "id": "289",
       "regionSite": "21-87",
       "name": "Baltic Lasertag, Neubrandenburg, DE",
-      "gamesTotal": 5986,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 5988,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 93267,
-      "lastActivity": "2026-11-18",
+      "gamesTotal": 93273,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1426,8 +1426,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10164,
-      "lastActivity": "2026-11-16",
+      "gamesTotal": 10170,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1602,8 +1602,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4593,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 4618,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1642,8 +1642,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 86670,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 86729,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1666,24 +1666,24 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49620,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 49634,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
       "id": "141",
       "regionSite": "21-9",
       "name": "Laserzone Freiburg/Denzlingen, DE",
-      "gamesTotal": 12642,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 12645,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 48323,
-      "lastActivity": "2026-11-18",
+      "gamesTotal": 48342,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -1698,7 +1698,7 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 86122,
+      "gamesTotal": 86128,
       "lastActivity": "2026-11-20",
       "status": "active"
     },
@@ -1794,8 +1794,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32797,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 32799,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2266,8 +2266,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41313,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 41318,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2458,8 +2458,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 53085,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 53194,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2578,8 +2578,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1584,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 1585,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
@@ -2602,8 +2602,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 85576,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 85578,
+      "lastActivity": "2026-11-20",
       "status": "active"
     },
     {
