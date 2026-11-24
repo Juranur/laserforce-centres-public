@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-24T00:33:04.538Z",
+  "lastUpdated": "2026-11-24T10:21:58.362Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 265,
+  "lastCheckedIndex": 188,
   "centres": [
     {
       "id": "159",
@@ -682,8 +682,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8984,
-      "lastActivity": "2026-11-21",
+      "gamesTotal": 8990,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1344,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 1345,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -1258,8 +1258,8 @@
       "id": "53",
       "regionSite": "3-3",
       "name": "Laserforce Auckland",
-      "gamesTotal": 102651,
-      "lastActivity": "2026-11-17",
+      "gamesTotal": 102729,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -2178,8 +2178,8 @@
       "id": "399",
       "regionSite": "32-3",
       "name": "Playsquare Central Eastville, Thailand",
-      "gamesTotal": 1243,
-      "lastActivity": "2026-11-13",
+      "gamesTotal": 1247,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -2266,8 +2266,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41375,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 41467,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -2290,16 +2290,16 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 29882,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 29887,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 131038,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 131039,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -2410,8 +2410,8 @@
       "id": "424",
       "regionSite": "4-120",
       "name": "Slackers Family Fun Center, Benton Harbor, MI, USA",
-      "gamesTotal": 690,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 696,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
@@ -2442,8 +2442,8 @@
       "id": "151",
       "regionSite": "21-15",
       "name": "Sportpark GmbH, Gelsenkirchen, DE",
-      "gamesTotal": 8344,
-      "lastActivity": "2026-08-22",
+      "gamesTotal": 8356,
+      "lastActivity": "2026-11-24",
       "status": "active"
     },
     {
