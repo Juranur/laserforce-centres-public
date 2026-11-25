@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-25T08:53:43.051Z",
+  "lastUpdated": "2026-11-25T22:20:34.066Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 35,
+  "lastCheckedIndex": 311,
   "centres": [
     {
       "id": "159",
@@ -354,8 +354,8 @@
       "id": "258",
       "regionSite": "19-2",
       "name": "Bowlingcenter Aarau, Aarau, Switzerland",
-      "gamesTotal": 2765,
-      "lastActivity": "2026-11-19",
+      "gamesTotal": 2770,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 50066,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 50093,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -570,8 +570,8 @@
       "id": "411",
       "regionSite": "4-161",
       "name": "Fiesta Fun Center, St. George, UT, USA",
-      "gamesTotal": 58,
-      "lastActivity": "2026-10-24",
+      "gamesTotal": 60,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -650,8 +650,8 @@
       "id": "470",
       "regionSite": "21-130",
       "name": "Fun Area Allgäu, Scheidegg, Germany",
-      "gamesTotal": 1773,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 1783,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -698,8 +698,8 @@
       "id": "383",
       "regionSite": "1-87",
       "name": "Fun Planet, Kialla, VIC, AU",
-      "gamesTotal": 296,
-      "lastActivity": "2026-11-21",
+      "gamesTotal": 297,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -890,8 +890,8 @@
       "id": "465",
       "regionSite": "21-128",
       "name": "Giga Live, Brandenburg an der Havel, Germany",
-      "gamesTotal": 2526,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 2530,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -906,8 +906,8 @@
       "id": "468",
       "regionSite": "4-206",
       "name": "Grand Station Entertainment, College Station, TX, United States",
-      "gamesTotal": 1345,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 1346,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -978,8 +978,8 @@
       "id": "471",
       "regionSite": "19-7",
       "name": "Keja Exploring AG, Wangen, CHE",
-      "gamesTotal": 582,
-      "lastActivity": "2026-11-08",
+      "gamesTotal": 584,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1338,8 +1338,8 @@
       "id": "23",
       "regionSite": "1-26",
       "name": "LaserforcePK, Port Kennedy, WA, AU",
-      "gamesTotal": 93393,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 93445,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1426,8 +1426,8 @@
       "id": "298",
       "regionSite": "21-88",
       "name": "Laserplex LaserTag Arena, Wuppertal, DE",
-      "gamesTotal": 10170,
-      "lastActivity": "2026-11-20",
+      "gamesTotal": 10172,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1698,8 +1698,8 @@
       "id": "212",
       "regionSite": "21-54",
       "name": "Laserzone Kiel, Kiel, DE",
-      "gamesTotal": 86157,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 86241,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1714,8 +1714,8 @@
       "id": "330",
       "regionSite": "21-98",
       "name": "Laserzone Mainz, Mainz, DE",
-      "gamesTotal": 19205,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 19212,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1746,8 +1746,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48130,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 48132,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1770,8 +1770,8 @@
       "id": "43",
       "regionSite": "1-49",
       "name": "Lazer Blaze Malaga, WA, AU",
-      "gamesTotal": 77000,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 77036,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1794,8 +1794,8 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32831,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 32890,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1898,8 +1898,8 @@
       "id": "476",
       "regionSite": "21-137",
       "name": "Maxxarena Kirchheim, Germany",
-      "gamesTotal": 1657,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 1679,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -1946,8 +1946,8 @@
       "id": "385",
       "regionSite": "20-11",
       "name": "Mercuria Lasertag Holesovice 1, Prague, CZ",
-      "gamesTotal": 15194,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 15196,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -2234,8 +2234,8 @@
       "id": "491",
       "regionSite": "4-220",
       "name": "PrimeTime Family Entertainment Center, Abilene, TX, United States",
-      "gamesTotal": 268,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 269,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
@@ -2290,7 +2290,7 @@
       "id": "393",
       "regionSite": "20-13",
       "name": "Ricany Lasergame 2, Ricany, CZ",
-      "gamesTotal": 30029,
+      "gamesTotal": 30095,
       "lastActivity": "2026-11-25",
       "status": "active"
     },
@@ -2298,8 +2298,8 @@
       "id": "349",
       "regionSite": "20-7",
       "name": "Ricany Lasergame, Ricany, CZ",
-      "gamesTotal": 131140,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 131147,
+      "lastActivity": "2026-11-25",
       "status": "active"
     },
     {
