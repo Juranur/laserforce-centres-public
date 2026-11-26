@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-26T08:43:56.555Z",
-  "totalCentres": 444,
-  "activeCentres": 352,
+  "lastUpdated": "2026-11-26T22:08:31.760Z",
+  "totalCentres": 445,
+  "activeCentres": 353,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 232,
+  "lastCheckedIndex": 169,
   "centres": [
     {
       "id": "159",
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4967,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 4968,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -234,8 +234,8 @@
       "id": "360",
       "regionSite": "7-11",
       "name": "Battle Sector X2, Kent, UK",
-      "gamesTotal": 3052,
-      "lastActivity": "2026-11-20",
+      "gamesTotal": 3056,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -682,8 +682,8 @@
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8990,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 8991,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -930,8 +930,8 @@
       "id": "87",
       "regionSite": "4-43",
       "name": "Invasion Laser Tag, San Marcos, CA, US",
-      "gamesTotal": 70513,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 70515,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1074,8 +1074,8 @@
       "id": "177",
       "regionSite": "21-33",
       "name": "Laser Circus, Regensburg, DE",
-      "gamesTotal": 30936,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 30937,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1354,8 +1354,8 @@
       "id": "498",
       "regionSite": "20-18",
       "name": "Lasergame Beroun, Czech Republic",
-      "gamesTotal": 5237,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 5238,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1799,6 +1799,14 @@
       "status": "active"
     },
     {
+      "id": "515",
+      "regionSite": "38-2",
+      "name": "LOG Lot Of Games Centro Commerciale Rescaldina, Italy",
+      "gamesTotal": 0,
+      "lastActivity": "before 2026",
+      "status": "active"
+    },
+    {
       "id": "194",
       "regionSite": "21-43",
       "name": "Lola Lasertag GmbH, Hameln, DE",
@@ -1930,8 +1938,8 @@
       "id": "457",
       "regionSite": "20-16",
       "name": "Mercuria Laser Game Luziny, Prague, CZ",
-      "gamesTotal": 8141,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 8142,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2114,8 +2122,8 @@
       "id": "361",
       "regionSite": "21-111",
       "name": "Paraplex Games GmbH, Zell Am Main, DE",
-      "gamesTotal": 28643,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 28658,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2266,8 +2274,8 @@
       "id": "153",
       "regionSite": "1-58",
       "name": "Revolution Laser Arena, Wollongong, NSW, AU",
-      "gamesTotal": 41585,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 41621,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2458,8 +2466,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 53370,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 53509,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2546,8 +2554,8 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4817,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 4818,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
