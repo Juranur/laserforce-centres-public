@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-25T22:20:34.066Z",
+  "lastUpdated": "2026-11-26T08:43:56.555Z",
   "totalCentres": 444,
   "activeCentres": 352,
   "retiredCentres": 92,
   "centresWithData": 442,
-  "lastCheckedIndex": 311,
+  "lastCheckedIndex": 232,
   "centres": [
     {
       "id": "159",
@@ -34,8 +34,8 @@
       "id": "269",
       "regionSite": "19-3",
       "name": "Actionworld AG, Obfelden, CHE",
-      "gamesTotal": 16783,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 16803,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -194,8 +194,8 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 99729,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 99965,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1394,8 +1394,8 @@
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 9252,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 9255,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1682,8 +1682,8 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 48419,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 48429,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10780,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 10781,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2578,8 +2578,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1585,
-      "lastActivity": "2026-11-20",
+      "gamesTotal": 1586,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
@@ -2786,8 +2786,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1234,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 1238,
+      "lastActivity": "2026-11-26",
       "status": "active"
     },
     {
