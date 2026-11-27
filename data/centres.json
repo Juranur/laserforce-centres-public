@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-26T22:08:31.760Z",
+  "lastUpdated": "2026-11-27T08:45:28.614Z",
   "totalCentres": 445,
   "activeCentres": 353,
   "retiredCentres": 92,
-  "centresWithData": 442,
-  "lastCheckedIndex": 169,
+  "centresWithData": 443,
+  "lastCheckedIndex": 91,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 35318,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 35463,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -90,8 +90,8 @@
       "id": "138",
       "regionSite": "1-56",
       "name": "Airtime 360, Launceston, TAS, AU",
-      "gamesTotal": 386,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 390,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -194,16 +194,16 @@
       "id": "372",
       "regionSite": "20-9",
       "name": "Aurora Lasergames, Kladno, CZ",
-      "gamesTotal": 99965,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 100007,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
       "id": "353",
       "regionSite": "1-82",
       "name": "Back To The Arcade, Goulburn, NSW, AU",
-      "gamesTotal": 1876,
-      "lastActivity": "2026-10-18",
+      "gamesTotal": 1887,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -546,8 +546,8 @@
       "id": "358",
       "regionSite": "20-8",
       "name": "Fantasy Lasergame, Karlovy Vary, CZ",
-      "gamesTotal": 50093,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 50103,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1402,8 +1402,8 @@
       "id": "308",
       "regionSite": "21-90",
       "name": "Laserland, Dresden, DE",
-      "gamesTotal": 59727,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 59731,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1562,8 +1562,8 @@
       "id": "380",
       "regionSite": "21-105",
       "name": "Lasertag Görlitz, DE",
-      "gamesTotal": 5448,
-      "lastActivity": "2026-11-04",
+      "gamesTotal": 5461,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1602,8 +1602,8 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4642,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 4673,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1618,16 +1618,16 @@
       "id": "219",
       "regionSite": "21-60",
       "name": "Laserzone Bielefeld, Bielefeld, DE",
-      "gamesTotal": 62663,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 62673,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 25166,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 25169,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1642,8 +1642,8 @@
       "id": "243",
       "regionSite": "21-76",
       "name": "Laserzone Essen Ost GmbH",
-      "gamesTotal": 86973,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 87120,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1682,16 +1682,16 @@
       "id": "246",
       "regionSite": "21-79",
       "name": "Laserzone Garching, Garching, DE",
-      "gamesTotal": 48429,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 48434,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
       "id": "448",
       "regionSite": "21-127",
       "name": "Laserzone Hamburg, Germany",
-      "gamesTotal": 5021,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 5035,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1722,8 +1722,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 40271,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 40283,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1746,8 +1746,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48132,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 48142,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10781,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 10789,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1802,8 +1802,8 @@
       "id": "515",
       "regionSite": "38-2",
       "name": "LOG Lot Of Games Centro Commerciale Rescaldina, Italy",
-      "gamesTotal": 0,
-      "lastActivity": "before 2026",
+      "gamesTotal": 11,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -1834,8 +1834,8 @@
       "id": "70",
       "regionSite": "4-19",
       "name": "Loveland Laser Tag Fun Center",
-      "gamesTotal": 96678,
-      "lastActivity": "2026-11-24",
+      "gamesTotal": 96865,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
@@ -2194,8 +2194,8 @@
       "id": "504",
       "regionSite": "5-6",
       "name": "Playtopia Pakuwon Mall, Jawa Timur, Indonesia",
-      "gamesTotal": 53,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 54,
+      "lastActivity": "2026-11-27",
       "status": "active"
     },
     {
