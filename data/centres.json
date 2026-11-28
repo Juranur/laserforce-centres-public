@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-28T08:14:31.166Z",
-  "totalCentres": 445,
-  "activeCentres": 353,
+  "lastUpdated": "2026-11-28T20:41:40.240Z",
+  "totalCentres": 446,
+  "activeCentres": 354,
   "retiredCentres": 92,
-  "centresWithData": 443,
-  "lastCheckedIndex": 295,
+  "centresWithData": 444,
+  "lastCheckedIndex": 227,
   "centres": [
     {
       "id": "159",
       "regionSite": "21-22",
       "name": "3D Lasersports 2.0, Frechen, Gemany",
-      "gamesTotal": 35463,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 35473,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -26,8 +26,8 @@
       "id": "422",
       "regionSite": "21-120",
       "name": "Action Forest, Titisee-Neustadt, DE",
-      "gamesTotal": 1930,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 1933,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -130,8 +130,8 @@
       "id": "180",
       "regionSite": "21-36",
       "name": "Alpha Laser Tag, Karlsruhe, DE",
-      "gamesTotal": 13506,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 13514,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -186,8 +186,8 @@
       "id": "238",
       "regionSite": "21-75",
       "name": "ATOXI Sport GmbH, Rostock, DE",
-      "gamesTotal": 4968,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 4972,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -226,8 +226,8 @@
       "id": "394",
       "regionSite": "7-18",
       "name": "Battle Sector X, Kent, UK",
-      "gamesTotal": 1403,
-      "lastActivity": "2026-11-07",
+      "gamesTotal": 1407,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -250,8 +250,8 @@
       "id": "482",
       "regionSite": "4-219",
       "name": "Bird Bowl Bowling Center, Miami, FL, United States",
-      "gamesTotal": 93,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 96,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -394,7 +394,7 @@
       "id": "186",
       "regionSite": "21-37",
       "name": "Call of Fun, Friedrichshafen, Germany",
-      "gamesTotal": 57954,
+      "gamesTotal": 57957,
       "lastActivity": "2026-11-28",
       "status": "active"
     },
@@ -426,8 +426,8 @@
       "id": "249",
       "regionSite": "21-83",
       "name": "Code Red Lasertagarena, Kempten, DE",
-      "gamesTotal": 5640,
-      "lastActivity": "2026-11-14",
+      "gamesTotal": 5684,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -474,8 +474,8 @@
       "id": "508",
       "regionSite": "21-143",
       "name": "EasyJump Trampolinpark Schwerin, Germany",
-      "gamesTotal": 378,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 379,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -674,16 +674,16 @@
       "id": "494",
       "regionSite": "21-144",
       "name": "Fun Fabrik Dortmund, Germany",
-      "gamesTotal": 413,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 417,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
       "id": "348",
       "regionSite": "21-104",
       "name": "Fun Laser Tag GmbH, Solingen, DE",
-      "gamesTotal": 8991,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 8999,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -810,8 +810,8 @@
       "id": "435",
       "regionSite": "32-4",
       "name": "Future World, Bangkok, Thailand",
-      "gamesTotal": 3065,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 3069,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1122,8 +1122,8 @@
       "id": "229",
       "regionSite": "21-66",
       "name": "Laser Heroes #3, Weserpark, DE",
-      "gamesTotal": 6790,
-      "lastActivity": "2026-11-20",
+      "gamesTotal": 6792,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1138,8 +1138,8 @@
       "id": "484",
       "regionSite": "21-140",
       "name": "Laser Heroes, Lingen, Germany",
-      "gamesTotal": 490,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 493,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1162,8 +1162,8 @@
       "id": "278",
       "regionSite": "21-18",
       "name": "Laser Tag Arena Suhl, Suhl, DE",
-      "gamesTotal": 4534,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 4545,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1194,8 +1194,8 @@
       "id": "215",
       "regionSite": "21-55",
       "name": "Laser Tag Delmenhorst, DE",
-      "gamesTotal": 38485,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 38503,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1226,8 +1226,8 @@
       "id": "152",
       "regionSite": "21-16",
       "name": "Laserabyss, Altenkirchen, DE",
-      "gamesTotal": 31283,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 31284,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1282,8 +1282,8 @@
       "id": "2",
       "regionSite": "1-1",
       "name": "Laserforce Brisbane, QLD, AU",
-      "gamesTotal": 208761,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 208763,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1330,8 +1330,8 @@
       "id": "216",
       "regionSite": "21-56",
       "name": "Laserforce Ritterhude, Ritterhude, DE",
-      "gamesTotal": 4160,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 4162,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1386,16 +1386,16 @@
       "id": "478",
       "regionSite": "21-138",
       "name": "Laserland Chemnitz, Germany",
-      "gamesTotal": 1516,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 1523,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
       "id": "446",
       "regionSite": "21-125",
       "name": "Laserland Cottbus, DE",
-      "gamesTotal": 9255,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 9276,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1498,8 +1498,8 @@
       "id": "483",
       "regionSite": "21-139",
       "name": "Lasertag Bonn City, Bonn, Germany",
-      "gamesTotal": 137,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 153,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1554,7 +1554,7 @@
       "id": "493",
       "regionSite": "21-141",
       "name": "Lasertag Geiseltal, Braunsbedra, Germany",
-      "gamesTotal": 1788,
+      "gamesTotal": 1796,
       "lastActivity": "2026-11-28",
       "status": "active"
     },
@@ -1602,15 +1602,15 @@
       "id": "455",
       "regionSite": "20-15",
       "name": "Laserwest, Klatovy, Plzeň, Czech Republic",
-      "gamesTotal": 4673,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 4678,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
       "id": "191",
       "regionSite": "21-40",
       "name": "Laserzone Augsburg, Augsburg, DE",
-      "gamesTotal": 20661,
+      "gamesTotal": 20669,
       "lastActivity": "2026-11-28",
       "status": "active"
     },
@@ -1626,8 +1626,8 @@
       "id": "339",
       "regionSite": "21-103",
       "name": "Laserzone Duisburg, Duisburg, DE",
-      "gamesTotal": 25169,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 25180,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1666,8 +1666,8 @@
       "id": "139",
       "regionSite": "21-7",
       "name": "Laserzone Frankfurt, Frankfurt, Germany",
-      "gamesTotal": 49701,
-      "lastActivity": "2026-11-23",
+      "gamesTotal": 49705,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1706,7 +1706,7 @@
       "id": "436",
       "regionSite": "21-126",
       "name": "Laserzone Köln, Köln-Ossendorf, Germany",
-      "gamesTotal": 9765,
+      "gamesTotal": 9803,
       "lastActivity": "2026-11-28",
       "status": "active"
     },
@@ -1722,8 +1722,8 @@
       "id": "337",
       "regionSite": "21-101",
       "name": "Laserzone Monchengladbach, Monchengladbach, DE",
-      "gamesTotal": 40283,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 40325,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1746,8 +1746,8 @@
       "id": "164",
       "regionSite": "21-25",
       "name": "Laserzone, Wuerselen, DE",
-      "gamesTotal": 48142,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 48147,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1762,8 +1762,8 @@
       "id": "398",
       "regionSite": "1-89",
       "name": "Lazer Blaze Joondalup, WA, AU",
-      "gamesTotal": 10789,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 10803,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -1794,15 +1794,15 @@
       "id": "174",
       "regionSite": "21-30",
       "name": "Legendary Lasertag, Giessen, DE",
-      "gamesTotal": 32890,
-      "lastActivity": "2026-11-25",
+      "gamesTotal": 32897,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
       "id": "515",
       "regionSite": "38-2",
       "name": "LOG Lot Of Games Centro Commerciale Rescaldina, Italy",
-      "gamesTotal": 74,
+      "gamesTotal": 128,
       "lastActivity": "2026-11-28",
       "status": "active"
     },
@@ -2442,8 +2442,8 @@
       "id": "365",
       "regionSite": "21-114",
       "name": "Sport Mega Drom GmbH, Schwabisch Hall DE",
-      "gamesTotal": 1437,
-      "lastActivity": "2026-10-25",
+      "gamesTotal": 1440,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -2466,8 +2466,8 @@
       "id": "335",
       "regionSite": "20-6",
       "name": "STAR DOMS, Domazlice, CZ",
-      "gamesTotal": 53509,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 53643,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -2554,16 +2554,24 @@
       "id": "444",
       "regionSite": "15-4",
       "name": "Sunway Big Box, Johor, Malaysia",
-      "gamesTotal": 4819,
-      "lastActivity": "2026-11-27",
+      "gamesTotal": 4839,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
       "id": "111",
       "regionSite": "9-4",
       "name": "Syktyvkar, Russia",
-      "gamesTotal": 15399,
-      "lastActivity": "2026-11-15",
+      "gamesTotal": 15434,
+      "lastActivity": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "id": "511",
+      "regionSite": "1-92",
+      "name": "Tenpin Grafton, NSW, Australia",
+      "gamesTotal": 1,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -2586,8 +2594,8 @@
       "id": "406",
       "regionSite": "4-110",
       "name": "The City Forum, Clarksville, TN, USA",
-      "gamesTotal": 1586,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 1587,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -2610,8 +2618,8 @@
       "id": "74",
       "regionSite": "4-23",
       "name": "The Fun Warehouse, Syracuse",
-      "gamesTotal": 85619,
-      "lastActivity": "2026-11-22",
+      "gamesTotal": 85626,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
@@ -2794,8 +2802,8 @@
       "id": "328",
       "regionSite": "1-69",
       "name": "Wyncity Morwell, Morwell, VIC",
-      "gamesTotal": 1238,
-      "lastActivity": "2026-11-26",
+      "gamesTotal": 1300,
+      "lastActivity": "2026-11-28",
       "status": "active"
     },
     {
